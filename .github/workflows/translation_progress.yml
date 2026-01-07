@@ -1,0 +1,29 @@
+name: Actualizar progreso de traducción
+
+on:
+  push:
+    paths:
+      - 'files/**/*.rpy'
+      - 'translation_progress.py'
+
+jobs:
+  scan-translation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Ejecutar script de progreso
+        run: python3 translation_progress.py
+      - name: Commit y Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add TRANSLATION_PROGRESS.md README.md
+          git commit -m "Actualizar progreso de traducción" || echo "Sin cambios"
+          git push
