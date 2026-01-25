@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 15:04
+﻿
 
 # game/custom-music.rpy:342
 translate spanish music_menu_51c77a72:

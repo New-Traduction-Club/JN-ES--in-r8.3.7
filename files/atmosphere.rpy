@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 15:04
+﻿
 
 # game/atmosphere.rpy:692
 translate spanish weather_change_c43ac6e2:

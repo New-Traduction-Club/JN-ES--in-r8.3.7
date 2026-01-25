@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 15:04
+﻿
 
 # game/traduction-club_stuff.rpy:126
 translate spanish affectionmenu_a127a176:

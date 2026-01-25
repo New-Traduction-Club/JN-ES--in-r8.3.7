@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 15:04
+﻿
 
 # game/script-compliments.rpy:73
 translate spanish compliment_amazing_97132f8c:

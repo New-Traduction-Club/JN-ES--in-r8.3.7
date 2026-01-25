@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 15:04
+﻿
 
 # game/outfits.rpy:2293
 translate spanish outfits_wear_outfit_22069291:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 15:04
+﻿
 
 # game/script-apologies.rpy:83
 translate spanish apology_bad_nickname_7e021868:

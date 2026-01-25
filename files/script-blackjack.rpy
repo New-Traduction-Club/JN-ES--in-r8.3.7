@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 15:04
+﻿
 
 # game/script-blackjack.rpy:362
 translate spanish blackjack_intro_9052c9ee:

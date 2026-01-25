@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 15:04
+﻿
 
 # game/script-farewells.rpy:99
 translate spanish farewell_first_time_7e2d1b47:

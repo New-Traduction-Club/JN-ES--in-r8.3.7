@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 15:04
+﻿
 
 # game/script-snap.rpy:243
 translate spanish snap_intro_e2a4dba5:

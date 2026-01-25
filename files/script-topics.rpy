@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 15:04
+﻿
 
 # game/script-topics.rpy:42
 translate spanish talk_out_of_topics_7ecb78ae:

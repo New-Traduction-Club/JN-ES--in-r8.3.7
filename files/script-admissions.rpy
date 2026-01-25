@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 15:04
+﻿
 
 # game/script-admissions.rpy:75
 translate spanish admission_angry_389e7fe2:

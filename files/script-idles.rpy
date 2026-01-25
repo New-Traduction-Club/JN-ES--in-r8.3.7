@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 15:04
+﻿
 
 # game/script-idles.rpy:255
 translate spanish idle_twitch_playing_0b0717a1:

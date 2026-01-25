@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 15:04
+﻿
 
 # game/script-greetings.rpy:76
 translate spanish greeting_first_time_a4821672:

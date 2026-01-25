@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 15:04
+﻿
 
 # game/script-headpats.rpy:55
 translate spanish headpats_start_ebbc48b3:

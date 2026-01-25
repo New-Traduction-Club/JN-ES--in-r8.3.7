@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 15:04
+﻿
 
 # game/script-ch30.rpy:690
 translate spanish talk_menu_688f7e27:
