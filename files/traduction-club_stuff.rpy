@@ -4,31 +4,31 @@
 translate spanish affectionmenu_a127a176:
 
     # n "Your affinity with Nat is [persistent.affinity] points."
-    n ""
+    n "La afinidad con Natsuki es de [persistent.affinity] puntos."
 
 translate spanish strings:
 
     # game/traduction-club_stuff.rpy:45
     old "Please select a language"
-    new ""
+    new "Por favor, selecciona un idioma"
 
     # game/traduction-club_stuff.rpy:95
     old "Gifts"
-    new ""
+    new "Regalos"
 
     # game/traduction-club_stuff.rpy:95
     old "Affect"
-    new ""
+    new "Afinidad"
 
     # game/traduction-club_stuff.rpy:95
     old "Beta Android"
-    new ""
+    new "Debug: SAF Android"
 
     # game/traduction-club_stuff.rpy:116
     old "Write a Gift"
-    new ""
+    new "Escribir un regalo"
 
     # game/traduction-club_stuff.rpy:116
     old "Predefined Gifts"
-    new ""
+    new "Regalos por defecto"
 
