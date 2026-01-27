@@ -3258,3 +3258,6 @@ translate spanish strings:
     old "Quit"
     new "Salir"
 
+    # game/outfits.rpy:2894
+    old "What's the name of this outfit, [player]?"
+    new "[player], ¿qué nombre le quieres poner?"
