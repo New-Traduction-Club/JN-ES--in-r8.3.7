@@ -184,7 +184,7 @@ translate spanish outfits_wear_outfit_673741b2:
 translate spanish outfits_wear_outfit_5a505a5a:
 
     # extend 2fchbg " Gotcha!"
-    extend 2fchbg " ¡Oído!"
+    extend 2fchbg " ¡Vale!"
 
 # game/outfits.rpy:2386
 translate spanish outfits_wear_outfit_75c597ed:
@@ -760,7 +760,7 @@ translate spanish outfits_create_save_768059c4:
 translate spanish outfits_create_save_21453d9e:
 
     # n 1fchbg "Gotcha!{w=1.5}{nw}"
-    n 1fchbg "¡Oído!{w=1.5}{nw}"
+    n 1fchbg "¡Vale!{w=1.5}{nw}"
 
 # game/outfits.rpy:2883
 translate spanish outfits_create_save_ad43fbe5:
@@ -3248,11 +3248,11 @@ translate spanish strings:
 
     # game/outfits.rpy:3616
     old "Copy from..."
-    new "Copiar de..."
+    new "Copiar desde..."
 
     # game/outfits.rpy:3620
     old "Finished"
-    new "Terminado"
+    new "Listo"
 
     # game/outfits.rpy:3624
     old "Quit"
