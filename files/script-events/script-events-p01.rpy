@@ -4,1033 +4,1033 @@
 translate spanish event_caught_reading_manga_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:766
 translate spanish event_caught_reading_manga_bb2cf764_1:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:769
 translate spanish event_caught_reading_manga_991a55ad:
 
     # n "W-{w=0.2}wait...{w=0.3} what?!"
-    n ""
+    n "E-{w=0.2}espera...{w=0.3} ¡¿Qué?!?"
 
 # game/script-events.rpy:770
 translate spanish event_caught_reading_manga_3f804d73:
 
     # n "M-{w=0.2}Minori!{w=0.5}{nw}"
-    n ""
+    n "M-{w=0.2}Minori!{w=0.5}{nw}"
 
 # game/script-events.rpy:771
 translate spanish event_caught_reading_manga_c075ab12:
 
     # extend " You {i}idiot{/i}!"
-    extend ""
+    extend "¡Que {i}tonta{/i} eres!""
 
 # game/script-events.rpy:772
 translate spanish event_caught_reading_manga_6bcd9596:
 
-    # n "I seriously can't believe...!"
-    n ""
+    # n "I seriously can't believe!"
+    n "¡No lo puedo creer!"
 
 # game/script-events.rpy:773
 translate spanish event_caught_reading_manga_3e34bb09:
 
-    # n "Ugh...{w=0.5}{nw}"
-    n ""
+    # n "Ugh{w=0.5}{nw}"
+    n "Agh{w=0.5}{nw}"
 
 # game/script-events.rpy:774
 translate spanish event_caught_reading_manga_279d1ad4:
 
     # extend " {i}this{/i} is what I had to look forward to?"
-    extend ""
+    extend "¿Es {i}esto{/i} el gran desenlace?"
 
 # game/script-events.rpy:775
 translate spanish event_caught_reading_manga_758a9fcd:
 
-    # n "Come on...{w=0.5}{nw}"
-    n ""
+    # n "Come on{w=0.5}{nw}"
+    n "Venga...{w=0.5}{nw}"
 
 # game/script-events.rpy:776
 translate spanish event_caught_reading_manga_dc57b451:
 
     # extend " give me a break..."
-    extend ""
+    extend "no me jodas..."
 
 # game/script-events.rpy:795
 translate spanish event_caught_reading_manga_6d7cb010:
 
     # n 1uskemesh "...!"
-    n 1uskemesh ""
+    n 1uskemesh "¡...!"
 
 # game/script-events.rpy:796
 translate spanish event_caught_reading_manga_83f4a2b8:
 
     # n 1uskeml "[player]!{w=0.5}{nw}"
-    n 1uskeml ""
+    n 1uskeml "¡[player]!{w=0.5}{nw}"
 
 # game/script-events.rpy:797
 translate spanish event_caught_reading_manga_e06d25b2:
 
     # extend 1fcsan " C-{w=0.2}can you {i}believe{/i} this?"
-    extend 1fcsan ""
+    extend 1fcsan " ¿P-{w=0.2}pero puedes {i}creer{/i} esto?"
 
 # game/script-events.rpy:798
 translate spanish event_caught_reading_manga_f902e803:
 
     # n 1fllfu "Parfait Girls got a new editor,{w=0.3}{nw}"
-    n 1fllfu ""
+    n 1fllfu "Parfait Girls tiene un nuevo editor,{w=0.3}{nw}"
 
 # game/script-events.rpy:799
 translate spanish event_caught_reading_manga_62670af1:
 
     # extend 1fbkwr " and they have no {i}idea{/i} what they're doing!"
-    extend 1fbkwr ""
+    extend 1fbkwr "¡y no tienen la más remota {i}idea{/i} de lo que hacen!"
 
 # game/script-events.rpy:800
 translate spanish event_caught_reading_manga_58f3f47f:
 
     # n 1flrwr "I mean,{w=0.2} have you {i}seen{/i} this crap?!{w=0.5}{nw}"
-    n 1flrwr ""
+    n 1flrwr "O sea,{w=0.2} ¿tu has {i}visto{/i} esta basura?!{w=0.5}{nw}"
 
 # game/script-events.rpy:801
 translate spanish event_caught_reading_manga_b968fa6c:
 
     # extend 1fcsfu " Have they even {i}read{/i} the series before?!"
-    extend 1fcsfu ""
+    extend 1fcsfu " ¡¿Siquiera {i}leyeron{/i} el manga?!"
 
 # game/script-events.rpy:802
 translate spanish event_caught_reading_manga_0e6e259f:
 
     # n 1fcsan "As {i}if{/i} Minori would ever stoop so low as to-!"
-    n 1fcsan ""
+    n 1fcsan "¡Como {i}si{/i} Minori se rebajara tanto como para...!"
 
 # game/script-events.rpy:803
 translate spanish event_caught_reading_manga_69e2cabe:
 
     # n 1unmem "...!"
-    n 1unmem ""
+    n 1unmem "¡...!"
 
 # game/script-events.rpy:804
 translate spanish event_caught_reading_manga_66c1e7ef:
 
     # n 1fllpol "..."
-    n 1fllpol ""
+    n 1fllpol "..."
 
 # game/script-events.rpy:805
 translate spanish event_caught_reading_manga_bbba7e78:
 
     # n 1fcspo "Actually,{w=0.2} you know what?{w=0.5} It's fine."
-    n 1fcspo ""
+    n 1fcspo "De hecho,{w=0.2} ¿sabes algo?{w=0.5} está bien."
 
 # game/script-events.rpy:806
 translate spanish event_caught_reading_manga_25f4c2f2:
 
     # n 1fsrss "I didn't wanna spoil it for you anyway."
-    n 1fsrss ""
+    n 1fsrss "Tampoco te lo quiero arruinar"
 
 # game/script-events.rpy:807
 translate spanish event_caught_reading_manga_1cd66daa:
 
     # n 1flldv "Ehehe..."
-    n 1flldv ""
+    n 1flldv "je, je, je"
 
 # game/script-events.rpy:808
 translate spanish event_caught_reading_manga_740f2462:
 
     # n 1nllpol "I'll just...{w=0.5}{nw}"
-    n 1nllpol ""
+    n 1nllpol "Tan solo{w=0.5}{nw}"
 
 # game/script-events.rpy:809
 translate spanish event_caught_reading_manga_9ee6a3bc:
 
     # extend 1nlrss " put this away."
-    extend 1nlrss ""
+    extend 1nlrss "pondré esto a un lado"
 
 # game/script-events.rpy:820
 translate spanish event_caught_reading_manga_16144aa2:
 
     # n 3ulraj "So..."
-    n 3ulraj ""
+    n 3ulraj "Entonces"
 
 # game/script-events.rpy:821
 translate spanish event_caught_reading_manga_82e372c2:
 
     # n 3fchbgsbr "What's new,{w=0.2} [player]?"
-    n 3fchbgsbr ""
+    n 3fchbgsbr "¿Qué te cuentas?"
 
 # game/script-events.rpy:840
 translate spanish event_caught_writing_poetry_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:841
 translate spanish event_caught_writing_poetry_0093cf49:
 
     # n "Mmmm...{w=0.5}{nw}"
-    n ""
+    n "Mmmm..."
 
 # game/script-events.rpy:842
 translate spanish event_caught_writing_poetry_8c7a8a19:
 
     # extend " ugh!"
-    extend ""
+    extend "¡Agh!"
 
 # game/script-events.rpy:847
 translate spanish event_caught_writing_poetry_bb2cf764_1:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:848
 translate spanish event_caught_writing_poetry_4d59019a:
 
     # n "Nnnnnn-!"
-    n ""
+    n "Nnnn..."
 
 # game/script-events.rpy:849
 translate spanish event_caught_writing_poetry_1437b15d:
 
     # n "I just can't {i}focus{/i}!{w=0.5}{nw}"
-    n ""
+    n "No logro {i}concentrarme{/i}!{w=0.5}{nw}"
 
 # game/script-events.rpy:850
 translate spanish event_caught_writing_poetry_d0e577ab:
 
     # extend " Why is this {i}so{/i} hard now?"
-    extend ""
+    extend "¿Por qué se me complica {i}tanto{/i} ahora"
 
 # game/script-events.rpy:855
 translate spanish event_caught_writing_poetry_976e12f6:
 
     # n "Rrrrr...!"
-    n ""
+    n "¡Rrrrr...!"
 
 # game/script-events.rpy:856
 translate spanish event_caught_writing_poetry_d558cc01:
 
     # n "Oh,{w=0.2} {i}forget it!{/i}"
-    n ""
+    n "Agh,{w=0.2} {i}¡olvidalo!{/i}""
 
 # game/script-events.rpy:871
 translate spanish event_caught_writing_poetry_ee0f4b2a:
 
     # n 1uskuplesh "...!"
-    n 1uskuplesh ""
+    n 1uskuplesh "¡...!"
 
 # game/script-events.rpy:873
 translate spanish event_caught_writing_poetry_3146e03c:
 
     # n 4uskgsf "[player_initial]-[player]?!{w=0.5}{nw}"
-    n 4uskgsf ""
+    n 4uskgsf "[player_initial]-¡¿[player]?!{w=0.5}{nw}"
 
 # game/script-events.rpy:874
 translate spanish event_caught_writing_poetry_c8287b60:
 
     # extend 2fbkwrl " How long have you been there?!"
-    extend 2fbkwrl ""
+    extend 2fbkwrl "¡¿Cuánto tiempo has estado ahí?"
 
 # game/script-events.rpy:875
 translate spanish event_caught_writing_poetry_9da71000:
 
     # n 2fllpol "..."
-    n 2fllpol ""
+    n 2fllpol "..."
 
 # game/script-events.rpy:876
 translate spanish event_caught_writing_poetry_39c15bc5:
 
     # n 4uskeml "H-{w=0.2}huh? This?{w=0.5}{nw}"
-    n 4uskeml ""
+    n 4uskeml "Q-{w=0.2}¿qué? ¿esto?{w=0.5}{nw}"
 
 # game/script-events.rpy:877
 translate spanish event_caught_writing_poetry_e4dd33ac:
 
     # extend 4fcswrl " I-{w=0.2}it's nothing!{w=0.5}{nw}"
-    extend 4fcswrl ""
+    extend 4fcswrl "N-{w=0.2}¡No es nada!{w=0.5}{nw}"
 
 # game/script-events.rpy:878
 translate spanish event_caught_writing_poetry_23267c67:
 
     # extend 2flrpol " Nothing at all!"
-    extend 2flrpol ""
+    extend 2flrpol "¡Nada de nada!"
 
 # game/script-events.rpy:889
 translate spanish event_caught_writing_poetry_e64bcf5d:
 
     # n 2nslpol "..."
-    n 2nslpol ""
+    n 2nslpol "..."
 
 # game/script-events.rpy:890
 translate spanish event_caught_writing_poetry_cd701080:
 
     # n 2fslsslsbr "S-{w=0.2}so...{w=0.5}{nw}"
-    n 2fslsslsbr ""
+    n 2fslsslsbr "E-{w=0.2}entonces...{w=0.5}{nw}"
 
 # game/script-events.rpy:891
 translate spanish event_caught_writing_poetry_5c46ec78:
 
     # extend 4fcsbglsbr " what's up,{w=0.2} [player]?"
-    extend 4fcsbglsbr ""
+    extend 4fcsbglsbr "¿Qúe hay de nuevo?"
 
 # game/script-events.rpy:910
-translate spanish event_relationship_doubts_bb2cf764:
+translate spanish event_relaTionship_doubts_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:911
-translate spanish event_relationship_doubts_bb2cf764_1:
+translate spanish event_relaTionship_doubts_bb2cf764_1:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:912
-translate spanish event_relationship_doubts_34e80aed:
+translate spanish event_relaTionship_doubts_34e80aed:
 
     # n "What is even the {i}point{/i} of this..."
-    n ""
+    n "¿Cuál es el {i}punto{/i} de todo esto...?"
 
 # game/script-events.rpy:913
-translate spanish event_relationship_doubts_527e1928:
+translate spanish event_relaTionship_doubts_527e1928:
 
     # n "Just..."
-    n ""
+    n "Tan solo..."
 
 # game/script-events.rpy:914
-translate spanish event_relationship_doubts_bb2cf764_2:
+translate spanish event_relaTionship_doubts_bb2cf764_2:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:917
-translate spanish event_relationship_doubts_2d8b5649:
+translate spanish event_relaTionship_doubts_2d8b5649:
 
     # n "I {w=2}{i}hate{/i}{w=2} this."
-    n ""
+    n "Lo {w=2}{i}odio{/i}{w=2}.""
 
 # game/script-events.rpy:920
-translate spanish event_relationship_doubts_3a743883:
+translate spanish event_relaTionship_doubts_3a743883:
 
     # n "I {w=2}{i}HATE{/i}{w=2} this."
-    n ""
+    n "
 
 # game/script-events.rpy:922
-translate spanish event_relationship_doubts_e12c3ef2:
+translate spanish event_relaTionship_doubts_e12c3ef2:
 
     # n "I hate it.{w=1} I hate it.{w=1} I hate it.{w=1} I hate it.{w=1} I {w=2}{i}hate{/i}{w=2} it."
-    n ""
+    n "lo odio.{w=1} lo odio.{w=1} lo odio.{w=1} lo odio.{w=1} lo {w=2}{i}odio{/i}{w=2}"
 
 # game/script-events.rpy:928
-translate spanish event_relationship_doubts_74eb5ded:
+translate spanish event_relaTionship_doubts_74eb5ded:
 
     # n "I {i}HATE{/i} IT!!{w=0.5}{nw}"
-    n ""
+    n "¡LO {i}ODIO{/i}!{w=0.5}{nw}""
 
 # game/script-events.rpy:939
-translate spanish event_relationship_doubts_d821870b:
+translate spanish event_relaTionship_doubts_d821870b:
 
     # n 1fsqunltsb "..."
-    n 1fsqunltsb ""
+    n 1fsqunltsb "..."
 
 # game/script-events.rpy:940
-translate spanish event_relationship_doubts_10b5d5d4:
+translate spanish event_relaTionship_doubts_10b5d5d4:
 
     # n 1fsqemtsb "...Oh.{w=1}{nw}"
-    n 1fsqemtsb ""
+    n 1fsqemtsb "Ah..."
 
 # game/script-events.rpy:941
-translate spanish event_relationship_doubts_425b19dc:
+translate spanish event_relaTionship_doubts_425b19dc:
 
     # extend 2fsrsr " {i}You're{/i} here."
-    extend 2fsrsr ""
+    extend 2fsrsr "Estás {i}aqui{/i}."
 
 # game/script-events.rpy:942
-translate spanish event_relationship_doubts_42f93f6b:
+translate spanish event_relaTionship_doubts_42f93f6b:
 
     # n 2ncsem "{i}Great{/i}..."
-    n 2ncsem ""
+    n 2ncsem "Genial"
 
 # game/script-events.rpy:943
-translate spanish event_relationship_doubts_672f9fe8:
+translate spanish event_relaTionship_doubts_672f9fe8:
 
     # n 4fcsantsa "Yeah, that's {i}just{/i} what I need right now."
-    n 4fcsantsa ""
+    n 4fcsantsa "Muy bien, es {i}justo{/i} lo que me falataba"
 
 # game/script-events.rpy:962
 translate spanish event_code_fiddling_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:963
 translate spanish event_code_fiddling_15dd3e23:
 
     # n "Mmm..."
-    n ""
+    n "Mmm..."
 
 # game/script-events.rpy:964
 translate spanish event_code_fiddling_b599fcef:
 
     # n "Aha!{w=0.5}{nw}"
-    n ""
+    n "¡Aja!"
 
 # game/script-events.rpy:965
 translate spanish event_code_fiddling_b61b7e51:
 
     # extend " I see,{w=0.2} I see."
-    extend ""
+    extend "Vale,{w=0.2} vale"
 
 # game/script-events.rpy:966
 translate spanish event_code_fiddling_a89310f2:
 
     # n "So,{w=0.3} I think...{w=1}{nw}"
-    n ""
+    n "Entonces,{w=0.3} creo que...{w=1}{nw}"
 
 # game/script-events.rpy:967
 translate spanish event_code_fiddling_2729f416:
 
     # extend " if I just...{w=1.5}{nw}"
-    extend ""
+    extend "si tan solo...{w=1.5}{nw}"
 
 # game/script-events.rpy:968
 translate spanish event_code_fiddling_44d5a84b:
 
     # extend " very...{w=2}{nw}"
-    extend ""
+    extend "con mucho...{w=2}{nw}"
 
 # game/script-events.rpy:969
 translate spanish event_code_fiddling_a75ca08f:
 
     # extend " carefully...{w=0.5}{nw}"
-    extend ""
+    extend "cuidado...{w=0.5}{nw}""
 
 # game/script-events.rpy:975
 translate spanish event_code_fiddling_123d8feb:
 
     # n "Ack-!{w=2}{nw}"
-    n ""
+    n "¡Ay!"
 
 # game/script-events.rpy:976
 translate spanish event_code_fiddling_bb9bc1ad:
 
     # extend " Crap,{w=0.3} that {i}hurt{/i}!"
-    extend ""
+    extend "Demonios, {w=0.3} eso {i}dolió{/i}!""
 
 # game/script-events.rpy:977
 translate spanish event_code_fiddling_9ddd1f08:
 
     # n "Ugh..."
-    n ""
+    n "Agh..."
 
 # game/script-events.rpy:978
 translate spanish event_code_fiddling_3c3337a4:
 
     # n "How the hell did Monika manage this all the time?"
-    n ""
+    n "¿Como narices hacia Monika para controlar todo esto todo el tiempo?"
 
 # game/script-events.rpy:979
 translate spanish event_code_fiddling_4759885e:
 
     # extend " This code {i}sucks{/i}!"
-    extend ""
+    extend "¡Este código es de lo {i}peor{/i}!"
 
 # game/script-events.rpy:980
 translate spanish event_code_fiddling_bb2cf764_1:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:981
 translate spanish event_code_fiddling_bb2cf764_2:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:982
 translate spanish event_code_fiddling_29c458b2:
 
     # n "But...{w=1} what if I-{w=0.5}{nw}"
-    n ""
+    n "Pero...{w=1} que tal si...{w=0.5}{nw}""
 
 # game/script-events.rpy:988
 translate spanish event_code_fiddling_2b6b29d5:
 
     # n "Eek!"
-    n ""
+    n "¡Auch!"
 
 # game/script-events.rpy:989
 translate spanish event_code_fiddling_bb2cf764_3:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:990
 translate spanish event_code_fiddling_a724fe38:
 
     # n "...Yeah,{w=0.3} no.{w=0.5} I think that's enough for now.{w=1}{nw}"
-    n ""
+    n "Aja,{w=0.3} no.{w=0.5} Ya es suficiente progamación por hoy.{w=1}{nw}""
 
 # game/script-events.rpy:991
 translate spanish event_code_fiddling_52182fd6:
 
     # extend " Yeesh..."
-    extend ""
+    extend "Dios..."
 
 # game/script-events.rpy:1002
 translate spanish event_code_fiddling_f241f03c:
 
     # n 1uskemlesh "Ack-!"
-    n 1uskemlesh ""
+    n 1uskemlesh "¡AH!"
 
 # game/script-events.rpy:1003
 translate spanish event_code_fiddling_3ea200a9:
 
     # n 4fbkwrl "[player_initial]-{w=0.2}[player]!"
-    n 4fbkwrl ""
+    n 4fbkwrl "[player_initial]-{w=0.2}¡[player]!"
 
 # game/script-events.rpy:1004
 translate spanish event_code_fiddling_81dafc90:
 
     # extend 2fcseml " Are you {i}trying{/i} to give me a heart attack or something?"
-    extend 2fcseml ""
+    extend 2fcseml "¿Acaso {i}intentas{/i} matarme de un susto?"
 
 # game/script-events.rpy:1005
 translate spanish event_code_fiddling_c7c7dba0:
 
     # n 2fllpol "Jeez..."
-    n 2fllpol ""
+    n 2fllpol "Dios..."
 
 # game/script-events.rpy:1006
 translate spanish event_code_fiddling_6711d61c:
 
     # n 1fsrpo "Hello to you too,{w=0.2} dummy..."
-    n 1fsrpo ""
+    n 1fsrpo "Hola a ti tambien, {w=0.2} bobo..."
 
 # game/script-events.rpy:1050
 translate spanish event_not_ready_yet_f21a2aee:
 
     # n "Uuuuuu...{w=2}{nw}"
-    n ""
+    n "Uuuuu...{w=2}{nw}"
 
 # game/script-events.rpy:1051
 translate spanish event_not_ready_yet_8568d332:
 
     # extend " man..."
-    extend ""
+    extend "Tio..."
 
 # game/script-events.rpy:1053
 translate spanish event_not_ready_yet_9551e2c9:
 
     # n "It's too {i}early{/i} for thiiis!"
-    n ""
+    n "¡Es muy {i}temprano{/i} para estooo!""
 
 # game/script-events.rpy:1056
 translate spanish event_not_ready_yet_ff19253b:
 
     # n "Ugh...{w=1}{nw}"
-    n ""
+    n "Agh...{w=1}{nw}"
 
 # game/script-events.rpy:1057
 translate spanish event_not_ready_yet_c6a694aa:
 
     # extend " I gotta get to bed earlier..."
-    extend ""
+    extend "Debo irme a dormir más temprano..."
 
 # game/script-events.rpy:1067
 translate spanish event_not_ready_yet_bedc565f:
 
     # n 1uskemlesh "H-{w=0.3}huh?{w=1}{nw}"
-    n 1uskemlesh ""
+    n 1uskemlesh "¿Q-{w=0.3}qué?{w=1}{nw}"
 
 # game/script-events.rpy:1068
 translate spanish event_not_ready_yet_20e66df3:
 
     # extend 1uskwrl " [player]?!{w=0.75}{nw}"
-    extend 1uskwrl ""
+    extend 1uskwrl "¡¿[player]?!{w=0.75}{nw}"
 
 # game/script-events.rpy:1069
 translate spanish event_not_ready_yet_a1d5c185:
 
     # extend 4klleml " You're here already?!"
-    extend 4klleml ""
+    extend 4klleml "¡¿Ya llegaste?!"
 
 # game/script-events.rpy:1070
 translate spanish event_not_ready_yet_4fbb2124:
 
     # n 4flrunl "..."
-    n 4flrunl ""
+    n 4flrunl "..."
 
 # game/script-events.rpy:1071
 translate spanish event_not_ready_yet_08c16363:
 
     # n 4uskemfeexsbr "I-{w=0.3}I gotta get ready!"
-    n 4uskemfeexsbr ""
+    n 4uskemfeexsbr "M-{w=0.3}¡me debo preparar!"
 
 # game/script-events.rpy:1082
 translate spanish event_not_ready_yet_e278441e:
 
     # n 2fcsem "Jeez...{w=1.5}{nw}"
-    n 2fcsem ""
+    n 2fcsem "Dios...{w=1.5}{nw}"
 
 # game/script-events.rpy:1083
 translate spanish event_not_ready_yet_5a794a45:
 
     # extend 2nslpo " I really gotta get an alarm clock or something.{w=1}{nw}"
-    extend 2nslpo ""
+    extend 2nslpo "Debo ponerme una alarma o algo.{w=1}{nw}""
 
 # game/script-events.rpy:1084
 translate spanish event_not_ready_yet_25326bbf:
 
     # extend 2nsrss " Heh."
-    extend 2nsrss ""
+    extend 2nsrss "Je."
 
 # game/script-events.rpy:1085
 translate spanish event_not_ready_yet_9832f36b:
 
     # n 4flldv "So...{w=1}{nw}"
-    n 4flldv ""
+    n 4flldv "Entonces..."
 
 # game/script-events.rpy:1086
 translate spanish event_not_ready_yet_46d9ab63:
 
     # extend 3fcsbgl " what's up,{w=0.2} [player]?"
-    extend 3fcsbgl ""
+    extend 3fcsbgl "¿Cómo estás?"
 
 # game/script-events.rpy:1106
 translate spanish event_renpy_for_dummies_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:1111
 translate spanish event_renpy_for_dummies_f5f5411e:
 
     # n "Labels...{w=1.5}{nw}"
-    n ""
+    n "Las etiquetas..."
 
 # game/script-events.rpy:1112
 translate spanish event_renpy_for_dummies_5c4c6263:
 
     # extend " labels exist as program points to be called or jumped to,{w=1.5}{nw}"
-    extend ""
+    extend "Las etiquetas sirven para marcar un punto específico en el codigo fuente,{w=1.5}{nw}"
 
 # game/script-events.rpy:1113
 translate spanish event_renpy_for_dummies_eaf3d868:
 
-    # extend " either from Ren'Py script,{w=0.3} Python functions,{w=0.3} or from screens."
-    extend ""
+    # extend " either from Ren'Py script,{w=0.3} Python funcTions,{w=0.3} or from screens."
+    extend "pueden ser para Ren'py script,{w=0.3} Python funcTions,{w=0.3} o de screens."
 
 # game/script-events.rpy:1114
 translate spanish event_renpy_for_dummies_bb2cf764_1:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:1116
 translate spanish event_renpy_for_dummies_e33de390:
 
     # n "...What?"
-    n ""
+    n "¿Qué...?"
 
 # game/script-events.rpy:1124
 translate spanish event_renpy_for_dummies_bb2cf764_2:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:1125
 translate spanish event_renpy_for_dummies_17495323:
 
     # n "Labels can be local or global...{w=1.5}{nw}"
-    n ""
+    n "Las etiquetas pueden ser locales o globales...{w=1.5}{nw}"
 
 # game/script-events.rpy:1127
 translate spanish event_renpy_for_dummies_a965a6d0:
 
     # extend " can transfer control to a label using the jump statement..."
-    extend ""
+    extend "se puede transferir controles a una etiqueta usando el comadno de salto"
 
 # game/script-events.rpy:1128
 translate spanish event_renpy_for_dummies_bb2cf764_3:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:1129
 translate spanish event_renpy_for_dummies_557c5a40:
 
     # n "I see!{w=1.5}{nw}"
-    n ""
+    n "¡Vale!"
 
 # game/script-events.rpy:1130
 translate spanish event_renpy_for_dummies_8b4dd40a:
 
     # extend " I see."
-    extend ""
+    extend "Vale."
 
 # game/script-events.rpy:1133
 translate spanish event_renpy_for_dummies_bb2cf764_4:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:1134
 translate spanish event_renpy_for_dummies_0b7c056c:
 
     # n "Yep!{w=1.5}{nw}"
-    n ""
+    n "Sip"
 
 # game/script-events.rpy:1135
 translate spanish event_renpy_for_dummies_839bccb0:
 
     # extend " I have no idea what I'm doing!"
-    extend ""
+    extend "No tengo idea de lo que estoy haciendo"
 
 # game/script-events.rpy:1136
 translate spanish event_renpy_for_dummies_9391bd95:
 
     # n "Can't believe I thought {i}this{/i} would help me...{w=1.5}{nw}"
-    n ""
+    n "No puedo creer que pensé que {i}esto{/i} me ayudaría...{w=1.5}{nw}"
 
 # game/script-events.rpy:1137
 translate spanish event_renpy_for_dummies_6c6a7861:
 
     # extend " '{i}award winning{/i}',{w=0.2} my butt."
-    extend ""
+    extend "'{i}libro premiado{/i}',{w=0.2} mi trasero."
 
 # game/script-events.rpy:1148
 translate spanish event_renpy_for_dummies_9c7d6e2a:
 
     # n 1uskemesh "O-{w=0.3}oh!"
-    n 1uskemesh ""
+    n 1uskemesh "A-{w=0.3}¡ah!"
 
 # game/script-events.rpy:1149
 translate spanish event_renpy_for_dummies_b661bd9d:
 
     # extend 1fllbgl " H-{w=0.3}hey,{w=0.2} [player]!"
-    extend 1fllbgl ""
+    extend 1fllbgl "H-{w=0.3}¡hola,{w=0.2} [player]!"
 
 # game/script-events.rpy:1150
 translate spanish event_renpy_for_dummies_7eae76f6:
 
     # n 1ullss "I was just...{w=1.5}{nw}"
-    n 1ullss ""
+    n 1ullss "Yo tan solo...{w=1.5}{nw}"
 
 # game/script-events.rpy:1151
 translate spanish event_renpy_for_dummies_73fe257f:
 
     # extend 1nslss " doing...{w=1.5}{nw}"
-    extend 1nslss ""
+    extend 1nslss "intentaba...{w=1.5}{nw}"
 
 # game/script-events.rpy:1152
 translate spanish event_renpy_for_dummies_8809a107:
 
     # n 1fsrun "..."
-    n 1fsrun ""
+    n 1fsrun "..."
 
 # game/script-events.rpy:1153
 translate spanish event_renpy_for_dummies_e75da6e1:
 
     # n 1fcswr "N-{w=0.2}nevermind that!"
-    n 1fcswr ""
+    n 1fcswr "N-{w=0.2}nada, olvidalo"
 
 # game/script-events.rpy:1154
 translate spanish event_renpy_for_dummies_011c2ba6:
 
     # extend 1fllpo " This book is trash anyway."
-    extend 1fllpo ""
+    extend 1fllpo "Este libro es estupido de todas maneras."
 
 # game/script-events.rpy:1165
 translate spanish event_renpy_for_dummies_71332dec:
 
     # n 4nllaj "So...{w=1}{nw}"
-    n 4nllaj ""
+    n 4nllaj "Entonces...{w=1}{nw}"
 
 # game/script-events.rpy:1166
 translate spanish event_renpy_for_dummies_0e28b083:
 
     # extend 2fchbgsbl " what's new,{w=0.2} [player]?"
-    extend 2fchbgsbl ""
+    extend 2fchbgsbl "¿Qué hay de nuevo,{w=0.2} [player]?"
 
 # game/script-events.rpy:1186
 translate spanish event_reading_a_la_mode_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:1187
 translate spanish event_reading_a_la_mode_bb2cf764_1:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:1191
 translate spanish event_reading_a_la_mode_13d24a39:
 
     # n "Oh man...{w=1}{nw}"
-    n ""
+    n "Tio...{w=1}{nw}""
 
 # game/script-events.rpy:1192
 translate spanish event_reading_a_la_mode_dc77a805:
 
     # extend " this artwork..."
-    extend ""
+    extend "el arte...."
 
 # game/script-events.rpy:1193
 translate spanish event_reading_a_la_mode_dfce51ce:
 
     # n "It's so {i}{cps=7.5}pretty{/cps}{/i}!"
-    n ""
+    n "Es tan {i}{cps=7.5}chulo{/cps}{/i}!"
 
 # game/script-events.rpy:1194
 translate spanish event_reading_a_la_mode_09daf323:
 
     # n "How the hell do they get so good at this?!"
-    n ""
+    n "¡¿Como hacen para ser tan buenos!?
 
 # game/script-events.rpy:1200
 translate spanish event_reading_a_la_mode_2c0d39a6:
 
     # n "Pffffft-!"
-    n ""
+    n "Pfffff..."
 
 # game/script-events.rpy:1201
 translate spanish event_reading_a_la_mode_3eb239fc:
 
     # n "The heck is {i}that{/i}?{w=1}{nw}"
-    n ""
+    n "¿Qué demonios es {i}eso{/i}?{w=1}{nw}""
 
 # game/script-events.rpy:1202
 translate spanish event_reading_a_la_mode_f27de42b:
 
     # extend " What were you {i}thinking{/i}?!"
-    extend ""
+    extend " Qué es lo que estabas {i}pensando{/i}?!"
 
 # game/script-events.rpy:1203
 translate spanish event_reading_a_la_mode_43b6e544:
 
     # n "This is {i}exactly{/i} why you leave the outfit design to the pros!"
-    n ""
+    n "¡Esto es {i}exactamente{/i} porque dejas el diseño de los trajes a los pros!"
 
 # game/script-events.rpy:1220
 translate spanish event_reading_a_la_mode_ff24c987:
 
     # n 1unmgslesu "Oh!{w=1}{nw}"
-    n 1unmgslesu ""
+    n 1unmgslesu "¡Ah!{w=1}{nw}"
 
 # game/script-events.rpy:1221
 translate spanish event_reading_a_la_mode_1b9c604e:
 
     # extend 1fllbgl " H-{w=0.2}hey,{w=0.2} [player]!"
-    extend 1fllbgl ""
+    extend 1fllbgl "H-{w=0.2}¡hola,{w=0.2} [player]!"
 
 # game/script-events.rpy:1222
 translate spanish event_reading_a_la_mode_3ea2f16e:
 
     # n 1nsrss "I was just catching up on some reading time..."
-    n 1nsrss ""
+    n 1nsrss "Estaba poniendome al corriente con el manga"
 
 # game/script-events.rpy:1223
 translate spanish event_reading_a_la_mode_f04290f1:
 
     # n 1fspaj "Who'd have guessed slice of life and fashion go so well together?"
-    n 1fspaj ""
+    n 1fspaj "¿Quién diría que los slice of life y la moda irían tan bien de la mano?"
 
 # game/script-events.rpy:1224
 translate spanish event_reading_a_la_mode_5e226e2b:
 
     # n 1fchbg "I gotta continue this one later!{w=1}{nw}"
-    n 1fchbg ""
+    n 1fchbg "¡Continuare con esto luego!{w=1}{nw}"
 
 # game/script-events.rpy:1225
 translate spanish event_reading_a_la_mode_ce1862c9:
 
     # extend 1fchsm " I'm just gonna mark my place real quick,{w=0.2} one sec..."
-    extend 1fchsm ""
+    extend 1fchsm "Tan solo marcare donde me quede,{w=0.2} dame un momento"
 
 # game/script-events.rpy:1237
 translate spanish event_reading_a_la_mode_81b7b303:
 
     # n 3nchbg "Aaaand we're good to go!{w=1}{nw}"
-    n 3nchbg ""
+    n 3nchbg "¡yyy ya estamos!{w=1}{nw}"
 
 # game/script-events.rpy:1238
 translate spanish event_reading_a_la_mode_c93fea25:
 
     # extend 3fwlsm " What's new,{w=0.2} [player]?"
-    extend 3fwlsm ""
+    extend 3fwlsm "¿Qué tal estás,{w=0.2} [player]?"
 
 # game/script-events.rpy:1257
 translate spanish event_drinking_strawberry_milkshake_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:1262
 translate spanish event_drinking_strawberry_milkshake_79200f99:
 
     # n "Man...{w=1}{nw}"
-    n ""
+    n "Tio..."
 
 # game/script-events.rpy:1263
 translate spanish event_drinking_strawberry_milkshake_38e97ffa:
 
     # extend " {i}sho good{/i}!"
-    extend ""
+    extend "{i}eta ui ueno{/i}!""
 
 # game/script-events.rpy:1268
 translate spanish event_drinking_strawberry_milkshake_44622af2:
 
     # n "Wow,{w=0.3} I've missed these...{w=1}{nw}"
-    n ""
+    n "Wow,{w=0.3} como extrañaba esto...{w=1}{nw}"
 
 # game/script-events.rpy:1269
 translate spanish event_drinking_strawberry_milkshake_fef9714d:
 
     # extend " why didn't I think of this before?!"
-    extend ""
+    extend "¡¿Cómo es que no se me ocurrio antes?!"
 
 # game/script-events.rpy:1284
 translate spanish event_drinking_strawberry_milkshake_6bf03dad:
 
     # n 4nchdr "..."
-    n 4nchdr ""
+    n 4nchdr "..."
 
 # game/script-events.rpy:1286
 translate spanish event_drinking_strawberry_milkshake_5e87190d:
 
     # n 4nsqdr "..."
-    n 4nsqdr ""
+    n 4nsqdr "..."
 
 # game/script-events.rpy:1287
 translate spanish event_drinking_strawberry_milkshake_d339f52f:
 
     # n 4uskdrlesh "...!"
-    n 4uskdrlesh ""
+    n 4uskdrlesh "¡...!"
 
 # game/script-events.rpy:1289
 translate spanish event_drinking_strawberry_milkshake_0e7cbfe6:
 
     # n 2fbkwrl "[player_initial]-{w=0.3}[player]!{w=1}{nw}"
-    n 2fbkwrl ""
+    n 2fbkwrl "[player_initial]-{w=0.3}¡[player]!{w=1}{nw}"
 
 # game/script-events.rpy:1290
 translate spanish event_drinking_strawberry_milkshake_95b3b26b:
 
     # extend 2flleml " I wish you'd stop just {i}appearing{/i} like that..."
-    extend 2flleml ""
+    extend 2flleml "Me gustaria que dejases de {i}aparecerte{/i} asi"
 
 # game/script-events.rpy:1291
 translate spanish event_drinking_strawberry_milkshake_897cca28:
 
     # n 1fcseml "Jeez...{w=1}{nw}"
-    n 1fcseml ""
+    n 1fcseml "Dios...{w=1}{nw}"
 
 # game/script-events.rpy:1292
 translate spanish event_drinking_strawberry_milkshake_85772e31:
 
     # extend 4fsqpo " you almost made me spill it!"
-    extend 4fsqpo ""
+    extend 4fsqpo "¡Casi haces que derrame todo!"
 
 # game/script-events.rpy:1293
 translate spanish event_drinking_strawberry_milkshake_c05a800a:
 
     # n 4flrpo "At least let me finish up here real quick..."
-    n 4flrpo ""
+    n 4flrpo "Por lo menos dejame terminar esto..."
 
 # game/script-events.rpy:1304
 translate spanish event_drinking_strawberry_milkshake_a6ba7b62:
 
     # n 4ncsss "Ah..."
-    n 4ncsss ""
+    n 4ncsss "Ah..."
 
 # game/script-events.rpy:1305
 translate spanish event_drinking_strawberry_milkshake_22a9e5b8:
 
     # n 1uchgn "Man,{w=0.2} that hit the spot!"
-    n 1uchgn ""
+    n 1uchgn "Tio,{w=0.2} ¡que bueno estaba!"
 
 # game/script-events.rpy:1306
 translate spanish event_drinking_strawberry_milkshake_b939907c:
 
     # n 4fsqbg "And now I'm all refreshed...{w=1}{nw}"
-    n 4fsqbg ""
+    n 4fsqbg "Ahora estoy fresca...{w=1}{nw}"
 
 # game/script-events.rpy:1307
 translate spanish event_drinking_strawberry_milkshake_e7a0e6cb:
 
     # extend 3tsqsm " what's happening, [player]?{w=1}{nw}"
-    extend 3tsqsm ""
+    extend 3tsqsm "¿Qué tal estás, [player]?{w=1}{nw}"
 
 # game/script-events.rpy:1308
 translate spanish event_drinking_strawberry_milkshake_849deea0:
 
     # extend 3fchsm " Ehehe."
-    extend 3fchsm ""
+    extend 3fchsm "Je, je, je."
 
 # game/script-events.rpy:1328
 translate spanish event_step_by_step_manga_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:1329
 translate spanish event_step_by_step_manga_bb2cf764_1:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-events.rpy:1332
 translate spanish event_step_by_step_manga_a8557d5c:
 
     # n "Jeez..."
-    n ""
+    n "Dios..."
 
 # game/script-events.rpy:1333
 translate spanish event_step_by_step_manga_61df0e18:
 
     # n "Who {i}drew{/i} this?!"
-    n ""
+    n "¡¿Quién {i}dibujó{/i} esto?!""
 
 # game/script-events.rpy:1334
 translate spanish event_step_by_step_manga_898c98f5:
 
     # n "I feel like I'm gonna vomit rainbows or something!"
-    n ""
+    n "¡Siento que vomitare un arcoiris o algo!"
 
 # game/script-events.rpy:1340
 translate spanish event_step_by_step_manga_f8141ca6:
 
     # n "Man..."
-    n ""
+    n "Tio..."
 
 # game/script-events.rpy:1341
 translate spanish event_step_by_step_manga_fb1aa1e1:
 
     # n "A-{w=0.3}alright,{w=0.2} enough drooling over the art!{w=1.5}{nw}"
-    n ""
+    n "M-{w=0.3}muy bien,{w=0.2} ¡basta de admirar el arte!{w=1.5}{nw}"
 
 # game/script-events.rpy:1342
 translate spanish event_step_by_step_manga_03e6b335:
 
     # extend " You got this thing for a reason,{w=0.2} Natsuki..."
-    extend ""
+    extend "Tienes esto por una razon,{w=0.2} Natsuki..."
 
 # game/script-events.rpy:1343
 translate spanish event_step_by_step_manga_baa266de:
 
     # n "Step by step..."
-    n ""
+    n "Poco a poco..."
 
 # game/script-events.rpy:1344
 translate spanish event_step_by_step_manga_532da102:
 
     # n "Improve my daily confidence,{w=0.3} huh?{w=1.5}{nw}"
-    n ""
+    n "mejorar mi "
 
 # game/script-events.rpy:1345
 translate spanish event_step_by_step_manga_d2f386d5:
@@ -2625,7 +2625,7 @@ translate spanish event_warm_package_bb2cf764_2:
 # game/script-events.rpy:1960
 translate spanish event_warm_package_202b95c9:
 
-    # n "...Doesn't matter.{w=0.75} Too cold to question it.{w=1} Now where did they leave the kettle last time..."
+    # n "...Doesn't matter.{w=0.75} Too cold to quesTion it.{w=1} Now where did they leave the kettle last time..."
     n ""
 
 # game/script-events.rpy:1961
@@ -2673,7 +2673,7 @@ translate spanish event_warm_package_bb2cf764_4:
 # game/script-events.rpy:1971
 translate spanish event_warm_package_3913212a:
 
-    # n "Oh, screw it!{w=0.75} I'm a girl of action!"
+    # n "Oh, screw it!{w=0.75} I'm a girl of acTion!"
     n ""
 
 # game/script-events.rpy:1972
@@ -2997,7 +2997,7 @@ translate spanish event_warm_package_3cfa36bd:
 # game/script-events.rpy:2088
 translate spanish event_warm_package_dd10981d:
 
-    # n 1fsqcaesi "I {i}always{/i} make an exception for hot chocolate."
+    # n 1fsqcaesi "I {i}always{/i} make an excepTion for hot chocolate."
     n 1fsqcaesi ""
 
 # game/script-events.rpy:2089
@@ -3045,7 +3045,7 @@ translate spanish event_warm_package_1f2923e0:
 # game/script-events.rpy:2096
 translate spanish event_warm_package_8f3f0583:
 
-    # n 1fchbgl "Perfection!{w=0.75}{nw}"
+    # n 1fchbgl "PerfecTion!{w=0.75}{nw}"
     n 1fchbgl ""
 
 # game/script-events.rpy:2097
@@ -3477,7 +3477,7 @@ translate spanish event_warm_package_5bf4ff0a:
 # game/script-events.rpy:2193
 translate spanish event_warm_package_e02b07c3:
 
-    # n 3usqbg "...How about {i}you{/i} warm up that conversational muscle of yours?{w=1}{nw}"
+    # n 3usqbg "...How about {i}you{/i} warm up that conversaTional muscle of yours?{w=1}{nw}"
     n 3usqbg ""
 
 # game/script-events.rpy:2194
@@ -3549,7 +3549,7 @@ translate spanish event_sanjo_bb2cf764_2:
 # game/script-events.rpy:2233
 translate spanish event_sanjo_6783128e:
 
-    # n "Huh.{w=0.75} Since when did the teachers keep so much stationary around?{w=0.75} Neat."
+    # n "Huh.{w=0.75} Since when did the teachers keep so much staTionary around?{w=0.75} Neat."
     n ""
 
 # game/script-events.rpy:2234
@@ -3928,70 +3928,70 @@ translate spanish event_sanjo_06dd781e:
 translate spanish event_sanjo_0072da58:
 
     # n 4fsqfl "...A-{w=0.2}and what exactly {i}is{/i} that,{w=0.5}{nw}"
-    n 4fsqfl ""
+    n 4fsqfl "...E-{w=0.2}exactamente que {i}es{/i} eso,{w=0.5}{nw}"
 
 # game/script-events.rpy:2349
 translate spanish event_sanjo_55949b6f:
 
     # extend 4fsqem " [player]?"
-    extend 4fsqem ""
+    extend 4fsqem "[player]?"
 
 # game/script-events.rpy:2350
 translate spanish event_sanjo_ba86bd12:
 
     # n 2fsqca "..."
-    n 2fsqca ""
+    n 2fsqca "..."
 
 # game/script-events.rpy:2351
 translate spanish event_sanjo_813bdc64:
 
     # n 2fcsgs "No,{w=0.2} no.{w=0.75}{nw}"
-    n 2fcsgs ""
+    n 2fcsgs "No,{w=0.2} no.{w=0.75}{nw}"
 
 # game/script-events.rpy:2352
 translate spanish event_sanjo_4954b215:
 
     # extend 4fnmaj " Go on.{w=1}{nw}"
-    extend 4fnmaj ""
+    extend 4fnmaj "Venga.{w=1}{nw}"
 
 # game/script-events.rpy:2353
 translate spanish event_sanjo_5a5e6194:
 
     # extend 3fsqca " I {i}insist{/i}."
-    extend 3fsqca ""
+    extend 3fsqca "{i}insisto{/i}."
 
 # game/script-events.rpy:2354
 translate spanish event_sanjo_a9222d92:
 
     # n 3fsqbo "..."
-    n 3fsqbo ""
+    n 3fsqbo "..."
 
 # game/script-events.rpy:2355
 translate spanish event_sanjo_d951662d:
 
     # n 3tsqfl "Well?"
-    n 3tsqfl ""
+    n 3tsqfl "¿Y bien?"
 
 # game/script-events.rpy:2356
 translate spanish event_sanjo_5fa6dee0:
 
     # n 3ccsss "Don't start getting cold feet now,{w=0.2} [player].{w=0.75}{nw}"
-    n 3ccsss ""
+    n 3ccsss "No te acobardes ahora,{w=0.2} [player].{w=0.75}{nw}"
 
 # game/script-events.rpy:2357
 translate spanish event_sanjo_7d619d3b:
 
     # extend 3ccsfl " Spit it out!"
-    extend 3ccsfl ""
+    extend 3ccsfl "¡Escupelo!"
 
 # game/script-events.rpy:2358
 translate spanish event_sanjo_4dc09714:
 
     # n 4csqfs "..."
-    n 4csqfs ""
+    n 4csqfs "..."
 
 # game/script-events.rpy:2359
 translate spanish event_sanjo_90bf70d6:
 
     # n 4fcsfs "Heh.{w=0.75}{nw}"
-    n 4fcsfs ""
+    n 4fcsfs "Je.{w=0.75}{nw}"
