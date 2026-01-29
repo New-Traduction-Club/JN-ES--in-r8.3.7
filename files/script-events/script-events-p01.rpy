@@ -1030,157 +1030,157 @@ translate spanish event_step_by_step_manga_baa266de:
 translate spanish event_step_by_step_manga_532da102:
 
     # n "Improve my daily confidence,{w=0.3} huh?{w=1.5}{nw}"
-    n "mejorar mi "
+    n "mejorar la confianza en mi misma día a día,{w=0.3} ¿eh?{w=1.5}{nw}""
 
 # game/script-events.rpy:1345
 translate spanish event_step_by_step_manga_d2f386d5:
 
     # extend " Okaaay..."
-    extend ""
+    extend "muyyy bienn..."
 
 # game/script-events.rpy:1364
 translate spanish event_step_by_step_manga_6d7cb010:
 
     # n 1uskemesh "...!"
-    n 1uskemesh ""
+    n 1uskemesh "..."
 
 # game/script-events.rpy:1366
 translate spanish event_step_by_step_manga_c822f713:
 
     # n 1fpawrf "[player_initial]-{w=0.3}[player]!{w=0.2} Again?!{w=1}{nw}"
-    n 1fpawrf ""
+    n 1fpawrf ""[player_initial]-{w=0.3}¡[player]!{w=0.2} Again?!{w=1}{nw}"
 
 # game/script-events.rpy:1367
 translate spanish event_step_by_step_manga_c30dbda6:
 
     # extend 1fbkwrf " D-{w=0.3}do you really have to barge in like that {i}every{/i} time?"
-    extend 1fbkwrf ""
+    extend 1fbkwrf "¿E-{w=0.3} es necesario que entres así {i}todo{/i} el tiempo?"
 
 # game/script-events.rpy:1368
 translate spanish event_step_by_step_manga_0f50cdf5:
 
     # n 1flrunfess "Yeesh...{w=1}{nw}"
-    n 1flrunfess ""
+    n 1flrunfess "Dios...{w=1}{nw}"
 
 # game/script-events.rpy:1369
 translate spanish event_step_by_step_manga_27fa7698:
 
     # extend 1fsremfess " I swear you're gonna be the death of me one of these days..."
-    extend 1fsremfess ""
+    extend 1fsremfess "Juro que vas a matarme del susto un día de estos..."
 
 # game/script-events.rpy:1370
 translate spanish event_step_by_step_manga_b7b40498:
 
     # n 1fslpol "..."
-    n 1fslpol ""
+    n 1fslpol "..."
 
 # game/script-events.rpy:1371
 translate spanish event_step_by_step_manga_e49fba51:
 
     # n 1tsqsll "...Huh?"
-    n 1tsqsll ""
+    n 1tsqsll "¿Que?"
 
 # game/script-events.rpy:1372
 translate spanish event_step_by_step_manga_540c678b:
 
     # n 1tnmpul "What?{w=0.2} Is something on my face?"
-    n 1tnmpul ""
+    n 1tnmpul "¿Que sucede? {w=0.2} ¿tengo algo en la cara?"
 
 # game/script-events.rpy:1373
 translate spanish event_step_by_step_manga_ee033385:
 
     # n 1tllpuleqm "..."
-    n 1tllpuleqm ""
+    n 1tllpuleqm "..."
 
 # game/script-events.rpy:1374
 translate spanish event_step_by_step_manga_4428f5dd:
 
     # n 1uskajlesu "O-{w=0.3}oh!{w=0.75}{nw}"
-    n 1uskajlesu ""
+    n 1uskajlesu "A-{w=0.3}¡Ah!{w=0.75}{nw}"
 
 # game/script-events.rpy:1375
 translate spanish event_step_by_step_manga_e68b8d9f:
 
     # extend 1fdwbgl " The book!"
-    extend 1fdwbgl ""
+    extend 1fdwbgl " El libro"
 
 # game/script-events.rpy:1376
 translate spanish event_step_by_step_manga_000864d8:
 
     # n 1fcsbglsbl "I was just..."
-    n 1fcsbglsbl ""
+    n 1fcsbglsbl "Tan solo..."
 
 # game/script-events.rpy:1377
 translate spanish event_step_by_step_manga_0e5f1fe5:
 
     # n 1fllunl "I was..."
-    n 1fllunl ""
+    n 1fllunl "Yo quería"
 
 # game/script-events.rpy:1378
 translate spanish event_step_by_step_manga_bd9e938d:
 
     # n 1fcsunf "Nnnnnn-!"
-    n 1fcsunf ""
+    n 1fcsunf "Mmmmm..."
 
 # game/script-events.rpy:1379
 translate spanish event_step_by_step_manga_e8e32de6:
 
     # n 1fcswrl "I-{w=0.2}I just like the artwork!{w=1}{nw}"
-    n 1fcswrl ""
+    n 1fcswrl "M-{w=0.2} ¡me gusta ver el arte!{w=1}{nw}""
 
 # game/script-events.rpy:1380
 translate spanish event_step_by_step_manga_92db2f1e:
 
     # extend 1fllemlsbl " That's all it is!"
-    extend 1fllemlsbl ""
+    extend 1fllemlsbl "¡Eso es todo!"
 
 # game/script-events.rpy:1381
 translate spanish event_step_by_step_manga_dca0cb47:
 
     # n 1fcswrl "I'm {i}super{/i} confident already!"
-    n 1fcswrl ""
+    n 1fcswrl "Yo  ya me siento {i}súper{/I} segura de mi misma"
 
 # game/script-events.rpy:1382
 translate spanish event_step_by_step_manga_2c4a6ca9:
 
     # n 1fllunlsbl "..."
-    n 1fllunlsbl ""
+    n 1fllunlsbl "..."
 
 # game/script-events.rpy:1383
 translate spanish event_step_by_step_manga_d83df62b:
 
     # n 1fcsemlsbr "A-{w=0.2}and besides,{w=1}{nw}"
-    n 1fcsemlsbr ""
+    n 1fcsemlsbr "A-{w=0.2}aunque,{w=1}{nw}"
 
 # game/script-events.rpy:1384
 translate spanish event_step_by_step_manga_55062b21:
 
     # extend 1fllpol " even if I {i}was{/i} reading it for the self-{w=0.2}help stuff..."
-    extend 1fllpol ""
+    extend 1fllpol "incluso si lo {i}estuviese{/i} leyendo por las cosas de auto-{w=0.2} ayuda..."
 
 # game/script-events.rpy:1385
 translate spanish event_step_by_step_manga_3b1a7e6d:
 
     # n 1kllsll "..."
-    n 1kllsll ""
+    n 1kllsll "..."
 
 # game/script-events.rpy:1386
 translate spanish event_step_by_step_manga_57741379:
 
     # n 1kwmpul "...What'd be wrong with that?"
-    n 1kwmpul ""
+    n 1kwmpul "¿Qué tendría de malo?"
 
 # game/script-events.rpy:1387
 translate spanish event_step_by_step_manga_60af99e3:
 
     # n 1fcsbol "It takes real guts to admit to yourself that you can do better.{w=1}{nw}"
-    n 1fcsbol ""
+    n 1fcsbol "Necesitas agallas para admitir que puedes hacer las cosas mejor"
 
 # game/script-events.rpy:1388
 translate spanish event_step_by_step_manga_b8190705:
 
     # extend 1fnmbol " Can {i}be{/i} better."
-    extend 1fnmbol ""
+    extend 1fnmbol "Que puedes {i}ser{/i} mejor."
 
 # game/script-events.rpy:1389
 translate spanish event_step_by_step_manga_38d82d51:
