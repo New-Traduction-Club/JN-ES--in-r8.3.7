@@ -2,9 +2,9 @@
 
 ## Progreso
 <!-- PROGRESO_TRADUCCION_START -->
-**14753 de 16513 líneas traducidas**
+**14754 de 16513 líneas traducidas**
 
-**Progreso:** 89.34%
+**Progreso:** 89.35%
 <!-- PROGRESO_TRADUCCION_END -->
 
 (Algo está mal con el contador, en realidad ya acabamos, solo faltan los poemas)
