@@ -1726,13 +1726,13 @@ translate spanish apology_sudden_leave_746a0921:
 translate spanish apology_sudden_leave_717f2c20:
 
     # extend 2klrpulsbl " 'Did I do something?'{w=0.75}{nw}"
-    extend 2klrpulsbl " \"¿He hecho algo?\"{w=0.75}{nw}"
+    extend 2klrpulsbl " '¿He hecho algo?'{w=0.75}{nw}"
 
 # game/script-apologies.rpy:560
 translate spanish apology_sudden_leave_87e3c931:
 
     # extend 2kllemlsbl " 'Why did they just bail on me?'"
-    extend 2kllemlsbl " \"¿Por qué ha pasado de mí?\""
+    extend 2kllemlsbl " '¿Por qué ha pasado de mí?'"
 
 # game/script-apologies.rpy:561
 translate spanish apology_sudden_leave_b4d6d843:
