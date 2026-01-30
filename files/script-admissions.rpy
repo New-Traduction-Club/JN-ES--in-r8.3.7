@@ -1420,7 +1420,7 @@ translate spanish admission_bored_4997018d:
 translate spanish admission_bored_2124429d:
 
     # n 4fbkwrl "Are you not entertained?!"
-    n 4fbkwrl "¡¿No te diviertes?!"
+    n 4fbkwrl "¡¿Es que no te la pasas bien?!"
 
 # game/script-admissions.rpy:455
 translate spanish admission_bored_b198c6a2:
@@ -1588,7 +1588,7 @@ translate spanish admission_confident_23d05565:
 translate spanish admission_confident_4f20dacc:
 
     # extend 3fchbgsbr " I {i}knew{/i} you'd snap out of it eventually!"
-    extend 3fchbgsbr " ¡Sabía que se te pasaría tarde o temprano!"
+    extend 3fchbgsbr " ¡Sabía que se te quitaría la tontería tarde o temprano!"
 
 # game/script-admissions.rpy:512
 translate spanish admission_confident_720530fe:
@@ -4000,7 +4000,7 @@ translate spanish admission_sick_d517cf75:
 translate spanish admission_sick_6e9e7962:
 
     # n 2fsqsl "You {i}do{/i} know not eating can make you feel just as crappy as being sick,{w=0.75}{nw}"
-    n 2fsqsl "Sabes perfectamente que no comer puede hacerte sentir tan mal como estar enferm[end_letter_gender],{w=0.75}{nw}"
+    n 2fsqsl "Sabes perfectamente que no comer puede hacerte sentir fatal como estar enferm[end_letter_gender],{w=0.75}{nw}"
 
 # game/script-admissions.rpy:1224
 translate spanish admission_sick_83b04651:
@@ -4108,7 +4108,7 @@ translate spanish admission_sick_9affd39a:
 translate spanish admission_sick_54536b8b:
 
     # n 3fcsfllsbr "Now go sort something out already,{w=0.2} you goof!"
-    n 3fcsfllsbr "¡Ahora ve a arreglarlo de una vez,{w=0.2} bob[end_letter_gender]!"
+    n 3fcsfllsbr "¡Ahora ve a arreglarlo de una vez,{w=0.2} panoli!"
 
 # game/script-admissions.rpy:1249
 translate spanish admission_sick_849deea0:
@@ -4384,7 +4384,7 @@ translate spanish admission_tired_f4358e99:
 translate spanish admission_tired_c4cd7bac:
 
     # extend 2fchgn " Of course you're gonna feel tired if you're hungry!"
-    extend 2fchgn " ¡Claro que vas a estar cansad[end_letter_gender] si tienes hambre!"
+    extend 2fchgn " ¡Pues claro que vas a estar cansad[end_letter_gender] si tienes hambre!"
 
 # game/script-admissions.rpy:1354
 translate spanish admission_tired_caa80f3d:
@@ -4468,7 +4468,7 @@ translate spanish admission_tired_f2adb0d1:
 translate spanish admission_tired_aa3e1dd5:
 
     # extend 4fcscalsbl " Obviously."
-    extend 4fcscalsbl " Obviamente."
+    extend 4fcscalsbl " Evidentemente."
 
 # game/script-admissions.rpy:1375
 translate spanish admission_tired_d751b6c4:
