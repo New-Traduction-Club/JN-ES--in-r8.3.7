@@ -620,7 +620,7 @@ translate spanish greeting_normal_back_again_76d94f6f:
 translate spanish greeting_normal_back_again_e1e1e361:
 
     # n 7tnmsleqm "...?"
-    n 7tnmsleqm "...?"
+    n 7tnmsleqm "¿...?"
 
 # game/script-greetings.rpy:1715
 translate spanish greeting_normal_back_again_75ae041b:
@@ -644,7 +644,7 @@ translate spanish greeting_normal_back_again_dcfa3727:
 translate spanish greeting_normal_back_again_777f5a54:
 
     # n 3ccstrlsbl "N-{w=0.2}not that I have a problem with it,{w=0.2} or anything like that.{w=0.75}{nw}"
-    n 3ccstrlsbl "N-{w=0.2}no es que tenga ningún problema con ello,{w=0.2} ni nada por el estilo.{w=0.75}{nw}"
+    n 3ccstrlsbl "N-{w=0.2}No es que tenga ningún problema con ello,{w=0.2} ni nada por el estilo.{w=0.75}{nw}"
 
 # game/script-greetings.rpy:1719
 translate spanish greeting_normal_back_again_61c2f17c:
@@ -668,7 +668,7 @@ translate spanish greeting_normal_back_again_312b11db:
 translate spanish greeting_normal_back_again_74339ebd:
 
     # extend 3tnmbo " what have you got for me [time_descriptor],{w=0.2} [player]?"
-    extend 3tnmbo " ¿qué me traes [time_descriptor],{w=0.2} [player]?"
+    extend 3tnmbo " ¿qué me traes hoy,{w=0.2} [player]?"
 
 # game/script-greetings.rpy:1744
 translate spanish greeting_distressed_upset_oh_its_you_b045b7e1:
