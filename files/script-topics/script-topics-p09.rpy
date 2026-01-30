@@ -657,7 +657,7 @@ translate spanish talk_learning_languages_a884d9f6:
 translate spanish talk_learning_languages_a65391fb:
 
     # n "[menu_opening]" nointeract
-    n "" nointeract
+    n "[menu_opening]" nointeract
 
 # game/script-topics.rpy:9851
 translate spanish talk_learning_languages_cbe9e702:
