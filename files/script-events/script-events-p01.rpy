@@ -598,7 +598,7 @@ translate spanish event_not_ready_yet_9832f36b:
 translate spanish event_not_ready_yet_46d9ab63:
 
     # extend 3fcsbgl " what's up,{w=0.2} [player]?"
-    extend 3fcsbgl " ¿Cómo estás,{w=0.2} [player]?""
+    extend 3fcsbgl " ¿Cómo estás,{w=0.2} [player]?"
 
 # game/script-events.rpy:1106
 translate spanish event_renpy_for_dummies_bb2cf764:
@@ -1738,7 +1738,7 @@ translate spanish event_eyewear_problems_a60c8d73:
 translate spanish event_eyewear_problems_ab7c2f3e:
 
     # n 2fnmwrl "And as if you acting like a jerk {i}isn't{/i}?"
-    n 2fnmwrl ""
+    n 2fnmwrl "¿Y actuar como un idiota no lo es?"
 
 # game/script-events.rpy:1621
 translate spanish event_eyewear_problems_5ac02487:
