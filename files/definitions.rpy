@@ -4,137 +4,137 @@ translate spanish strings:
 
     # game/definitions.rpy:1811
     old "dummy"
-    new ""
+    new "tontito"
 
     # game/definitions.rpy:1811
     old "you big dummy"
-    new ""
+    new "pedazo de tonto"
 
     # game/definitions.rpy:1811
     old "silly"
-    new ""
+    new "bobo"
 
     # game/definitions.rpy:1811
     old "stupid"
-    new ""
+    new "estúpido"
 
     # game/definitions.rpy:1811
     old "you dork"
-    new ""
+    new "pasmado"
 
     # game/definitions.rpy:1811
     old "you big dork"
-    new ""
+    new "pedazo de pasmado"
 
     # game/definitions.rpy:1811
     old "you goof"
-    new ""
+    new "payaso"
 
     # game/definitions.rpy:1811
     old "you goofball"
-    new ""
+    new "ganso"
 
     # game/definitions.rpy:1811
     old "you numpty"
-    new ""
+    new "zopenco"
 
     # game/definitions.rpy:1811
     old "you donut"
-    new ""
+    new "merluzo"
 
     # game/definitions.rpy:1811
     old "you dope"
-    new ""
+    new "lelo"
 
     # game/definitions.rpy:1811
     old "you big goof"
-    new ""
+    new "pedazo de payaso"
 
     # game/definitions.rpy:1811
     old "you big dope"
-    new ""
+    new "pedazo de lelo"
 
     # game/definitions.rpy:1833
     old "dork"
-    new ""
+    new "pasmado"
 
     # game/definitions.rpy:1833
     old "goof"
-    new ""
+    new "payaso"
 
     # game/definitions.rpy:1833
     old "donut"
-    new ""
+    new "merluzo"
 
     # game/definitions.rpy:1833
     old "dope"
-    new ""
+    new "lelo"
 
     # game/definitions.rpy:1846
     old "babe"
-    new ""
+    new "cielo"
 
     # game/definitions.rpy:1846
     old "darling"
-    new ""
+    new "cariño"
 
     # game/definitions.rpy:1846
     old "hun"
-    new ""
+    new "encanto"
 
     # game/definitions.rpy:1846
     old "my love"
-    new ""
+    new "amor"
 
     # game/definitions.rpy:1846
     old "sweetheart"
-    new ""
+    new "corazón"
 
     # game/definitions.rpy:1846
     old "sweetie"
-    new ""
+    new "vida"
 
     # game/definitions.rpy:1861
     old "amazing"
-    new ""
+    new "increíble"
 
     # game/definitions.rpy:1861
     old "awesome"
-    new ""
+    new "impresionante"
 
     # game/definitions.rpy:1861
     old "really awesome"
-    new ""
+    new "alucinante"
 
     # game/definitions.rpy:1861
     old "really great"
-    new ""
+    new "genial"
 
     # game/definitions.rpy:1861
     old "so sweet"
-    new ""
+    new "tan tierno"
 
     # game/definitions.rpy:1861
     old "the best"
-    new ""
+    new "lo mejor"
 
     # game/definitions.rpy:1875
     old "jerk"
-    new ""
+    new "capullo"
 
     # game/definitions.rpy:1875
     old "idiot"
-    new ""
+    new "idiota"
 
     # game/definitions.rpy:1875
     old "moron"
-    new ""
+    new "mendrugo"
 
     # game/definitions.rpy:1875
     old "loser"
-    new ""
+    new "fracasado"
 
     # game/definitions.rpy:1875
     old "you ass"
-    new ""
+    new "imbécil"
 
