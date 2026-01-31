@@ -10,7 +10,7 @@ translate spanish introduction_first_meeting_aa0116e7:
 translate spanish introduction_first_meeting_3cef4dba:
 
     # n 4uskwrtsc "S-{w=0.1}somebody!{w=0.5} ANYBODY?!{w=0.5} HELP!{w=0.5}{nw}"
-    n 4uskwrtsc "¡A-{w=0.1}alguien!{w=0.5} ¡¿QUIEN SEA?!{w=0.5} ¡SOCORRO!{w=0.5}{nw}"
+    n 4uskwrtsc "¡A-{w=0.1}Alguien!{w=0.5} ¡¿QUIEN SEA?!{w=0.5} ¡SOCORRO!{w=0.5}{nw}"
 
 # game/script-introduction.rpy:140
 translate spanish introduction_first_meeting_2771fb11:
@@ -28,13 +28,13 @@ translate spanish introduction_first_meeting_851b34d7:
 translate spanish introduction_first_meeting_58cc014b:
 
     # n 1ullem "S-{w=0.3}she's..."
-    n 1ullem "E-{w=0.3}ella está..."
+    n 1ullem "E-{w=0.3}Ella está..."
 
 # game/script-introduction.rpy:143
 translate spanish introduction_first_meeting_aa1b3f4c:
 
     # n 1uskem "...H-{w=0.3}huh?"
-    n 1uskem "... ¿E-{w=0.3}eh?"
+    n 1uskem "... ¿E-{w=0.3}Eh?"
 
 # game/script-introduction.rpy:144
 translate spanish introduction_first_meeting_8f120d45:
@@ -70,13 +70,13 @@ translate spanish introduction_first_meeting_8380c544:
 translate spanish introduction_first_meeting_a62413ea:
 
     # n 1kcsantsasbl "I-{w=0.3}it hurts...{w=0.5} it hurts so much...{w=1}{nw}"
-    n 1kcsantsasbl "D-{w=0.3}duele...{w=0.5} duele muchísimo...{w=1}{nw}"
+    n 1kcsantsasbl "D-{w=0.3}Duele...{w=0.5} duele muchísimo...{w=1}{nw}"
 
 # game/script-introduction.rpy:166
 translate spanish introduction_first_meeting_2c300ac7:
 
     # n 1kskan "A-{w=0.1}and I'm..."
-    n 1kskan "Y-{w=0.1}y estoy..."
+    n 1kskan "Y-{w=0.1}Y estoy..."
 
 # game/script-introduction.rpy:167
 translate spanish introduction_first_meeting_09ab4307:
@@ -88,7 +88,7 @@ translate spanish introduction_first_meeting_09ab4307:
 translate spanish introduction_first_meeting_4c590bc7:
 
     # extend 4kscemsbl " ...Oh please no.{w=0.5} I-{w=0.3}I can't.{w=0.5} I really can't be...{w=0.5}{nw}"
-    extend 4kscemsbl " ... Oh, por favor, no.{w=0.5} N-{w=0.3}no puedo.{w=0.5} De verdad que no puedo estar...{w=0.5}{nw}"
+    extend 4kscemsbl " ... Oh, por favor, no.{w=0.5} N-{w=0.3}No puedo.{w=0.5} De verdad que no puedo estar...{w=0.5}{nw}"
 
 # game/script-introduction.rpy:175
 translate spanish introduction_first_meeting_db560f4f:
@@ -100,7 +100,7 @@ translate spanish introduction_first_meeting_db560f4f:
 translate spanish introduction_first_meeting_50aab469:
 
     # extend 4kcsuptsaeso " M-{w=0.3}my head..."
-    extend 4kcsuptsaeso " M-{w=0.3}mi cabeza..."
+    extend 4kcsuptsaeso " M-{w=0.3}Mi cabeza..."
 
 # game/script-introduction.rpy:177
 translate spanish introduction_first_meeting_72978b3e:
@@ -142,7 +142,7 @@ translate spanish introduction_first_meeting_1f2b0788:
 translate spanish introduction_first_meeting_5fcba423:
 
     # n 4kwdun "...H-{w=0.1}hello?{w=1}{nw}"
-    n 4kwdun "... ¿H-{w=0.1}hola?{w=1}{nw}"
+    n 4kwdun "... ¿H-{w=0.1}Hola?{w=1}{nw}"
 
 # game/script-introduction.rpy:190
 translate spanish introduction_first_meeting_b5c6851d:
@@ -160,13 +160,13 @@ translate spanish introduction_first_meeting_4fb09489:
 translate spanish introduction_first_meeting_d46118de:
 
     # n 4kscemtsc "A-{w=0.1}anybody?!{w=0.5} Please!{w=0.5} H-{w=0.3}hello?!"
-    n 4kscemtsc "¡¿A-{w=0.1}alguien?!{w=0.5} ¡Por favor!{w=0.5} ¡¿H-{w=0.3}hola?!"
+    n 4kscemtsc "¡¿A-{w=0.1}Alguien?!{w=0.5} ¡Por favor!{w=0.5} ¡¿H-{w=0.3}Hola?!"
 
 # game/script-introduction.rpy:199
 translate spanish introduction_first_meeting_11ae072e:
 
     # n 4kskaj "W-{w=0.3}who is...?{w=1}{nw}"
-    n 4kskaj "¿Q-{w=0.3}quién es...?{w=1}{nw}"
+    n 4kskaj "¿Q-{w=0.3}Quién es...?{w=1}{nw}"
 
 # game/script-introduction.rpy:200
 translate spanish introduction_first_meeting_58653183:

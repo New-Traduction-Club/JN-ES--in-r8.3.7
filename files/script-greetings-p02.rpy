@@ -476,7 +476,7 @@ translate spanish greeting_normal_happy_nevermind_7ffe9917:
 translate spanish greeting_normal_happy_nevermind_98a282f7:
 
     # extend 3ccssssbr " H-{w=0.2}hey, [player]."
-    extend 3ccssssbr " H-{w=0.2}hola, [player]."
+    extend 3ccssssbr " H-{w=0.2}Hola, [player]."
 
 # game/script-greetings.rpy:1649
 translate spanish greeting_normal_happy_nevermind_1b06654b:
@@ -494,7 +494,7 @@ translate spanish greeting_normal_happy_nevermind_b4670c25:
 translate spanish greeting_normal_happy_nevermind_f056968a:
 
     # n 4ccsflsbr "N-{w=0.2}nevermind.{w=0.75}{nw}"
-    n 4ccsflsbr "O-{w=0.2}olvídalo.{w=0.75}{nw}"
+    n 4ccsflsbr "O-{w=0.2}Olvídalo.{w=0.75}{nw}"
 
 # game/script-greetings.rpy:1654
 translate spanish greeting_normal_happy_nevermind_374f222a:
