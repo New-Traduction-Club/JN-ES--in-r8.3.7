@@ -258,3 +258,23 @@ translate spanish strings:
     old "Close"
     new "Cerrar"
 
+    # game/screens.rpy:1375
+    old "Random chatter: {0}"
+    new "Charla ocasional: {0}"
+
+    # game/screens.rpy:1393
+    old "Sunrise: {0}AM"
+    new "Amanecer: {0}AM"
+
+    # game/screens.rpy:1396
+    old "Sunset: {0}PM"
+    new "Anochecer: {0}PM"
+
+    # game/screens.rpy:1401
+    old "Music Volume: {0}%"
+    new "Volumen de música: {0}%"
+
+    # game/screens.rpy:1408
+    old "Sound Volume: {0}%"
+    new "Volumen de sonido: {0}%"
+

@@ -3509,7 +3509,7 @@ translate spanish strings:
 
     # game/script-topics.rpy:2480
     old "Do you have a sweet tooth?"
-    new "¿Eres golos[end_letter_gender]?"
+    new "¿Eres golosa?"
 
     # game/script-topics.rpy:2550
     old "My appearance"
