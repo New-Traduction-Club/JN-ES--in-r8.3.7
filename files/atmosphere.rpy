@@ -214,3 +214,7 @@ translate spanish strings:
     old "[player]! Is it snowing for you too?! [happy_emote]"
     new "¡[player]! ¡¿Está nevando por ahí también?! [happy_emote]"
 
+    # game/atmosphere.rpy:363
+    old "Failed to update weather; please check log for more information."
+    new "No se ha podido actualizar el clima; revisa el 'log' para más información."
+

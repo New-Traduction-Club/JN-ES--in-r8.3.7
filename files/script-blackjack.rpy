@@ -1432,3 +1432,19 @@ translate spanish strings:
     old "You're on!"
     new "¡Venga, vamos!"
 
+    # game/script-blackjack.rpy:774
+    old "Do you actually {i}want{/i} to play blackjack or not?"
+    new "¿De verdad quieres jugar al blackjack o no?"
+
+    # game/script-blackjack.rpy:786
+    old "You can {i}easily{/i} play at least a couple more games...{w=0.5} right?"
+    new "Puedes jugar fácilmente al menos un par de partidas más...{w=0.5} ¿no?"
+
+    # game/script-blackjack.rpy:797
+    old "You're sure you don't wanna keep playing,{w=0.2} [player]?"
+    new "¿Seguro de que no quieres seguir jugando,{w=0.2} [player]?"
+
+    # game/script-blackjack.rpy:808
+    old "You can at {i}least{/i} stick it out to the end of this one,{w=0.2} right?"
+    new "Venga [player], yo sé que puedes aguantar al menos hasta el final de esta...
+

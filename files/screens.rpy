@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/screens.rpy:34
     old "All hotkeys"
-    new "Atajos de teclado"
+    new "General"
 
     # game/screens.rpy:41
     old "Talk"
@@ -64,7 +64,7 @@ translate spanish strings:
 
     # game/screens.rpy:70
     old "Snap hotkeys"
-    new "Atajos de Snap"
+    new "Snap"
 
     # game/screens.rpy:77
     old "Place"
@@ -84,7 +84,7 @@ translate spanish strings:
 
     # game/screens.rpy:91
     old "Blackjack hotkeys"
-    new "Atajos de Blackjack"
+    new "Blackjack"
 
     # game/screens.rpy:98
     old "Hit!"

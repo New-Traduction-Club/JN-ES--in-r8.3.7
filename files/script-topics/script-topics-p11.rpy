@@ -4195,3 +4195,110 @@ translate spanish strings:
     old "Shaving"
     new "Depilación"
 
+    # game/script-topics.rpy:261
+    old "Do you have any pets,{w=0.2} or...?"
+    new "¿Tienes mascota,{w=0.2} o...?"
+
+    # game/script-topics.rpy:261
+    old "Did you just get another pet,{w=0.2} or...?"
+    new "¿Te has hecho con otra mascota,{w=0.2} o...?"
+
+    # game/script-topics.rpy:262
+    old "Yes, I do."
+    new "Sí, tengo."
+
+    # game/script-topics.rpy:262
+    old "Yes, I did."
+    new "Sí, así es."
+
+    # game/script-topics.rpy:263
+    old "No, I don't."
+    new "No, no tengo."
+
+    # game/script-topics.rpy:263
+    old "No, I didn't."
+    new "No, qué va."
+
+    # game/script-topics.rpy:264
+    old "I used to."
+    new "Antes tenía."
+
+    # game/script-topics.rpy:264
+    old "I lost one."
+    new "Perdí una."
+
+    # game/script-topics.rpy:283
+    old "Birds"
+    new "Pájaros"
+
+    # game/script-topics.rpy:283
+    old "Cats"
+    new "Gatos"
+
+    # game/script-topics.rpy:283
+    old "Chameleons"
+    new "Camaleones"
+
+    # game/script-topics.rpy:283
+    old "Dogs"
+    new "Perros"
+
+    # game/script-topics.rpy:283
+    old "Ferrets"
+    new "Hurones"
+
+    # game/script-topics.rpy:283
+    old "Fish"
+    new "Peces"
+
+    # game/script-topics.rpy:283
+    old "Frogs"
+    new "Ranas"
+
+    # game/script-topics.rpy:283
+    old "Geckos"
+    new "Geckos"
+
+    # game/script-topics.rpy:283
+    old "Gerbils"
+    new "Jerbos"
+
+    # game/script-topics.rpy:283
+    old "Guinea pigs"
+    new "Cobayas"
+
+    # game/script-topics.rpy:283
+    old "Hamsters"
+    new "Hámsteres"
+
+    # game/script-topics.rpy:283
+    old "Horses"
+    new "Caballos"
+
+    # game/script-topics.rpy:283
+    old "Insects"
+    new "Insectos"
+
+    # game/script-topics.rpy:283
+    old "Lizards"
+    new "Lagartos"
+
+    # game/script-topics.rpy:283
+    old "Mice"
+    new "Ratones"
+
+    # game/script-topics.rpy:283
+    old "Rats"
+    new "Ratas"
+
+    # game/script-topics.rpy:283
+    old "Rabbits"
+    new "Conejos"
+
+    # game/script-topics.rpy:283
+    old "Snakes"
+    new "Serpientes"
+
+    # game/script-topics.rpy:283
+    old "Something else"
+    new "Otra cosa"

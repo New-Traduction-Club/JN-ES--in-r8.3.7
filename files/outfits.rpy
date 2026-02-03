@@ -3261,3 +3261,28 @@ translate spanish strings:
     # game/outfits.rpy:2894
     old "What's the name of this outfit, [player]?"
     new "[player], ¿qué nombre le quieres poner?"
+
+    # game/outfits.rpy:1011
+    old "One or more outfits failed to load; please check log for more information."
+    new "No se han podido cargar uno o más conjuntos; revisa el 'log' para más información."
+
+    # game/outfits.rpy:1043
+    old "One or more wearables failed to load; please check log for more information."
+    new "No se han podido cargar una o más conjuntos; revisa el 'log' para más información."
+
+    # game/outfits.rpy:1186
+    old "Outfit saved!"
+    new "¡Conjunto guardado!"
+
+    # game/outfits.rpy:1190
+    old "Outfit save failed; check log for more information."
+    new "No se ha podido guardar el conjunto; revisa el 'log' para más información."
+
+    # game/outfits.rpy:1203
+    old "Delete outfit failed; check log for more information."
+    new "No se ha podido borrar el conjunto; revisa el 'log' para más información."
+
+    # game/outfits.rpy:1222
+    old "Outfit deleted!"
+    new "¡Conjunto eliminado!"
+
