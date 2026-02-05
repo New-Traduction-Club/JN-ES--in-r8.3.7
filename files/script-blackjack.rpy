@@ -1022,7 +1022,7 @@ translate spanish strings:
 
     # game/script-blackjack.rpy:301
     old "Yours!"
-    new "¡Tuya!"
+    new "¡Tuyo!"
 
     # game/script-blackjack.rpy:310
     old "Forfeit"
