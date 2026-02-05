@@ -1446,5 +1446,5 @@ translate spanish strings:
 
     # game/script-blackjack.rpy:808
     old "You can at {i}least{/i} stick it out to the end of this one,{w=0.2} right?"
-    new "Venga [player], yo sé que puedes aguantar al menos hasta el final de esta...
+    new "Venga [player], yo sé que puedes aguantar al menos hasta el final de esta..."
 
