@@ -4302,3 +4302,19 @@ translate spanish strings:
     # game/script-topics.rpy:283
     old "Something else"
     new "Otra cosa"
+
+    # game/script-topics.rpy:7972
+    old "Drinking something else now?"
+    new "¿Prefieres otra cosa?"
+
+    # game/script-topics.rpy:7972
+    old "What's your pick?"
+    new "¿Qué me dices?"
+
+    # game/script-topics.rpy:9844
+    old "Anything new in the language department?"
+    new "¿Qué hay nuevo en el departamento de idiomas?"
+
+    # game/script-topics.rpy:9844
+    old "You know any other languages?"
+    new "¿Sabes algún otro idioma?"
