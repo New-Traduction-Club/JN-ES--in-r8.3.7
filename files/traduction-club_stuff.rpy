@@ -36,3 +36,6 @@ translate spanish strings:
     old "Enter the name of the gift for Nat\n(include the '.nats' extension):"
     new "Coloca el nombre del regalo\n(recuerda colocar \".nats\" al final del nombre):"
 
+    old "Give Gift"
+    new "Dar regalo"
+
