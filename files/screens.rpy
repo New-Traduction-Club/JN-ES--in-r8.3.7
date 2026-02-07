@@ -278,3 +278,5 @@ translate spanish strings:
     old "Sound Volume: {0}%"
     new "Volumen de sonido: {0}%"
 
+    old "Credits"
+    new "Créditos"
