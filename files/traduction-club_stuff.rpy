@@ -32,3 +32,7 @@ translate spanish strings:
     old "Predefined Gifts"
     new "Regalos por defecto"
 
+    # game/traduction-club_stuff.rpy:162
+    old "Enter the name of the gift for Nat\n(include the '.nats' extension):"
+    new "Coloca el nombre del regalo\n(recuerda colocar \".nats\" al final del nombre):"
+
