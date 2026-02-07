@@ -330,3 +330,43 @@ translate spanish strings:
     old "{0} headpats given"
     new "{0} caricias dadas"
 
+    # game/script-headpats.rpy:273
+    old "...Satisfied?"
+    new "... ¿Satisfecho"
+
+    # game/script-headpats.rpy:273
+    old "Happy now,{w=0.2} [player]?"
+    new "¿Ya estás contento,{w=0.2} [player]?"
+
+    # game/script-headpats.rpy:273
+    old "...Y-{w=0.3}you're done now?"
+    new "... ¿Y-{w=0.3}Ya has terminado?"
+
+    # game/script-headpats.rpy:273
+    old "A-{w=0.2}all done,{w=0.2} [player]?"
+    new "¿Y-{w=0.2}Ya has acabado,{w=0.2} [player]?"
+
+    # game/script-headpats.rpy:273
+    old "I-{w=0.2}is that all,{w=0.2} [player]?"
+    new "¿E-{w=0.2}Eso es todo,{w=0.2} [player]?"
+
+    # game/script-headpats.rpy:282
+    old "...Good."
+    new "... Vale."
+
+    # game/script-headpats.rpy:282
+    old "...A-{w=0.2}about time."
+    new "... Y-{w=0.2}Ya era hora."
+
+    # game/script-headpats.rpy:282
+    old "Finally...{w=0.5} jeez..."
+    new "Por fin...{w=0.5} jolín..."
+
+    # game/script-headpats.rpy:282
+    old "T-{w=0.2}took you long enough."
+    new "T-{w=0.2}Te has tomado tu tiempo."
+
+    # game/script-headpats.rpy:282
+    old "Finally..."
+    new "Por fin..."
+
