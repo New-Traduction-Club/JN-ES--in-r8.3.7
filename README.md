@@ -2,7 +2,7 @@
 
 ## Progreso
 <!-- PROGRESO_TRADUCCION_START -->
-**14811 de 16571 líneas traducidas**
+**14812 de 16572 líneas traducidas**
 
 **Progreso:** 89.38%
 <!-- PROGRESO_TRADUCCION_END -->
