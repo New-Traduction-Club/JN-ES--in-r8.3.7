@@ -21,7 +21,7 @@ translate spanish talk_custom_music_explanation_33fb680c:
 translate spanish talk_custom_music_explanation_86fc3796:
 
     # n 1nnmaj "Once you've done that,{w=0.1} just click the {i}Music{/i} button,{w=0.1} and I'll check that it's all done right."
-    n 1nnmaj "Una vez hecho,{w=0.1} dale al botón {i}Music{/i},{w=0.1} y comprobaré que todo esté bien."
+    n 1nnmaj "Una vez hecho,{w=0.1} dale al botón {i}Música{/i},{w=0.1} y comprobaré que todo esté bien."
 
 # game/script-topics.rpy:6275
 translate spanish talk_custom_music_explanation_d71c6879:
