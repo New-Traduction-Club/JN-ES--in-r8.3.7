@@ -165,7 +165,7 @@ translate spanish talk_daily_jokes_stop_e795d8b6:
 translate spanish talk_daily_jokes_seen_before_start_6e0a8e0f:
 
     # n 4ccsss "Oh?{w=0.75}{nw}"
-    n 4ccsss "¿Oh?{w=0.75}{nw}"
+    n 4ccsss "¿Eh?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:10906
 translate spanish talk_daily_jokes_seen_before_start_4b4ac434:
@@ -213,13 +213,13 @@ translate spanish talk_daily_jokes_seen_before_start_c11fb641:
 translate spanish talk_daily_jokes_seen_before_start_e17be501:
 
     # n 1csqss "Oh?{w=0.75}{nw}"
-    n 1csqss "¿Oh?{w=0.75}{nw}"
+    n 1csqss "¿Eh?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:10916
 translate spanish talk_daily_jokes_seen_before_start_b7656206:
 
     # extend 4fnmss " Am I hearing this right?"
-    extend 4fnmss " ¿He oído bien?"
+    extend 4fnmss " ¿Escuché bien?"
 
 # game/scripttopics.rpy:10917
 translate spanish talk_daily_jokes_seen_before_start_a80b0e63:
@@ -309,7 +309,7 @@ translate spanish talk_daily_jokes_seen_before_start_6aded098:
 translate spanish talk_daily_jokes_seen_before_loop_0093089b:
 
     # n 1unmaj "Ooh!{w=0.75}{nw}"
-    n 1unmaj "¡Ooh!{w=0.75}{nw}"
+    n 1unmaj "¡Ah!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:10981
 translate spanish talk_daily_jokes_seen_before_loop_432b52da:
@@ -345,7 +345,7 @@ translate spanish talk_daily_jokes_seen_before_loop_45948cd8:
 translate spanish talk_daily_jokes_seen_before_loop_c5857146:
 
     # n 1uspbg "Oh!{w=0.2} Oh!{w=0.5}{nw}"
-    n 1uspbg "¡Oh!{w=0.2} ¡Oh!{w=0.5}{nw}"
+    n 1uspbg "¡Ah!{w=0.2}{nw}"
 
 # game/scripttopics.rpy:10991
 translate spanish talk_daily_jokes_seen_before_loop_dfea3182:
@@ -405,7 +405,7 @@ translate spanish talk_daily_jokes_seen_before_loop_c965428b:
 translate spanish talk_daily_jokes_seen_before_loop_0c562ac0:
 
     # n 1fcsan "Oh,{w=0.2} for-{w=0.5}{nw}"
-    n 1fcsan "¡Oh,{w=0.2} por el am-{w=0.5}{nw}"
+    n 1fcsan "¡Ah,{w=0.2} por el amor de...{w=0.5}{nw}"
 
 # game/scripttopics.rpy:11015
 translate spanish talk_daily_jokes_seen_before_loop_ba4492d1_1:
@@ -1035,7 +1035,7 @@ translate spanish talk_daily_jokes_seen_before_loop_ef64f9c8:
 translate spanish talk_daily_jokes_seen_before_loop_5fdab9f5:
 
     # n 1fcsss "Oh?{w=0.75}{nw}"
-    n 1fcsss "¿Oh?{w=0.75}{nw}"
+    n 1fcsss "¿Eh?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11215
 translate spanish talk_daily_jokes_seen_before_loop_62aaa90e:
@@ -3237,7 +3237,7 @@ translate spanish talk_can_you_draw_f335bfe2:
 translate spanish talk_can_you_draw_a796311a:
 
     # n 4fsqcs "Oh?{w=0.75}{nw}"
-    n 4fsqcs "¿Oh?{w=0.75}{nw}"
+    n 4fsqcs "¿Eh?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11786
 translate spanish talk_can_you_draw_11a99182:
@@ -3873,7 +3873,7 @@ translate spanish talk_enable_no_topics_reminder_170e63fe:
 translate spanish talk_enable_no_topics_reminder_535765e9:
 
     # n 2unmajesu "Oh!{w=0.75}{nw}"
-    n 2unmajesu "¡Oh!{w=0.75}{nw}"
+    n 2unmajesu "¡Eh!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11946
 translate spanish talk_enable_no_topics_reminder_32c2288b:
@@ -3915,7 +3915,7 @@ translate spanish talk_enable_no_topics_reminder_01499db9:
 translate spanish talk_enable_no_topics_reminder_3db7572e:
 
     # n 4unmajesu "Oh!{w=0.75}{nw}"
-    n 4unmajesu "¡Oh!{w=0.75}{nw}"
+    n 4unmajesu "¡Ah!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11956
 translate spanish talk_enable_no_topics_reminder_3ac53a44:
@@ -3945,7 +3945,7 @@ translate spanish talk_enable_no_topics_reminder_1339263c:
 translate spanish talk_enable_no_topics_reminder_ce264292:
 
     # n 2unmfleex "Oh!{w=0.75}{nw}"
-    n 2unmfleex "¡Oh!{w=0.75}{nw}"
+    n 2unmfleex "¡Ah!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11963
 translate spanish talk_enable_no_topics_reminder_49811971:

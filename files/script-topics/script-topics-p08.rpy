@@ -165,7 +165,7 @@ translate spanish talk_fear_of_flying_21358120:
 translate spanish talk_fear_of_flying_cb49e332:
 
     # n 1fcsem "Oh,{w=1}{nw}"
-    n 1fcsem "Oh,{w=1}{nw}"
+    n 1fcsem "Eh,{w=1}{nw}"
 
 # game/scripttopics.rpy:8485
 translate spanish talk_fear_of_flying_0d6b70b4:
@@ -333,7 +333,7 @@ translate spanish talk_what_do_you_think_about_fanart_2ede1d47:
 translate spanish talk_what_do_you_think_about_fanart_65265f6b:
 
     # n 1fcsantsa "Oh,{w=0.1} for-{w=0.5}{nw}"
-    n 1fcsantsa "Oh,{w=0.1} venga ya...{w=0.5}{nw}"
+    n 1fcsantsa "Eh,{w=0.1} venga ya...{w=0.5}{nw}"
 
 # game/scripttopics.rpy:8541
 translate spanish talk_what_do_you_think_about_fanart_09f04f8d:
@@ -1245,7 +1245,7 @@ translate spanish talk_windup_bullying_aac3b032:
 translate spanish talk_windup_bullying_4007c422:
 
     # extend 4uskemesh " O-{w=0.3}oh!{w=0.5}{nw}"
-    extend 4uskemesh " ¡O-{w=0.3}Oh!{w=0.5}{nw}"
+    extend 4uskemesh " ¡A-{w=0.3}Ah!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:8752
 translate spanish talk_windup_bullying_77394a31:
@@ -2913,7 +2913,7 @@ translate spanish talk_players_birthday_outro_4679b060:
 translate spanish talk_players_birthday_outro_885ad7c9:
 
     # n 1uskajl "Oh,{w=1.5}{nw}"
-    n 1uskajl "Oh,{w=1.5}{nw}"
+    n 1uskajl "Ah,{w=1.5}{nw}"
 
 # game/scripttopics.rpy:9331
 translate spanish talk_players_birthday_outro_ae7671d5:
@@ -3447,13 +3447,13 @@ translate spanish talk_chocolate_preference_e421569f:
 translate spanish talk_chocolate_preference_b88a916a:
 
     # n 3fcsansbl "Oh,{w=1}{nw}"
-    n 3fcsansbl "Oh,{w=1}{nw}"
+    n 3fcsansbl "Eh,{w=1}{nw}"
 
 # game/scripttopics.rpy:9568
 translate spanish talk_chocolate_preference_5d3e0736:
 
     # extend 3fsremsbl " {i}please{/i}."
-    extend 3fsremsbl " {i}por favor{/i}."
+    extend 3fsremsbl " porfa."
 
 # game/scripttopics.rpy:9571
 translate spanish talk_chocolate_preference_98c3932d:

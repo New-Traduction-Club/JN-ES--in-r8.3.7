@@ -393,7 +393,7 @@ translate spanish talk_how_do_you_feel_about_me_451c3cec:
 translate spanish talk_how_do_you_feel_about_me_59d5396e:
 
     # n 2fllbgl "O-oh! Ahaha..."
-    n 2fllbgl "¡O-Oh! Ja, ja, ja..."
+    n 2fllbgl "¡A-Ah! Ja, ja, ja..."
 
 # game/scripttopics.rpy:5118
 translate spanish talk_how_do_you_feel_about_me_704f8813:
@@ -423,7 +423,7 @@ translate spanish talk_how_do_you_feel_about_me_e76a62c8:
 translate spanish talk_how_do_you_feel_about_me_7e81dcd1:
 
     # n 1fllbg "O-oh!"
-    n 1fllbg "¡O-Oh!"
+    n 1fllbg "¡A-Ah!"
 
 # game/scripttopics.rpy:5126
 translate spanish talk_how_do_you_feel_about_me_22f61e17:
@@ -1047,7 +1047,7 @@ translate spanish talk_are_you_into_cosplay_1df6c845:
 translate spanish talk_are_you_into_cosplay_e66d0629:
 
     # extend 3fcsbg " Oh,{w=0.2} you bet."
-    extend 3fcsbg " Oh,{w=0.2} ya te digo."
+    extend 3fcsbg " Ah,{w=0.2} ya te digo."
 
 # game/scripttopics.rpy:5293
 translate spanish talk_are_you_into_cosplay_c0834dba:
@@ -3645,7 +3645,7 @@ translate spanish talk_custom_music_introduction_69f3134a:
 translate spanish talk_custom_music_introduction_14b58ecd:
 
     # n 1unmajesu "Oh!{w=0.5}{nw}"
-    n 1unmajesu "¡Oh!{w=0.5}{nw}"
+    n 1unmajesu "¡Ah!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:6167
 translate spanish talk_custom_music_introduction_04454c17:

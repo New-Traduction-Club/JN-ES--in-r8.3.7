@@ -2145,7 +2145,7 @@ translate spanish talk_realizations_player_ddlc_actions_6d7db15a:
 translate spanish talk_realizations_player_ddlc_actions_07a97634:
 
     # n 4uchbsl "Oh,{w=0.1} lighten up,{w=0.1} [chosen_tease]!"
-    n 4uchbsl "¡Oh,{w=0.1} anímate,{w=0.1} [chosen_tease]!"
+    n 4uchbsl "¡Eh,{w=0.1} anímate,{w=0.1} [chosen_tease]!"
 
 # game/scripttopics.rpy:6887
 translate spanish talk_realizations_player_ddlc_actions_eb321d10:
@@ -3225,7 +3225,7 @@ translate spanish talk_fighting_drowsiness_f6c57e0b:
 translate spanish talk_fighting_drowsiness_35fa9c61:
 
     # n 1fsqcs "Oho?{w=0.5}{nw}"
-    n 1fsqcs "¿Oho?{w=0.5}{nw}"
+    n 1fsqcs "¿Eh?{w=0.5}{nw}"
 
 # game/scripttopics.rpy:7205
 translate spanish talk_fighting_drowsiness_ed72f305:
@@ -3939,7 +3939,7 @@ translate spanish talk_thoughts_on_dan_salvato_9de45808:
 translate spanish talk_thoughts_on_dan_salvato_e224c180:
 
     # n 2fsgaj "Oh..."
-    n 2fsgaj "Oh..."
+    n 2fsgaj "Ah..."
 
 # game/scripttopics.rpy:7392
 translate spanish talk_thoughts_on_dan_salvato_aeb6e4a7:

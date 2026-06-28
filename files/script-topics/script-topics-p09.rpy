@@ -3417,7 +3417,7 @@ translate spanish talk_daily_joke_8d96137f:
 translate spanish talk_daily_joke_64b6e57f:
 
     # n 1unmbs "Oh!{w=0.5} Oh!{w=0.75}{nw}"
-    n 1unmbs "¡Oh!{w=0.5} ¡Oh!{w=0.75}{nw}"
+    n 1unmbs "¡Ah!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:10637
 translate spanish talk_daily_joke_d9a0f2c7:
@@ -3465,7 +3465,7 @@ translate spanish talk_daily_joke_2a40d1b3:
 translate spanish talk_daily_joke_207ad4da:
 
     # n 1unmbg "Oh!{w=0.75}{nw}"
-    n 1unmbg "¡Oh!{w=0.75}{nw}"
+    n 1unmbg "¡Ah!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:10653
 translate spanish talk_daily_joke_d7927131:

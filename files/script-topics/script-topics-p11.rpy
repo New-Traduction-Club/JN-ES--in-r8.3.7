@@ -1485,13 +1485,13 @@ translate spanish talk_work_experience_0c990790:
 translate spanish talk_work_experience_1c6e7946:
 
     # n 3ccsss "Oh?{w=0.75}{nw}"
-    n 3ccsss "¿Oh?{w=0.75}{nw}"
+    n 3ccsss "¿Eh?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12371
 translate spanish talk_work_experience_bef73673:
 
     # extend 7ccsbg " And I suppose you're working hard then,{w=0.2} [player]?"
-    extend 7ccsbg " ¿Y supongo que estás trabajando duro entonces,{w=0.2} [player]?"
+    extend 7ccsbg " Supongo que estás trabajando duro."
 
 # game/scripttopics.rpy:12372
 translate spanish talk_work_experience_bc96736b:
@@ -2373,7 +2373,7 @@ translate spanish talk_remind_blackjack_rules_d84a9475:
 translate spanish talk_remind_blackjack_rules_89030c4b:
 
     # n 1ccsbg "Oh?"
-    n 1ccsbg "¿Oh?"
+    n 1ccsbg "¿Eh?"
 
 # game/scripttopics.rpy:12626
 translate spanish talk_remind_blackjack_rules_f72f39f0:
