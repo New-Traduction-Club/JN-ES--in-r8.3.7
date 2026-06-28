@@ -22,7 +22,7 @@ translate spanish random_music_change_7421a765:
 translate spanish random_music_enable_ca434e0e:
 
     # n 1unmbg "Ooh!{w=0.5}{nw}"
-    n 1unmbg "¡Oh!{w=0.5}{nw}"
+    n 1unmbg "¡Ah!{w=0.5}{nw}"
 
 # game/random_music.rpy:113
 translate spanish random_music_enable_09846e1f:
@@ -154,7 +154,7 @@ translate spanish random_music_disable_61e07ede:
 translate spanish random_music_disable_895506cd:
 
     # n 4fsrsm "...Ehehe."
-    n 4fsrsm "... Je, je, je."
+    n 4fsrsm "Je, je, je."
 
 # game/random_music.rpy:173
 translate spanish random_music_disable_e253d0be:
@@ -172,7 +172,7 @@ translate spanish random_music_disable_57dc059d:
 translate spanish random_music_disable_a7fe8836:
 
     # n 2nwlbg "...And there we go!"
-    n 2nwlbg "... ¡Y listo!"
+    n 2nwlbg "¡Y listo!"
 
 translate spanish strings:
 

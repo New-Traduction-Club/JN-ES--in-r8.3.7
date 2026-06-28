@@ -16,7 +16,7 @@ translate spanish outfits_wear_outfit_62d429f5:
 translate spanish outfits_wear_outfit_78bbb04c:
 
     # n 1nsqpu "...Wait.{w=1.25}{nw}"
-    n 1nsqpu "... Espera.{w=1.25}{nw}"
+    n 1nsqpu "Espera.{w=1.25}{nw}"
 
 # game/outfits.rpy:2301
 translate spanish outfits_wear_outfit_5b05d35f:
@@ -46,7 +46,7 @@ translate spanish outfits_wear_outfit_a8631647:
 translate spanish outfits_wear_outfit_10297cdb:
 
     # n 4tnmss "Oh?{w=0.75}{nw}"
-    n 4tnmss "¿Oh?{w=0.75}{nw}"
+    n 4tnmss "¿Eh?{w=0.75}{nw}"
 
 # game/outfits.rpy:2316
 translate spanish outfits_wear_outfit_2fba3d9d:
@@ -112,7 +112,7 @@ translate spanish outfits_wear_outfit_9fb8fb96:
 translate spanish outfits_wear_outfit_e4423a38:
 
     # n 2fchsmesm "Pffff-!"
-    n 2fchsmesm "¡Pfff-!"
+    n 2fchsmesm "¡Pfff!"
 
 # game/outfits.rpy:2361
 translate spanish outfits_wear_outfit_07a60ad6:
@@ -172,7 +172,7 @@ translate spanish outfits_wear_outfit_b180d413:
 translate spanish outfits_wear_outfit_939fc667:
 
     # n 4unmaj "Oh?{w=0.75}{nw}"
-    n 4unmaj "¿Oh?{w=0.75}{nw}"
+    n 4unmaj "¿Eh?{w=0.75}{nw}"
 
 # game/outfits.rpy:2384
 translate spanish outfits_wear_outfit_673741b2:
@@ -220,7 +220,7 @@ translate spanish outfits_wear_outfit_e1a54507:
 translate spanish outfits_wear_outfit_08d4ec09:
 
     # extend 2fcspolsbl " A-{w=0.2}and no peeking!{w=2}{nw}"
-    extend 2fcspolsbl " ¡Y-{w=0.2}y nada de mirar!{w=2}{nw}"
+    extend 2fcspolsbl " ¡Y-{w=0.2}Y nada de mirar!{w=2}{nw}"
 
 # game/outfits.rpy:2413
 translate spanish outfits_wear_outfit_62176299:
@@ -232,7 +232,7 @@ translate spanish outfits_wear_outfit_62176299:
 translate spanish outfits_wear_outfit_7589869e:
 
     # n 3fsqbgl "H-{w=0.2}how am I looking,{w=0.2} [chosen_descriptor]?{w=0.75}{nw}"
-    n 3fsqbgl "¿C-{w=0.2}cómo me queda,{w=0.2} [chosen_descriptor]?{w=0.75}{nw}"
+    n 3fsqbgl "¿C-{w=0.2}Cómo me queda,{w=0.2} [chosen_descriptor]?{w=0.75}{nw}"
 
 # game/outfits.rpy:2416
 translate spanish outfits_wear_outfit_941163bc:
@@ -250,7 +250,7 @@ translate spanish outfits_wear_outfit_8bb2a28e:
 translate spanish outfits_wear_outfit_cea51566:
 
     # n 4fcsbglsbr "H-{w=0.2}how do I look,{w=0.2} [player]?{w=0.75}{nw}"
-    n 4fcsbglsbr "¿Q-{w=0.2}qué tal me veo,{w=0.2} [player]?{w=0.75}{nw}"
+    n 4fcsbglsbr "¿Q-{w=0.2}Qué tal me veo,{w=0.2} [player]?{w=0.75}{nw}"
 
 # game/outfits.rpy:2421
 translate spanish outfits_wear_outfit_4d25bb10:
@@ -316,7 +316,7 @@ translate spanish outfits_wear_outfit_5384ee87:
 translate spanish outfits_wear_outfit_4372607f:
 
     # n 1nnmbo "Oh.{w=1.5}{nw}"
-    n 1nnmbo "Oh.{w=1.5}{nw}"
+    n 1nnmbo "Ah.{w=1.5}{nw}"
 
 # game/outfits.rpy:2457
 translate spanish outfits_wear_outfit_0cd4594f:
@@ -376,7 +376,7 @@ translate spanish outfits_reload_c535909d:
 translate spanish outfits_reload_41605ef3:
 
     # extend 7tlrfl " I-{w=0.5}{nw}"
-    extend 7tlrfl " Yo-{w=0.5}{nw}"
+    extend 7tlrfl " Yo...{w=0.5}{nw}"
 
 # game/outfits.rpy:2494
 translate spanish outfits_reload_426ac12d:
@@ -406,7 +406,7 @@ translate spanish outfits_reload_130ebfcb:
 translate spanish outfits_reload_ba6b9505:
 
     # n 3cllfll "Y-{w=0.2}you better not be trying to gift bomb me or something."
-    n 3cllfll "M-{w=0.2}más te vale no estar intentando bombardearme con regalos o algo así."
+    n 3cllfll "M-{w=0.2}Más te vale no estar intentando bombardearme con regalos o algo así."
 
 # game/outfits.rpy:2502
 translate spanish outfits_reload_93f7eca9:
@@ -430,7 +430,7 @@ translate spanish outfits_reload_027fbba6:
 translate spanish outfits_reload_009cf29e:
 
     # extend 5csrcalsbl " E-{w=0.2}especially with bunches of fancy stuff."
-    extend 5csrcalsbl " E-{w=0.2}especialmente con un montón de cosas lujosas."
+    extend 5csrcalsbl " E-{w=0.2}Especialmente con un montón de cosas lujosas."
 
 # game/outfits.rpy:2510
 translate spanish outfits_reload_99e6c41a:
@@ -442,7 +442,7 @@ translate spanish outfits_reload_99e6c41a:
 translate spanish outfits_suggest_outfit_78bbb04c:
 
     # n 1nsqpu "...Wait.{w=1.25}{nw}"
-    n 1nsqpu "... Espera.{w=1.25}{nw}"
+    n 1nsqpu "Espera.{w=1.25}{nw}"
 
 # game/outfits.rpy:2520
 translate spanish outfits_suggest_outfit_5b05d35f:
@@ -460,7 +460,7 @@ translate spanish outfits_suggest_outfit_4dd43194:
 translate spanish outfits_suggest_outfit_f266b770:
 
     # n 4unmaj "Ooh!{w=1}{nw}"
-    n 4unmaj "¡Ooh!{w=1}{nw}"
+    n 4unmaj "¡Ahhh!{w=1}{nw}"
 
 # game/outfits.rpy:2528
 translate spanish outfits_suggest_outfit_d493767c:
@@ -478,7 +478,7 @@ translate spanish outfits_suggest_outfit_5a8ea68e:
 translate spanish outfits_remove_outfit_78bbb04c:
 
     # n 1nsqpu "...Wait.{w=1.25}{nw}"
-    n 1nsqpu "... Espera.{w=1.25}{nw}"
+    n 1nsqpu "Espera.{w=1.25}{nw}"
 
 # game/outfits.rpy:2547
 translate spanish outfits_remove_outfit_b381971f:
@@ -532,7 +532,7 @@ translate spanish outfits_remove_outfit_6d9f8d2e:
 translate spanish outfits_remove_outfit_00e5e94f:
 
     # n 1unmaj "Oh?{w=0.5} [outfit_name]?{w=0.75}{nw}"
-    n 1unmaj "¿Oh?{w=0.5} ¿[outfit_name]?{w=0.75}{nw}"
+    n 1unmaj "¿Eh?{w=0.5} ¿[outfit_name]?{w=0.75}{nw}"
 
 # game/outfits.rpy:2593
 translate spanish outfits_remove_outfit_4400264d:
@@ -580,13 +580,13 @@ translate spanish outfits_remove_outfit_9e05c59f:
 translate spanish outfits_remove_outfit_5bc64b81:
 
     # n 1fchsm "...And it's gone!"
-    n 1fchsm "¡... Y fuera!"
+    n 1fchsm "¡Y fuera!"
 
 # game/outfits.rpy:2618
 translate spanish outfits_remove_outfit_5daf078a:
 
     # n 4kslfl "...Oh."
-    n 4kslfl "... Oh."
+    n 4kslfl "Ah."
 
 # game/outfits.rpy:2619
 translate spanish outfits_remove_outfit_61d16b71:
@@ -622,7 +622,7 @@ translate spanish outfits_remove_outfit_e513f653:
 translate spanish outfits_remove_outfit_3ee2713e:
 
     # n 1nnmbo "Oh."
-    n 1nnmbo "Oh."
+    n 1nnmbo "Ah."
 
 # game/outfits.rpy:2627
 translate spanish outfits_remove_outfit_093bfa27:
@@ -640,7 +640,7 @@ translate spanish outfits_remove_outfit_a0cd0a96:
 translate spanish outfits_remove_outfit_646d4ffc:
 
     # n 1nnmbo "Oh.{w=1}{nw}"
-    n 1nnmbo "Oh.{w=1}{nw}"
+    n 1nnmbo "Ah.{w=1}{nw}"
 
 # game/outfits.rpy:2632
 translate spanish outfits_remove_outfit_296990a0:
@@ -682,7 +682,7 @@ translate spanish outfits_create_quit_1ccc0a73:
 translate spanish outfits_create_quit_4372607f:
 
     # n 1nnmbo "Oh.{w=1.5}{nw}"
-    n 1nnmbo "Oh.{w=1.5}{nw}"
+    n 1nnmbo "Ah.{w=1.5}{nw}"
 
 # game/outfits.rpy:2852
 translate spanish outfits_create_quit_87b1f763:
@@ -826,7 +826,7 @@ translate spanish outfits_create_save_fcdc0c93:
 translate spanish outfits_create_save_06f17c30:
 
     # n 2csqtrsbr "...Quit messing around,{w=0.2} [player]."
-    n 2csqtrsbr "... Deja de hacer el tonto,{w=0.2} [player]."
+    n 2csqtrsbr "Deja de hacer el tonto,{w=0.2} [player]."
 
 # game/outfits.rpy:2934
 translate spanish outfits_create_save_d77cfcd7:
@@ -838,7 +838,7 @@ translate spanish outfits_create_save_d77cfcd7:
 translate spanish outfits_create_save_4e7f14f7:
 
     # n 2tsqsssbl "...Is that some kind of robot name or something?"
-    n 2tsqsssbl "... ¿Es algún tipo de nombre de robot o algo así?"
+    n 2tsqsssbl "¿Es algún tipo de nombre de robot o algo así?"
 
 # game/outfits.rpy:2936
 translate spanish outfits_create_save_903e92c0:
@@ -850,7 +850,7 @@ translate spanish outfits_create_save_903e92c0:
 translate spanish outfits_create_save_83a5daff:
 
     # n 2tsqpu "...Really?{w=0.75}{nw}"
-    n 2tsqpu "... ¿En serio?{w=0.75}{nw}"
+    n 2tsqpu "¿En serio?{w=0.75}{nw}"
 
 # game/outfits.rpy:2942
 translate spanish outfits_create_save_e7d7ff71:
@@ -880,19 +880,19 @@ translate spanish outfits_create_save_4807a02c:
 translate spanish outfits_create_save_ed83c314:
 
     # n 3csqtr "...Not happening,{w=0.2} [player]."
-    n 3csqtr "... Ni hablar,{w=0.2} [player]."
+    n 3csqtr "Ni hablar,{w=0.2} [player]."
 
 # game/outfits.rpy:2955
 translate spanish outfits_create_save_016ceddb:
 
     # n 3csqcasbr "...No."
-    n 3csqcasbr "... No."
+    n 3csqcasbr "No."
 
 # game/outfits.rpy:2967
 translate spanish outfits_create_save_af267ff2:
 
     # n 2fsqem "...Really,{w=0.5} [player]."
-    n 2fsqem "... En serio,{w=0.5} [player]."
+    n 2fsqem "En serio,{w=0.5} [player]."
 
 # game/outfits.rpy:2968
 translate spanish outfits_create_save_d9501ddc:
@@ -952,7 +952,7 @@ translate spanish outfits_create_save_2a16493b:
 translate spanish outfits_create_save_3bced781:
 
     # n 2fcsfl "...Actually."
-    n 2fcsfl "... Pensándolo bien."
+    n 2fcsfl "Pensándolo bien."
 
 # game/outfits.rpy:2995
 translate spanish outfits_create_save_0deabf2e:
@@ -1084,13 +1084,13 @@ translate spanish outfits_create_save_46bfeb8e:
 translate spanish outfits_create_save_947e0bb2:
 
     # n 2tsqslsbl "...Really,{w=0.2} [player]?"
-    n 2tsqslsbl "... ¿En serio,{w=0.2} [player]?"
+    n 2tsqslsbl "¿En serio,{w=0.2} [player]?"
 
 # game/outfits.rpy:3046
 translate spanish outfits_create_save_4919d5a6:
 
     # n 2csqflsbr "...Don't you have anything better to do?"
-    n 2csqflsbr "... ¿No tienes nada mejor que hacer?"
+    n 2csqflsbr "¿No tienes nada mejor que hacer?"
 
 # game/outfits.rpy:3060
 translate spanish outfits_create_save_08926c2f:
@@ -1108,7 +1108,7 @@ translate spanish outfits_create_save_31162636:
 translate spanish outfits_create_save_da3e191a:
 
     # n 1uchsm "...And done!"
-    n 1uchsm "¡... Y listo!"
+    n 1uchsm "¡Y listo!"
 
 # game/outfits.rpy:3065
 translate spanish outfits_create_save_b3ce49d7:
@@ -1126,7 +1126,7 @@ translate spanish outfits_create_save_57c9e2ad:
 translate spanish outfits_create_save_5daf078a:
 
     # n 4kslfl "...Oh."
-    n 4kslfl "... Oh."
+    n 4kslfl "Ah."
 
 # game/outfits.rpy:3073
 translate spanish outfits_create_save_61d16b71:
@@ -1216,25 +1216,25 @@ translate spanish outfits_create_save_5caad4b5:
 translate spanish outfits_auto_change_5c193837:
 
     # n 1uchbg "Oh!{w=0.2} I gotta change,{w=0.1} just give me a sec...{w=0.75}{nw}"
-    n 1uchbg "¡Oh!{w=0.2} Tengo que cambiarme,{w=0.1} dame un segundo...{w=0.75}{nw}"
+    n 1uchbg "¡Ah!{w=0.2} Tengo que cambiarme,{w=0.1} dame un segundo...{w=0.75}{nw}"
 
 # game/outfits.rpy:3106
 translate spanish outfits_auto_change_b96dbdb8:
 
     # n 4unmpu "Oh!{w=0.2} I should probably change,{w=0.1} one second...{w=0.75}{nw}"
-    n 4unmpu "¡Oh!{w=0.2} Debería cambiarme,{w=0.1} un segundo...{w=0.75}{nw}"
+    n 4unmpu "¡Ah!{w=0.2} Debería cambiarme,{w=0.1} un segundo...{w=0.75}{nw}"
 
 # game/outfits.rpy:3107
 translate spanish outfits_auto_change_9373160a:
 
     # n 2flrpol "A-{w=0.1}and no peeking,{w=0.1} got it?!{w=0.75}{nw}"
-    n 2flrpol "¡Y-{w=0.1}y nada de mirar,{w=0.1} ¿entendido?!{w=0.75}{nw}"
+    n 2flrpol "¡Y-{w=0.1}Y nada de mirar,{w=0.1} ¿entendido?!{w=0.75}{nw}"
 
 # game/outfits.rpy:3110
 translate spanish outfits_auto_change_66c51876:
 
     # n 4unmpu "Oh -{w=0.1} I gotta get changed.{w=0.2} I'll be back in a sec.{w=0.75}{nw}"
-    n 4unmpu "Oh...{w=0.1} Tengo que cambiarme.{w=0.2} Vuelvo en un segundito.{w=0.75}{nw}"
+    n 4unmpu "Ah...{w=0.1} Tengo que cambiarme.{w=0.2} Vuelvo en un segundito.{w=0.75}{nw}"
 
 # game/outfits.rpy:3113
 translate spanish outfits_auto_change_26114e8e:
@@ -1312,19 +1312,19 @@ translate spanish new_wearables_outfits_unlocked_6b2c2276:
 translate spanish new_wearables_outfits_unlocked_662ca384:
 
     # n 1uskgslesh "...Wait!{w=0.75}{nw}"
-    n 1uskgslesh "... ¡Espera!{w=0.75}{nw}"
+    n 1uskgslesh "¡Espera!{w=0.75}{nw}"
 
 # game/outfits.rpy:3162
 translate spanish new_wearables_outfits_unlocked_984b1ba6:
 
     # extend 1knmemlsbl " Y-{w=0.2}you shouldn't even be the one {i}giving{/i} things today anyway!"
-    extend 1knmemlsbl " ¡Y-{w=0.2}y tampoco deberías ser tú quien regalase nada hoy!"
+    extend 1knmemlsbl " ¡Y-{w=0.2}Y tampoco deberías ser tú quien regalase nada hoy!"
 
 # game/outfits.rpy:3163
 translate spanish new_wearables_outfits_unlocked_9baffe72:
 
     # n 2kslemlsbl "...It's {i}weird{/i},{w=0.2} [player]..."
-    n 2kslemlsbl "... Es raro,{w=0.2} [player]..."
+    n 2kslemlsbl "Es raro,{w=0.2} [player]..."
 
 # game/outfits.rpy:3164
 translate spanish new_wearables_outfits_unlocked_1bf24a33:
@@ -1336,7 +1336,7 @@ translate spanish new_wearables_outfits_unlocked_1bf24a33:
 translate spanish new_wearables_outfits_unlocked_70a832e0:
 
     # n 1ccsfllsbr "...E-{w=0.2}even if it {i}is{/i} my birthday.{w=0.75}{nw}"
-    n 1ccsfllsbr "... A-{w=0.2}aunque sea mi cumpleaños.{w=0.75}{nw}"
+    n 1ccsfllsbr "A-{w=0.2}Aunque sea mi cumpleaños.{w=0.75}{nw}"
 
 # game/outfits.rpy:3169
 translate spanish new_wearables_outfits_unlocked_121f8015:
@@ -1354,7 +1354,7 @@ translate spanish new_wearables_outfits_unlocked_936fc0aa:
 translate spanish new_wearables_outfits_unlocked_6ec9e0db:
 
     # n 2ccsemlsbr "N-{w=0.2}no matter what day it happens to be!{w=0.75}{nw}"
-    n 2ccsemlsbr "¡D-{w=0.2}da igual el día que sea!{w=0.75}{nw}"
+    n 2ccsemlsbr "¡D-{w=0.2}Da igual el día que sea!{w=0.75}{nw}"
 
 # game/outfits.rpy:3174
 translate spanish new_wearables_outfits_unlocked_8fa8c855:
@@ -1366,13 +1366,13 @@ translate spanish new_wearables_outfits_unlocked_8fa8c855:
 translate spanish new_wearables_outfits_unlocked_91b34624:
 
     # n 2ksrbofsbl "...Especially tonight,{w=0.3} of all nights..."
-    n 2ksrbofsbl "... Especialmente esta noche,{w=0.3} de entre todas las noches..."
+    n 2ksrbofsbl "Especialmente esta noche,{w=0.3} de entre todas las noches..."
 
 # game/outfits.rpy:3180
 translate spanish new_wearables_outfits_unlocked_d507d735:
 
     # n 4kllajlsbr "A-{w=0.2}and anyway,{w=0.75}{nw}"
-    n 4kllajlsbr "Y-{w=0.2}y de todas formas,{w=0.75}{nw}"
+    n 4kllajlsbr "Y-{w=0.2}Y de todas formas,{w=0.75}{nw}"
 
 # game/outfits.rpy:3181
 translate spanish new_wearables_outfits_unlocked_5ee1f899:
@@ -1390,7 +1390,7 @@ translate spanish new_wearables_outfits_unlocked_b6a59a3c:
 translate spanish new_wearables_outfits_unlocked_17a41b76:
 
     # n 1uskemlesusbr "I-{w=0.2}it's not that I don't appreciate it!{w=0.5}{nw}"
-    n 1uskemlesusbr "¡N-{w=0.2}no es que no lo aprecie!{w=0.5}{nw}"
+    n 1uskemlesusbr "¡N-{w=0.2}No es que no lo aprecie!{w=0.5}{nw}"
 
 # game/outfits.rpy:3185
 translate spanish new_wearables_outfits_unlocked_e3c517fb:
@@ -1402,7 +1402,7 @@ translate spanish new_wearables_outfits_unlocked_e3c517fb:
 translate spanish new_wearables_outfits_unlocked_862d504d:
 
     # extend 2knmpoless " I-{w=0.2}I totally do!"
-    extend 2knmpoless " ¡L-{w=0.2}lo aprecio de verdad!"
+    extend 2knmpoless " ¡L-{w=0.2}Lo aprecio de verdad!"
 
 # game/outfits.rpy:3187
 translate spanish new_wearables_outfits_unlocked_25341066:
@@ -1432,7 +1432,7 @@ translate spanish new_wearables_outfits_unlocked_e3fbf2ed:
 translate spanish new_wearables_outfits_unlocked_f10c14a7:
 
     # n 1fcsajlsbl "A-{w=0.2}and you've already done a lot for me,{w=0.5}{nw}"
-    n 1fcsajlsbl "Y-{w=0.2}y ya has hecho mucho por mí,{w=0.5}{nw}"
+    n 1fcsajlsbl "Y-{w=0.2}Y ya has hecho mucho por mí,{w=0.5}{nw}"
 
 # game/outfits.rpy:3192
 translate spanish new_wearables_outfits_unlocked_766ef9b3:
@@ -1450,7 +1450,7 @@ translate spanish new_wearables_outfits_unlocked_34d3d1c4:
 translate spanish new_wearables_outfits_unlocked_622f03ff:
 
     # n 1kcsemlesi "...Fine.{w=0.75}{nw}"
-    n 1kcsemlesi "... Vale.{w=0.75}{nw}"
+    n 1kcsemlesi "Vale.{w=0.75}{nw}"
 
 # game/outfits.rpy:3195
 translate spanish new_wearables_outfits_unlocked_c44d773a:
@@ -1468,7 +1468,7 @@ translate spanish new_wearables_outfits_unlocked_c1a32727:
 translate spanish new_wearables_outfits_unlocked_ed1d7f9c:
 
     # n 1uskeml "H-{w=0.2}huh?"
-    n 1uskeml "¿E-{w=0.2}eh?"
+    n 1uskeml "¿E-{w=0.2}Eh?"
 
 # game/outfits.rpy:3200
 translate spanish new_wearables_outfits_unlocked_5c3d8153:
@@ -1480,7 +1480,7 @@ translate spanish new_wearables_outfits_unlocked_5c3d8153:
 translate spanish new_wearables_outfits_unlocked_2e72ff51:
 
     # extend 4knmwrl " D-{w=0.2}did you {i}seriously{/i} just get me all this stuff?!"
-    extend 4knmwrl " ¿D-{w=0.2}de verdad acabas de regalarme todo esto?!"
+    extend 4knmwrl " ¿D-{w=0.2}De verdad acabas de regalarme todo esto?!"
 
 # game/outfits.rpy:3202
 translate spanish new_wearables_outfits_unlocked_5a803fa6:
@@ -1492,7 +1492,7 @@ translate spanish new_wearables_outfits_unlocked_5a803fa6:
 translate spanish new_wearables_outfits_unlocked_1a720407:
 
     # n 2fcsanl "Uuuuuuuuu-!"
-    n 2fcsanl "¡Uuuuuuuuu-!"
+    n 2fcsanl "¡Eyyy!"
 
 # game/outfits.rpy:3204
 translate spanish new_wearables_outfits_unlocked_f793c37f:
@@ -1504,7 +1504,7 @@ translate spanish new_wearables_outfits_unlocked_f793c37f:
 translate spanish new_wearables_outfits_unlocked_b1586eee:
 
     # n 1uskwrlesh "E-{w=0.2}especially today!{w=1}{nw}"
-    n 1uskwrlesh "¡E-{w=0.2}especialmente hoy!{w=1}{nw}"
+    n 1uskwrlesh "¡E-{w=0.2}Especialmente hoy!{w=1}{nw}"
 
 # game/outfits.rpy:3208
 translate spanish new_wearables_outfits_unlocked_aa4f8bbb:
@@ -1516,7 +1516,7 @@ translate spanish new_wearables_outfits_unlocked_aa4f8bbb:
 translate spanish new_wearables_outfits_unlocked_54155048:
 
     # n 1fcswrlsbr "I-{w=0.2}I already {i}know{/i} it's my birthday,{w=0.2} okay?!{w=0.75}{nw}"
-    n 1fcswrlsbr "¡Y-{w=0.2}yo ya sé que es mi cumpleaños,{w=0.2} ¿vale?!{w=0.75}{nw}"
+    n 1fcswrlsbr "¡Y-{w=0.2}Yo ya sé que es mi cumpleaños,{w=0.2} ¿vale?!{w=0.75}{nw}"
 
 # game/outfits.rpy:3213
 translate spanish new_wearables_outfits_unlocked_0492e882:
@@ -1534,7 +1534,7 @@ translate spanish new_wearables_outfits_unlocked_d81c07d3:
 translate spanish new_wearables_outfits_unlocked_34e598bd:
 
     # n 2flrfllsbr "I-{w=0.2}it's not even like today's actually {i}important{/i},{w=0.5}{nw}"
-    n 2flrfllsbr "N-{w=0.2}ni que hoy fuera un día importante de verdad,{w=0.5}{nw}"
+    n 2flrfllsbr "N-{w=0.2}Ni que hoy fuera un día importante de verdad,{w=0.5}{nw}"
 
 # game/outfits.rpy:3218
 translate spanish new_wearables_outfits_unlocked_e0c296aa:
@@ -1552,13 +1552,13 @@ translate spanish new_wearables_outfits_unlocked_f896cb0b:
 translate spanish new_wearables_outfits_unlocked_aaac23d0:
 
     # extend 1fllemf " I-{w=0.2}I mean..."
-    extend 1fllemf " Q-{w=0.2}quiero decir..."
+    extend 1fllemf " Q-{w=0.2}Quiero decir..."
 
 # game/outfits.rpy:3223
 translate spanish new_wearables_outfits_unlocked_f5460322:
 
     # n 4knmgsf "Y-{w=0.2}you couldn't have at {i}least{/i} waited for tomorrow?!{w=1}{nw}"
-    n 4knmgsf "¡¿N-{w=0.2}no podrías haber esperado a mañana al menos?!{w=1}{nw}"
+    n 4knmgsf "¡¿N-{w=0.2}No podrías haber esperado a mañana al menos?!{w=1}{nw}"
 
 # game/outfits.rpy:3224
 translate spanish new_wearables_outfits_unlocked_b7f1efa3:
@@ -1582,7 +1582,7 @@ translate spanish new_wearables_outfits_unlocked_304b2a61:
 translate spanish new_wearables_outfits_unlocked_05754fe9:
 
     # extend 1kbkwrless " I-{w=0.2}I didn't even {i}ask{/i} for anything!"
-    extend 1kbkwrless " ¡Y-{w=0.2}yo ni siquiera pedí nada!"
+    extend 1kbkwrless " ¡Y-{w=0.2}Yo ni siquiera pedí nada!"
 
 # game/outfits.rpy:3233
 translate spanish new_wearables_outfits_unlocked_180f3564:
@@ -1618,19 +1618,19 @@ translate spanish new_wearables_outfits_unlocked_7cf9c76a:
 translate spanish new_wearables_outfits_unlocked_832a40f3:
 
     # n 1kcsbolsbr "...Alright.{w=0.75}{nw}"
-    n 1kcsbolsbr "... Vale.{w=0.75}{nw}"
+    n 1kcsbolsbr "Vale.{w=0.75}{nw}"
 
 # game/outfits.rpy:3239
 translate spanish new_wearables_outfits_unlocked_10d0000d:
 
     # extend 2fslpolsbr " J-{w=0.2}just a quick look..."
-    extend 2fslpolsbr " S-{w=0.2}solo un vistazo rápido..."
+    extend 2fslpolsbr " S-{w=0.2}Solo un vistazo rápido..."
 
 # game/outfits.rpy:3242
 translate spanish new_wearables_outfits_unlocked_6fcaf2c1:
 
     # n 1uwdeml "...Eh?"
-    n 1uwdeml "¿... Eh?"
+    n 1uwdeml "¿Eh?"
 
 # game/outfits.rpy:3243
 translate spanish new_wearables_outfits_unlocked_34473b5f:
@@ -1660,7 +1660,7 @@ translate spanish new_wearables_outfits_unlocked_e23e2284:
 translate spanish new_wearables_outfits_unlocked_eee12e63:
 
     # n 2ccseml "I-{w=0.2}I already know what day it is today!{w=0.75}{nw}"
-    n 2ccseml "¡Y-{w=0.2}yo ya sé qué día es hoy!{w=0.75}{nw}"
+    n 2ccseml "¡Y-{w=0.2}Yo ya sé qué día es hoy!{w=0.75}{nw}"
 
 # game/outfits.rpy:3252
 translate spanish new_wearables_outfits_unlocked_a51cd5e3:
@@ -1678,13 +1678,13 @@ translate spanish new_wearables_outfits_unlocked_c1461288:
 translate spanish new_wearables_outfits_unlocked_0c4ec97e:
 
     # n 2ccseml "I-{w=0.2}it isn't like today is even really {i}special{/i}!"
-    n 2ccseml "¡T-{w=0.2}tampoco es que hoy sea un día superespecial!"
+    n 2ccseml "¡T-{w=0.2}Tampoco es que hoy sea un día superespecial!"
 
 # game/outfits.rpy:3259
 translate spanish new_wearables_outfits_unlocked_767ffa18:
 
     # n 1knmgsf "A-{w=0.2}and come {i}on{/i},{w=0.2} [player]!{w=1}{nw}"
-    n 1knmgsf "¡Y-{w=0.2}y venga ya,{w=0.2} [player]!{w=1}{nw}"
+    n 1knmgsf "¡Y-{w=0.2}Y venga ya,{w=0.2} [player]!{w=1}{nw}"
 
 # game/outfits.rpy:3260
 translate spanish new_wearables_outfits_unlocked_04f6550e:
@@ -1696,7 +1696,7 @@ translate spanish new_wearables_outfits_unlocked_04f6550e:
 translate spanish new_wearables_outfits_unlocked_5c8e99d5:
 
     # n 1fcsemfsbl "I-{w=0.2}I mean,{w=0.75}{nw}"
-    n 1fcsemfsbl "Q-{w=0.2}quiero decir...{w=0.75}{nw}"
+    n 1fcsemfsbl "Q-{w=0.2}Quiero decir...{w=0.75}{nw}"
 
 # game/outfits.rpy:3264
 translate spanish new_wearables_outfits_unlocked_8e122c9e:
@@ -1720,7 +1720,7 @@ translate spanish new_wearables_outfits_unlocked_440ae379:
 translate spanish new_wearables_outfits_unlocked_2a317ad4:
 
     # n 1fllemlesssbl "Y-{w=0.2}you better not be trying to win me over with gifts or something!{w=1}{nw}"
-    n 1fllemlesssbl "¡M-{w=0.2}más te vale no estar intentando conquistarme con regalos o algo así!{w=1}{nw}"
+    n 1fllemlesssbl "¡M-{w=0.2}Más te vale no estar intentando conquistarme con regalos o algo así!{w=1}{nw}"
 
 # game/outfits.rpy:3269
 translate spanish new_wearables_outfits_unlocked_475afdf9:
@@ -1732,7 +1732,7 @@ translate spanish new_wearables_outfits_unlocked_475afdf9:
 translate spanish new_wearables_outfits_unlocked_cb8526d5:
 
     # n 1flremlsbl "I-{w=0.2}I'll have you know I'm a {i}lot{/i} deeper than that!"
-    n 1flremlsbl "¡Q-{w=0.2}que sepas que soy mucho más profunda que eso!"
+    n 1flremlsbl "¡Q-{w=0.2}Que sepas que soy mucho más profunda que eso!"
 
 # game/outfits.rpy:3271
 translate spanish new_wearables_outfits_unlocked_3935de50:
@@ -1768,7 +1768,7 @@ translate spanish new_wearables_outfits_unlocked_ae3f78f1:
 translate spanish new_wearables_outfits_unlocked_b5eda4ed:
 
     # n 2fslsll "...Fine.{w=1}{nw}"
-    n 2fslsll "... Vale.{w=1}{nw}"
+    n 2fslsll "Vale.{w=1}{nw}"
 
 # game/outfits.rpy:3277
 translate spanish new_wearables_outfits_unlocked_c53d46d6:
@@ -1786,7 +1786,7 @@ translate spanish new_wearables_outfits_unlocked_3bd033f6:
 translate spanish new_wearables_outfits_unlocked_a8a03a34:
 
     # extend 2fsrpolsbr " ...But only because you put the effort in."
-    extend 2fsrpolsbr " ... Pero solo porque te has esforzado."
+    extend 2fsrpolsbr " Pero solo porque te has esforzado."
 
 # game/outfits.rpy:3295
 translate spanish new_wearables_outfits_unlocked_a2a42f70:
@@ -1816,7 +1816,7 @@ translate spanish new_wearables_outfits_unlocked_0c2e9b5d:
 translate spanish new_wearables_outfits_unlocked_1630b1aa:
 
     # n 1unmgsesu "...Oh!{w=1}{nw}"
-    n 1unmgsesu "¡... Oh!{w=1}{nw}"
+    n 1unmgsesu "¡Ah!{w=1}{nw}"
 
 # game/outfits.rpy:3304
 translate spanish new_wearables_outfits_unlocked_154c4883:
@@ -1882,7 +1882,7 @@ translate spanish new_wearables_outfits_unlocked_d93af57e:
 translate spanish new_wearables_outfits_unlocked_466e5f70:
 
     # n 2flrajl "B-but only because I want to though,{w=0.75}{nw}"
-    n 2flrajl "P-pero solo porque yo quiero,{w=0.75}{nw}"
+    n 2flrajl "P-Pero solo porque yo quiero,{w=0.75}{nw}"
 
 # game/outfits.rpy:3321
 translate spanish new_wearables_outfits_unlocked_1b35ec5e:
@@ -1912,7 +1912,7 @@ translate spanish new_wearables_outfits_unlocked_6047ef21:
 translate spanish new_wearables_outfits_unlocked_07699362:
 
     # n 1unmgsesu "W-{w=0.2}woah!"
-    n 1unmgsesu "¡G-{w=0.2}guau!"
+    n 1unmgsesu "¡G-{w=0.2}Guau!"
 
 # game/outfits.rpy:3328
 translate spanish new_wearables_outfits_unlocked_e7324a1d:
@@ -1966,7 +1966,7 @@ translate spanish new_wearables_outfits_unlocked_266f755d:
 translate spanish new_wearables_outfits_unlocked_42c36d95:
 
     # n 1fcsgsl "B-{w=0.2}but only out of curiosity!{w=1}{nw}"
-    n 1fcsgsl "¡P-{w=0.2}pero solo por curiosidad!{w=1}{nw}"
+    n 1fcsgsl "¡P-{w=0.2}Pero solo por curiosidad!{w=1}{nw}"
 
 # game/outfits.rpy:3343
 translate spanish new_wearables_outfits_unlocked_6c705e80:
@@ -2002,7 +2002,7 @@ translate spanish new_wearables_outfits_unlocked_0dd1da17:
 translate spanish new_wearables_outfits_unlocked_4a6b0a5d:
 
     # n 1ksqsrlsbl "...Especially things like this [unlock.display_name].{w=0.75}{nw}"
-    n 1ksqsrlsbl "... Especialmente cosas como este [unlock.display_name].{w=0.75}{nw}"
+    n 1ksqsrlsbl "Especialmente cosas como este [unlock.display_name].{w=0.75}{nw}"
 
 # game/outfits.rpy:3353
 translate spanish new_wearables_outfits_unlocked_0a2d7537:
@@ -2032,7 +2032,7 @@ translate spanish new_wearables_outfits_unlocked_18377936:
 translate spanish new_wearables_outfits_unlocked_e0905551:
 
     # n 2nsrdvf "...Thanks."
-    n 2nsrdvf "... Gracias."
+    n 2nsrdvf "Gracias."
 
 # game/outfits.rpy:3360
 translate spanish new_wearables_outfits_unlocked_f3ff8a53:
@@ -2044,7 +2044,7 @@ translate spanish new_wearables_outfits_unlocked_f3ff8a53:
 translate spanish new_wearables_outfits_unlocked_ce6aa0d4:
 
     # n 1fsldvl "...Heh.{w=1}{nw}"
-    n 1fsldvl "... Je.{w=1}{nw}"
+    n 1fsldvl "Je.{w=1}{nw}"
 
 # game/outfits.rpy:3362
 translate spanish new_wearables_outfits_unlocked_f2861951:
@@ -2092,7 +2092,7 @@ translate spanish new_wearables_outfits_unlocked_ff2c0aec:
 translate spanish new_wearables_outfits_unlocked_edf98388:
 
     # n 2fcsemlesssbl "A-{w=0.1}ahem!{w=1}{nw}"
-    n 2fcsemlesssbl "¡E-{w=0.1}ejem!{w=1}{nw}"
+    n 2fcsemlesssbl "¡E-{w=0.1}Ejem!{w=1}{nw}"
 
 # game/outfits.rpy:3373
 translate spanish new_wearables_outfits_unlocked_fd8b17c8:
@@ -2116,7 +2116,7 @@ translate spanish new_wearables_outfits_unlocked_92770813:
 translate spanish new_wearables_outfits_unlocked_c2ac5689:
 
     # n 1fcsunlsbr "...Thanks,{w=0.1} [player]."
-    n 1fcsunlsbr "... Gracias,{w=0.1} [player]."
+    n 1fcsunlsbr "Gracias,{w=0.1} [player]."
 
 # game/outfits.rpy:3377
 translate spanish new_wearables_outfits_unlocked_46ba74db:
@@ -2128,7 +2128,7 @@ translate spanish new_wearables_outfits_unlocked_46ba74db:
 translate spanish new_wearables_outfits_unlocked_9fa04236:
 
     # extend 4fnmpulsbl " I-{w=0.2}I mean."
-    extend 4fnmpulsbl " Q-{w=0.2}quiero decir."
+    extend 4fnmpulsbl " Q-{w=0.2}Quiero decir."
 
 # game/outfits.rpy:3379
 translate spanish new_wearables_outfits_unlocked_ae488212:
@@ -2146,7 +2146,7 @@ translate spanish new_wearables_outfits_unlocked_260b5cf0:
 translate spanish new_wearables_outfits_unlocked_3e0db643:
 
     # n 2fslpofsbl "...Thanks."
-    n 2fslpofsbl "... Gracias."
+    n 2fslpofsbl "Gracias."
 
 # game/outfits.rpy:3384
 translate spanish new_wearables_outfits_unlocked_9cc2cf24:
@@ -2182,7 +2182,7 @@ translate spanish new_wearables_outfits_unlocked_a2ba6763:
 translate spanish new_wearables_outfits_unlocked_ea4aa179:
 
     # n 1knmbolsbr "...But thanks,{w=0.3} [player].{w=0.75}{nw}"
-    n 1knmbolsbr "... Pero gracias,{w=0.3} [player].{w=0.75}{nw}"
+    n 1knmbolsbr "Pero gracias,{w=0.3} [player].{w=0.75}{nw}"
 
 # game/outfits.rpy:3390
 translate spanish new_wearables_outfits_unlocked_3c9d171d:
@@ -2212,13 +2212,13 @@ translate spanish new_wearables_outfits_unlocked_6feed70d:
 translate spanish new_wearables_outfits_unlocked_5a5c2b2c:
 
     # n 4fdwanfess "Nnnnnnn-!"
-    n 4fdwanfess "¡Nnnnnnn-!"
+    n 4fdwanfess "¡Venga ya!"
 
 # game/outfits.rpy:3398
 translate spanish new_wearables_outfits_unlocked_6ffc375d:
 
     # n 1fcsemfesssbl "Y-{w=0.2}you're just lucky you're good at picking out gifts,{w=0.5}{nw}"
-    n 1fcsemfesssbl "T-{w=0.2}tienes suerte de que se te dé bien elegir regalos,{w=0.5}{nw}"
+    n 1fcsemfesssbl "T-{w=0.2}Tienes suerte de que se te dé bien elegir regalos,{w=0.5}{nw}"
 
 # game/outfits.rpy:3399
 translate spanish new_wearables_outfits_unlocked_0d8667a9:
@@ -2236,13 +2236,13 @@ translate spanish new_wearables_outfits_unlocked_e6671266:
 translate spanish new_wearables_outfits_unlocked_aaebd8ac:
 
     # extend 3fnmpofesssbl " I-{w=0.2}I hope you're happy."
-    extend 3fnmpofesssbl " E-{w=0.2}espero que estés content[end_letter_gender]."
+    extend 3fnmpofesssbl " E-{w=0.2}Espero que estés content[end_letter_gender]."
 
 # game/outfits.rpy:3404
 translate spanish new_wearables_outfits_unlocked_b46f27ec:
 
     # n 1fspgsledz "W-{w=0.2}woah!"
-    n 1fspgsledz "¡G-{w=0.2}guau!"
+    n 1fspgsledz "¡G-{w=0.2}Guau!"
 
 # game/outfits.rpy:3405
 translate spanish new_wearables_outfits_unlocked_72628646:
@@ -2266,7 +2266,7 @@ translate spanish new_wearables_outfits_unlocked_894849b4:
 translate spanish new_wearables_outfits_unlocked_e514291a:
 
     # n 1fcseml "I-{w=0.2}I'm glad to see you have {i}some{/i} taste after all to have found this."
-    n 1fcseml "M-{w=0.2}me alegra ver que al final tienes {i}algo{/i} de gusto por haber encontrado esto."
+    n 1fcseml "M-{w=0.2}Me alegra ver que al final tienes algo de gusto por haber encontrado esto."
 
 # game/outfits.rpy:3409
 translate spanish new_wearables_outfits_unlocked_b7d28ae7:
@@ -2278,7 +2278,7 @@ translate spanish new_wearables_outfits_unlocked_b7d28ae7:
 translate spanish new_wearables_outfits_unlocked_d16558fb:
 
     # extend 2fcscal " I-{w=0.2}I guess I'll keep it around."
-    extend 2fcscal " S-{w=0.2}supongo que me lo quedaré."
+    extend 2fcscal " S-{w=0.2}Supongo que me lo quedaré."
 
 # game/outfits.rpy:3411
 translate spanish new_wearables_outfits_unlocked_02025a92:
@@ -2290,7 +2290,7 @@ translate spanish new_wearables_outfits_unlocked_02025a92:
 translate spanish new_wearables_outfits_unlocked_aadae453:
 
     # n 1klrpul "...I can't believe there's even more.{w=1}{nw}"
-    n 1klrpul "... No me puedo creer que haya aún más.{w=1}{nw}"
+    n 1klrpul "No me puedo creer que haya aún más.{w=1}{nw}"
 
 # game/outfits.rpy:3419
 translate spanish new_wearables_outfits_unlocked_9d3ed065:
@@ -2302,7 +2302,7 @@ translate spanish new_wearables_outfits_unlocked_9d3ed065:
 translate spanish new_wearables_outfits_unlocked_e480193c:
 
     # n 4kcspul "...Okay.{w=1}{nw}"
-    n 4kcspul "... Vale.{w=1}{nw}"
+    n 4kcspul "Vale.{w=1}{nw}"
 
 # game/outfits.rpy:3421
 translate spanish new_wearables_outfits_unlocked_99321807:
@@ -2332,7 +2332,7 @@ translate spanish new_wearables_outfits_unlocked_fe80fa7f:
 translate spanish new_wearables_outfits_unlocked_b2577115:
 
     # n 3fnmpol "H-{w=0.2}how much {i}is{/i} there here,{w=0.1} [player]{w=1}{nw}?"
-    n 3fnmpol "¿C-{w=0.2}cuánto hay aquí,{w=0.1} [player]?{w=1}{nw}"
+    n 3fnmpol "¿C-{w=0.2}Cuánto hay aquí,{w=0.1} [player]?{w=1}{nw}"
 
 # game/outfits.rpy:3430
 translate spanish new_wearables_outfits_unlocked_b494c5d9:
@@ -2398,7 +2398,7 @@ translate spanish new_wearables_outfits_unlocked_1af398e4:
 translate spanish new_wearables_outfits_unlocked_27e768fa:
 
     # n 1knmssf "...Thanks,{w=0.1} [chosen_tease]."
-    n 1knmssf "... Gracias,{w=0.1} [chosen_tease]."
+    n 1knmssf "Gracias,{w=0.1} [chosen_tease]."
 
 # game/outfits.rpy:3454
 translate spanish new_wearables_outfits_unlocked_8bec48bd:
@@ -2410,7 +2410,7 @@ translate spanish new_wearables_outfits_unlocked_8bec48bd:
 translate spanish new_wearables_outfits_unlocked_269bc28b:
 
     # n 2fslunf "...Thanks.{w=0.75}{nw}"
-    n 2fslunf "... Gracias.{w=0.75}{nw}"
+    n 2fslunf "Gracias.{w=0.75}{nw}"
 
 # game/outfits.rpy:3459
 translate spanish new_wearables_outfits_unlocked_0acf7b2d:
@@ -2422,7 +2422,7 @@ translate spanish new_wearables_outfits_unlocked_0acf7b2d:
 translate spanish new_wearables_outfits_unlocked_e8df8d98:
 
     # n 1fllun "...Is that it?{w=0.75}{nw}"
-    n 1fllun "... ¿Ya está?{w=0.75}{nw}"
+    n 1fllun "¿Ya está?{w=0.75}{nw}"
 
 # game/outfits.rpy:3463
 translate spanish new_wearables_outfits_unlocked_8fc7b714:
@@ -2488,7 +2488,7 @@ translate spanish new_wearables_outfits_unlocked_0bd888d1:
 translate spanish new_wearables_outfits_unlocked_0fb6da99:
 
     # n 1fcstrlsbl "T-{w=0.2}thanks."
-    n 1fcstrlsbl "G-{w=0.2}gracias."
+    n 1fcstrlsbl "G-{w=0.2}Gracias."
 
 # game/outfits.rpy:3483
 translate spanish new_wearables_outfits_unlocked_49b99641:
@@ -2572,7 +2572,7 @@ translate spanish new_wearables_outfits_unlocked_d9c3832a:
 translate spanish new_wearables_outfits_unlocked_0fb6da99_1:
 
     # n 1fcstrlsbl "T-{w=0.2}thanks."
-    n 1fcstrlsbl "G-{w=0.2}gracias."
+    n 1fcstrlsbl "G-{w=0.2}Gracias."
 
 # game/outfits.rpy:3513
 translate spanish new_wearables_outfits_unlocked_9a632dd4:

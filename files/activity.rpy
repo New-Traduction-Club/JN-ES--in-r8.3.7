@@ -116,7 +116,7 @@ translate spanish strings:
 
     # game/activity.rpy:251
     old "Oh! Oh! Let me watch! [happy_emote]"
-    new "¡Oh! ¡Oh! ¡Déjame ver! [happy_emote]"
+    new "¡Ey! ¡Déjame ver! [happy_emote]"
 
     # game/activity.rpy:251
     old "What's on, [player]?"
@@ -140,7 +140,7 @@ translate spanish strings:
 
     # game/activity.rpy:262
     old "Oh! Oh! It's my website!"
-    new "¡Oh! ¡Oh! ¡Es mi página web!"
+    new "¡Ey! ¡Es mi página web!"
 
     # game/activity.rpy:262
     old "I heard only complete nerds come here... [tease_emote]"
@@ -168,7 +168,7 @@ translate spanish strings:
 
     # game/activity.rpy:274
     old "Oh! Oh! What're you drawing?"
-    new "¡Oh! ¡Oh! ¿Qué estás dibujando?"
+    new "¡Ey! ¿Qué estás dibujando?"
 
     # game/activity.rpy:274
     old "Eh? What're you drawing? [confused_emote]"
@@ -232,7 +232,7 @@ translate spanish strings:
 
     # game/activity.rpy:309
     old "Oh! Oh! Am I trending?"
-    new "¡Oh! ¡Oh! ¿Soy tendencia?"
+    new "¿Eh? ¿Soy tendencia?"
 
     # game/activity.rpy:309
     old "I should probably check my Twitter, huh?"
@@ -248,7 +248,7 @@ translate spanish strings:
 
     # game/activity.rpy:320
     old "Oh! Do you post here, [player]?"
-    new "¡Oh! ¿Tú publicas cosas aquí, [player]?"
+    new "¡Ey! ¿Tú publicas cosas aquí, [player]?"
 
     # game/activity.rpy:320
     old "Just... don't search up anything weird..."
@@ -264,7 +264,7 @@ translate spanish strings:
 
     # game/activity.rpy:330
     old "Oh! What're you reading? [happy_emote]"
-    new "¡Oh! ¿Qué estás leyendo? [happy_emote]"
+    new "¿Qué estás leyendo? [happy_emote]"
 
     # game/activity.rpy:330
     old "Looking for an EXPERT opinion? Ehehe."
@@ -284,7 +284,7 @@ translate spanish strings:
 
     # game/activity.rpy:349
     old "H-hey! Less of the junk! [angry_emote]"
-    new "¡E-eh! ¡Menos comida basura! [angry_emote]"
+    new "¡E-Eh! ¡Menos comida basura! [angry_emote]"
 
     # game/activity.rpy:349
     old "Cooking isn't THAT hard, you know... [angry_emote]"
@@ -324,7 +324,7 @@ translate spanish strings:
 
     # game/activity.rpy:374
     old "Ooooh! You're making beats?"
-    new "¡Ohhh! ¿Estás haciendo bases?"
+    new "¿Estás haciendo bases?"
 
     # game/activity.rpy:374
     old "Making some tunes? [confused_emote]"
@@ -332,11 +332,11 @@ translate spanish strings:
 
     # game/activity.rpy:374
     old "...Should I start taking NOTES? Ehehe."
-    new "... ¿Debería empezar a tomar NOTAS? Je, je, je."
+    new "¿Debería empezar a tomar NOTAS? Je, je, je."
 
     # game/activity.rpy:374
     old "Oh! Oh! I GOTTA listen to this!"
-    new "¡Oh! ¡Oh! ¡TENGO que escuchar esto!"
+    new "¡Tengo que escuchar esto!"
 
     # game/activity.rpy:384
     old "I hope you don't believe everything you read..."
@@ -380,7 +380,7 @@ translate spanish strings:
 
     # game/activity.rpy:419
     old "Oh? You gotta grab something? [confused_emote]"
-    new "¿Oh? ¿Tienes que comprar algo? [confused_emote]"
+    new "¿Eh? ¿Tienes que comprar algo? [confused_emote]"
 
     # game/activity.rpy:419
     old "Money to burn, huh?"
@@ -388,7 +388,7 @@ translate spanish strings:
 
     # game/activity.rpy:430
     old "W-wait... what kind of app is that, [player]? [confused_emote]"
-    new "E-espera... ¿qué clase de aplicación es esa, [player]? [confused_emote]"
+    new "E-Espera... ¿qué clase de aplicación es esa, [player]? [confused_emote]"
 
     # game/activity.rpy:430
     old "Wait a second... is that some kind of recorder?"
@@ -396,7 +396,7 @@ translate spanish strings:
 
     # game/activity.rpy:430
     old "I-I hope you aren't recording me, [player]. [angry_emote]"
-    new "E-espero que no me estés grabando, [player]. [angry_emote]"
+    new "E-Espero que no me estés grabando, [player]. [angry_emote]"
 
     # game/activity.rpy:430
     old "Huh? What kind of program is that, [player]? [confused_emote]"

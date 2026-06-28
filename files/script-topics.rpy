@@ -1,1 +1,1 @@
-﻿# see files/script-topics/
+﻿# see files/scripttopics/
