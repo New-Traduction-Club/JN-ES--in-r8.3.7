@@ -3483,7 +3483,7 @@ translate spanish talk_impressions_of_the_other_girls_43dfdfcd:
 translate spanish talk_impressions_of_the_other_girls_3691cfd6:
 
     # extend 1fnmscltsf " Like,{w=0.1} what the {i}hell{/i} is wrong with your {w=0.2}{i}head{/i}?!"
-    extend 1fnmscltsf " O sea,{w=0.1} ¡¿qué demonios te pasa en la {w=0.2}cabeza{/i}?!"
+    extend 1fnmscltsf " O sea,{w=0.1} ¡¿qué demonios te pasa en la {w=0.2}cabeza?!"
 
 # game/script-topics.rpy:8315
 translate spanish talk_impressions_of_the_other_girls_144d08f1:

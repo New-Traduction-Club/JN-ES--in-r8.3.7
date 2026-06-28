@@ -1251,7 +1251,7 @@ translate spanish holiday_easter_076ca37d:
 translate spanish holiday_easter_c8b7e71a:
 
     # n 4fcstrl "I have {w=0.2}{i}got{/i}{w=0.2} to get some plushies or something..."
-    n 4fcstrl "Tengo {w=0.2}que{/w=0.2} conseguirme unos peluches o algo..."
+    n 4fcstrl "Tengo {w=0.2}que{w=0.2} conseguirme unos peluches o algo..."
 
 # game/script-events.rpy:4001
 translate spanish holiday_easter_48e1443e:

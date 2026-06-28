@@ -2565,7 +2565,7 @@ translate spanish talk_daily_jokes_unlock_b8263858:
 translate spanish talk_daily_jokes_unlock_09f61c71:
 
     # n 1fbkwrsbr "It just gets so {w=0.3}{i}boring{/i}!{w=1}{nw}"
-    n 1fbkwrsbr "¡Es que esto se hace tan {w=0.3}aburrido{/i}!{w=1}{nw}"
+    n 1fbkwrsbr "¡Es que esto se hace tan {w=0.3}aburrido!{w=1}{nw}"
 
 # game/script-topics.rpy:10366
 translate spanish talk_daily_jokes_unlock_9f402687:
