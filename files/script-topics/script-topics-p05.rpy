@@ -2259,7 +2259,7 @@ translate spanish talk_why_do_you_like_me_6ba1c3f9:
 translate spanish talk_why_do_you_like_me_aac1ac39:
 
     # n 1fllwrf "I mean...!{w=0.2} It's not that I {i}like{/i} like you,{w=0.1} or anything ridiculous like that!"
-    n 1fllwrf "¡Quiero decir...!{w=0.2} ¡No es que me gustes de {i}gustar{/i},{w=0.1} ni nada ridículo como eso!"
+    n 1fllwrf "¡Quiero decir...!{w=0.2} ¡No es que me gustes de gustar,{w=0.1} ni nada ridículo como eso!"
 
 # game/scripttopics.rpy:5617
 translate spanish talk_why_do_you_like_me_c175a6f0:
@@ -2391,7 +2391,7 @@ translate spanish talk_fried_squid_1a2a4126:
 translate spanish talk_fried_squid_9d2ba7f5:
 
     # n 1uchbs "It's {i}delicious{/i}!{w=0.2} I love it!"
-    n 1uchbs "¡Está {i}delicioso{/i}!{w=0.2} ¡Me encanta!"
+    n 1uchbs "¡Está delicioso!{w=0.2} ¡Me encanta!"
 
 # game/scripttopics.rpy:5660
 translate spanish talk_fried_squid_bbcc3ae8:
@@ -2409,7 +2409,7 @@ translate spanish talk_fried_squid_55c5959e:
 translate spanish talk_fried_squid_96e7abee:
 
     # n 1fllbg "It's not {i}good{/i} for you exactly,{w=0.1} but as a treat?{w=0.2} You could do way worse..."
-    n 1fllbg "No es que sea {i}bueno{/i} para la salud precisamente,{w=0.1} ¿pero como capricho?{w=0.2} Podría ser mucho peor..."
+    n 1fllbg "No es que sea bueno para la salud precisamente,{w=0.1} ¿pero como capricho?{w=0.2} Podría ser mucho peor..."
 
 # game/scripttopics.rpy:5663
 translate spanish talk_fried_squid_12e8fa45:
@@ -2781,7 +2781,7 @@ translate spanish talk_collectibles_da0cb816:
 translate spanish talk_collectibles_62247b37:
 
     # extend 3fsqss " a better...{w=0.3} {i}physical{/i} one."
-    extend 3fsqss " una mejor...{w=0.3} {i}físicamente{/i}."
+    extend 3fsqss " una mejor...{w=0.3} físicamente."
 
 # game/scripttopics.rpy:5772
 translate spanish talk_collectibles_751b92bd:
@@ -2817,7 +2817,7 @@ translate spanish talk_collectibles_4fb42f12:
 translate spanish talk_collectibles_a15574e9:
 
     # n 4nsqsm "I suppose I'd better {i}read{/i} up on my definitions,{w=0.1} right?"
-    n 4nsqsm "Supongo que será mejor que me {i}lea{/i} las definiciones,{w=0.1} ¿no?"
+    n 4nsqsm "Supongo que será mejor que me lea las definiciones,{w=0.1} ¿no?"
 
 # game/scripttopics.rpy:5780
 translate spanish talk_collectibles_94d29c73:
@@ -2835,7 +2835,7 @@ translate spanish talk_collectibles_c3f003e8:
 translate spanish talk_collectibles_65747a5a:
 
     # n 2flrpo "{i}Hilarious{/i},{w=0.1} [player]."
-    n 2flrpo "{i}Hilarante{/i},{w=0.1} [player]."
+    n 2flrpo "Hilarante,{w=0.1} [player]."
 
 # game/scripttopics.rpy:5785
 translate spanish talk_collectibles_f35378ef:
@@ -3039,7 +3039,7 @@ translate spanish talk_windup_chewing_gum_a164df64:
 translate spanish talk_windup_chewing_gum_1d9c4736:
 
     # n 3fcsup "Even worse than that -{w=0.1} there's even people who go and stick it under tables,{w=0.1} or on walls -{w=0.1} who {i}does{/i} that?!"
-    n 3fcsup "Peor aún:{w=0.1} hay gente que va y lo pega debajo de las mesas,{w=0.1} o en las paredes...{w=0.1} ¡¿quién {i}hace{/i} eso?!"
+    n 3fcsup "Peor aún:{w=0.1} hay gente que va y lo pega debajo de las mesas,{w=0.1} o en las paredes...{w=0.1} ¡¿quién hace eso?!"
 
 # game/scripttopics.rpy:5926
 translate spanish talk_windup_chewing_gum_0f817bec:
@@ -3105,13 +3105,13 @@ translate spanish talk_windup_smoking_vaping_indoors_00cae5f3:
 translate spanish talk_windup_smoking_vaping_indoors_6d1fb628:
 
     # n 3fsqaj "I mean {i}really{/i} stinks -{w=0.1} not just figuratively,{w=0.1} but literally too?"
-    n 3fsqaj "Quiero decir que apesta {i}de verdad{/i};{w=0.1} ¿no solo en sentido figurado,{w=0.1} sino literalmente también?"
+    n 3fsqaj "Quiero decir que apesta de verdad;{w=0.1} ¿no solo en sentido figurado,{w=0.1} sino literalmente también?"
 
 # game/scripttopics.rpy:5963
 translate spanish talk_windup_smoking_vaping_indoors_4e1be7f5:
 
     # n 1fcssf "When people smoke or vape indoors,{w=0.1} or near entrances -{w=0.1} {i}especially{/i} when other people are around.{w=0.2} I can't stand it!"
-    n 1fcssf "Cuando la gente fuma o vapea en interiores,{w=0.1} o cerca de las entradas;{w=0.1} {i}especialmente{/i} cuando hay otra gente alrededor.{w=0.2} ¡No lo soporto!"
+    n 1fcssf "Cuando la gente fuma o vapea en interiores,{w=0.1} o cerca de las entradas;{w=0.1} especialmente cuando hay otra gente alrededor.{w=0.2} ¡No lo soporto!"
 
 # game/scripttopics.rpy:5964
 translate spanish talk_windup_smoking_vaping_indoors_361c5c45:
@@ -3141,7 +3141,7 @@ translate spanish talk_windup_smoking_vaping_indoors_828e96b2:
 translate spanish talk_windup_smoking_vaping_indoors_d8af3306:
 
     # n 1kllan "Speaking of clinging to the walls,{w=0.1} the smoke literally does that too -{w=0.1} have you {i}seen{/i} a smoker's house,{w=0.1} or car?"
-    n 1kllan "Hablando de pegarse a las paredes,{w=0.1} el humo hace eso literalmente también;{w=0.1} ¿has {i}visto{/i} la casa de un fumador,{w=0.1} o su coche?"
+    n 1kllan "Hablando de pegarse a las paredes,{w=0.1} el humo hace eso literalmente también;{w=0.1} ¿has visto la casa de un fumador,{w=0.1} o su coche?"
 
 # game/scripttopics.rpy:5969
 translate spanish talk_windup_smoking_vaping_indoors_2b9e9339:
@@ -3183,7 +3183,7 @@ translate spanish talk_windup_smoking_vaping_indoors_dd0b36f8:
 translate spanish talk_windup_smoking_vaping_indoors_c98dcc49:
 
     # n 1fnmbo "But the least they can do is respect the decision of everyone who {i}doesn't{/i},{w=0.1} you know?"
-    n 1fnmbo "Pero lo mínimo que pueden hacer es respetar la decisión de todos los que {i}no{/i} lo hacen,{w=0.1} ¿sabes?"
+    n 1fnmbo "Pero lo mínimo que pueden hacer es respetar la decisión de todos los que no lo hacen,{w=0.1} ¿sabes?"
 
 # game/scripttopics.rpy:5976
 translate spanish talk_windup_smoking_vaping_indoors_9f314374:
@@ -3273,7 +3273,7 @@ translate spanish talk_windup_unwashed_hands_4b86b4cd:
 translate spanish talk_windup_unwashed_hands_6cdb7227:
 
     # n 3fsqsl "Like...{w=0.3} we {i}know{/i} how important it is to stop germs getting around -{w=0.1} and {i}what{/i} exactly is hard about sticking your hands under the tap for a minute?!"
-    n 3fsqsl "Vamos a ver...{w=0.3} {i}sabemos{/i} lo importante que es evitar que los gérmenes se propaguen;{w=0.1} ¡¿y {i}qué{/i} hay de difícil exactamente en meter las manos bajo el grifo un minuto?!"
+    n 3fsqsl "Vamos a ver...{w=0.3} sabemos lo importante que es evitar que los gérmenes se propaguen;{w=0.1} ¡¿y qué hay de difícil exactamente en meter las manos bajo el grifo un minuto?!"
 
 # game/scripttopics.rpy:6017
 translate spanish talk_windup_unwashed_hands_5568eade:
@@ -3291,7 +3291,7 @@ translate spanish talk_windup_unwashed_hands_814a9a51:
 translate spanish talk_windup_unwashed_hands_1b5138dd:
 
     # n 4fsqsf "Not only is it {i}super{/i} icky and bad for {i}your{/i} health..."
-    n 4fsqsf "No solo es {i}súper{/i} asqueroso y malo para {i}tu{/i} salud..."
+    n 4fsqsf "No solo es súper asqueroso y malo para tu salud..."
 
 # game/scripttopics.rpy:6020
 translate spanish talk_windup_unwashed_hands_f870daf4:
@@ -3309,7 +3309,7 @@ translate spanish talk_windup_unwashed_hands_b2511efa:
 translate spanish talk_windup_unwashed_hands_c3aefd53:
 
     # n 3fnmfu "...And then they get all upset when you call them out on their grossness!{w=0.2} I mean,{w=0.1} come {i}on{/i}!"
-    n 3fnmfu "¡Y luego se enfadan cuando les echas en cara su guarrada!{w=0.2} O sea,{w=0.1} ¡venga {i}ya{/i}!"
+    n 3fnmfu "¡Y luego se enfadan cuando les echas en cara su guarrada!{w=0.2} O sea,{w=0.1} ¡venga ya!"
 
 # game/scripttopics.rpy:6023
 translate spanish talk_windup_unwashed_hands_4fcd7454:
@@ -3393,7 +3393,7 @@ translate spanish talk_windup_litter_c70c97e5:
 translate spanish talk_windup_litter_25c25ec8:
 
     # n 3flrpol "N-{w=0.1}not that I {i}enjoyed{/i} it,{w=0.1} of course!{w=0.2} Cleaning {i}is{/i} pretty lame,{w=0.1} but it's just something you gotta do."
-    n 3flrpol "N-{w=0.1}No es que lo {i}disfrutara{/i},{w=0.1} ¡por supuesto!{w=0.2} Limpiar {i}es{/i} un rollo,{w=0.1} pero es algo que hay que hacer."
+    n 3flrpol "N-{w=0.1}No es que lo disfrutara,{w=0.1} ¡por supuesto!{w=0.2} Limpiar es un rollo,{w=0.1} pero es algo que hay que hacer."
 
 # game/scripttopics.rpy:6061
 translate spanish talk_windup_litter_f5ef6294:
@@ -3405,7 +3405,7 @@ translate spanish talk_windup_litter_f5ef6294:
 translate spanish talk_windup_litter_1a6fe0f7:
 
     # n 2fsqtr "{i}Nothing{/i} pissed me off more than the jerks who just went and dropped or left their trash everywhere."
-    n 2fsqtr "{i}Nada{/i} me cabreaba más que los imbéciles que iban y tiraban o dejaban su basura por todas partes."
+    n 2fsqtr "Nada me cabreaba más que los imbéciles que iban y tiraban o dejaban su basura por todas partes."
 
 # game/scripttopics.rpy:6063
 translate spanish talk_windup_litter_2aa6003a:
@@ -3435,7 +3435,7 @@ translate spanish talk_windup_litter_1f611279:
 translate spanish talk_windup_litter_eb70ace2:
 
     # n 4fcsfu "Like,{w=0.1} wow...{w=0.3} lazy as well as inconsiderate?{w=0.2} What a {i}charming{/i} combo!"
-    n 4fcsfu "O sea,{w=0.1} guau...{w=0.3} ¿vagos y encima desconsiderados?{w=0.2} ¡Qué combinación más {i}encantadora{/i}!"
+    n 4fcsfu "O sea,{w=0.1} guau...{w=0.3} ¿vagos y encima desconsiderados?{w=0.2} ¡Qué combinación más encantadora!"
 
 # game/scripttopics.rpy:6068
 translate spanish talk_windup_litter_3f93c14c:
@@ -3483,7 +3483,7 @@ translate spanish talk_windup_litter_57bff1ac:
 translate spanish talk_windup_litter_a1c15666:
 
     # n 2ksqbo "I know you.{w=0.2} In fact,{w=0.1} I daresay I know you {i}very{/i} well by now."
-    n 2ksqbo "Te conozco.{w=0.2} De hecho,{w=0.1} me atrevería a decir que te conozco {i}muy{/i} bien a estas alturas."
+    n 2ksqbo "Te conozco.{w=0.2} De hecho,{w=0.1} me atrevería a decir que te conozco muy bien a estas alturas."
 
 # game/scripttopics.rpy:6078
 translate spanish talk_windup_litter_70a98f09:
@@ -3513,7 +3513,7 @@ translate spanish talk_windup_litter_e79fd704:
 translate spanish talk_windup_litter_b0977e3f:
 
     # n 2ullsl "Or...{w=0.3} at least you don't {i}try{/i} to be anyway."
-    n 2ullsl "O...{w=0.3} al menos no {i}intentas{/i} serlo."
+    n 2ullsl "O...{w=0.3} al menos no intentas serlo."
 
 # game/scripttopics.rpy:6087
 translate spanish talk_windup_litter_9e64ae04:
@@ -3597,7 +3597,7 @@ translate spanish talk_custom_music_introduction_7d3ca8fd:
 translate spanish talk_custom_music_introduction_1c77e9e1:
 
     # n 1fcsbg "You're gonna {i}love{/i} this!"
-    n 1fcsbg "¡Te va a {i}encantar{/i} esto!"
+    n 1fcsbg "¡Te va a encantar esto!"
 
 # game/scripttopics.rpy:6138
 translate spanish talk_custom_music_introduction_fe74673e:
@@ -3627,7 +3627,7 @@ translate spanish talk_custom_music_introduction_be023e78:
 translate spanish talk_custom_music_introduction_f43c37f3:
 
     # n "A-{w=0.2}ack!{w=0.75} I didn't think it was {i}that{/i} dusty..."
-    n "¡Argg!{w=0.75} No pensé que tuviera {i}tanto{/i} polvo..."
+    n "¡Argg!{w=0.75} No pensé que tuviera tanto polvo..."
 
 # game/scripttopics.rpy:6153
 translate spanish talk_custom_music_introduction_9afceee7:

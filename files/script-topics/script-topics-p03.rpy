@@ -2660,13 +2660,13 @@ translate spanish talk_sustainable_fashion_24445f85:
 translate spanish talk_sustainable_fashion_0d894687:
 
     # n 1ullaj "People throw away a {i}lot{/i} of clothing...{w=0.5}{nw}"
-    n 1ullaj "La gente tira {i}mucha{/i} ropa... {w=0.5}{nw}"
+    n 1ullaj "La gente tira mucha ropa... {w=0.5}{nw}"
 
 # game/scripttopics.rpy:3189
 translate spanish talk_sustainable_fashion_5108c9e6:
 
     # extend 3flrem " it's estimated that we toss out around 90{w=0.3} {i}million{/i}{w=0.3} tonnes every year."
-    extend 3flrem " se estima que tiramos unas 90{w=0.3} {i}millones{/i}{w=0.3} de toneladas cada año."
+    extend 3flrem " se estima que tiramos unas 90{w=0.3} millones{w=0.3} de toneladas cada año."
 
 # game/scripttopics.rpy:3190
 translate spanish talk_sustainable_fashion_0ae68728:
@@ -2684,13 +2684,13 @@ translate spanish talk_sustainable_fashion_7a567862:
 translate spanish talk_sustainable_fashion_fc802500:
 
     # n 2fnmsl "I remember reading somewhere that we toss out something like 90{w=0.3} {i}million{/i}{w=0.3} tonnes each year."
-    n 2fnmsl "Recuerdo haber leído por ahí que tiramos como 90{w=0.3} {i}millones{/i}{w=0.3} de toneladas al año."
+    n 2fnmsl "Recuerdo haber leído por ahí que tiramos como 90{w=0.3} millones{w=0.3} de toneladas al año."
 
 # game/scripttopics.rpy:3195
 translate spanish talk_sustainable_fashion_5a040e18:
 
     # n 1fcsan "That's literally a truck-full {i}every{w=0.3} second{/i}."
-    n 1fcsan "Eso es literalmente un camión lleno {i}cada{w=0.3} segundo{/i}."
+    n 1fcsan "Eso es literalmente un camión lleno cada{w=0.3} segundo."
 
 # game/scripttopics.rpy:3197
 translate spanish talk_sustainable_fashion_52e0b9a6:
@@ -3008,7 +3008,7 @@ translate spanish talk_give_nickname_ff5df173:
 translate spanish talk_give_nickname_8e7dc68f:
 
     # extend 1fsqfu " That's {i}awful{/i}!"
-    extend 1fsqfu " ¡Es {i}horrible{/i}!"
+    extend 1fsqfu " ¡Es horrible!"
 
 # game/scripttopics.rpy:3316
 translate spanish talk_give_nickname_870403b3:
@@ -3044,7 +3044,7 @@ translate spanish talk_give_nickname_ef751a2e:
 translate spanish talk_give_nickname_61cbab7f:
 
     # extend 2fnman " Why would you do that?{w=0.1} Are you {i}trying{/i} to get on my nerves?!"
-    extend 2fnman " ¿Por qué harías eso?{w=0.1} ¿Estás {i}intentando{/i} sacarme de quicio?!"
+    extend 2fnman " ¿Por qué harías eso?{w=0.1} ¿Estás intentando sacarme de quicio?!"
 
 # game/scripttopics.rpy:3325
 translate spanish talk_give_nickname_870403b3_1:
@@ -3458,7 +3458,7 @@ translate spanish talk_sleeping_well_7f664b8d:
 translate spanish talk_sleeping_well_51be5dbd:
 
     # n 2fsqpo "I mean,{w=0.1} you {i}have{/i} been here for a while now..."
-    n 2fsqpo "A ver,{w=0.1} es que {i}llevas{/i} ya un buen rato aquí..."
+    n 2fsqpo "A ver,{w=0.1} es que llevas ya un buen rato aquí..."
 
 # game/scripttopics.rpy:3492
 translate spanish talk_sleeping_well_4e072aa9:
@@ -3476,7 +3476,7 @@ translate spanish talk_sleeping_well_e0695d2c:
 translate spanish talk_sleeping_well_4f76b3fe:
 
     # n 2fllpo "I mean,{w=0.1} you even {i}said{/i} you were tired before."
-    n 2fllpo "A ver,{w=0.1} si hasta {i}dijiste{/i} antes que estabas cansad[end_letter_gender]."
+    n 2fllpo "A ver,{w=0.1} si hasta dijiste antes que estabas cansad[end_letter_gender]."
 
 # game/scripttopics.rpy:3497
 translate spanish talk_sleeping_well_4e072aa9_1:
@@ -3704,7 +3704,7 @@ translate spanish talk_aging_1402dbb4:
 translate spanish talk_aging_4c1f8424:
 
     # n 3tlrss "Of course,{w=0.1} it's rare to find one that {i}everyone{/i} has..."
-    n 3tlrss "Claro que es raro encontrar uno que {i}todo el mundo{/i} tenga..."
+    n 3tlrss "Claro que es raro encontrar uno que todo el mundo tenga..."
 
 # game/scripttopics.rpy:3559
 translate spanish talk_aging_1fce8094:
@@ -3830,7 +3830,7 @@ translate spanish talk_aging_1d131d62:
 translate spanish talk_aging_423216f1:
 
     # extend 4fnmem " and nobody is being hurt or made uncomfortable,{w=0.1} who {i}actually{/i} cares?"
-    extend 4fnmem " y nadie salga herido ni se sienta incómodo,{w=0.1} ¿a quién le importa {i}de verdad{/i}?"
+    extend 4fnmem " y nadie salga herido ni se sienta incómodo,{w=0.1} ¿a quién le importa de verdad?"
 
 # game/scripttopics.rpy:3580
 translate spanish talk_aging_9781d37f:
@@ -3842,7 +3842,7 @@ translate spanish talk_aging_9781d37f:
 translate spanish talk_aging_83c355a5:
 
     # n 1unmaj "Besides,{w=0.1} it's not like being a certain age means you {i}have{/i} to be a certain way."
-    n 1unmaj "Además,{w=0.1} tener cierta edad no significa que {i}tengas{/i} que ser de una forma concreta."
+    n 1unmaj "Además,{w=0.1} tener cierta edad no significa que tengas que ser de una forma concreta."
 
 # game/scripttopics.rpy:3582
 translate spanish talk_aging_8e928c01:
@@ -3986,7 +3986,7 @@ translate spanish talk_work_life_balance_e11ffc15:
 translate spanish talk_work_life_balance_220d93dd:
 
     # n 1fslpu "I've heard {i}way{/i} too many stories of people doing stupid amounts of overtime at work...{w=0.5}{nw}"
-    n 1fslpu "He oído {i}demasiadas{/i} historias de gente haciendo una barbaridad de horas extra en el trabajo... {w=0.5}{nw}"
+    n 1fslpu "He oído demasiadas historias de gente haciendo una barbaridad de horas extra en el trabajo... {w=0.5}{nw}"
 
 # game/scripttopics.rpy:3638
 translate spanish talk_work_life_balance_c8a72cca:

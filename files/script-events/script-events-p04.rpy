@@ -975,13 +975,13 @@ translate spanish holiday_natsuki_birthday_3d8b00d8:
 translate spanish holiday_natsuki_birthday_7c00a9db:
 
     # extend 2kbkwrl " What {i}is{/i} all thiiiis?!"
-    extend 2kbkwrl " ¡¿Qué {i}es{/i} todo estoooo?!"
+    extend 2kbkwrl " ¡¿Qué es todo estoooo?!"
 
 # game/scriptevents.rpy:5086
 translate spanish holiday_natsuki_birthday_b974ccdf:
 
     # n 2fcsgslsbl "Y-{w=0.2}you were supposed to {i}forget{/i} all about my birthday!{w=0.75}{nw}"
-    n 2fcsgslsbl "¡S-{w=0.2}Se suponía que tenías que {i}olvidar{/i} mi cumpleaños por completo!{w=0.75}{nw}"
+    n 2fcsgslsbl "¡S-{w=0.2}Se suponía que tenías que olvidar mi cumpleaños por completo!{w=0.75}{nw}"
 
 # game/scriptevents.rpy:5087
 translate spanish holiday_natsuki_birthday_1c8b37dc:
@@ -993,7 +993,7 @@ translate spanish holiday_natsuki_birthday_1c8b37dc:
 translate spanish holiday_natsuki_birthday_fd725cbb:
 
     # n 4fbkwrleansbl "You go and make me the front and center of {i}everything{/i}!"
-    n 4fbkwrleansbl "¡Vas y me conviertes en el centro de atención de {i}todo{/i}!"
+    n 4fbkwrleansbl "¡Vas y me conviertes en el centro de atención de todo!"
 
 # game/scriptevents.rpy:5089
 translate spanish holiday_natsuki_birthday_a74c911f:
@@ -1005,7 +1005,7 @@ translate spanish holiday_natsuki_birthday_a74c911f:
 translate spanish holiday_natsuki_birthday_addc5322:
 
     # extend 4flrgslsbr " it's {i}easily{/i} the most embarrassing type of attention too!"
-    extend 4flrgslsbr " ¡encima es {i}con diferencia{/i} el tipo de atención más vergonzosa!"
+    extend 4flrgslsbr " ¡encima es con diferencia el tipo de atención más vergonzosa!"
 
 # game/scriptevents.rpy:5091
 translate spanish holiday_natsuki_birthday_e473ca82:
@@ -1077,13 +1077,13 @@ translate spanish holiday_natsuki_birthday_0a1f834e:
 translate spanish holiday_natsuki_birthday_69dd4144:
 
     # extend 2fllwrl " Are you {i}kidding me{/i}?!"
-    extend 2fllwrl " ¡¿Estás de {i}coña{/i}?!"
+    extend 2fllwrl " ¡¿Estás de coña?!"
 
 # game/scriptevents.rpy:5105
 translate spanish holiday_natsuki_birthday_d55968f0:
 
     # n 4fbkwrl "I didn't even {i}tell you{/i} my birthday!{w=0.75}{nw}"
-    n 4fbkwrl "¡Ni siquiera te {i}dije{/i} mi cumpleaños!{w=0.75}{nw}"
+    n 4fbkwrl "¡Ni siquiera te dije mi cumpleaños!{w=0.75}{nw}"
 
 # game/scriptevents.rpy:5106
 translate spanish holiday_natsuki_birthday_86df7903:
@@ -1131,7 +1131,7 @@ translate spanish holiday_natsuki_birthday_7f40403f:
 translate spanish holiday_natsuki_birthday_b5b6d500:
 
     # extend 2csrfll " You are {i}such{/i} a jerk sometimes."
-    extend 2csrfll " A veces eres {i}un{/i} verdadero capullo."
+    extend 2csrfll " A veces eres un verdadero capullo."
 
 # game/scriptevents.rpy:5121
 translate spanish holiday_natsuki_birthday_500633ab:
@@ -1161,7 +1161,7 @@ translate spanish holiday_natsuki_birthday_973bbf04:
 translate spanish holiday_natsuki_birthday_df8c20b7:
 
     # n 2cslsll "You are {i}such{/i} a jerk sometimes.{w=0.75}{nw}"
-    n 2cslsll "A veces eres {i}un{/i} verdadero capullo.{w=0.75}{nw}"
+    n 2cslsll "A veces eres un verdadero capullo.{w=0.75}{nw}"
 
 # game/scriptevents.rpy:5128
 translate spanish holiday_natsuki_birthday_92f329e6:
@@ -1245,13 +1245,13 @@ translate spanish holiday_natsuki_birthday_83dd5e5c:
 translate spanish holiday_natsuki_birthday_705dee99:
 
     # n 4csqtrl "Where did you even {i}find{/i} all this?"
-    n 4csqtrl "¿De dónde has {i}sacado{/i} todo esto?"
+    n 4csqtrl "¿De dónde has sacado todo esto?"
 
 # game/scriptevents.rpy:5154
 translate spanish holiday_natsuki_birthday_3972bb1e:
 
     # n 2fsqcal "...And why does the cake look {i}exactly{/i} like the one I made you?"
-    n 2fsqcal "¿Y por qué la tarta es {i}idéntica{/i} a la que te hice?"
+    n 2fsqcal "¿Y por qué la tarta es idéntica a la que te hice?"
 
 # game/scriptevents.rpy:5155
 translate spanish holiday_natsuki_birthday_890eb792:
@@ -1371,7 +1371,7 @@ translate spanish holiday_natsuki_birthday_a0dc4754:
 translate spanish holiday_natsuki_birthday_43175f95:
 
     # extend 1ccsajl " But {i}only{/i} because I'd look like a total jerk otherwise.{w=0.75}{nw}"
-    extend 1ccsajl " Pero {i}solo{/i} porque si no parecería una capulla integral.{w=0.75}{nw}"
+    extend 1ccsajl " Pero solo porque si no parecería una capulla integral.{w=0.75}{nw}"
 
 # game/scriptevents.rpy:5200
 translate spanish holiday_natsuki_birthday_24c75f64:
@@ -1389,7 +1389,7 @@ translate spanish holiday_natsuki_birthday_9ed5c87e:
 translate spanish holiday_natsuki_birthday_7dd0a6a8:
 
     # extend 2clrsm " I can't even {i}remember{/i} the last time I got to do that."
-    extend 2clrsm " Ni siquiera {i}recuerdo{/i} la última vez que pude hacer eso."
+    extend 2clrsm " Ni siquiera recuerdo la última vez que pude hacer eso."
 
 # game/scriptevents.rpy:5214
 translate spanish holiday_natsuki_birthday_6a6cddc5:
@@ -1467,7 +1467,7 @@ translate spanish holiday_natsuki_birthday_ee14916e:
 translate spanish holiday_natsuki_birthday_628147b6:
 
     # extend 2cslbol " I {i}have{/i} lived without those."
-    extend 2cslbol " {i}He{/i} vivido sin eso."
+    extend 2cslbol " He vivido sin eso."
 
 # game/scriptevents.rpy:5227
 translate spanish holiday_natsuki_birthday_303b685d:
@@ -1527,13 +1527,13 @@ translate spanish holiday_natsuki_birthday_34f6077b:
 translate spanish holiday_natsuki_birthday_6ad3cab6:
 
     # n 1cnmemlsbr "I-{w=0.2}it's not like {i}nobody{/i} would have cared enough!{w=0.75}{nw}"
-    n 1cnmemlsbr "N-{w=0.2}No es que a {i}nadie{/i} le importara lo suficiente!{w=0.75}{nw}"
+    n 1cnmemlsbr "N-{w=0.2}No es que a nadie le importara lo suficiente!{w=0.75}{nw}"
 
 # game/scriptevents.rpy:5237
 translate spanish holiday_natsuki_birthday_cf9a5461:
 
     # extend 1clrfll " I know the others would have done {i}something{/i}.{w=0.75}{nw}"
-    extend 1clrfll " Sé que las demás habrían hecho {i}algo{/i}.{w=0.75}{nw}"
+    extend 1clrfll " Sé que las demás habrían hecho algo.{w=0.75}{nw}"
 
 # game/scriptevents.rpy:5238
 translate spanish holiday_natsuki_birthday_f025c409:
@@ -1659,7 +1659,7 @@ translate spanish holiday_natsuki_birthday_27a975a4:
 translate spanish holiday_natsuki_birthday_4c99fdb7:
 
     # extend 2klrssl " Even {i}if{/i} all of this is just through a screen?"
-    extend 2klrssl " ¿Incluso {i}si{/i} todo esto es solo a través de una pantalla?"
+    extend 2klrssl " ¿Incluso si todo esto es solo a través de una pantalla?"
 
 # game/scriptevents.rpy:5260
 translate spanish holiday_natsuki_birthday_ee72f488:
@@ -1713,13 +1713,13 @@ translate spanish holiday_natsuki_birthday_5ef1be0c:
 translate spanish holiday_natsuki_birthday_e13d06bb:
 
     # extend 2ccsfllsbr " I-{w=0.2}I {i}know{/i} you're not meant to give other people stuff on your birthday.{w=1}{nw}"
-    extend 2ccsfllsbr " Y-{w=0.2}Ya {i}sé{/i} que no se supone que regales cosas a otros en tu cumpleaños.{w=1}{nw}"
+    extend 2ccsfllsbr " Y-{w=0.2}Ya sé que no se supone que regales cosas a otros en tu cumpleaños.{w=1}{nw}"
 
 # game/scriptevents.rpy:5282
 translate spanish holiday_natsuki_birthday_ac1179f7:
 
     # extend 2cslcalsbr " {i}Obviously{/i}."
-    extend 2cslcalsbr " {i}Obviamente{/i}."
+    extend 2cslcalsbr " Obviamente."
 
 # game/scriptevents.rpy:5283
 translate spanish holiday_natsuki_birthday_636e1790:
@@ -2229,7 +2229,7 @@ translate spanish holiday_natsuki_birthday_e55d075c:
 translate spanish holiday_natsuki_birthday_a5eda0f3:
 
     # extend 1ksrfsl " really {i}does{/i} feel like my birthday now."
-    extend 1ksrfsl " ahora {i}sí{/i} que parece mi cumpleaños."
+    extend 1ksrfsl " ahora sí que parece mi cumpleaños."
 
 # game/scriptevents.rpy:5467
 translate spanish holiday_natsuki_birthday_d8a2976c:
@@ -2319,7 +2319,7 @@ translate spanish holiday_natsuki_birthday_d81ac414:
 translate spanish holiday_natsuki_birthday_d81bb2ce:
 
     # extend 2cslsslsbl " E-{w=0.2}even if it {i}did{/i} come from a dummy."
-    extend 2cslsslsbl " A-{w=0.2}Aunque {i}venga{/i} de un tontorrón."
+    extend 2cslsslsbl " A-{w=0.2}Aunque venga de un tontorrón."
 
 # game/scriptevents.rpy:5495
 translate spanish holiday_natsuki_birthday_d08200ab:
@@ -2421,7 +2421,7 @@ translate spanish holiday_player_birthday_ab470265:
 translate spanish holiday_player_birthday_45fc3aba:
 
     # extend 4fchbl " I know I got you {i}real{/i} good this time."
-    extend 4fchbl " Sé que te he pillado {i}bien{/i} esta vez."
+    extend 4fchbl " Sé que te he pillado bien esta vez."
 
 # game/scriptevents.rpy:5548
 translate spanish holiday_player_birthday_69c30588:
@@ -2433,7 +2433,7 @@ translate spanish holiday_player_birthday_69c30588:
 translate spanish holiday_player_birthday_5993899d:
 
     # extend 1tsqsm " We both know what {i}you're{/i} waiting for,{w=0.2} huh?"
-    extend 1tsqsm " Los dos sabemos lo que {i}tú{/i} estás esperando,{w=0.2} ¿eh?"
+    extend 1tsqsm " Los dos sabemos lo que tú estás esperando,{w=0.2} ¿eh?"
 
 # game/scriptevents.rpy:5550
 translate spanish holiday_player_birthday_82a0d588:
@@ -2469,7 +2469,7 @@ translate spanish holiday_player_birthday_3d1796d5:
 translate spanish holiday_player_birthday_d6d8a4c6:
 
     # extend 2fllpol " You don't {i}seriously{/i} expect me to sing all by myself?{w=1}{nw}"
-    extend 2fllpol " ¿No esperarás {i}en serio{/i} que cante yo sola?{w=1}{nw}"
+    extend 2fllpol " ¿No esperarás en serio que cante yo sola?{w=1}{nw}"
 
 # game/scriptevents.rpy:5561
 translate spanish holiday_player_birthday_5e0e48b0:
@@ -2799,7 +2799,7 @@ translate spanish holiday_player_birthday_67fc40f0:
 translate spanish holiday_player_birthday_31230482:
 
     # extend 2fcseml " {i}Finally{/i}.{w=1}{nw}"
-    extend 2fcseml " {i}Por fin{/i}.{w=1}{nw}"
+    extend 2fcseml " Por fin.{w=1}{nw}"
 
 # game/scriptevents.rpy:5645
 translate spanish holiday_player_birthday_728e30e2:
@@ -2823,7 +2823,7 @@ translate spanish holiday_player_birthday_a5b4b89b:
 translate spanish holiday_player_birthday_9005aaa8:
 
     # extend 4fsrssl " I-{w=0.2}in case you wanted to reference my writing skills later,{w=0.2} {i}obviously{/i}."
-    extend 4fsrssl " P-{w=0.2}Por si querías consultar mis dotes de escritura más tarde,{w=0.2} {i}obviamente{/i}."
+    extend 4fsrssl " P-{w=0.2}Por si querías consultar mis dotes de escritura más tarde,{w=0.2} obviamente."
 
 # game/scriptevents.rpy:5654
 translate spanish holiday_player_birthday_7ef2b6a3:

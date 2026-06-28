@@ -3088,7 +3088,7 @@ translate spanish admission_sad_5e9d1f9c:
 translate spanish admission_sad_b41ef237:
 
     # extend 4ksrsllsbr " really {i}not{/i} what I was hoping to hear,{w=0.75}{nw}"
-    extend 4ksrsllsbr " la verdad es que {i}no{/i} es lo que esperaba oír,{w=0.75}{nw}"
+    extend 4ksrsllsbr " la verdad es que no es lo que esperaba oír,{w=0.75}{nw}"
 
 # game/scriptadmissions.rpy:971
 translate spanish admission_sad_3a9f4cfb:
@@ -3472,7 +3472,7 @@ translate spanish admission_sad_120a4de7:
 translate spanish admission_sad_46e61997:
 
     # extend 2tlrss " You don't have to feel better {i}instantly{/i}."
-    extend 2tlrss " No tienes que sentirte mejor {i}al instante{/i}."
+    extend 2tlrss " No tienes que sentirte mejor al instante."
 
 # game/scriptadmissions.rpy:1075
 translate spanish admission_sad_ed404e25:
@@ -3730,7 +3730,7 @@ translate spanish admission_sick_6cd52de8:
 translate spanish admission_sick_93957231:
 
     # extend 2fcssllsbl " But I'd be a lousy friend if I didn't at least {i}ask{/i}."
-    extend 2fcssllsbl " Pero sería una amiga pésima si al menos no {i}preguntara{/i}."
+    extend 2fcssllsbl " Pero sería una amiga pésima si al menos no preguntara."
 
 # game/scriptadmissions.rpy:1154
 translate spanish admission_sick_3e6b095c:
@@ -3754,7 +3754,7 @@ translate spanish admission_sick_4d85dfc3:
 translate spanish admission_sick_ce01a0f3:
 
     # n 4tsrpu "...You {i}have{/i} seen someone about this..."
-    n 4tsrpu "{i}Has{/i} visto a alguien por esto..."
+    n 4tsrpu "Has visto a alguien por esto..."
 
 # game/scriptadmissions.rpy:1161
 translate spanish admission_sick_8d527212:
@@ -4390,7 +4390,7 @@ translate spanish admission_tired_c4cd7bac:
 translate spanish admission_tired_caa80f3d:
 
     # n 2tsqflsbr "Did you really {i}not{/i} know that?{w=1}{nw}"
-    n 2tsqflsbr "¿De verdad {i}no{/i} lo sabías?{w=1}{nw}"
+    n 2tsqflsbr "¿De verdad no lo sabías?{w=1}{nw}"
 
 # game/scriptadmissions.rpy:1355
 translate spanish admission_tired_176dbf30:

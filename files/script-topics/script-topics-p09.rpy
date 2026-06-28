@@ -267,7 +267,7 @@ translate spanish talk_learning_languages_9a9001b9:
 translate spanish talk_learning_languages_aaf18954:
 
     # n 3fcsbs "Ich wette du wusstest nicht, dass ich nicht {i}nur{/i} Englisch tue,{w=0.2} huh?"
-    n 3fcsbs "Ich wette du wusstest nicht, dass ich nicht {i}nur{/i} Spanisch tue,{w=0.2} ¿eh?"
+    n 3fcsbs "Ich wette du wusstest nicht, dass ich nicht nur Spanisch tue,{w=0.2} ¿eh?"
 
 # game/scripttopics.rpy:9772
 translate spanish talk_learning_languages_f8cf2166:
@@ -831,13 +831,13 @@ translate spanish talk_learning_languages_e58a9598:
 translate spanish talk_learning_languages_0f852874:
 
     # extend 2fsqem " You already {i}said{/i} you knew another language!"
-    extend 2fsqem " ¡Ya {i}dijiste{/i} que sabías otro idioma!"
+    extend 2fsqem " ¡Ya dijiste que sabías otro idioma!"
 
 # game/scripttopics.rpy:9898
 translate spanish talk_learning_languages_e82b9ffd:
 
     # n 2fslpol "I wasn't born {i}yesterday{/i},{w=0.2} you jerk..."
-    n 2fslpol "No nací {i}ayer{/i},{w=0.2} capull[end_letter_gender]..."
+    n 2fslpol "No nací ayer,{w=0.2} capull[end_letter_gender]..."
 
 # game/scripttopics.rpy:9901
 translate spanish talk_learning_languages_1ad88691:
@@ -903,7 +903,7 @@ translate spanish talk_learning_languages_75e231da:
 translate spanish talk_learning_languages_7ce84375:
 
     # extend 4fsqbg " as they say in {i}Deutschland{/i}..."
-    extend 4fsqbg " como dicen en {i}Deutschland{/i}..."
+    extend 4fsqbg " como dicen en Deutschland..."
 
 # game/scripttopics.rpy:9914
 translate spanish talk_learning_languages_4beb47bb:
@@ -987,7 +987,7 @@ translate spanish talk_rage_rooms_558b1228:
 translate spanish talk_rage_rooms_508db45f:
 
     # n 2nslsssbr "I've never actually {i}been{/i} to one myself,{w=0.75}{nw}"
-    n 2nslsssbr "Yo nunca he {i}estado{/i} en una,{w=0.75}{nw}"
+    n 2nslsssbr "Yo nunca he estado en una,{w=0.75}{nw}"
 
 # game/scripttopics.rpy:9954
 translate spanish talk_rage_rooms_3d51f7be:
@@ -1029,7 +1029,7 @@ translate spanish talk_rage_rooms_87ba2503:
 translate spanish talk_rage_rooms_92373fe0:
 
     # extend 4fspgsedz " {i}awesome{/i}!"
-    extend 4fspgsedz " ¡{i}increíble{/i}!"
+    extend 4fspgsedz " ¡increíble!"
 
 # game/scripttopics.rpy:9962
 translate spanish talk_rage_rooms_3eeff3c3:
@@ -1101,7 +1101,7 @@ translate spanish talk_rage_rooms_90f039e0:
 translate spanish talk_rage_rooms_7b670210:
 
     # extend 3fsqbg " What {i}else{/i} do you think it's all for?"
-    extend 3fsqbg " ¿Para qué {i}más{/i} crees que sirve todo eso?"
+    extend 3fsqbg " ¿Para qué más crees que sirve todo eso?"
 
 # game/scripttopics.rpy:9974
 translate spanish talk_rage_rooms_100000b0:
@@ -1149,7 +1149,7 @@ translate spanish talk_rage_rooms_2e7f0981:
 translate spanish talk_rage_rooms_ecd2bfee:
 
     # extend 3fchgn " imagine {i}Yuri{/i} trying out something like that!"
-    extend 3fchgn " ¡imagínate a {i}Yuri{/i} probando algo así!"
+    extend 3fchgn " ¡imagínate a Yuri probando algo así!"
 
 # game/scripttopics.rpy:9982
 translate spanish talk_rage_rooms_3d20baed:
@@ -1239,7 +1239,7 @@ translate spanish talk_rage_rooms_1eee024e:
 translate spanish talk_rage_rooms_dc6e33d6:
 
     # extend 3kslslsbl " and it really {i}isn't{/i} a way to deal with anger issues or anything like that."
-    extend 3kslslsbl " y realmente {i}no{/i} es una forma de lidiar con problemas de ira ni nada de eso."
+    extend 3kslslsbl " y realmente no es una forma de lidiar con problemas de ira ni nada de eso."
 
 # game/scripttopics.rpy:9997
 translate spanish talk_rage_rooms_080dc5c6:
@@ -1251,7 +1251,7 @@ translate spanish talk_rage_rooms_080dc5c6:
 translate spanish talk_rage_rooms_04b3d593:
 
     # n 4fsqbg "If that doesn't sound like a {w=0.2}{i}smashing{/i}{w=0.2} way to relieve stress..."
-    n 4fsqbg "Si esa no te parece una forma {w=0.2}{i}demoledora{/i}{w=0.2} de aliviar el estrés..."
+    n 4fsqbg "Si esa no te parece una forma {w=0.2}demoledora{w=0.2} de aliviar el estrés..."
 
 # game/scripttopics.rpy:9999
 translate spanish talk_rage_rooms_7e268118:
@@ -1455,13 +1455,13 @@ translate spanish talk_thoughts_on_vegetarianism_13ecef13:
 translate spanish talk_thoughts_on_vegetarianism_d24ec79f:
 
     # n 4nslsssbr "And it's not like I can really try them {i}now{/i},{w=0.2} either."
-    n 4nslsssbr "Y tampoco es que pueda probarlas {i}ahora{/i},{w=0.2} la verdad."
+    n 4nslsssbr "Y tampoco es que pueda probarlas ahora,{w=0.2} la verdad."
 
 # game/scripttopics.rpy:10103
 translate spanish talk_thoughts_on_vegetarianism_b061375c:
 
     # n 1unmeml "B-{w=0.2}but that's not to say they looked {i}bad{/i} or anything!"
-    n 1unmeml "¡P-{w=0.2}Pero eso no quiere decir que tuvieran {i}mala{/i} pinta ni nada!"
+    n 1unmeml "¡P-{w=0.2}Pero eso no quiere decir que tuvieran mala pinta ni nada!"
 
 # game/scripttopics.rpy:10104
 translate spanish talk_thoughts_on_vegetarianism_31d654d8:
@@ -1521,13 +1521,13 @@ translate spanish talk_thoughts_on_vegetarianism_1c766fc0:
 translate spanish talk_thoughts_on_vegetarianism_532d63bf:
 
     # n 1tnmpu "But dropping {i}everything{/i},{w=0.75}{nw}"
-    n 1tnmpu "Pero dejarlo {i}todo{/i},{w=0.75}{nw}"
+    n 1tnmpu "Pero dejarlo todo,{w=0.75}{nw}"
 
 # game/scripttopics.rpy:10114
 translate spanish talk_thoughts_on_vegetarianism_cf254853:
 
     # extend 4unmem " or even refusing {i}any{/i} animal products whatsoever?"
-    extend 4unmem " ¿o incluso rechazar {i}cualquier{/i} producto animal?"
+    extend 4unmem " ¿o incluso rechazar cualquier producto animal?"
 
 # game/scripttopics.rpy:10115
 translate spanish talk_thoughts_on_vegetarianism_5e0704eb:
@@ -1641,7 +1641,7 @@ translate spanish talk_thoughts_on_vegetarianism_e8fce024:
 translate spanish talk_thoughts_on_vegetarianism_cfcb4b4f:
 
     # n 2fsldv "Even if {i}I{/i} can't try it out myself right now..."
-    n 2fsldv "Aunque {i}yo{/i} no pueda probarlo ahora mismo..."
+    n 2fsldv "Aunque yo no pueda probarlo ahora mismo..."
 
 # game/scripttopics.rpy:10134
 translate spanish talk_thoughts_on_vegetarianism_22e666a5:
@@ -1731,7 +1731,7 @@ translate spanish talk_thoughts_on_vegetarianism_d70135f7:
 translate spanish talk_thoughts_on_vegetarianism_92ef3c28:
 
     # extend 4tsqsm " at least you can say you {i}tried{/i} it,{w=0.2} right?"
-    extend 4tsqsm " al menos podrás decir que lo has {i}intentado{/i},{w=0.2} ¿no?"
+    extend 4tsqsm " al menos podrás decir que lo has intentado,{w=0.2} ¿no?"
 
 # game/scripttopics.rpy:10149
 translate spanish talk_thoughts_on_vegetarianism_3bcc4479:
@@ -1761,7 +1761,7 @@ translate spanish talk_thoughts_on_vegetarianism_08d20f29:
 translate spanish talk_thoughts_on_vegetarianism_b57cffd9:
 
     # n 3fsqbg "Wouldn't want to turn you into a {i}vegetable{/i} now,{w=0.75}{nw}"
-    n 3fsqbg "No querría dejarte como un {i}vegetal{/i} ahora,{w=0.75}{nw}"
+    n 3fsqbg "No querría dejarte como un vegetal ahora,{w=0.75}{nw}"
 
 # game/scripttopics.rpy:10154
 translate spanish talk_thoughts_on_vegetarianism_d2aad066:
@@ -1803,7 +1803,7 @@ translate spanish talk_thoughts_on_vegetarianism_b237b600:
 translate spanish talk_thoughts_on_vegetarianism_abacfe6b:
 
     # n 2nsqsr "This {i}again{/i}?"
-    n 2nsqsr "¿Esto {i}otra vez{/i}?"
+    n 2nsqsr "¿Esto otra vez?"
 
 # game/scripttopics.rpy:10168
 translate spanish talk_thoughts_on_vegetarianism_e7022a87:
@@ -1815,7 +1815,7 @@ translate spanish talk_thoughts_on_vegetarianism_e7022a87:
 translate spanish talk_thoughts_on_vegetarianism_9e88252d:
 
     # extend 2fsqsr " {i}Vegetarianism{/i}?"
-    extend 2fsqsr " ¿{i}Vegetarianismo{/i}?"
+    extend 2fsqsr " ¿Vegetarianismo?"
 
 # game/scripttopics.rpy:10170
 translate spanish talk_thoughts_on_vegetarianism_6a52cb88:
@@ -1941,7 +1941,7 @@ translate spanish talk_thoughts_on_vegetarianism_5d279ffd:
 translate spanish talk_thoughts_on_vegetarianism_4be383c3:
 
     # extend 1fsqan " {i}[player]{/i}."
-    extend 1fsqan " {i}[player]{/i}."
+    extend 1fsqan " [player]."
 
 # game/scripttopics.rpy:10195
 translate spanish talk_thoughts_on_vegetarianism_f55001f8:
@@ -2775,7 +2775,7 @@ translate spanish talk_daily_jokes_unlock_d1a67cfb:
 translate spanish talk_daily_jokes_unlock_2a946959:
 
     # extend " I am {i}seriously{/i} gonna...!"
-    extend " ¡{i}En serio{/i} que me voy a cargar a...!"
+    extend " ¡En serio que me voy a cargar a...!"
 
 # game/scripttopics.rpy:10419
 translate spanish talk_daily_jokes_unlock_bb2cf764_3:
@@ -2871,7 +2871,7 @@ translate spanish talk_daily_jokes_unlock_538b14ec:
 translate spanish talk_daily_jokes_unlock_18bcb916:
 
     # n 1fcsbg "And just when I was starting to wonder if this place had {i}any{/i} literature!"
-    n 1fcsbg "¡Y justo cuando empezaba a preguntarme si este sitio tenía {i}algo{/i} de literatura!"
+    n 1fcsbg "¡Y justo cuando empezaba a preguntarme si este sitio tenía algo de literatura!"
 
 # game/scripttopics.rpy:10450
 translate spanish talk_daily_jokes_unlock_4b95f91c:
@@ -2883,7 +2883,7 @@ translate spanish talk_daily_jokes_unlock_4b95f91c:
 translate spanish talk_daily_jokes_unlock_cc4398bb:
 
     # extend 1fsrposbl " any that {i}isn't{/i} just my own stuff,{w=0.2} anyway."
-    extend 1fsrposbl " alguna que {i}no{/i} sean solo mis cosas,{w=0.2} al menos."
+    extend 1fsrposbl " alguna que no sean solo mis cosas,{w=0.2} al menos."
 
 # game/scripttopics.rpy:10452
 translate spanish talk_daily_jokes_unlock_f6c57e0b:
@@ -3045,7 +3045,7 @@ translate spanish talk_daily_jokes_unlock_0ec35aa4:
 translate spanish talk_daily_jokes_unlock_11f98eac:
 
     # n 1fchgn "'Cause I {i}definitely{/i} am!{w=1}{nw}"
-    n 1fchgn "¡Porque yo {i}desde luego{/i} que lo estoy!{w=1}{nw}"
+    n 1fchgn "¡Porque yo desde luego que lo estoy!{w=1}{nw}"
 
 # game/scripttopics.rpy:10479
 translate spanish talk_daily_jokes_unlock_c8e414bd:
@@ -3255,7 +3255,7 @@ translate spanish talk_daily_joke_ebdd99d3:
 translate spanish talk_daily_joke_219a29d8:
 
     # extend 1fllflsbr " I'm still gonna at least {i}try{/i} and keep things fresh!{w=1}{nw}"
-    extend 1fllflsbr " ¡Aún así voy a {i}intentar{/i} al menos no repetirme!{w=1}{nw}"
+    extend 1fllflsbr " ¡Aún así voy a intentar al menos no repetirme!{w=1}{nw}"
 
 # game/scripttopics.rpy:10563
 translate spanish talk_daily_joke_8ff299da:
@@ -3333,7 +3333,7 @@ translate spanish talk_daily_joke_3f5d21e5:
 translate spanish talk_daily_joke_a8b33aad:
 
     # n 1nsrem "...{i}Seriously{/i}?"
-    n 1nsrem "¿{i}En serio{/i}?"
+    n 1nsrem "¿En serio?"
 
 # game/scripttopics.rpy:10601
 translate spanish talk_daily_joke_516df00e_1:
@@ -3459,7 +3459,7 @@ translate spanish talk_daily_joke_b57332c8:
 translate spanish talk_daily_joke_2a40d1b3:
 
     # extend 1fcsbg " Let's try {i}this one{/i} on for size!"
-    extend 1fcsbg " ¡Probemos con {i}este{/i}!"
+    extend 1fcsbg " ¡Probemos con este!"
 
 # game/scripttopics.rpy:10652
 translate spanish talk_daily_joke_207ad4da:
@@ -3495,7 +3495,7 @@ translate spanish talk_daily_joke_57d0bb6c:
 translate spanish talk_daily_joke_dcbaaa97:
 
     # extend 1fchbg " I {i}told{/i} you this book had some good stuff!"
-    extend 1fchbg " ¡Te {i}dije{/i} que este libro tenía material bueno!"
+    extend 1fchbg " ¡Te dije que este libro tenía material bueno!"
 
 # game/scripttopics.rpy:10669
 translate spanish talk_daily_joke_a4aca471:
@@ -3519,7 +3519,7 @@ translate spanish talk_daily_joke_778dc18a:
 translate spanish talk_daily_joke_764dcdbf:
 
     # n 1fchgn "I am {w=0.2}{i}so{/i}{w=0.2} bookmarking that one.{w=1}{nw}"
-    n 1fchgn "Ese me lo guardo {i}segurísimo{/i}.{w=1}{nw}"
+    n 1fchgn "Ese me lo guardo segurísimo.{w=1}{nw}"
 
 # game/scripttopics.rpy:10675
 translate spanish talk_daily_joke_12f199de_1:
@@ -3555,7 +3555,7 @@ translate spanish talk_daily_joke_ceaf32e5:
 translate spanish talk_daily_joke_095f3291:
 
     # extend 1fcsbg " That one {w=0.2}{i}was{/i}{w=0.2} pretty good."
-    extend 1fcsbg " Ese {w=0.2}{i}ha sido{/i}{w=0.2} bastante bueno."
+    extend 1fcsbg " Ese {w=0.2}ha sido{w=0.2} bastante bueno."
 
 # game/scripttopics.rpy:10683
 translate spanish talk_daily_joke_e4fbf692:
@@ -3585,7 +3585,7 @@ translate spanish talk_daily_joke_89b0f757:
 translate spanish talk_daily_joke_9bf04c35:
 
     # extend 1fcstrsbl " I never said they'd be {w=0.2}{i}good{/i}{w=0.2} jokes!"
-    extend 1fcstrsbl " ¡nunca dije que fueran chistes {w=0.2}{i}buenos{/i}!"
+    extend 1fcstrsbl " ¡nunca dije que fueran chistes {w=0.2}buenos!"
 
 # game/scripttopics.rpy:10693
 translate spanish talk_daily_joke_548570e5:
@@ -3609,7 +3609,7 @@ translate spanish talk_daily_joke_474c5301:
 translate spanish talk_daily_joke_4ccd7449:
 
     # extend 1nllss " starting to realize {i}why{/i} we never saw this book very often."
-    extend 1nllss " empezando a darme cuenta de {i}por qué{/i} no veíamos este libro muy a menudo."
+    extend 1nllss " empezando a darme cuenta de por qué no veíamos este libro muy a menudo."
 
 # game/scripttopics.rpy:10699
 translate spanish talk_daily_joke_e068397e:
@@ -3747,7 +3747,7 @@ translate spanish talk_daily_joke_d0b786cf:
 translate spanish talk_daily_joke_eeb839f3:
 
     # n 1fsrem "{i}'Award winning'{/i},{w=1}{nw}"
-    n 1fsrem "{i}'Galardonado'{/i},{w=1}{nw}"
+    n 1fsrem "'Galardonado',{w=1}{nw}"
 
 # game/scripttopics.rpy:10731
 translate spanish talk_daily_joke_07bc3d44:

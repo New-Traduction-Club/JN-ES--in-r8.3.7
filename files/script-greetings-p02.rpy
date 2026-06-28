@@ -8,7 +8,7 @@ translate spanish greeting_affectionate_enamored_crawling_back_4438596f:
 translate spanish greeting_affectionate_enamored_crawling_back_c1919040:
 
     # n 6fcssmlesm "As {i}if{/i} you could resist crawling back to someone as awesome as me!"
-    n 6fcssmlesm "¡Como si {i}pudieras{/i} resistirte a volver arrastrándote hacia alguien tan increíble como yo!"
+    n 6fcssmlesm "¡Como si pudieras resistirte a volver arrastrándote hacia alguien tan increíble como yo!"
 
 # game/scriptgreetings.rpy:1363
 translate spanish greeting_affectionate_enamored_crawling_back_94d36f4e:
@@ -56,7 +56,7 @@ translate spanish greeting_affectionate_enamored_barging_in_50a7a53b:
 translate spanish greeting_affectionate_enamored_barging_in_350af67a:
 
     # n 4fsqem "Did nobody ever tell you to {i}knock{/i} before just barging in like that or what?{w=0.75}{nw}"
-    n 4fsqem "¿Nadie te ha enseñado a {i}llamar{/i} antes de entrar así o qué?{w=0.75}{nw}"
+    n 4fsqem "¿Nadie te ha enseñado a llamar antes de entrar así o qué?{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:1391
 translate spanish greeting_affectionate_enamored_barging_in_8f0c3d9f:
@@ -116,7 +116,7 @@ translate spanish greeting_affectionate_enamored_barging_in_d3a54402:
 translate spanish greeting_affectionate_enamored_barging_in_7ee57e80:
 
     # n 2clrbgl "You should {i}know{/i} you're welcome enough by now,{w=0.5}{nw}"
-    n 2clrbgl "A estas alturas deberías {i}saber{/i} que eres bastante bienvenid[end_letter_gender],{w=0.5}{nw}"
+    n 2clrbgl "A estas alturas deberías saber que eres bastante bienvenid[end_letter_gender],{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:1401
 translate spanish greeting_affectionate_enamored_barging_in_159fff49:
@@ -692,13 +692,13 @@ translate spanish greeting_distressed_upset_oh_its_you_3d3e4fd4:
 translate spanish greeting_distressed_upset_oh_its_you_e1c20134:
 
     # extend 2fsqsl " {i}[player]{/i}."
-    extend 2fsqsl " {i}[player]{/i}."
+    extend 2fsqsl " [player]."
 
 # game/scriptgreetings.rpy:1766
 translate spanish greeting_distressed_upset_hi_518ff3c2:
 
     # n 2nnmsl "{i}[player]{/i}.{w=0.75}{nw}"
-    n 2nnmsl "{i}[player]{/i}.{w=0.75}{nw}"
+    n 2nnmsl "[player].{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:1767
 translate spanish greeting_distressed_upset_hi_71a9aa71:
@@ -722,7 +722,7 @@ translate spanish greeting_distressed_upset_welcome_back_i_guess_acc121ab:
 translate spanish greeting_distressed_upset_welcome_back_i_guess_8e5578a9:
 
     # extend 2fsrsl " I {i}guess{/i}."
-    extend 2fsrsl " {i}supongo{/i}."
+    extend 2fsrsl " supongo."
 
 # game/scriptgreetings.rpy:1807
 translate spanish greeting_distressed_upset_better_be_good_7c74fc1d:
@@ -734,7 +734,7 @@ translate spanish greeting_distressed_upset_better_be_good_7c74fc1d:
 translate spanish greeting_distressed_upset_better_be_good_6d39fbdc:
 
     # extend 4fsqsr " {i}[player]{/i}."
-    extend 4fsqsr " {i}[player]{/i}."
+    extend 4fsqsr " [player]."
 
 # game/scriptgreetings.rpy:1809
 translate spanish greeting_distressed_upset_better_be_good_d6d40e10:
@@ -752,7 +752,7 @@ translate spanish greeting_distressed_upset_oh_you_came_back_c888a5a7:
 translate spanish greeting_distressed_upset_oh_you_came_back_5a0d2459:
 
     # extend 1fsqfl " You came {i}back{/i}?"
-    extend 1fsqfl " ¿Has {i}vuelto{/i}?"
+    extend 1fsqfl " ¿Has vuelto?"
 
 # game/scriptgreetings.rpy:1830
 translate spanish greeting_distressed_upset_oh_you_came_back_a975db78:
@@ -794,7 +794,7 @@ translate spanish greeting_distressed_upset_oh_great_f5908424:
 translate spanish greeting_distressed_upset_oh_great_16623295:
 
     # extend 4fsqsl " {i}you{/i}."
-    extend 4fsqsl " {i}tú{/i}."
+    extend 4fsqsl " tú."
 
 # game/scriptgreetings.rpy:1873
 translate spanish greeting_distressed_upset_just_perfect_6a6cddc5:
@@ -824,7 +824,7 @@ translate spanish greeting_distressed_upset_just_perfect_b090430c:
 translate spanish greeting_distressed_upset_just_perfect_b0d0f184:
 
     # n 4fsqem "It's {i}you{/i}."
-    n 4fsqem "Eres {i}tú{/i}."
+    n 4fsqem "Eres tú."
 
 # game/scriptgreetings.rpy:1878
 translate spanish greeting_distressed_upset_just_perfect_6ae46275:
@@ -836,7 +836,7 @@ translate spanish greeting_distressed_upset_just_perfect_6ae46275:
 translate spanish greeting_distressed_upset_just_perfect_0c33a49d:
 
     # extend 1fsqan " {i}perfect{/i}."
-    extend 1fsqan " {i}perfecto{/i}."
+    extend 1fsqan " perfecto."
 
 # game/scriptgreetings.rpy:1898
 translate spanish greeting_distressed_upset_real_great_8d5160ea:
@@ -854,7 +854,7 @@ translate spanish greeting_distressed_upset_real_great_9256405c:
 translate spanish greeting_distressed_upset_real_great_e407b462:
 
     # n 4fllfl "Yeah,{w=0.2} that's {i}real{/i} great.{w=0.75}{nw}"
-    n 4fllfl "Sí,{w=0.2} eso es {i}realmente{/i} genial.{w=0.75}{nw}"
+    n 4fllfl "Sí,{w=0.2} eso es realmente genial.{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:1901
 translate spanish greeting_distressed_upset_real_great_f7ba7b2b:
@@ -866,7 +866,7 @@ translate spanish greeting_distressed_upset_real_great_f7ba7b2b:
 translate spanish greeting_distressed_upset_real_great_1bd2ab82:
 
     # n 1fslem "...{i}Not{/i}."
-    n 1fslem "{i}No{/i}."
+    n 1fslem "No."
 
 # game/scriptgreetings.rpy:1903
 translate spanish greeting_distressed_upset_real_great_f9e313f0:
@@ -878,7 +878,7 @@ translate spanish greeting_distressed_upset_real_great_f9e313f0:
 translate spanish greeting_distressed_upset_real_great_997d1a43:
 
     # extend 2fsqfl " {i}[player]{/i}."
-    extend 2fsqfl " {i}[player]{/i}."
+    extend 2fsqfl " [player]."
 
 # game/scriptgreetings.rpy:1925
 translate spanish greeting_broken_minus_oh_its_you_5ef5d6a2:
@@ -896,7 +896,7 @@ translate spanish greeting_broken_minus_oh_its_you_746ce6bc:
 translate spanish greeting_broken_minus_oh_its_you_3da021d3:
 
     # extend 2fcsanltsa " it's {i}you{/i}."
-    extend 2fcsanltsa " eres {i}tú{/i}."
+    extend 2fcsanltsa " eres tú."
 
 # game/scriptgreetings.rpy:1946
 translate spanish greeting_broken_minus_nothing_to_say_bdd89bf7:
@@ -938,13 +938,13 @@ translate spanish greeting_broken_minus_enough_on_my_mind_051b9d24:
 translate spanish greeting_broken_minus_enough_on_my_mind_8aa28dfe:
 
     # n 2fcsupltsb "As if I didn't have {i}enough{/i} on my mind..."
-    n 2fcsupltsb "Como si no tuviera ya {i}bastante{/i} en la cabeza..."
+    n 2fcsupltsb "Como si no tuviera ya bastante en la cabeza..."
 
 # game/scriptgreetings.rpy:2007
 translate spanish greeting_broken_minus_leave_me_be_a1165444:
 
     # n 1fcsfultsa "I'm so {w=0.2}{i}sick{/i}{w=0.2} of this."
-    n 1fcsfultsa "Estoy {w=0.2}{i}harta{/i}{w=0.2} de esto."
+    n 1fcsfultsa "Estoy {w=0.2}harta{w=0.2} de esto."
 
 # game/scriptgreetings.rpy:2008
 translate spanish greeting_broken_minus_leave_me_be_433b4dbb:
@@ -998,7 +998,7 @@ translate spanish greeting_broken_minus_trash_already_a76371ea:
 translate spanish greeting_broken_minus_trash_already_47d5afc9:
 
     # n 4fsqfultsb "Now I'm {i}sat{/i} in front of it again too."
-    n 4fsqfultsb "Ahora estoy {i}sentada{/i} delante de ella otra vez también."
+    n 4fsqfultsb "Ahora estoy sentada delante de ella otra vez también."
 
 # game/scriptgreetings.rpy:2071
 translate spanish greeting_broken_minus_any_worse_619e29b2:
@@ -1022,7 +1022,7 @@ translate spanish greeting_broken_minus_any_worse_043cac1b:
 translate spanish greeting_broken_minus_any_worse_2949e561:
 
     # n 2fsranltsb "{i}Just{/i} when I thought things couldn't get any worse."
-    n 2fsranltsb "{i}Justo{/i} cuando pensaba que las cosas no podían ir a peor."
+    n 2fsranltsb "Justo cuando pensaba que las cosas no podían ir a peor."
 
 # game/scriptgreetings.rpy:2097
 translate spanish greeting_feeling_better_sick_5f133be8:
@@ -1052,7 +1052,7 @@ translate spanish greeting_feeling_better_sick_bcdf775b:
 translate spanish greeting_feeling_better_sick_08931a33:
 
     # extend 2tllflsbr " I wasn't expecting you to {i}actually{/i} show up already."
-    extend 2tllflsbr " No esperaba que aparecieras {i}realmente{/i} ya."
+    extend 2tllflsbr " No esperaba que aparecieras realmente ya."
 
 # game/scriptgreetings.rpy:2109
 translate spanish greeting_feeling_better_sick_3e501d21:
@@ -1364,7 +1364,7 @@ translate spanish greeting_feeling_better_sick_f5c07c8c:
 translate spanish greeting_feeling_better_sick_31020156:
 
     # n 4unmfllsbl "I-{w=0.2}It isn't like I don't {i}want{/i} you here or anything like that!"
-    n 4unmfllsbl "¡N-{w=0.2}No es que no te {i}quiera{/i} aquí ni nada de eso!"
+    n 4unmfllsbl "¡N-{w=0.2}No es que no te quiera aquí ni nada de eso!"
 
 # game/scriptgreetings.rpy:2186
 translate spanish greeting_feeling_better_sick_fbd0fee1:
@@ -1448,7 +1448,7 @@ translate spanish greeting_feeling_better_sick_80f7fc95:
 translate spanish greeting_feeling_better_sick_09d7cb8b:
 
     # extend 4clremlsbl " It's not that I {i}want{/i} you to go away or anything like that."
-    extend 4clremlsbl " No es que {i}quiera{/i} que te vayas ni nada por el estilo."
+    extend 4clremlsbl " No es que quiera que te vayas ni nada por el estilo."
 
 # game/scriptgreetings.rpy:2206
 translate spanish greeting_feeling_better_sick_ac777232:
@@ -1496,7 +1496,7 @@ translate spanish greeting_feeling_better_sick_1e3a6e08:
 translate spanish greeting_feeling_better_sick_290beab8:
 
     # n 4fnmwrl "A-{w=0.2}are you being {i}serious{/i} right now?{w=1}{nw}"
-    n 4fnmwrl "¿E-{w=0.2}Estás hablando en {i}serio{/i}?{w=1}{nw}"
+    n 4fnmwrl "¿E-{w=0.2}Estás hablando en serio?{w=1}{nw}"
 
 # game/scriptgreetings.rpy:2221
 translate spanish greeting_feeling_better_sick_63ba9fb4:
@@ -1508,13 +1508,13 @@ translate spanish greeting_feeling_better_sick_63ba9fb4:
 translate spanish greeting_feeling_better_sick_8a612bca:
 
     # extend 4fbkwrl " Come {i}on{/i}!"
-    extend 4fbkwrl " ¡Venga {i}ya{/i}!"
+    extend 4fbkwrl " ¡Venga ya!"
 
 # game/scriptgreetings.rpy:2223
 translate spanish greeting_feeling_better_sick_d1afcedf:
 
     # n 2fcsajl "If you're really still feeling {i}that{/i} bad..."
-    n 2fcsajl "Si de verdad te sigues encontrando {i}tan{/i} mal..."
+    n 2fcsajl "Si de verdad te sigues encontrando tan mal..."
 
 # game/scriptgreetings.rpy:2224
 translate spanish greeting_feeling_better_sick_b384eca4:
@@ -1532,7 +1532,7 @@ translate spanish greeting_feeling_better_sick_97a2deed:
 translate spanish greeting_feeling_better_sick_d1e388be:
 
     # n 1fnmeml "Are you {i}trying{/i} to get told off or something?"
-    n 1fnmeml "¿Estás {i}intentando{/i} que te eche la bronca o qué?"
+    n 1fnmeml "¿Estás intentando que te eche la bronca o qué?"
 
 # game/scriptgreetings.rpy:2227
 translate spanish greeting_feeling_better_sick_1b29a55c:
@@ -1604,7 +1604,7 @@ translate spanish greeting_feeling_better_sick_bb93776b:
 translate spanish greeting_feeling_better_sick_c31791f5:
 
     # n 7csrfll "I don't want you feeling like trash even longer just for {i}my{/i} sake,{w=0.5}{nw}"
-    n 7csrfll "No quiero que te sigas sintiendo como una basura solo por {i}mi{/i} culpa,{w=0.5}{nw}"
+    n 7csrfll "No quiero que te sigas sintiendo como una basura solo por mi culpa,{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:2241
 translate spanish greeting_feeling_better_sick_673a2877:
@@ -1646,7 +1646,7 @@ translate spanish greeting_feeling_better_sick_16330202:
 translate spanish greeting_feeling_better_sick_c8cd78c5:
 
     # n 3csrcalsbr "You of all people should really {i}know{/i} that by now."
-    n 3csrcalsbr "Tú mejor que nadie deberías {i}saberlo{/i} ya."
+    n 3csrcalsbr "Tú mejor que nadie deberías saberlo ya."
 
 # game/scriptgreetings.rpy:2251
 translate spanish greeting_feeling_better_sick_f6a5c44a:
@@ -1688,13 +1688,13 @@ translate spanish greeting_feeling_better_sick_7962d07f:
 translate spanish greeting_feeling_better_sick_f67c6d90:
 
     # extend 4fcsgs " Come {i}on{/i}!"
-    extend 4fcsgs " ¡Venga {i}ya{/i}!"
+    extend 4fcsgs " ¡Venga ya!"
 
 # game/scriptgreetings.rpy:2261
 translate spanish greeting_feeling_better_sick_8458c40c:
 
     # n 1fllfl "If you're {i}still{/i} feeling that crappy..."
-    n 1fllfl "Si {i}todavía{/i} te sientes tan mal..."
+    n 1fllfl "Si todavía te sientes tan mal..."
 
 # game/scriptgreetings.rpy:2262
 translate spanish greeting_feeling_better_sick_61213c6b:
@@ -1844,7 +1844,7 @@ translate spanish greeting_feeling_better_sick_a7869fff:
 translate spanish greeting_feeling_better_sick_a849e753:
 
     # n 5cslssl "...Even if you {i}are{/i} a total [chosen_tease_name] for doing it right now."
-    n 5cslssl "Incluso si {i}eres{/i} un completo [chosen_tease_name] por hacerlo ahora mismo."
+    n 5cslssl "Incluso si eres un completo [chosen_tease_name] por hacerlo ahora mismo."
 
 # game/scriptgreetings.rpy:2297
 translate spanish greeting_feeling_better_sick_78825b68:
@@ -1916,7 +1916,7 @@ translate spanish greeting_feeling_better_tired_b6b6be2d:
 translate spanish greeting_feeling_better_tired_9561c50a:
 
     # extend 4kllajsbr " that's not exactly what I was {i}hoping{/i} to hear,{w=0.2} I'll be honest."
-    extend 4kllajsbr " para serte sincera,{w=0.2} eso no es exactamente lo que {i}esperaba{/i} oír."
+    extend 4kllajsbr " para serte sincera,{w=0.2} eso no es exactamente lo que esperaba oír."
 
 # game/scriptgreetings.rpy:2341
 translate spanish greeting_feeling_better_tired_37bf1ca8:
@@ -1946,7 +1946,7 @@ translate spanish greeting_feeling_better_tired_2dab9634:
 translate spanish greeting_feeling_better_tired_e5358a55:
 
     # n 3kllaj "I don't {i}mind{/i} you being here...{w=1}{nw}"
-    n 3kllaj "No me {i}importa{/i} que estés aquí...{w=1}{nw}"
+    n 3kllaj "No me importa que estés aquí...{w=1}{nw}"
 
 # game/scriptgreetings.rpy:2352
 translate spanish greeting_feeling_better_tired_232472bb:
@@ -2048,7 +2048,7 @@ translate spanish greeting_sudden_leave_2257e6fd:
 translate spanish greeting_sudden_leave_ff67fc6a:
 
     # n 4fnmslsbr "I'm really {i}not{/i} asking for much,{w=0.5}{nw}"
-    n 4fnmslsbr "De verdad que {i}no{/i} te pido tanto,{w=0.5}{nw}"
+    n 4fnmslsbr "De verdad que no te pido tanto,{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:2398
 translate spanish greeting_sudden_leave_9f2c3546:
@@ -2120,7 +2120,7 @@ translate spanish greeting_prolonged_leave_7f8e9cb4:
 translate spanish greeting_prolonged_leave_d0d19470:
 
     # extend 4kllemlsbl " You had me worried {i}sick{/i}!"
-    extend 4kllemlsbl " ¡Me tenías muerta de {i}preocupación{/i}!"
+    extend 4kllemlsbl " ¡Me tenías muerta de preocupación!"
 
 # game/scriptgreetings.rpy:2437
 translate spanish greeting_prolonged_leave_44f9a7da:
@@ -2240,7 +2240,7 @@ translate spanish greeting_prolonged_leave_61b99974:
 translate spanish greeting_prolonged_leave_132993be:
 
     # n 2fcsfutsb "Just {i}perfect{/i}."
-    n 2fcsfutsb "Simplemente {i}perfecto{/i}."
+    n 2fcsfutsb "Simplemente perfecto."
 
 # game/scriptgreetings.rpy:2463
 translate spanish greeting_prolonged_leave_62f2699a:
@@ -2444,7 +2444,7 @@ translate spanish greeting_morning_waiting_for_you_029712b6:
 translate spanish greeting_morning_waiting_for_you_1423a862:
 
     # n 2flrsll "You {i}do{/i} know I don't like being kept waiting...{w=0.75}{nw}"
-    n 2flrsll "Sabes {i}de sobra{/i} que no me gusta que me hagan esperar...{w=0.75}{nw}"
+    n 2flrsll "Sabes de sobra que no me gusta que me hagan esperar...{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:2566
 translate spanish greeting_morning_waiting_for_you_c950e253:
@@ -2558,7 +2558,7 @@ translate spanish greeting_morning_top_of_the_mornin_0f8a8e8f:
 translate spanish greeting_morning_top_of_the_mornin_7d7e8714:
 
     # extend 3fsqsg " I'm allowed to say dumb things {i}too{/i},{w=0.2} you know."
-    extend 3fsqsg " Yo {i}también{/i} puedo decir tonterías,{w=0.2} ¿sabes?"
+    extend 3fsqsg " Yo también puedo decir tonterías,{w=0.2} ¿sabes?"
 
 # game/scriptgreetings.rpy:2625
 translate spanish greeting_morning_top_of_the_mornin_6f95c52c:
@@ -2624,7 +2624,7 @@ translate spanish greeting_morning_german_1e192a73:
 translate spanish greeting_morning_german_2239556f:
 
     # extend 2cnmpol " What's {i}that{/i} look for,{w=0.2} all of a sudden?"
-    extend 2cnmpol " ¿A qué viene {i}esa{/i} mirada{w=0.2} de repente?"
+    extend 2cnmpol " ¿A qué viene esa mirada{w=0.2} de repente?"
 
 # game/scriptgreetings.rpy:2657
 translate spanish greeting_morning_german_10bb4313:
@@ -2840,13 +2840,13 @@ translate spanish greeting_night_what_time_do_you_call_this_5576b2a5:
 translate spanish greeting_night_what_time_do_you_call_this_4fa70265:
 
     # extend 2fsqan " Are you {i}kidding me{/i}?"
-    extend 2fsqan " ¿Me tomas {i}el pelo{/i}?"
+    extend 2fsqan " ¿Me tomas el pelo?"
 
 # game/scriptgreetings.rpy:2840
 translate spanish greeting_night_what_time_do_you_call_this_b220d09e:
 
     # n 4fsqwr "What kind of time do you call {i}this{/i} then?{w=0.75}{nw}"
-    n 4fsqwr "¿A qué llamas {i}tú{/i} estas horas?{w=0.75}{nw}"
+    n 4fsqwr "¿A qué llamas tú estas horas?{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:2841
 translate spanish greeting_night_what_time_do_you_call_this_1027d761:
@@ -2900,7 +2900,7 @@ translate spanish greeting_night_what_time_do_you_call_this_cc7b8afb:
 translate spanish greeting_night_what_time_do_you_call_this_dce305d7:
 
     # extend 4nchgn " I swear that {i}never{/i} gets old."
-    extend 4nchgn " Te juro que eso {i}nunca{/i} pasa de moda."
+    extend 4nchgn " Te juro que eso nunca pasa de moda."
 
 # game/scriptgreetings.rpy:2850
 translate spanish greeting_night_what_time_do_you_call_this_ca541e12:
@@ -2984,7 +2984,7 @@ translate spanish greeting_night_what_time_do_you_call_this_7d0ab0ed:
 translate spanish greeting_night_what_time_do_you_call_this_9014232f:
 
     # extend 3fchgnl " It's {i}totally{/i} on you if you can't get your sleep-deprived butt out of bed later!"
-    extend 3fchgnl " ¡Es culpa {i}totalmente{/i} tuya si luego no puedes levantar el culo de la cama por falta de sueño!"
+    extend 3fchgnl " ¡Es culpa totalmente tuya si luego no puedes levantar el culo de la cama por falta de sueño!"
 
 # game/scriptgreetings.rpy:2870
 translate spanish greeting_night_what_time_do_you_call_this_b7ffd404:
@@ -3044,7 +3044,7 @@ translate spanish greeting_sanjo_morning_b1703f8d:
 translate spanish greeting_sanjo_morning_80e68784:
 
     # n 7fcsbgl "You must be {i}pretty{/i} desperate for my attention too if you're up already,{w=0.5}{nw}"
-    n 7fcsbgl "Tú también tienes que estar {i}bastante{/i} desesperad[end_letter_gender] por mi atención si ya estás en pie,{w=0.5}{nw}"
+    n 7fcsbgl "Tú también tienes que estar bastante desesperad[end_letter_gender] por mi atención si ya estás en pie,{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:2906
 translate spanish greeting_sanjo_morning_a55f8762:
@@ -3104,7 +3104,7 @@ translate spanish greeting_sanjo_generic_260673ef:
 translate spanish greeting_sanjo_generic_09fc5792:
 
     # extend 2fcscasbr "{i}obviously{/i}."
-    extend 2fcscasbr " {i}obviamente{/i}."
+    extend 2fcscasbr " obviamente."
 
 # game/scriptgreetings.rpy:2941
 translate spanish greeting_sanjo_generic_1dc32344:
@@ -3122,7 +3122,7 @@ translate spanish greeting_sanjo_generic_7dddd8dd:
 translate spanish greeting_sanjo_generic_161731a8:
 
     # n 6fcsbgl "...Or are you just looking for some {i}quality care{/i} too?"
-    n 6fcsbgl "¿O tú también vienes buscando un poco de {i}cuidados de calidad{/i}?"
+    n 6fcsbgl "¿O tú también vienes buscando un poco de cuidados de calidad?"
 
 # game/scriptgreetings.rpy:2944
 translate spanish greeting_sanjo_generic_600e641b:

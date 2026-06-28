@@ -1041,7 +1041,7 @@ translate spanish talk_staying_active_f9a4c420:
 translate spanish talk_staying_active_3b3dc66a:
 
     # extend 4fsgbg " {i}'staying active'{/i}{w=0.5}{nw}"
-    extend 4fsgbg " {i}'mantenerse activ[end_letter_gender]'{/i}{w=0.5}{nw}"
+    extend 4fsgbg " 'mantenerse activ[end_letter_gender]'{w=0.5}{nw}"
 
 # game/scripttopics.rpy:1320
 translate spanish talk_staying_active_f9678e8f:
@@ -1107,7 +1107,7 @@ translate spanish talk_staying_active_0f861605:
 translate spanish talk_staying_active_52430eca:
 
     # n 6fcsbg "I {i}totally{/i} reserve the right to grill you about it whenever I want!"
-    n 6fcsbg "¡Me reservo {i}totalmente{/i} el derecho a interrogarte sobre ello cuando quiera!"
+    n 6fcsbg "¡Me reservo totalmente el derecho a interrogarte sobre ello cuando quiera!"
 
 # game/scripttopics.rpy:1333
 translate spanish talk_staying_active_fb63c158:
@@ -1119,7 +1119,7 @@ translate spanish talk_staying_active_fb63c158:
 translate spanish talk_staying_active_b129c18b:
 
     # extend 4clrsslsbl " We both know {i}someone{/i} has to keep an eye on you.{w=0.75}{nw}"
-    extend 4clrsslsbl " amb[end_letter_gender]s sabemos que {i}alguien{/i} tiene que vigilarte.{w=0.75}{nw}"
+    extend 4clrsslsbl " amb[end_letter_gender]s sabemos que alguien tiene que vigilarte.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:1336
 translate spanish talk_staying_active_1e24810e:
@@ -1239,13 +1239,13 @@ translate spanish talk_staying_active_c9da4552:
 translate spanish talk_staying_active_bfdecae4:
 
     # extend 1ccsaj " I'm sorry,{w=0.2} but it just {i}has{/i} be said."
-    extend 1ccsaj " lo siento,{w=0.2} pero {i}tengo{/i} que decirlo."
+    extend 1ccsaj " lo siento,{w=0.2} pero tengo que decirlo."
 
 # game/scripttopics.rpy:1363
 translate spanish talk_staying_active_a4aa4f65:
 
     # n 2csqfl "You {w=0.2}{i}really{/i}{w=0.5} need to get out more."
-    n 2csqfl "De verdad que {w=0.2}{i}necesitas{/i}{w=0.5} salir más."
+    n 2csqfl "De verdad que {w=0.2}necesitas{w=0.5} salir más."
 
 # game/scripttopics.rpy:1364
 translate spanish talk_staying_active_ce98aa4c:
@@ -1305,13 +1305,13 @@ translate spanish talk_staying_active_6b3b4756:
 translate spanish talk_staying_active_0bf693d3:
 
     # n 2ccsflsbl "B-{w=0.2}before all of {i}this{/i},{w=0.2} I mean."
-    n 2ccsflsbl "A-{w=0.2}Antes de todo {i}esto{/i},{w=0.2} quiero decir."
+    n 2ccsflsbl "A-{w=0.2}Antes de todo esto,{w=0.2} quiero decir."
 
 # game/scripttopics.rpy:1375
 translate spanish talk_staying_active_b7a4ca24:
 
     # n 4unmbo "It was actually {i}super{/i} easy to get a load of exercise just from being stuck at school all day every week."
-    n 4unmbo "La verdad es que era {i}super{/i} fácil hacer un montón de ejercicio solo por estar metida en el insti todo el día cada semana."
+    n 4unmbo "La verdad es que era super fácil hacer un montón de ejercicio solo por estar metida en el insti todo el día cada semana."
 
 # game/scripttopics.rpy:1376
 translate spanish talk_staying_active_ebd1b398:
@@ -1329,7 +1329,7 @@ translate spanish talk_staying_active_7f1181f8:
 translate spanish talk_staying_active_8486e51f:
 
     # extend 3unmbo " But it isn't like we were {i}always{/i} stuck in this stupid clubroom or anything."
-    extend 3unmbo " Pero tampoco es como si estuviéramos {i}siempre{/i} metidos en este estúpido club ni nada."
+    extend 3unmbo " Pero tampoco es como si estuviéramos siempre metidos en este estúpido club ni nada."
 
 # game/scripttopics.rpy:1379
 translate spanish talk_staying_active_85bf9ab1:
@@ -1371,7 +1371,7 @@ translate spanish talk_staying_active_5197b712:
 translate spanish talk_staying_active_ebc378e3:
 
     # extend 2csgfl " {i}and{/i} the lame excuse for a lunch break we got?"
-    extend 2csgfl " ¿{i}y{/i} la excusa barata de descanso para comer que teníamos?"
+    extend 2csgfl " ¿y la excusa barata de descanso para comer que teníamos?"
 
 # game/scripttopics.rpy:1386
 translate spanish talk_staying_active_1e7e09e9:
@@ -1383,7 +1383,7 @@ translate spanish talk_staying_active_1e7e09e9:
 translate spanish talk_staying_active_108d1efe:
 
     # n 1ccsaj "Let's just say that you were {i}definitely{/i} gonna be staying in shape one way or another."
-    n 1ccsaj "Digamos que {i}definitivamente{/i} ibas a mantenerte en forma de una manera u otra."
+    n 1ccsaj "Digamos que definitivamente ibas a mantenerte en forma de una manera u otra."
 
 # game/scripttopics.rpy:1388
 translate spanish talk_staying_active_9f686cf2:
@@ -1437,7 +1437,7 @@ translate spanish talk_staying_active_99e40021:
 translate spanish talk_staying_active_76f630b0:
 
     # n 2cslss "And it {i}was{/i} pretty cool being able to stay in decent shape without dumping all my time and money at the gym..."
-    n 2cslss "Y {i}estaba{/i} bastante bien poder mantenerse en forma decentemente sin dejarse todo el tiempo y el dinero en el gimnasio..."
+    n 2cslss "Y estaba bastante bien poder mantenerse en forma decentemente sin dejarse todo el tiempo y el dinero en el gimnasio..."
 
 # game/scripttopics.rpy:1399
 translate spanish talk_staying_active_3bc2310d:
@@ -1569,7 +1569,7 @@ translate spanish talk_staying_active_e1d48189:
 translate spanish talk_staying_active_f0bd6ed0:
 
     # extend 6ccsbg " you can practically {i}guarantee{/i} it'll have you feeling refreshed and awake in no time!"
-    extend 6ccsbg " ¡está prácticamente {i}garantizado{/i} que te sentirás renovad[end_letter_gender] y despiert[end_letter_gender] en un santiamén!"
+    extend 6ccsbg " ¡está prácticamente garantizado que te sentirás renovad[end_letter_gender] y despiert[end_letter_gender] en un santiamén!"
 
 # game/scripttopics.rpy:1434
 translate spanish talk_staying_active_53367d76:
@@ -1647,7 +1647,7 @@ translate spanish talk_staying_active_9bd4c918:
 translate spanish talk_staying_active_d3a52d61:
 
     # extend 4fsqbg " With {i}my{/i} help?"
-    extend 4fsqbg " ¿Con {i}mi{/i} ayuda?"
+    extend 4fsqbg " ¿Con mi ayuda?"
 
 # game/scripttopics.rpy:1456
 translate spanish talk_staying_active_1d9e0b71:
@@ -1983,7 +1983,7 @@ translate spanish talk_eating_well_160bd1cf:
 translate spanish talk_eating_well_9a8165b2:
 
     # extend 3fsqbg " But did you eat {i}well{/i},{w=0.1} [player]?"
-    extend 3fsqbg " ¿Pero has comido {i}bien{/i},{w=0.1} [player]?"
+    extend 3fsqbg " ¿Pero has comido bien,{w=0.1} [player]?"
 
 # game/scripttopics.rpy:1582
 translate spanish talk_eating_well_50fa992b:
@@ -2397,7 +2397,7 @@ translate spanish talk_weather_setup_main_555802fe:
 translate spanish talk_weather_setup_main_8fa0dc9c:
 
     # n 4fllssl "N-{w=0.3}not that I was {i}waiting{/i} for help,{w=0.1} {i}obviously{/i}!"
-    n 4fllssl "N-{w=0.3}No es que estuviera {i}esperando{/i} ayuda,{w=0.1} ¡{i}obviamente{/i}!"
+    n 4fllssl "N-{w=0.3}No es que estuviera esperando ayuda,{w=0.1} ¡obviamente!"
 
 # game/scripttopics.rpy:1731
 translate spanish talk_weather_setup_main_5e844418:
@@ -2427,7 +2427,7 @@ translate spanish talk_weather_setup_main_0d9ed9ca:
 translate spanish talk_weather_setup_main_8387ad92:
 
     # n 4fslss "What I'm {i}trying{/i} to do is add some atmosphere to this place,{w=1}{nw}"
-    n 4fslss "Lo que {i}intento{/i} hacer es darle algo de atmósfera a este sitio,{w=1}{nw}"
+    n 4fslss "Lo que intento hacer es darle algo de atmósfera a este sitio,{w=1}{nw}"
 
 # game/scripttopics.rpy:1737
 translate spanish talk_weather_setup_main_781b0ff0:
@@ -2445,7 +2445,7 @@ translate spanish talk_weather_setup_main_e241a740:
 translate spanish talk_weather_setup_main_908eab18:
 
     # n 1nsqsl "And not {i}just{/i} some randomly changing thing..."
-    n 1nsqsl "Y no {i}solo{/i} una cosa aleatoria que va cambiando..."
+    n 1nsqsl "Y no solo una cosa aleatoria que va cambiando..."
 
 # game/scripttopics.rpy:1740
 translate spanish talk_weather_setup_main_bbb40b67:
@@ -2487,7 +2487,7 @@ translate spanish talk_weather_setup_main_30eaaf14:
 translate spanish talk_weather_setup_main_86aec640:
 
     # extend 1kchbgess " I'm not {i}that{/i} mean!"
-    extend 1kchbgess " ¡No soy {i}tan{/i} mala!"
+    extend 1kchbgess " ¡No soy tan mala!"
 
 # game/scripttopics.rpy:1747
 translate spanish talk_weather_setup_main_1b069b5b:
@@ -2499,7 +2499,7 @@ translate spanish talk_weather_setup_main_1b069b5b:
 translate spanish talk_weather_setup_main_97f6495e:
 
     # extend 1uchbg " and it's {i}super{/i} cool!{w=1}{nw}"
-    extend 1uchbg " ¡y es {i}súper{/i} genial!{w=1}{nw}"
+    extend 1uchbg " ¡y es súper genial!{w=1}{nw}"
 
 # game/scripttopics.rpy:1749
 translate spanish talk_weather_setup_main_77ced6f4:
@@ -2553,7 +2553,7 @@ translate spanish talk_weather_setup_main_74ef0abf:
 translate spanish talk_weather_setup_main_7a93f56c:
 
     # n 3fcsbg "It'll be {i}super{/i} worth it!"
-    n 3fcsbg "¡Merecerá {i}súper{/i} la pena!"
+    n 3fcsbg "¡Merecerá súper la pena!"
 
 # game/scripttopics.rpy:1770
 translate spanish talk_weather_setup_api_key_f9a0a971:
@@ -2829,7 +2829,7 @@ translate spanish talk_weather_setup_api_key_fa900d90:
 translate spanish talk_weather_setup_api_key_2bb6040d:
 
     # n 3tsqsm "I {i}thought{/i} I asked for an {i}API key{/i},{w=0.1} [player]?"
-    n 3tsqsm "{i}Creía{/i} que te había pedido una {i}clave API{/i},{w=0.1} [player]."
+    n 3tsqsm "Creía que te había pedido una clave API,{w=0.1} [player]."
 
 # game/scripttopics.rpy:1845
 translate spanish talk_weather_setup_api_key_6deadb9b:
@@ -2919,7 +2919,7 @@ translate spanish talk_weather_setup_location_8fd21114:
 translate spanish talk_weather_setup_location_f8384c90:
 
     # n 2knmpo "I {i}tried{/i} to look you up, but I couldn't find anything!"
-    n 2knmpo "¡{i}He intentado{/i} buscarte, pero no he encontrado nada!"
+    n 2knmpo "¡He intentado buscarte, pero no he encontrado nada!"
 
 # game/scripttopics.rpy:1882
 translate spanish talk_weather_setup_location_a1f99584:
@@ -3051,7 +3051,7 @@ translate spanish talk_weather_setup_location_7be508b2:
 translate spanish talk_weather_setup_location_47bb9fde:
 
     # n 1nlrss "Well,{w=0.1} I {i}was{/i} gonna show you something neat,{w=0.5}{nw}"
-    n 1nlrss "Bueno,{w=0.1} {i}iba{/i} a enseñarte algo chulo,{w=0.5}{nw}"
+    n 1nlrss "Bueno,{w=0.1} iba a enseñarte algo chulo,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:1932
 translate spanish talk_weather_setup_location_ba71d569:
@@ -3075,7 +3075,7 @@ translate spanish talk_weather_setup_location_a72309db:
 translate spanish talk_weather_setup_location_d28278e1:
 
     # n 4tslbo "I'm {i}pretty{/i} sure your latitude is [ip_latitude_longitude[0]],{w=0.1} and your longitude is [ip_latitude_longitude[1]]."
-    n 4tslbo "Estoy {i}bastante{/i} segura de que tu latitud es [ip_latitude_longitude[0]],{w=0.1} y tu longitud es [ip_latitude_longitude[1]]."
+    n 4tslbo "Estoy bastante segura de que tu latitud es [ip_latitude_longitude[0]],{w=0.1} y tu longitud es [ip_latitude_longitude[1]]."
 
 # game/scripttopics.rpy:1936
 translate spanish talk_weather_setup_location_d2e59872:
@@ -3441,7 +3441,7 @@ translate spanish talk_weather_setup_manual_coords_e61aa304:
 translate spanish talk_weather_setup_manual_coords_903892c6:
 
     # n 1fllaj "Urgh...{w=0.3} really?{w=0.2} This is {i}such{/i} a pain!"
-    n 1fllaj "Agh...{w=0.3} ¿en serio?{w=0.2} ¡Esto es {i}un{/i} rollo!"
+    n 1fllaj "Agh...{w=0.3} ¿en serio?{w=0.2} ¡Esto es un rollo!"
 
 # game/scripttopics.rpy:2088
 translate spanish talk_weather_setup_manual_coords_30854e3f:
@@ -3585,7 +3585,7 @@ translate spanish talk_weather_setup_verify_4421dccf:
 translate spanish talk_weather_setup_verify_890549e2:
 
     # extend 3uchgnledz " This is gonna be {i}super{/i} awesome!"
-    extend 3uchgnledz " ¡Esto va a ser {i}súper{/i} alucinante!"
+    extend 3uchgnledz " ¡Esto va a ser súper alucinante!"
 
 # game/scripttopics.rpy:2138
 translate spanish talk_weather_setup_verify_1c0b6852:
@@ -3597,7 +3597,7 @@ translate spanish talk_weather_setup_verify_1c0b6852:
 translate spanish talk_weather_setup_verify_a3474e1d:
 
     # extend 2fllan " come {i}on!{/i}"
-    extend 2fllan " ¡{i}venga ya!{/i}"
+    extend 2fllan " ¡venga ya!"
 
 # game/scripttopics.rpy:2140
 translate spanish talk_weather_setup_verify_06995452:
@@ -3783,7 +3783,7 @@ translate spanish talk_weather_setup_verify_9a86b571:
 translate spanish talk_weather_setup_verify_d2f53b87:
 
     # n 2fsldvsbr "It might take a day or so for your API key to actually {i}activate{/i} so I can use it..."
-    n 2fsldvsbr "Puede tardar un día más o menos en que tu clave API se {i}active{/i} de verdad para que pueda usarla..."
+    n 2fsldvsbr "Puede tardar un día más o menos en que tu clave API se active de verdad para que pueda usarla..."
 
 # game/scripttopics.rpy:2185
 translate spanish talk_weather_setup_verify_9cde051e:
@@ -3825,7 +3825,7 @@ translate spanish talk_weather_setup_verify_a3fc8182:
 translate spanish talk_weather_setup_verify_a5b2df2c:
 
     # extend 4fspgsledz " {i}awesome{/i}!"
-    extend 4fspgsledz " ¡{i}increíble{/i}!"
+    extend 4fspgsledz " ¡increíble!"
 
 # game/scripttopics.rpy:2211
 translate spanish talk_favourite_season_788fbd89:

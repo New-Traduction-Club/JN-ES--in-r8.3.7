@@ -2788,13 +2788,13 @@ translate spanish event_warm_package_7ba45386:
 translate spanish event_warm_package_d9b30c8d:
 
     # n "Out of all the places I could have been stuck inside for {i}literally forever...{/i}"
-    n "De todos los sitios en los que podría haberme quedado atrapada {i}literalmente para siempre...{/i}"
+    n "De todos los sitios en los que podría haberme quedado atrapada literalmente para siempre..."
 
 # game/scriptevents.rpy:2013
 translate spanish event_warm_package_50b894f5:
 
     # n "Did it {i}really{/i} have to be the one classroom {i}without{/i} central heating?!"
-    n "¡¿Tenía que ser de verdad en la única aula {i}sin{/i} calefacción central?!"
+    n "¡¿Tenía que ser de verdad en la única aula sin calefacción central?!"
 
 # game/scriptevents.rpy:2014
 translate spanish event_warm_package_b66f2b23:
@@ -2902,13 +2902,13 @@ translate spanish event_warm_package_96fe0112:
 translate spanish event_warm_package_f6896085:
 
     # n 2fcsbg "Who {i}needs{/i} working heating when you have hot chocolate?"
-    n 2fcsbg "¿Quién {i}necesita{/i} calefacción cuando tienes chocolate caliente?"
+    n 2fcsbg "¿Quién necesita calefacción cuando tienes chocolate caliente?"
 
 # game/scriptevents.rpy:2072
 translate spanish event_warm_package_eb846a8d:
 
     # n 2fcssmlesisbl "{i}And{/i} I didn't even burn my tongue this time!"
-    n 2fcssmlesisbl "¡{i}Y{/i} esta vez ni siquiera me he quemado la lengua!"
+    n 2fcssmlesisbl "¡Y esta vez ni siquiera me he quemado la lengua!"
 
 # game/scriptevents.rpy:2074
 translate spanish event_warm_package_ef3c574f:
@@ -2956,7 +2956,7 @@ translate spanish event_warm_package_99ff40f4:
 translate spanish event_warm_package_847835d4:
 
     # n 4nchts "Is that a hint of {i}jealousy{/i} I spy there,{w=0.2} [player]?{w=1}{nw}"
-    n 4nchts "¿Es eso un poco de {i}envidia{/i} lo que veo,{w=0.2} [player]?{w=1}{nw}"
+    n 4nchts "¿Es eso un poco de envidia lo que veo,{w=0.2} [player]?{w=1}{nw}"
 
 # game/scriptevents.rpy:2082
 translate spanish event_warm_package_830cc8ba:
@@ -2980,7 +2980,7 @@ translate spanish event_warm_package_aaf3a9f3:
 translate spanish event_warm_package_b8e7d001:
 
     # extend 4fspgsedz " have you {i}seen{/i} this right here?"
-    extend 4fspgsedz " ¿has {i}visto{/i} esto de aquí?"
+    extend 4fspgsedz " ¿has visto esto de aquí?"
 
 # game/scriptevents.rpy:2086
 translate spanish event_warm_package_c685ffac:
@@ -2998,7 +2998,7 @@ translate spanish event_warm_package_3cfa36bd:
 translate spanish event_warm_package_dd10981d:
 
     # n 1fsqcaesi "I {i}always{/i} make an exception for hot chocolate."
-    n 1fsqcaesi "{i}Siempre{/i} hago una excepción con el chocolate caliente."
+    n 1fsqcaesi "Siempre hago una excepción con el chocolate caliente."
 
 # game/scriptevents.rpy:2089
 translate spanish event_warm_package_eff902f0:
@@ -3022,7 +3022,7 @@ translate spanish event_warm_package_36473085:
 translate spanish event_warm_package_760733f0:
 
     # n 1fllgs "Seriously,{w=0.2} hot chocolate just wouldn't {i}be{/i} hot chocolate without {i}all{/i} the extras!"
-    n 1fllgs "En serio,{w=0.2} ¡el chocolate caliente no {i}sería{/i} chocolate caliente sin {i}todos{/i} los extras!"
+    n 1fllgs "En serio,{w=0.2} ¡el chocolate caliente no sería chocolate caliente sin todos los extras!"
 
 # game/scriptevents.rpy:2093
 translate spanish event_warm_package_ffb44bbe:
@@ -3064,7 +3064,7 @@ translate spanish event_warm_package_c9bd04d6:
 translate spanish event_warm_package_746a1fa1:
 
     # extend 4fsqss " as much as I'm sure you'd {i}love{/i} to share this with me,{w=0.2} [player]..."
-    extend 4fsqss " por mucho que estoy segura de que te {i}encantaría{/i} compartir esto conmigo,{w=0.2} [player]..."
+    extend 4fsqss " por mucho que estoy segura de que te encantaría compartir esto conmigo,{w=0.2} [player]..."
 
 # game/scriptevents.rpy:2101
 translate spanish event_warm_package_619e81f0:
@@ -3478,7 +3478,7 @@ translate spanish event_warm_package_5bf4ff0a:
 translate spanish event_warm_package_e02b07c3:
 
     # n 3usqbg "...How about {i}you{/i} warm up that conversational muscle of yours?{w=1}{nw}"
-    n 3usqbg "¿Qué tal si calientas {i}tú{/i} un poco ese músculo de la conversación?{w=1}{nw}"
+    n 3usqbg "¿Qué tal si calientas tú un poco ese músculo de la conversación?{w=1}{nw}"
 
 # game/scriptevents.rpy:2194
 translate spanish event_warm_package_f6a1a526:
@@ -3508,13 +3508,13 @@ translate spanish event_sanjo_bb2cf764:
 translate spanish event_sanjo_9af57a08:
 
     # n "Man...{w=1} is there seriously {i}nothing else{/i} to do in this dump?{w=0.75} I'm so {b}bored{/b}!"
-    n "Madre mía... {w=1} ¿de verdad que no hay {i}nada más{/i} que hacer en este antro?{w=0.75} ¡Qué {b}aburrimiento{/b}!"
+    n "Madre mía... {w=1} ¿de verdad que no hay nada más que hacer en este antro?{w=0.75} ¡Qué {b}aburrimiento{/b}!"
 
 # game/scriptevents.rpy:2217
 translate spanish event_sanjo_db7c3ece:
 
     # n "Would it actually have {i}killed them{/i} to keep some board games here or what?"
-    n "¿Es que les habría {i}matado{/i} tener algún juego de mesa por aquí o qué?"
+    n "¿Es que les habría matado tener algún juego de mesa por aquí o qué?"
 
 # game/scriptevents.rpy:2218
 translate spanish event_sanjo_9ddd1f08:
@@ -3532,7 +3532,7 @@ translate spanish event_sanjo_bb2cf764_1:
 translate spanish event_sanjo_5b4b6875:
 
     # n "Oh,{w=0.2} screw this!{w=0.75} I'm done just sitting around.{w=0.75} {i}Again{/i}."
-    n "¡Ah,{w=0.2} a la mierda!{w=0.75} Paso de quedarme sentada sin hacer nada.{w=0.75} {i}Otra vez{/i}."
+    n "¡Ah,{w=0.2} a la mierda!{w=0.75} Paso de quedarme sentada sin hacer nada.{w=0.75} Otra vez."
 
 # game/scriptevents.rpy:2224
 translate spanish event_sanjo_ed080b20:
@@ -3604,13 +3604,13 @@ translate spanish event_sanjo_bb2cf764_4:
 translate spanish event_sanjo_eaff6908:
 
     # n "...Oh,{w=0.75} {i}yuck{/i}!{w=0.75} G-{w=0.2}gross!"
-    n "¡Ay,{w=0.75} {i}puaj{/i}!{w=0.75} ¡Q-{w=0.2}Qué asco!"
+    n "¡Ay,{w=0.75} puaj!{w=0.75} ¡Q-{w=0.2}Qué asco!"
 
 # game/scriptevents.rpy:2254
 translate spanish event_sanjo_ea8b48ab:
 
     # n "I-{w=0.2}I don't even {i}want{/i} to know what was in {i}that{/i}..."
-    n "N-{w=0.2}Ni siquiera {i}quiero{/i} saber qué había ahí dentro..."
+    n "N-{w=0.2}Ni siquiera quiero saber qué había ahí dentro..."
 
 # game/scriptevents.rpy:2255
 translate spanish event_sanjo_16ecba37:
@@ -3646,13 +3646,13 @@ translate spanish event_sanjo_bb2cf764_6:
 translate spanish event_sanjo_fa276ff6:
 
     # n "I-{w=0.2}it is!{w=0.75} What are {i}you{/i} still doing here?"
-    n "¡L-{w=0.2}Lo es!{w=0.75} ¿Qué haces {i}tú{/i} todavía aquí?"
+    n "¡L-{w=0.2}Lo es!{w=0.75} ¿Qué haces tú todavía aquí?"
 
 # game/scriptevents.rpy:2265
 translate spanish event_sanjo_27baccc5:
 
     # n "...And what kind of inconsiderate jerk just left you {i}there{/i}?"
-    n "¿Y qué clase de idiota desconsiderado te dejó {i}ahí{/i}?"
+    n "¿Y qué clase de idiota desconsiderado te dejó ahí?"
 
 # game/scriptevents.rpy:2270
 translate spanish event_sanjo_d5a9ffb3:
@@ -3712,7 +3712,7 @@ translate spanish event_sanjo_aafcfa10:
 translate spanish event_sanjo_ae915c09:
 
     # extend 4flrwrlsbl " Since when did {i}you{/i} get here?"
-    extend 4flrwrlsbl " ¿Desde cuándo estás {i}tú{/i} aquí?"
+    extend 4flrwrlsbl " ¿Desde cuándo estás tú aquí?"
 
 # game/scriptevents.rpy:2301
 translate spanish event_sanjo_33a42622:
@@ -3724,7 +3724,7 @@ translate spanish event_sanjo_33a42622:
 translate spanish event_sanjo_658eaf17:
 
     # extend 4csqfllsbl " How long were you even {i}there{/i}?"
-    extend 4csqfllsbl " ¿Cuánto tiempo llevabas {i}ahí{/i}?"
+    extend 4csqfllsbl " ¿Cuánto tiempo llevabas ahí?"
 
 # game/scriptevents.rpy:2303
 translate spanish event_sanjo_5884b6a7:
@@ -3760,7 +3760,7 @@ translate spanish event_sanjo_828d87a4:
 translate spanish event_sanjo_9ec6dc4f:
 
     # extend 4cllaj " Can't you see I'm {i}busy{/i} here already?{w=0.75}{nw}"
-    extend 4cllaj " ¿No ves que ya estoy {i}ocupada{/i} aquí?{w=0.75}{nw}"
+    extend 4cllaj " ¿No ves que ya estoy ocupada aquí?{w=0.75}{nw}"
 
 # game/scriptevents.rpy:2309
 translate spanish event_sanjo_9242d0a6:
@@ -3778,7 +3778,7 @@ translate spanish event_sanjo_c4a61852:
 translate spanish event_sanjo_74d8b707:
 
     # extend 5cllfll " it's not that I mind {i}that{/i} much.{w=0.75}{nw}"
-    extend 5cllfll " no es que me importe {i}tanto{/i}.{w=0.75}{nw}"
+    extend 5cllfll " no es que me importe tanto.{w=0.75}{nw}"
 
 # game/scriptevents.rpy:2314
 translate spanish event_sanjo_832113e2:
@@ -3832,7 +3832,7 @@ translate spanish event_sanjo_b37ec9b0:
 translate spanish event_sanjo_0fad6e61:
 
     # extend 2cnmflsbl " What's the deal with {i}that{/i} look,{w=0.5}{nw}"
-    extend 2cnmflsbl " ¿A qué viene {i}esa{/i} mirada,{w=0.5}{nw}"
+    extend 2cnmflsbl " ¿A qué viene esa mirada,{w=0.5}{nw}"
 
 # game/scriptevents.rpy:2326
 translate spanish event_sanjo_3759c845:
@@ -3862,7 +3862,7 @@ translate spanish event_sanjo_8fc49760:
 translate spanish event_sanjo_675cb4a2:
 
     # n 4fllem "And just what exactly is {i}that{/i} supposed to mean?{w=0.75}{nw}"
-    n 4fllem "¿Y qué se supone que significa {i}eso{/i} exactamente?{w=0.75}{nw}"
+    n 4fllem "¿Y qué se supone que significa eso exactamente?{w=0.75}{nw}"
 
 # game/scriptevents.rpy:2336
 translate spanish event_sanjo_8693f996:
@@ -3874,7 +3874,7 @@ translate spanish event_sanjo_8693f996:
 translate spanish event_sanjo_f5135248:
 
     # n 3fcsgs "You trying to say he needs an {i}excuse{/i} to be here or something?{w=0.75}{nw}"
-    n 3fcsgs "¿Me estás intentando decir que necesita una {i}excusa{/i} para estar aquí o qué?{w=0.75}{nw}"
+    n 3fcsgs "¿Me estás intentando decir que necesita una excusa para estar aquí o qué?{w=0.75}{nw}"
 
 # game/scriptevents.rpy:2338
 translate spanish event_sanjo_1792a079:
@@ -3898,7 +3898,7 @@ translate spanish event_sanjo_af744705:
 translate spanish event_sanjo_c3c526d3:
 
     # n 2fslfl "{i}'The plant'{/i} has a name,{w=0.5}{nw}"
-    n 2fslfl "{i}'La planta'{/i} tiene nombre,{w=0.5}{nw}"
+    n 2fslfl "'La planta' tiene nombre,{w=0.5}{nw}"
 
 # game/scriptevents.rpy:2342
 translate spanish event_sanjo_a78e15b7:
@@ -3958,7 +3958,7 @@ translate spanish event_sanjo_4954b215:
 translate spanish event_sanjo_5a5e6194:
 
     # extend 3fsqca " I {i}insist{/i}."
-    extend 3fsqca " {i}Insisto{/i}."
+    extend 3fsqca " Insisto."
 
 # game/scriptevents.rpy:2354
 translate spanish event_sanjo_a9222d92:

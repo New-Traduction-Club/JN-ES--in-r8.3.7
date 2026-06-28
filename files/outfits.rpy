@@ -736,7 +736,7 @@ translate spanish outfits_create_save_dfa53971:
 translate spanish outfits_create_save_ae8f3282:
 
     # n 3flrpo "If I'd known you were {i}this{/i} into dress-up,{w=0.3} I'd have set a timer!{w=1.5}{nw}"
-    n 3flrpo "¡Si hubiera sabido que te gustaban {i}tanto{/i} los modelitos,{w=0.3} habría puesto un cronómetro!{w=1.5}{nw}"
+    n 3flrpo "¡Si hubiera sabido que te gustaban tanto los modelitos,{w=0.3} habría puesto un cronómetro!{w=1.5}{nw}"
 
 # game/outfits.rpy:2874
 translate spanish outfits_create_save_7aeb3a8c:
@@ -778,7 +778,7 @@ translate spanish outfits_create_save_336dddcf:
 translate spanish outfits_create_save_517f0d87:
 
     # extend 1fchbg " Any outfit worth remembering has a {i}name{/i}!"
-    extend 1fchbg " ¡Cualquier conjunto que valga la pena recordar tiene un {i}nombre{/i}!"
+    extend 1fchbg " ¡Cualquier conjunto que valga la pena recordar tiene un nombre!"
 
 # game/outfits.rpy:2909
 translate spanish outfits_create_save_aab96439:
@@ -820,7 +820,7 @@ translate spanish outfits_create_save_80446736:
 translate spanish outfits_create_save_fcdc0c93:
 
     # n 3cslbosbr "We both know I gotta call it {i}something{/i}."
-    n 3cslbosbr "Ambos sabemos que tengo que llamarlo de {i}alguna{/i} forma."
+    n 3cslbosbr "Ambos sabemos que tengo que llamarlo de alguna forma."
 
 # game/outfits.rpy:2925
 translate spanish outfits_create_save_06f17c30:
@@ -2170,7 +2170,7 @@ translate spanish new_wearables_outfits_unlocked_dc71b388:
 translate spanish new_wearables_outfits_unlocked_1f06322b:
 
     # extend 3fllbglesssbr " a-{w=0.2}and here I was thinking I'd have to teach you {i}everything{/i} about style!"
-    extend 3fllbglesssbr " ¡y-{w=0.2}y yo que pensaba que tendría que enseñarte {i}todo{/i} sobre estilo!"
+    extend 3fllbglesssbr " ¡y-{w=0.2}y yo que pensaba que tendría que enseñarte todo sobre estilo!"
 
 # game/outfits.rpy:3388
 translate spanish new_wearables_outfits_unlocked_a2ba6763:
@@ -2230,7 +2230,7 @@ translate spanish new_wearables_outfits_unlocked_0d8667a9:
 translate spanish new_wearables_outfits_unlocked_e6671266:
 
     # n 3fslpofesssbr "I guess I'll {i}have{/i} to keep this [unlock.display_name] now.{w=0.75}{nw}"
-    n 3fslpofesssbr "Supongo que ahora {i}tendré{/i} que quedarme con este [unlock.display_name].{w=0.75}{nw}"
+    n 3fslpofesssbr "Supongo que ahora tendré que quedarme con este [unlock.display_name].{w=0.75}{nw}"
 
 # game/outfits.rpy:3401
 translate spanish new_wearables_outfits_unlocked_aaebd8ac:
@@ -2320,7 +2320,7 @@ translate spanish new_wearables_outfits_unlocked_7454d9c7:
 translate spanish new_wearables_outfits_unlocked_e1e06591:
 
     # extend 1ksremlesd " there's {i}still{/i} more?!"
-    extend 1ksremlesd " ¡¿{i}todavía{/i} hay más?!"
+    extend 1ksremlesd " ¡¿todavía hay más?!"
 
 # game/outfits.rpy:3426
 translate spanish new_wearables_outfits_unlocked_fe80fa7f:

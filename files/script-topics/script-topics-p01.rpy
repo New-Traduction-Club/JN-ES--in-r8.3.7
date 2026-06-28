@@ -400,7 +400,7 @@ translate spanish talk_did_you_have_pets_05e1aa3c:
 translate spanish talk_did_you_have_pets_c75b8a37:
 
     # n 4tnmpu "Keeping something {i}else{/i} here?{w=0.75}{nw}"
-    n 4tnmpu "¿Tener a algo {i}más{/i} aquí metido? {w=0.75}{nw}"
+    n 4tnmpu "¿Tener a algo más aquí metido? {w=0.75}{nw}"
 
 # game/scripttopics.rpy:171
 translate spanish talk_did_you_have_pets_545ea6fb:
@@ -1048,7 +1048,7 @@ translate spanish talk_did_you_have_pets_3597892f:
 translate spanish talk_did_you_have_pets_e8c7ffc5:
 
     # n 2ccsfllsbl "I-{w=0.2}I'm not saying I {i}know{/i} how you feel.{w=0.75}{nw}"
-    n 2ccsfllsbl "N-{w=0.2}No digo que {i}sepa{/i} cómo te sientes. {w=0.75}{nw}"
+    n 2ccsfllsbl "N-{w=0.2}No digo que sepa cómo te sientes. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:369
 translate spanish talk_did_you_have_pets_c5da0d41:
@@ -1276,7 +1276,7 @@ translate spanish talk_did_you_have_pets_fd8eab66:
 translate spanish talk_did_you_have_pets_d82f14d4:
 
     # extend 4fsqbg " {i}flap{/i}{w=0.75}{nw}"
-    extend 4fsqbg " {i}pío{/i}{w=0.75}{nw}"
+    extend 4fsqbg " pío{w=0.75}{nw}"
 
 # game/scripttopics.rpy:429
 translate spanish talk_did_you_have_pets_4c164fe4:
@@ -1324,7 +1324,7 @@ translate spanish talk_did_you_have_pets_1091f3ad:
 translate spanish talk_did_you_have_pets_692dbffd:
 
     # n 3ccsbglsbl "Unless you just said that hoping {i}I{/i} like them too,{w=0.2} anyway."
-    n 3ccsbglsbl "A no ser que lo hayas dicho esperando que a {i}mí{/i} también me gusten,{w=0.2} claro."
+    n 3ccsbglsbl "A no ser que lo hayas dicho esperando que a mí también me gusten,{w=0.2} claro."
 
 # game/scripttopics.rpy:447
 translate spanish talk_did_you_have_pets_43b8a602:
@@ -1342,7 +1342,7 @@ translate spanish talk_did_you_have_pets_af8a6d83:
 translate spanish talk_did_you_have_pets_61603716:
 
     # n 4fcsbg "...Just how many videos have you made {i}yours{/i} the star of,{w=0.5}{nw}"
-    n 4fcsbg "¿De cuántos vídeos has hecho protagonista al {i}tuyo{/i},{w=0.5}{nw}"
+    n 4fcsbg "¿De cuántos vídeos has hecho protagonista al tuyo,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:450
 translate spanish talk_did_you_have_pets_f314e31f:
@@ -1390,7 +1390,7 @@ translate spanish talk_did_you_have_pets_e37cadf8:
 translate spanish talk_did_you_have_pets_4f24aec9:
 
     # n 3fcspo "...Or I really will give you {i}paws{/i} for thought.{w=0.75}{nw}"
-    n 3fcspo "¡O verás lo que es tener malas {i}pulgas{/i}! {w=0.75}{nw}"
+    n 3fcspo "¡O verás lo que es tener malas pulgas! {w=0.75}{nw}"
 
 # game/scripttopics.rpy:461
 translate spanish talk_did_you_have_pets_754202e0:
@@ -1462,7 +1462,7 @@ translate spanish talk_did_you_have_pets_7956cdf6:
 translate spanish talk_did_you_have_pets_b4340ed4:
 
     # extend 3fcsbg " {i}color{/i} me surprised!"
-    extend 3fcsbg " ¡me has dejado de todos los {i}colores{/i}!"
+    extend 3fcsbg " ¡me has dejado de todos los colores!"
 
 # game/scripttopics.rpy:477
 translate spanish talk_did_you_have_pets_849deea0:
@@ -1906,7 +1906,7 @@ translate spanish talk_did_you_have_pets_8d05af74:
 translate spanish talk_did_you_have_pets_54911b08:
 
     # n 3clrbgsbl "I don't exactly know {i}tons{/i} about them,{w=0.5}{nw}"
-    n 3clrbgsbl "No es que sepa {i}muchísimo{/i} de ellos,{w=0.5}{nw}"
+    n 3clrbgsbl "No es que sepa muchísimo de ellos,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:580
 translate spanish talk_did_you_have_pets_e1349444:
@@ -2044,7 +2044,7 @@ translate spanish talk_did_you_have_pets_f53f514f:
 translate spanish talk_did_you_have_pets_1e10f37c:
 
     # n 1csqtr "You better be taking {i}real{/i} good care of yours,{w=0.2} [player]..."
-    n 1csqtr "Más te vale estar cuidando {i}muy{/i} bien del tuyo,{w=0.2} [player]..."
+    n 1csqtr "Más te vale estar cuidando muy bien del tuyo,{w=0.2} [player]..."
 
 # game/scripttopics.rpy:607
 translate spanish talk_did_you_have_pets_3368c4b8:
@@ -2128,7 +2128,7 @@ translate spanish talk_did_you_have_pets_8e64c463:
 translate spanish talk_did_you_have_pets_806a8099:
 
     # n 5csrsssbr "...Even if it {i}is{/i} pretty cool."
-    n 5csrsssbr "Aunque {i}sí{/i} que mola bastante."
+    n 5csrsssbr "Aunque sí que mola bastante."
 
 # game/scripttopics.rpy:632
 translate spanish talk_did_you_have_pets_27cfc2dc:
@@ -2248,7 +2248,7 @@ translate spanish talk_did_you_have_pets_3d659e90:
 translate spanish talk_did_you_have_pets_cbc20ca8:
 
     # extend 2fsqsm " {i}bug me{/i}{w=0.75}{nw}"
-    extend 2fsqsm " {i}pique{/i}{w=0.75}{nw}"
+    extend 2fsqsm " pique{w=0.75}{nw}"
 
 # game/scripttopics.rpy:658
 translate spanish talk_did_you_have_pets_96024589:
@@ -2308,7 +2308,7 @@ translate spanish talk_did_you_have_pets_05d2210f:
 translate spanish talk_did_you_have_pets_d80fe18c:
 
     # n 6fchbg "...You {i}finally{/i} managed to find a pet just as cold-blooded as you!"
-    n 6fchbg "¡Por {i}fin{/i} te has buscado una mascota con la sangre tan fría como la tuya!"
+    n 6fchbg "¡Por fin te has buscado una mascota con la sangre tan fría como la tuya!"
 
 # game/scripttopics.rpy:672
 translate spanish talk_did_you_have_pets_3f81005c:
@@ -2392,7 +2392,7 @@ translate spanish talk_did_you_have_pets_3d7ecb05:
 translate spanish talk_did_you_have_pets_8220d93d:
 
     # extend 3fsqbg " {i}shed{/i}{w=0.75}{nw}"
-    extend 3fsqbg " {i}desprenderse{/i}{w=0.75}{nw}"
+    extend 3fsqbg " desprenderse{w=0.75}{nw}"
 
 # game/scripttopics.rpy:686
 translate spanish talk_did_you_have_pets_93c2e846:
@@ -2776,7 +2776,7 @@ translate spanish talk_did_you_have_pets_43cc2cf2:
 translate spanish talk_did_you_have_pets_e6f0fa47:
 
     # n 3fchgn "You can't {i}shed{/i} your responsibilities that easily!{w=0.75}{nw}"
-    n 3fchgn "¡No puedes {i}mudar{/i} de responsabilidades así como así! {w=0.75}{nw}"
+    n 3fchgn "¡No puedes mudar de responsabilidades así como así! {w=0.75}{nw}"
 
 # game/scripttopics.rpy:766
 translate spanish talk_did_you_have_pets_ce1ed91e:
@@ -2830,7 +2830,7 @@ translate spanish talk_did_you_have_pets_5a56858d:
 translate spanish talk_did_you_have_pets_66dd44c9:
 
     # extend 3fsqss " Regular pets just aren't {i}special{/i} enough for you?{w=0.75}{nw}"
-    extend 3fsqss " ¿Es que las mascotas normales no son lo bastante {i}especiales{/i} para ti? {w=0.75}{nw}"
+    extend 3fsqss " ¿Es que las mascotas normales no son lo bastante especiales para ti? {w=0.75}{nw}"
 
 # game/scripttopics.rpy:781
 translate spanish talk_did_you_have_pets_8f8aa07c:
@@ -2932,7 +2932,7 @@ translate spanish talk_did_you_have_pets_e1992c1c:
 translate spanish talk_did_you_have_pets_f5306740:
 
     # n 3ccsajl "I {i}have{/i} heard about how demanding they can be.{w=0.75}{nw}"
-    n 3ccsajl "Pero {i}he{/i} oído hablar de lo exigentes que pueden ser. {w=0.75}{nw}"
+    n 3ccsajl "Pero he oído hablar de lo exigentes que pueden ser. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:800
 translate spanish talk_did_you_have_pets_d6850124:
@@ -2944,7 +2944,7 @@ translate spanish talk_did_you_have_pets_d6850124:
 translate spanish talk_did_you_have_pets_6c76fabe:
 
     # n 4fcssslsbl "You really don't want {i}my{/i} demands on top of that too.{w=0.75}{nw}"
-    n 4fcssslsbl "En serio que no quieres sumarle {i}mis{/i} exigencias a eso. {w=0.75}{nw}"
+    n 4fcssslsbl "En serio que no quieres sumarle mis exigencias a eso. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:802
 translate spanish talk_did_you_have_pets_55f5a747:
@@ -2968,7 +2968,7 @@ translate spanish talk_did_you_have_pets_d26f5c82:
 translate spanish talk_did_you_have_pets_7f7b412b:
 
     # n 6ccsajlsbr "Y-{w=0.2}you owe the animal {i}that{/i} much,{w=0.2} after all.{w=0.75}{nw}"
-    n 6ccsajlsbr "L-{w=0.2}Le debes {i}eso{/i} al animal,{w=0.2} al fin y al cabo. {w=0.75}{nw}"
+    n 6ccsajlsbr "L-{w=0.2}Le debes eso al animal,{w=0.2} al fin y al cabo. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:812
 translate spanish talk_did_you_have_pets_ae7f592d:
@@ -3052,7 +3052,7 @@ translate spanish talk_service_animals_c879eb44:
 translate spanish talk_service_animals_01653064:
 
     # extend 2csqsl " if you were even {i}listening{/i} -{w=0.5}{nw}"
-    extend 2csqsl " si es que estabas siquiera {i}escuchando{/i}... {w=0.5}{nw}"
+    extend 2csqsl " si es que estabas siquiera escuchando... {w=0.5}{nw}"
 
 # game/scripttopics.rpy:850
 translate spanish talk_service_animals_75c71e6b:
@@ -3118,7 +3118,7 @@ translate spanish talk_service_animals_0c683096:
 translate spanish talk_service_animals_d457426f:
 
     # extend 1fdrsl " We were {i}basically{/i} a captive audience,{w=0.2} after all."
-    extend 1fdrsl " Al fin y al cabo,{w=0.2} éramos {i}básicamente{/i} un público cautivo."
+    extend 1fdrsl " Al fin y al cabo,{w=0.2} éramos básicamente un público cautivo."
 
 # game/scripttopics.rpy:864
 translate spanish talk_service_animals_e42c8375:
@@ -3148,7 +3148,7 @@ translate spanish talk_service_animals_5f90554e:
 translate spanish talk_service_animals_ee072d05:
 
     # extend 7clrbg " there was {i}one{/i} visit I actually did like."
-    extend 7clrbg " hubo {i}una{/i} visita que sí que me gustó."
+    extend 7clrbg " hubo una visita que sí que me gustó."
 
 # game/scripttopics.rpy:869
 translate spanish talk_service_animals_c51c99e7:
@@ -3274,7 +3274,7 @@ translate spanish talk_service_animals_d11a8bae:
 translate spanish talk_service_animals_bc15eee6:
 
     # extend 2clrsl " most of them were just a {i}total{/i} snooze-fest.{w=0.75}{nw}"
-    extend 2clrsl " la mayoría eran un {i}auténtico{/i} tostón. {w=0.75}{nw}"
+    extend 2clrsl " la mayoría eran un auténtico tostón. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:892
 translate spanish talk_service_animals_f6fd2fb9:
@@ -3682,7 +3682,7 @@ translate spanish talk_service_animals_8589f78a:
 translate spanish talk_service_animals_5e3fb253:
 
     # extend 3csrss " so the volunteers didn't stick around for {i}that{/i} long..."
-    extend 3csrss " así que los voluntarios tampoco se quedaron {i}tantísimo{/i} tiempo..."
+    extend 3csrss " así que los voluntarios tampoco se quedaron tantísimo tiempo..."
 
 # game/scripttopics.rpy:971
 translate spanish talk_service_animals_d39fa54f:
@@ -3778,7 +3778,7 @@ translate spanish talk_service_animals_8047698d:
 translate spanish talk_service_animals_f8dcf8b6:
 
     # n 3fchgnelg "Pretty sure I can train {i}you{/i} up just as well!"
-    n 3fchgnelg "¡Estoy segura de que puedo adiestrarte a {i}ti{/i} igual de bien!"
+    n 3fchgnelg "¡Estoy segura de que puedo adiestrarte a ti igual de bien!"
 
 # game/scripttopics.rpy:990
 translate spanish talk_service_animals_79677818:
@@ -3850,7 +3850,7 @@ translate spanish talk_service_animals_e223e954:
 translate spanish talk_service_animals_33c3b038:
 
     # extend 2csrfl " Even if they {i}didn't{/i} get as much focus."
-    extend 2csrfl " Aunque {i}no{/i} les prestaran tanta atención."
+    extend 2csrfl " Aunque no les prestaran tanta atención."
 
 # game/scripttopics.rpy:1006
 translate spanish talk_service_animals_98e56ae2:
@@ -3868,7 +3868,7 @@ translate spanish talk_service_animals_34960da3:
 translate spanish talk_service_animals_fe4746b3:
 
     # extend 2fsqfr " Ring any bells,{w=0.2} {i}[player]{/i}?"
-    extend 2fsqfr " ¿Te suena de algo,{w=0.2} {i}[player]{/i}?"
+    extend 2fsqfr " ¿Te suena de algo,{w=0.2} [player]?"
 
 # game/scripttopics.rpy:1009
 translate spanish talk_service_animals_fba41229:

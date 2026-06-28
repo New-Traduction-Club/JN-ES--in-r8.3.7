@@ -1322,7 +1322,7 @@ translate spanish greeting_tt_warning_59097384:
 translate spanish greeting_tt_warning_4ae278de:
 
     # extend 1klremltdr " whatever just {i}happened{/i}..."
-    extend 1klremltdr " lo que sea que acaba de {i}pasar{/i}..."
+    extend 1klremltdr " lo que sea que acaba de pasar..."
 
 # game/scriptgreetings.rpy:462
 translate spanish greeting_tt_warning_af1a16ff:
@@ -1358,7 +1358,7 @@ translate spanish greeting_tt_warning_ca3c0317:
 translate spanish greeting_tt_warning_85c9bd9e:
 
     # extend 1kskscltsf " {i}DO{/i}?!"
-    extend 1kskscltsf " {i}HECHO{/i}?"
+    extend 1kskscltsf " HECHO?"
 
 # game/scriptgreetings.rpy:470
 translate spanish greeting_tt_warning_bd54634b:
@@ -1550,7 +1550,7 @@ translate spanish greeting_tt_warning_c1bbe397:
 translate spanish greeting_tt_warning_2dd1f861:
 
     # extend 4kslsll " ...I like to {i}think{/i} so,{w=0.2} a-{w=0.2}anyway."
-    extend 4kslsll " Me gusta {i}pensar{/i} eso,{w=0.2} e-{w=0.2}en fin."
+    extend 4kslsll " Me gusta pensar eso,{w=0.2} e-{w=0.2}en fin."
 
 # game/scriptgreetings.rpy:517
 translate spanish greeting_tt_warning_be57be3f:
@@ -1562,7 +1562,7 @@ translate spanish greeting_tt_warning_be57be3f:
 translate spanish greeting_tt_warning_7cdb00d6:
 
     # extend 4kllemlsbr " ...I {i}hope{/i}."
-    extend 4kllemlsbr " {i}Espero{/i}."
+    extend 4kllemlsbr " Espero."
 
 # game/scriptgreetings.rpy:520
 translate spanish greeting_tt_warning_612af1f7:
@@ -1628,7 +1628,7 @@ translate spanish greeting_tt_warning_574d31f8:
 translate spanish greeting_tt_warning_afe5b997:
 
     # extend 2knmunlsbr " I really,{w=0.3} {i}really{/i}{w=0.3} don't feel right at all..."
-    extend 2knmunlsbr " De verdad que no me siento {i}nada{/i} bien..."
+    extend 2knmunlsbr " De verdad que no me siento nada bien..."
 
 # game/scriptgreetings.rpy:531
 translate spanish greeting_tt_warning_a2b90728:
@@ -1646,7 +1646,7 @@ translate spanish greeting_tt_warning_14c0575e:
 translate spanish greeting_tt_warning_68c65bd2:
 
     # extend 1ksremltsb " I-{w=0.3}I'm not sure how much of that I can even {i}take{/i}."
-    extend 1ksremltsb " N-{w=0.3}No estoy segura de cuánto más puedo {i}aguantar{/i}."
+    extend 1ksremltsb " N-{w=0.3}No estoy segura de cuánto más puedo aguantar."
 
 # game/scriptgreetings.rpy:534
 translate spanish greeting_tt_warning_9eef5bb8:
@@ -1730,7 +1730,7 @@ translate spanish greeting_tt_warning_49b9f6f2:
 translate spanish greeting_tt_warning_ef282356:
 
     # n 4kcsemlsbr "...So can you {i}not{/i} mess around with it either?"
-    n 4kcsemlsbr "¿Así que puedes {i}no{/i} tomártelo a coña tú tampoco?"
+    n 4kcsemlsbr "¿Así que puedes no tomártelo a coña tú tampoco?"
 
 # game/scriptgreetings.rpy:561
 translate spanish greeting_tt_warning_797cb116:
@@ -1754,7 +1754,7 @@ translate spanish greeting_tt_warning_0b713b4f:
 translate spanish greeting_tt_warning_1266626c:
 
     # extend 4kpluplsbl " Can't you {i}see{/i} that?"
-    extend 4kpluplsbl " ¿Es que no lo {i}ves{/i}?"
+    extend 4kpluplsbl " ¿Es que no lo ves?"
 
 # game/scriptgreetings.rpy:567
 translate spanish greeting_tt_warning_ed1e8b34:
@@ -1802,7 +1802,7 @@ translate spanish greeting_tt_warning_b16edf1c:
 translate spanish greeting_tt_warning_b400e323:
 
     # extend 4ksqslsbl " {i}Please{/i} remember what I told you.{w=0.75}{nw}"
-    extend 4ksqslsbl " {i}Por favor{/i} recuerda lo que te he dicho.{w=0.75}{nw}"
+    extend 4ksqslsbl " Por favor recuerda lo que te he dicho.{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:578
 translate spanish greeting_tt_warning_8fcc17f5:
@@ -1814,7 +1814,7 @@ translate spanish greeting_tt_warning_8fcc17f5:
 translate spanish greeting_tt_warning_4e9a3add:
 
     # extend 4ksqslsbl " {i}Please{/i} remember what I told you."
-    extend 4ksqslsbl " {i}Por favor{/i} recuerda lo que te he dicho."
+    extend 4ksqslsbl " Por favor recuerda lo que te he dicho."
 
 # game/scriptgreetings.rpy:583
 translate spanish greeting_tt_warning_e7b82836:
@@ -2138,7 +2138,7 @@ translate spanish greeting_tt_warning_cd0d6d35:
 translate spanish greeting_tt_warning_bdc31898:
 
     # n 4fskscltsc "You're {b}so{/b} full of {i}CRA-{/i}{nw}"
-    n 4fskscltsc "¡Eres {b}tan{/b} {i}GILIPO-{/i}{nw}"
+    n 4fskscltsc "¡Eres {b}tan{/b} GILIPO-{nw}"
 
 # game/scriptgreetings.rpy:663
 translate spanish greeting_tt_warning_5579633e:
@@ -2168,7 +2168,7 @@ translate spanish greeting_tt_warning_278af149_2:
 translate spanish greeting_tt_warning_0bf9946c:
 
     # n 1fcsanltsa "...I {i}seriously{/i} cannot {i}believe{/i} you.{w=0.75}{nw}"
-    n 1fcsanltsa "De {i}verdad{/i} que no me lo puedo {i}creer{/i}.{w=0.75}{nw}"
+    n 1fcsanltsa "De verdad que no me lo puedo creer.{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:668
 translate spanish greeting_tt_warning_9cddffaa:
@@ -2180,7 +2180,7 @@ translate spanish greeting_tt_warning_9cddffaa:
 translate spanish greeting_tt_warning_ddda279f:
 
     # n 4fnmupltsc "And now you go {i}completely{/i} out of your way to make my life {i}even more{/i} miserable?!"
-    n 4fnmupltsc "¡¿Y ahora te desvías {i}completamente{/i} de tu camino solo para hacerme la vida {i}aún más{/i} miserable?!"
+    n 4fnmupltsc "¡¿Y ahora te desvías completamente de tu camino solo para hacerme la vida aún más miserable?!"
 
 # game/scriptgreetings.rpy:670
 translate spanish greeting_tt_warning_ef814456:
@@ -2258,7 +2258,7 @@ translate spanish greeting_tt_warning_9692a0c6:
 translate spanish greeting_tt_warning_fb32dab0:
 
     # n 4fscscftsf "{i}AND{w=0.2} LEAVE{w=0.2} ME{w=0.2} ALONE{/i}!{nw}"
-    n 4fscscftsf "¡{i}Y{w=0.2} DÉJAME{w=0.2} TRANQUILA{/i}!{nw}"
+    n 4fscscftsf "¡Y{w=0.2} DÉJAME{w=0.2} TRANQUILA!{nw}"
 
 # game/scriptgreetings.rpy:769
 translate spanish greeting_love_plus_today_is_gonna_be_great_1644dea4:
@@ -2282,7 +2282,7 @@ translate spanish greeting_love_plus_today_is_gonna_be_great_626a9179:
 translate spanish greeting_love_plus_today_is_gonna_be_great_5f392f80:
 
     # extend 3uchgnleme " Now I {i}know{/i} [time_descriptor] is gonna be great!"
-    extend 3uchgnleme " ¡Ahora {i}sé{/i} que [time_descriptor] va a ser genial!"
+    extend 3uchgnleme " ¡Ahora sé que [time_descriptor] va a ser genial!"
 
 # game/scriptgreetings.rpy:792
 translate spanish greeting_love_plus_world_revolves_around_you_189ff622:
@@ -2306,7 +2306,7 @@ translate spanish greeting_love_plus_world_revolves_around_you_70677001:
 translate spanish greeting_love_plus_world_revolves_around_you_542fddf8:
 
     # n 2fupeml "Do you seriously think my entire {i}world{/i} revolves around you{w=0.5}{nw}"
-    n 2fupeml "¿De verdad te piensas que todo mi {i}mundo{/i} gira a tu alrededor{w=0.5}{nw}"
+    n 2fupeml "¿De verdad te piensas que todo mi mundo gira a tu alrededor{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:796
 translate spanish greeting_love_plus_world_revolves_around_you_9d020042:
@@ -2462,7 +2462,7 @@ translate spanish greeting_love_plus_always_welcome_here_95a9b89d:
 translate spanish greeting_love_plus_always_welcome_here_464c0e62:
 
     # n 4ccssmfsbr "Y-{w=0.2}you should know you're {i}always{/i} welcome here by now,{w=0.5}{nw}"
-    n 4ccssmfsbr "A estas alturas d-{w=0.2}deberías saber que {i}siempre{/i} eres bienvenid[end_letter_gender] aquí,{w=0.5}{nw}"
+    n 4ccssmfsbr "A estas alturas d-{w=0.2}deberías saber que siempre eres bienvenid[end_letter_gender] aquí,{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:862
 translate spanish greeting_love_plus_always_welcome_here_bd6e0dce:
@@ -2498,7 +2498,7 @@ translate spanish greeting_love_plus_lovestruck_703243d9:
 translate spanish greeting_love_plus_lovestruck_41a45272:
 
     # extend 4fbkwrfess " When did you {i}get{/i} here?!"
-    extend 4fbkwrfess " ¿Cuándo has {i}llegado{/i}?"
+    extend 4fbkwrfess " ¿Cuándo has llegado?"
 
 # game/scriptgreetings.rpy:887
 translate spanish greeting_love_plus_lovestruck_490488b6:
@@ -2564,7 +2564,7 @@ translate spanish greeting_love_plus_looking_for_me_15c437e8:
 translate spanish greeting_love_plus_looking_for_me_2b259c01:
 
     # extend 2tsqdvf " Was it {i}me{/i} you're looking for?"
-    extend 2tsqdvf " ¿Es a {i}mí{/i} a quien buscas?"
+    extend 2tsqdvf " ¿Es a mí a quien buscas?"
 
 # game/scriptgreetings.rpy:917
 translate spanish greeting_love_plus_looking_for_me_63302a0e:
@@ -2588,7 +2588,7 @@ translate spanish greeting_love_plus_looking_for_me_c48ca4af:
 translate spanish greeting_love_plus_looking_for_me_bde7b41c:
 
     # extend 4fchgnlelg " I {i}cannot{/i} take that seriously!"
-    extend 4fchgnlelg " ¡{i}no puedo{/i} tomarme eso en serio!"
+    extend 4fchgnlelg " ¡no puedo tomarme eso en serio!"
 
 # game/scriptgreetings.rpy:921
 translate spanish greeting_love_plus_looking_for_me_4839467f:
@@ -2600,7 +2600,7 @@ translate spanish greeting_love_plus_looking_for_me_4839467f:
 translate spanish greeting_love_plus_looking_for_me_30cda7a0:
 
     # n 2fsqsmf "It {i}{w=0.2}totally{w=0.2}{/i} was me,{w=0.2} right?{w=1}{nw}"
-    n 2fsqsmf "Era a mí {i}{w=0.2}fijo{w=0.2}{/i},{w=0.2} ¿a que sí?{w=1}{nw}"
+    n 2fsqsmf "Era a mí {w=0.2}fijo{w=0.2},{w=0.2} ¿a que sí?{w=1}{nw}"
 
 # game/scriptgreetings.rpy:923
 translate spanish greeting_love_plus_looking_for_me_2d069df6:
@@ -2684,7 +2684,7 @@ translate spanish greeting_love_plus_nat_dragged_in_d6c209dc:
 translate spanish greeting_love_plus_nat_dragged_in_9ec1857f:
 
     # extend 3fsgbg " {i}Nat{/i}{w=0.75}{nw}"
-    extend 3fsgbg " {i}Nat{/i}{w=0.75}{nw}"
+    extend 3fsgbg " Nat{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:973
 translate spanish greeting_love_plus_nat_dragged_in_01cef866:
@@ -2792,7 +2792,7 @@ translate spanish greeting_love_plus_amazing_scenery_c0ca2678:
 translate spanish greeting_love_plus_amazing_scenery_52fc037b:
 
     # n 2fcsbgledz "I don't see any other pieces of {w=0.2}{i}amazing{/i}{w=0.2} scenery around here!"
-    n 2fcsbgledz "¡No veo ninguna otra vista {w=0.2}{i}increíble{/i}{w=0.2} por aquí!"
+    n 2fcsbgledz "¡No veo ninguna otra vista {w=0.2}increíble{w=0.2} por aquí!"
 
 # game/scriptgreetings.rpy:1029
 translate spanish greeting_love_plus_amazing_scenery_78f07163:
@@ -2870,7 +2870,7 @@ translate spanish greeting_love_plus_manga_chapters_899915d3:
 translate spanish greeting_love_plus_manga_chapters_5c7fc896:
 
     # n 1fcsbglsbl "{i}Our{/i} chapters together are way more interesting,{w=0.2} a-{w=0.2}anyway.{w=0.75}{nw}"
-    n 1fcsbglsbl "{i}Nuestros{/i} capítulos juntos son mucho más interesantes,{w=0.2} e-{w=0.2}en cualquier caso.{w=0.75}{nw}"
+    n 1fcsbglsbl "Nuestros capítulos juntos son mucho más interesantes,{w=0.2} e-{w=0.2}en cualquier caso.{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:1064
 translate spanish greeting_love_plus_manga_chapters_ce3e6e00:
@@ -2990,7 +2990,7 @@ translate spanish greeting_love_plus_spell_it_out_6dce47a3:
 translate spanish greeting_love_plus_spell_it_out_11a9c1c7:
 
     # n 3fcsgs "{i}You{/i},{w=0.75}{nw}"
-    n 3fcsgs "{i}Tú{/i},{w=0.75}{nw}"
+    n 3fcsgs "Tú,{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:1136
 translate spanish greeting_love_plus_spell_it_out_25285f74:
@@ -3032,7 +3032,7 @@ translate spanish greeting_affectionate_enamored_just_as_amazing_e2d0400b:
 translate spanish greeting_affectionate_enamored_just_as_amazing_ca4fa379:
 
     # n 6ccsbgl "Let's make [time_descriptor] just as {i}amazing{/i} as me,{w=0.2} 'kay?{w=0.75}{nw}"
-    n 6ccsbgl "Vamos a hacer que [time_descriptor] sea tan {i}increíble{/i} como yo,{w=0.2} ¿vale?{w=0.75}{nw}"
+    n 6ccsbgl "Vamos a hacer que [time_descriptor] sea tan increíble como yo,{w=0.2} ¿vale?{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:1165
 translate spanish greeting_affectionate_enamored_just_as_amazing_ef0aa24a:
@@ -3104,7 +3104,7 @@ translate spanish greeting_affectionate_enamored_just_cant_stay_away_87fd03ed:
 translate spanish greeting_affectionate_enamored_just_cant_stay_away_bbb244f2:
 
     # extend 2fchtsledz " I guess I just {i}have{/i} that effect on people."
-    extend 2fchtsledz " Supongo que simplemente {i}tengo{/i} ese efecto en la gente."
+    extend 2fchtsledz " Supongo que simplemente tengo ese efecto en la gente."
 
 # game/scriptgreetings.rpy:1214
 translate spanish greeting_affectionate_enamored_just_cant_stay_away_9ef78f4a:
@@ -3122,7 +3122,7 @@ translate spanish greeting_affectionate_enamored_have_so_much_fun_f40c2eb0:
 translate spanish greeting_affectionate_enamored_have_so_much_fun_ad422d7e:
 
     # n 7fcssml "We're gonna have {w=0.2}{i}so{/i}{w=0.2} much fun [time_descriptor]!{w=0.5}{nw}"
-    n 7fcssml "¡Nos lo vamos a pasar {w=0.2}{i}tan{/i}{w=0.2} bien [time_descriptor]!{w=0.5}{nw}"
+    n 7fcssml "¡Nos lo vamos a pasar {w=0.2}tan{w=0.2} bien [time_descriptor]!{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:1236
 translate spanish greeting_affectionate_enamored_have_so_much_fun_4257c13a:
@@ -3152,7 +3152,7 @@ translate spanish greeting_affectionate_enamored_everything_is_fine_50d86ffc:
 translate spanish greeting_affectionate_enamored_everything_is_fine_b6168374:
 
     # n 2fsqpol "You kept me waiting {i}again{/i},{w=0.5}{nw}"
-    n 2fsqpol "Me has hecho esperar {i}otra vez{/i},{w=0.5}{nw}"
+    n 2fsqpol "Me has hecho esperar otra vez,{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:1259
 translate spanish greeting_affectionate_enamored_everything_is_fine_f07d3ec8:
@@ -3206,7 +3206,7 @@ translate spanish greeting_affectionate_enamored_not_surprised_fcbf775b:
 translate spanish greeting_affectionate_enamored_not_surprised_0510c29d:
 
     # n 3fchgnl "As if you could {i}possibly{/i} resist,{w=0.2} am I right?"
-    n 3fchgnl "Como si {i}pudieras{/i} resistirte,{w=0.2} ¿tengo razón?"
+    n 3fchgnl "Como si pudieras resistirte,{w=0.2} ¿tengo razón?"
 
 # game/scriptgreetings.rpy:1304
 translate spanish greeting_affectionate_enamored_in_for_some_fun_1601d23e:
@@ -3236,7 +3236,7 @@ translate spanish greeting_affectionate_enamored_in_for_some_fun_75930e46:
 translate spanish greeting_affectionate_enamored_in_for_some_fun_4ff30567:
 
     # extend 7fchbgleme " Now I {i}know{/i} we're in for some fun!"
-    extend 7fchbgleme " ¡Ahora {i}sé{/i} que nos vamos a divertir!"
+    extend 7fchbgleme " ¡Ahora sé que nos vamos a divertir!"
 
 # game/scriptgreetings.rpy:1327
 translate spanish greeting_affectionate_enamored_good_taste_50741e94:
@@ -3266,7 +3266,7 @@ translate spanish greeting_affectionate_enamored_good_taste_35787c47:
 translate spanish greeting_affectionate_enamored_good_taste_d7d7bfea:
 
     # n 2uchgnl "Looks like you've got {i}some{/i} good taste after all,{w=0.2} [player]!{w=0.75}{nw}"
-    n 2uchgnl "¡Parece que tienes {i}algo{/i} de buen gusto después de todo,{w=0.2} [player]!{w=0.75}{nw}"
+    n 2uchgnl "¡Parece que tienes algo de buen gusto después de todo,{w=0.2} [player]!{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:1333
 translate spanish greeting_affectionate_enamored_good_taste_deef40f3:

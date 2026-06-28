@@ -1767,7 +1767,7 @@ translate spanish talk_fitting_clothing_134af63d:
 translate spanish talk_fitting_clothing_c5a6b3db:
 
     # extend 3fsqbg " {i}fitting{/i}{w=1}{nw}"
-    extend 3fsqbg " {i}a medida{/i}{w=1}{nw}"
+    extend 3fsqbg " a medida{w=1}{nw}"
 
 # game/scripttopics.rpy:11430
 translate spanish talk_fitting_clothing_2d6b74a1:
@@ -1833,13 +1833,13 @@ translate spanish talk_favorite_subject_f5bf302d:
 translate spanish talk_favorite_subject_07684865:
 
     # extend 2cslem " I {i}still{/i} can't stick math!"
-    extend 2cslem " ¡{i}Sigo{/i} sin soportar las mates!"
+    extend 2cslem " ¡Sigo sin soportar las mates!"
 
 # game/scripttopics.rpy:11471
 translate spanish talk_favorite_subject_e50428ba:
 
     # n 2cslem "Not {i}math{/i},{w=0.5}{nw}"
-    n 2cslem "Las {i}mates{/i} no,{w=0.5}{nw}"
+    n 2cslem "Las mates no,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:11472
 translate spanish talk_favorite_subject_a0e212f0:
@@ -2457,7 +2457,7 @@ translate spanish talk_favorite_subject_861982d3:
 translate spanish talk_favorite_subject_fc15bc87:
 
     # extend 4fsrem " {i}Despite{/i} what you probably think."
-    extend 4fsrem " {i}A pesar{/i} de lo que probablemente pienses."
+    extend 4fsrem " A pesar de lo que probablemente pienses."
 
 # game/scripttopics.rpy:11607
 translate spanish talk_favorite_subject_e20febf6:
@@ -2481,7 +2481,7 @@ translate spanish talk_favorite_subject_a87ecbce:
 translate spanish talk_favorite_subject_0eaeaf61:
 
     # n 2fcsan "How is {i}anyone{/i} meant to remember so much random nonsense?{w=0.75}{nw}"
-    n 2fcsan "¿Cómo se supone que {i}alguien{/i} va a recordar tantas chorradas aleatorias?{w=0.75}{nw}"
+    n 2fcsan "¿Cómo se supone que alguien va a recordar tantas chorradas aleatorias?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11611
 translate spanish talk_favorite_subject_2192c9fa:
@@ -2493,7 +2493,7 @@ translate spanish talk_favorite_subject_2192c9fa:
 translate spanish talk_favorite_subject_aac98bad:
 
     # n 2fupfl "Because nothing makes me {i}love{/i} a subject more than having to no-life it{w=0.5}{nw}"
-    n 2fupfl "Porque nada hace que me {i}encante{/i} más una asignatura que tener que dejarme la vida en ella{w=0.5}{nw}"
+    n 2fupfl "Porque nada hace que me encante más una asignatura que tener que dejarme la vida en ella{w=0.5}{nw}"
 
 # game/scripttopics.rpy:11613
 translate spanish talk_favorite_subject_f41168b8:
@@ -2535,7 +2535,7 @@ translate spanish talk_favorite_subject_660be324:
 translate spanish talk_favorite_subject_53d20836:
 
     # extend 2fsqem " From my {w=0.2}{i}friends{/i}{w=0.3}, anyway."
-    extend 2fsqem " A mis {w=0.2}{i}amigas{/i}{w=0.3}, al menos."
+    extend 2fsqem " A mis {w=0.2}amigas{w=0.3}, al menos."
 
 # game/scripttopics.rpy:11620
 translate spanish talk_favorite_subject_616f737a:
@@ -2553,7 +2553,7 @@ translate spanish talk_favorite_subject_f0c69bc0:
 translate spanish talk_favorite_subject_cc9c2753:
 
     # extend 2fsrfr " To not {i}need{/i} to rely on someone else constantly.{w=1.25}{nw}"
-    extend 2fsrfr " No {i}necesitar{/i} depender de alguien más constantemente.{w=1.25}{nw}"
+    extend 2fsrfr " No necesitar depender de alguien más constantemente.{w=1.25}{nw}"
 
 # game/scripttopics.rpy:11623
 translate spanish talk_favorite_subject_8a103bce:
@@ -2577,7 +2577,7 @@ translate spanish talk_favorite_subject_49420aa1:
 translate spanish talk_favorite_subject_de65ed8c:
 
     # n 4fslem "Not like there's always gonna be {i}someone{/i} you can rely on."
-    n 4fslem "No es como si siempre fuera a haber {i}alguien{/i} en quien apoyarte."
+    n 4fslem "No es como si siempre fuera a haber alguien en quien apoyarte."
 
 # game/scripttopics.rpy:11627
 translate spanish talk_favorite_subject_68e1a40a:
@@ -2589,19 +2589,19 @@ translate spanish talk_favorite_subject_68e1a40a:
 translate spanish talk_favorite_subject_f8ae5a0d:
 
     # extend 2fsqem " {i}[player]{/i}?"
-    extend 2fsqem " {i}[player]{/i}?"
+    extend 2fsqem " [player]?"
 
 # game/scripttopics.rpy:11632
 translate spanish talk_favorite_subject_602c3a71:
 
     # n 2fslan "You {i}seriously{/i} think you're getting a different answer..."
-    n 2fslan "¿{i}En serio{/i} crees que vas a recibir una respuesta diferente..."
+    n 2fslan "¿En serio crees que vas a recibir una respuesta diferente..."
 
 # game/scripttopics.rpy:11633
 translate spanish talk_favorite_subject_463af7c5:
 
     # n 2fsqan "...If you just ask {i}again{/i}?{w=0.75}{nw}"
-    n 2fsqan "Si lo preguntas {i}otra vez{/i}?{w=0.75}{nw}"
+    n 2fsqan "Si lo preguntas otra vez?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11634
 translate spanish talk_favorite_subject_c499007f:
@@ -2613,7 +2613,7 @@ translate spanish talk_favorite_subject_c499007f:
 translate spanish talk_favorite_subject_87593011:
 
     # n 4fnman "...And why exactly should I tell {i}you{/i},{w=0.2} anyway?"
-    n 4fnman "¿Y por qué debería decírtelo a {i}ti{/i} exactamente,{w=0.2} eh?"
+    n 4fnman "¿Y por qué debería decírtelo a ti exactamente,{w=0.2} eh?"
 
 # game/scripttopics.rpy:11638
 translate spanish talk_favorite_subject_3266e714:
@@ -2631,7 +2631,7 @@ translate spanish talk_favorite_subject_5a3f6281:
 translate spanish talk_favorite_subject_0ff6797b:
 
     # n 4fnman "...And why exactly should I tell {i}you{/i}?"
-    n 4fnman "¿Y por qué debería contártelo a {i}ti{/i}?"
+    n 4fnman "¿Y por qué debería contártelo a ti?"
 
 # game/scripttopics.rpy:11642
 translate spanish talk_favorite_subject_44fc8939:
@@ -2655,13 +2655,13 @@ translate spanish talk_favorite_subject_484f3aea:
 translate spanish talk_favorite_subject_6a099e2e:
 
     # extend 2fsqantsb " {i}No thanks{/i}."
-    extend 2fsqantsb " {i}No gracias{/i}."
+    extend 2fsqantsb " No gracias."
 
 # game/scripttopics.rpy:11646
 translate spanish talk_favorite_subject_49a33147:
 
     # n 4fsqupltsb "Now {i}get out of my face{/i}."
-    n 4fsqupltsb "Ahora {i}déjame en paz{/i}."
+    n 4fsqupltsb "Ahora déjame en paz."
 
 # game/scripttopics.rpy:11671
 translate spanish talk_can_you_draw_935fd32c:
@@ -2757,7 +2757,7 @@ translate spanish talk_can_you_draw_b329b650:
 translate spanish talk_can_you_draw_0170865c:
 
     # extend 4fcsss " you'd know about it if I had {i}that{/i} kind of talent."
-    extend 4fcsss " te habrías enterado si yo tuviera {i}esa{/i} clase de talento."
+    extend 4fcsss " te habrías enterado si yo tuviera esa clase de talento."
 
 # game/scripttopics.rpy:11689
 translate spanish talk_can_you_draw_feded605:
@@ -2841,7 +2841,7 @@ translate spanish talk_can_you_draw_397d2ae6:
 translate spanish talk_can_you_draw_b7df1796:
 
     # extend 1csraj " so many lessons were just an exercise in page turning more than {i}painting{/i}."
-    extend 1csraj " muchísimas lecciones eran más un ejercicio de pasar páginas que de {i}pintar{/i}."
+    extend 1csraj " muchísimas lecciones eran más un ejercicio de pasar páginas que de pintar."
 
 # game/scripttopics.rpy:11704
 translate spanish talk_can_you_draw_d897b456:
@@ -3027,7 +3027,7 @@ translate spanish talk_can_you_draw_5f180d75:
 translate spanish talk_can_you_draw_cc4cefb2:
 
     # n 2cnmbol "...But what if you don't {i}have{/i} that kind of direction anywhere?"
-    n 2cnmbol "Pero ¿y si no {i}tienes{/i} a nadie que te guíe?"
+    n 2cnmbol "Pero ¿y si no tienes a nadie que te guíe?"
 
 # game/scripttopics.rpy:11739
 translate spanish talk_can_you_draw_a048e5ef:
@@ -3075,7 +3075,7 @@ translate spanish talk_can_you_draw_b4f4774d:
 translate spanish talk_can_you_draw_c14fca37:
 
     # extend 4ccsssl " Not {i}yet{/i},{w=0.2} anyway."
-    extend 4ccsssl " No {i}todavía{/i},{w=0.2} al menos."
+    extend 4ccsssl " No todavía,{w=0.2} al menos."
 
 # game/scripttopics.rpy:11747
 translate spanish talk_can_you_draw_20416c78:
@@ -3219,7 +3219,7 @@ translate spanish talk_can_you_draw_51a48c35:
 translate spanish talk_can_you_draw_caaf5d36:
 
     # n 3fsqsssbr "All the more reason to be grateful you've always got {i}such{/i} a great subject on hand,{w=0.5}{nw}"
-    n 3fsqsssbr "Una razón más para estar agradecid[end_letter_gender] de tener siempre un modelo {i}tan{/i} genial a mano,{w=0.5}{nw}"
+    n 3fsqsssbr "Una razón más para estar agradecid[end_letter_gender] de tener siempre un modelo tan genial a mano,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:11777
 translate spanish talk_can_you_draw_f418c9f1:
@@ -3267,7 +3267,7 @@ translate spanish talk_can_you_draw_4ae6d384:
 translate spanish talk_can_you_draw_7a8aab20:
 
     # extend 3fcsbgsbr " Not every day such an {i}amazing{/i} subject just plonks itself down right in front of you!"
-    extend 3fcsbgsbr " ¡No todos los días un modelo tan {i}increíble{/i} se planta justo delante de ti!"
+    extend 3fcsbgsbr " ¡No todos los días un modelo tan increíble se planta justo delante de ti!"
 
 # game/scripttopics.rpy:11793
 translate spanish talk_can_you_draw_a3c8f19d:
@@ -3297,7 +3297,7 @@ translate spanish talk_can_you_draw_2983ae5e:
 translate spanish talk_can_you_draw_6b50583b:
 
     # extend 2cslsssbr " Not like {i}I'm{/i} one to judge for that."
-    extend 2cslsssbr " No es que {i}yo{/i} sea quién para juzgarte por eso."
+    extend 2cslsssbr " No es que yo sea quién para juzgarte por eso."
 
 # game/scripttopics.rpy:11798
 translate spanish talk_can_you_draw_b054f022:
@@ -3327,7 +3327,7 @@ translate spanish talk_can_you_draw_fd8ebe08:
 translate spanish talk_can_you_draw_475d9186:
 
     # extend 3csqem " What do you mean,{w=0.2} {i}'anymore'{/i}?{w=0.5}{nw}"
-    extend 3csqem " ¿Qué quieres decir con que {i}'ya no'{/i}?{w=0.5}{nw}"
+    extend 3csqem " ¿Qué quieres decir con que 'ya no'?{w=0.5}{nw}"
 
 # game/scripttopics.rpy:11805
 translate spanish talk_can_you_draw_77bbf063:
@@ -3345,7 +3345,7 @@ translate spanish talk_can_you_draw_b0e74e59:
 translate spanish talk_can_you_draw_feda5415:
 
     # extend 3fcsbgsbr " {i}Especially{/i} when you've been blessed with {i}such{/i} a good subject to get started!{w=0.75}{nw}"
-    extend 3fcsbgsbr " ¡{i}Especialmente{/i} cuando te han bendecido con un modelo {i}tan{/i} bueno para empezar!{w=0.75}{nw}"
+    extend 3fcsbgsbr " ¡Especialmente cuando te han bendecido con un modelo tan bueno para empezar!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11808
 translate spanish talk_can_you_draw_fc5201eb:
@@ -3405,7 +3405,7 @@ translate spanish talk_can_you_draw_4386271b:
 translate spanish talk_can_you_draw_f5004f14:
 
     # extend 3fsqbg " {i}ease-l{/i}{w=0.5}{nw}"
-    extend 3fsqbg " {i}tomármelo con arte{/i}{w=0.5}{nw}"
+    extend 3fsqbg " tomármelo con arte{w=0.5}{nw}"
 
 # game/scripttopics.rpy:11819
 translate spanish talk_can_you_draw_3a646dbd:
@@ -3441,7 +3441,7 @@ translate spanish talk_can_you_draw_949845d2:
 translate spanish talk_can_you_draw_3457bb50:
 
     # extend 4fsqan " Like I {i}already{/i} told you.{w=0.75}{nw}"
-    extend 4fsqan " Como {i}ya{/i} te he dicho.{w=0.75}{nw}"
+    extend 4fsqan " Como ya te he dicho.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11830
 translate spanish talk_can_you_draw_3d0ac6a9:
@@ -3507,7 +3507,7 @@ translate spanish talk_can_you_draw_55879971:
 translate spanish talk_can_you_draw_9761f791:
 
     # extend 2ftrem " we spent way more time learning about how {i}other people{/i} worked than actually learning ourselves!"
-    extend 2ftrem " ¡pasábamos mucho más tiempo aprendiendo cómo trabajaba {i}otra gente{/i} que aprendiendo nosotras mismas!"
+    extend 2ftrem " ¡pasábamos mucho más tiempo aprendiendo cómo trabajaba otra gente que aprendiendo nosotras mismas!"
 
 # game/scripttopics.rpy:11844
 translate spanish talk_can_you_draw_a852414a:
@@ -3561,7 +3561,7 @@ translate spanish talk_can_you_draw_1f03027f:
 translate spanish talk_can_you_draw_06ea7296:
 
     # n 2cslpu "I wouldn't even care so much if we'd at least covered all of the basics {i}before{/i} dusting off all the stupid textbooks.{w=0.75}{nw}"
-    n 2cslpu "Ni siquiera me importaría tanto si al menos hubiéramos cubierto todo lo básico {i}antes{/i} de desempolvar todos los estúpidos libros de texto.{w=0.75}{nw}"
+    n 2cslpu "Ni siquiera me importaría tanto si al menos hubiéramos cubierto todo lo básico antes de desempolvar todos los estúpidos libros de texto.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11853
 translate spanish talk_can_you_draw_202d1100:
@@ -3603,7 +3603,7 @@ translate spanish talk_can_you_draw_d602f3e5:
 translate spanish talk_can_you_draw_ba02a7e7:
 
     # n 2fsqem "{i}Something{/i} tells me I'm not gonna be in the mood for that a whole lot."
-    n 2fsqem "{i}Algo{/i} me dice que no voy a estar muy de humor para eso."
+    n 2fsqem "Algo me dice que no voy a estar muy de humor para eso."
 
 # game/scripttopics.rpy:11860
 translate spanish talk_can_you_draw_5cc59288:
@@ -3615,7 +3615,7 @@ translate spanish talk_can_you_draw_5cc59288:
 translate spanish talk_can_you_draw_48352882:
 
     # extend 2fsqem " {i}[player]{/i}."
-    extend 2fsqem " {i}[player]{/i}."
+    extend 2fsqem " [player]."
 
 # game/scripttopics.rpy:11865
 translate spanish talk_can_you_draw_f2a8bd99:
@@ -3633,7 +3633,7 @@ translate spanish talk_can_you_draw_0949612e:
 translate spanish talk_can_you_draw_140be285:
 
     # n 2fsquptsb "The only thing I'm drawing right now is an end to this {i}stupid{/i} conversation."
-    n 2fsquptsb "Lo único que voy a dibujar ahora mismo es el final de esta conversación {i}estúpida{/i}."
+    n 2fsquptsb "Lo único que voy a dibujar ahora mismo es el final de esta conversación estúpida."
 
 # game/scripttopics.rpy:11868
 translate spanish talk_can_you_draw_f67361f0:

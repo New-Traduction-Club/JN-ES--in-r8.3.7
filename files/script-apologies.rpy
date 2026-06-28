@@ -1588,7 +1588,7 @@ translate spanish apology_rude_7b085ccf:
 translate spanish apology_rude_2e645e8c:
 
     # extend 2fsqem " Let me ask you something,{w=0.75} {i}[player]{/i}."
-    extend 2fsqem " Déjame preguntarte algo,{w=0.75} {i}[player]{/i}."
+    extend 2fsqem " Déjame preguntarte algo,{w=0.75} [player]."
 
 # game/scriptapologies.rpy:515
 translate spanish apology_rude_b9fb829d:
@@ -2728,7 +2728,7 @@ translate spanish apology_bad_player_name_6beace97:
 translate spanish apology_bad_player_name_a5a80ca6:
 
     # extend 1fsqfultsb " Maybe I {i}should{/i} just call you that name."
-    extend 1fsqfultsb " Quizá {i}debería{/i} llamarte así y punto."
+    extend 1fsqfultsb " Quizá debería llamarte así y punto."
 
 # game/scriptapologies.rpy:834
 translate spanish apology_bad_player_name_fe7778c3:
@@ -2770,7 +2770,7 @@ translate spanish apology_bad_player_name_e6b07fba:
 translate spanish apology_bad_player_name_936c7369:
 
     # n 2fnmem "How many times did I {i}forgive{/i} you?{w=1}{nw}"
-    n 2fnmem "¿Cuántas veces te he {i}perdonado{/i}?{w=1}{nw}"
+    n 2fnmem "¿Cuántas veces te he perdonado?{w=1}{nw}"
 
 # game/scriptapologies.rpy:845
 translate spanish apology_bad_player_name_2abfbc53:
@@ -2848,7 +2848,7 @@ translate spanish apology_bad_player_name_e0cb20a8:
 translate spanish apology_bad_player_name_8d39a4e4:
 
     # n 2fsqan "...And you leave it this long to even {i}apologize{/i}?"
-    n 2fsqan "¿Y esperas tanto tiempo para siquiera {i}disculparte{/i}?"
+    n 2fsqan "¿Y esperas tanto tiempo para siquiera disculparte?"
 
 # game/scriptapologies.rpy:862
 translate spanish apology_bad_player_name_2a16493b:
@@ -2878,7 +2878,7 @@ translate spanish apology_bad_player_name_87919981:
 translate spanish apology_bad_player_name_5b4a1e1a:
 
     # n 4fnmfr "...But you can {i}forget{/i} about me accepting any more of your nicknames."
-    n 4fnmfr "Pero puedes irte {i}olvidando{/i} de que acepte más apodos tuyos."
+    n 4fnmfr "Pero puedes irte olvidando de que acepte más apodos tuyos."
 
 # game/scriptapologies.rpy:867
 translate spanish apology_bad_player_name_c4f3b3eb:
@@ -2890,13 +2890,13 @@ translate spanish apology_bad_player_name_c4f3b3eb:
 translate spanish apology_bad_player_name_79d8e136:
 
     # n 2fcsan "{i}Wow{/i}.{w=1}{nw}"
-    n 2fcsan "{i}Guau{/i}.{w=1}{nw}"
+    n 2fcsan "Guau.{w=1}{nw}"
 
 # game/scriptapologies.rpy:873
 translate spanish apology_bad_player_name_99d7a8da:
 
     # extend 2fcsfu " I would say I'm speechless,{w=0.3} if it were literally {i}anyone{/i} else."
-    extend 2fcsfu " Diría que estoy sin palabras,{w=0.3} si fuese literalmente {i}cualquier otra persona{/i}."
+    extend 2fcsfu " Diría que estoy sin palabras,{w=0.3} si fuese literalmente cualquier otra persona."
 
 # game/scriptapologies.rpy:874
 translate spanish apology_bad_player_name_0da2838b:
@@ -2908,7 +2908,7 @@ translate spanish apology_bad_player_name_0da2838b:
 translate spanish apology_bad_player_name_1bb4c5e2:
 
     # n 2fcsem "I've about come to {i}expect{/i} this sort of crap from you."
-    n 2fcsem "Casi que he llegado a {i}esperarme{/i} este tipo de mierda de ti."
+    n 2fcsem "Casi que he llegado a esperarme este tipo de mierda de ti."
 
 # game/scriptapologies.rpy:876
 translate spanish apology_bad_player_name_6f087a57:
@@ -2962,7 +2962,7 @@ translate spanish apology_bad_player_name_67ddd590:
 translate spanish apology_bad_player_name_044641c9:
 
     # n 2fcswrltsd "You {i}need{/i} a walk if you {i}seriously{/i} think after all of your crap,{w=0.75}{nw}"
-    n 2fcswrltsd "Te {i}hace falta{/i} el paseo si {i}en serio{/i} crees que después de toda tu mierda,{w=0.75}{nw}"
+    n 2fcswrltsd "Te hace falta el paseo si en serio crees que después de toda tu mierda,{w=0.75}{nw}"
 
 # game/scriptapologies.rpy:887
 translate spanish apology_bad_player_name_d8fb4340:

@@ -3,7 +3,7 @@
 translate spanish talk_fear_of_flying_46f35d74:
 
     # n 3unmem "You're more than {i}2,000{/i} times more likely to kick the bucket from a car accident than from a plane crash!"
-    n 3unmem "¡Es más de {i}2000{/i} veces más probable que la diñes en un accidente de coche que en uno de avión!"
+    n 3unmem "¡Es más de 2000 veces más probable que la diñes en un accidente de coche que en uno de avión!"
 
 # game/scripttopics.rpy:8449
 translate spanish talk_fear_of_flying_0f30f3e3:
@@ -2175,7 +2175,7 @@ translate spanish talk_player_change_name_830a4d04:
 translate spanish talk_player_change_name_834d24e3:
 
     # n 1fsqwrean "Are you {i}trying{/i} to earn a smack?"
-    n 1fsqwrean "¿Estás {i}intentando{/i} ganarte un guantazo?"
+    n 1fsqwrean "¿Estás intentando ganarte un guantazo?"
 
 # game/scripttopics.rpy:9034
 translate spanish talk_player_change_name_9f3337b7:
@@ -2217,7 +2217,7 @@ translate spanish talk_player_change_name_a190880b:
 translate spanish talk_player_change_name_de1c9222:
 
     # extend 1fnmfr " {i}Now{/i} you understand,{w=0.1} do you?"
-    extend 1fnmfr " {i}Ahora{/i} lo entiendes,{w=0.1} ¿verdad?"
+    extend 1fnmfr " Ahora lo entiendes,{w=0.1} ¿verdad?"
 
 # game/scripttopics.rpy:9046
 translate spanish talk_player_change_name_6f3c8efc:
@@ -2523,13 +2523,13 @@ translate spanish talk_players_birthday_intro_d35d1318:
 translate spanish talk_players_birthday_intro_2b133675:
 
     # extend 3nchbg " I even know what you {i}look{/i} like now!"
-    extend 3nchbg " ¡ahora ya sé hasta qué {i}pinta{/i} tienes!"
+    extend 3nchbg " ¡ahora ya sé hasta qué pinta tienes!"
 
 # game/scripttopics.rpy:9165
 translate spanish talk_players_birthday_intro_c10dcea2:
 
     # n 3fchsmeme "If {i}that{/i} isn't a sign of trust,{w=0.2} I'm not sure what is."
-    n 3fchsmeme "Si {i}eso{/i} no es una señal de confianza,{w=0.2} no sé qué lo será."
+    n 3fchsmeme "Si eso no es una señal de confianza,{w=0.2} no sé qué lo será."
 
 # game/scripttopics.rpy:9167
 translate spanish talk_players_birthday_intro_f5140dca:
@@ -2553,13 +2553,13 @@ translate spanish talk_players_birthday_intro_35a9aa6e:
 translate spanish talk_players_birthday_intro_e37fe0d3:
 
     # n 4uskem "...And that's that I have literally no idea when your {i}birthday{/i} is!{w=1}{nw}"
-    n 4uskem "¡Y es que no tengo ni idea de cuándo es tu {i}cumpleaños{/i}!{w=1}{nw}"
+    n 4uskem "¡Y es que no tengo ni idea de cuándo es tu cumpleaños!{w=1}{nw}"
 
 # game/scripttopics.rpy:9171
 translate spanish talk_players_birthday_intro_88bd9e43:
 
     # extend 1fbkwr " I never even thought to {i}ask{/i}!"
-    extend 1fbkwr " ¡Ni se me había ocurrido {i}preguntar{/i}!"
+    extend 1fbkwr " ¡Ni se me había ocurrido preguntar!"
 
 # game/scripttopics.rpy:9172
 translate spanish talk_players_birthday_intro_76036f47:
@@ -2571,7 +2571,7 @@ translate spanish talk_players_birthday_intro_76036f47:
 translate spanish talk_players_birthday_intro_9db95f57:
 
     # extend 3fslpol " I can't {i}believe{/i} I never brought that up earlier..."
-    extend 3fslpol " no me puedo {i}creer{/i} que no haya sacado el tema antes..."
+    extend 3fslpol " no me puedo creer que no haya sacado el tema antes..."
 
 # game/scripttopics.rpy:9174
 translate spanish talk_players_birthday_intro_707ecc9c:
@@ -2595,7 +2595,7 @@ translate spanish talk_players_birthday_intro_08882b73:
 translate spanish talk_players_birthday_intro_0df8fac4:
 
     # n 4kllbo "...Especially when there's only {i}one{/i} birthday to remember nowadays."
-    n 4kllbo "Sobre todo cuando hoy en día solo hay {i}un{/i} cumpleaños que recordar."
+    n 4kllbo "Sobre todo cuando hoy en día solo hay un cumpleaños que recordar."
 
 # game/scripttopics.rpy:9178
 translate spanish talk_players_birthday_intro_b81d9117:
@@ -2613,7 +2613,7 @@ translate spanish talk_players_birthday_intro_d7dec93d:
 translate spanish talk_players_birthday_intro_279b0733:
 
     # n 2flrpo "I'd have to be a real jerk not to {i}at least{/i} ask."
-    n 2flrpo "Tendría que ser muy mala para no preguntar {i}al menos{/i}."
+    n 2flrpo "Tendría que ser muy mala para no preguntar al menos."
 
 # game/scripttopics.rpy:9183
 translate spanish talk_players_birthday_intro_87aebbbd:
@@ -2931,7 +2931,7 @@ translate spanish talk_players_birthday_outro_29b730e0:
 translate spanish talk_players_birthday_outro_4a55a9d6:
 
     # extend 2flleml " Why didn't you {i}say{/i} anything?!"
-    extend 2flleml " ¡¿Por qué no has {i}dicho{/i} nada?!"
+    extend 2flleml " ¡¿Por qué no has dicho nada?!"
 
 # game/scripttopics.rpy:9335
 translate spanish talk_players_birthday_outro_4a07d185:
@@ -3357,7 +3357,7 @@ translate spanish talk_chocolate_preference_e69b0624:
 translate spanish talk_chocolate_preference_252ec585:
 
     # n 3fcsbglsbl "Y-{w=0.2}you aren't trying to {i}sweeten{/i} me up or something,{w=0.2} are you?{w=0.75}{nw}"
-    n 3fcsbglsbl "N-{w=0.2}No estarás intentando {i}conquistarme{/i} con dulzura ni nada de eso,{w=0.2} ¿no?{w=0.75}{nw}"
+    n 3fcsbglsbl "N-{w=0.2}No estarás intentando conquistarme con dulzura ni nada de eso,{w=0.2} ¿no?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:9546
 translate spanish talk_chocolate_preference_c18fbee9:
@@ -3465,7 +3465,7 @@ translate spanish talk_chocolate_preference_98c3932d:
 translate spanish talk_chocolate_preference_34fdf26d:
 
     # extend 2fsqemsbl " {i}This{/i} again?"
-    extend 2fsqemsbl " ¿{i}Esto{/i} otra vez?"
+    extend 2fsqemsbl " ¿Esto otra vez?"
 
 # game/scripttopics.rpy:9575
 translate spanish talk_chocolate_preference_db424eb4:
@@ -3489,7 +3489,7 @@ translate spanish talk_chocolate_preference_d6ae6fd2:
 translate spanish talk_chocolate_preference_559e3d66:
 
     # extend 3fslbo " For what it even {i}matters{/i} to you."
-    extend 3fslbo " Por lo que te {i}importa{/i} a ti."
+    extend 3fslbo " Por lo que te importa a ti."
 
 # game/scripttopics.rpy:9580
 translate spanish talk_chocolate_preference_9a7a7618:
@@ -3531,7 +3531,7 @@ translate spanish talk_chocolate_preference_eed33671:
 translate spanish talk_chocolate_preference_9dccb3ea:
 
     # n 2fsran "As if {i}I{/i} was the one going to {i}fancy{/i} candy stores to pick out whatever I fancied."
-    n 2fsran "Como si {i}yo{/i} fuera de las que van a pastelerías {i}pijas{/i} a elegir lo que se me antoje."
+    n 2fsran "Como si yo fuera de las que van a pastelerías pijas a elegir lo que se me antoje."
 
 # game/scripttopics.rpy:9587
 translate spanish talk_chocolate_preference_874e17bd:
@@ -3549,7 +3549,7 @@ translate spanish talk_chocolate_preference_30b90100:
 translate spanish talk_chocolate_preference_307fa4e9:
 
     # extend 1fcsfr " Not like I thought {i}you{/i} would get it."
-    extend 1fcsfr " No es que pensara que {i}tú{/i} fueras a pillarlo."
+    extend 1fcsfr " No es que pensara que tú fueras a pillarlo."
 
 # game/scripttopics.rpy:9590
 translate spanish talk_chocolate_preference_1ca66770:
@@ -3579,7 +3579,7 @@ translate spanish talk_chocolate_preference_98d281d1:
 translate spanish talk_chocolate_preference_6e524497:
 
     # extend 2fslan " And there's no {i}way{/i} I could get dark chocolate with {i}my{/i} kind of budget."
-    extend 2fslan " Y ni de {i}broma{/i} podría pillar chocolate negro con {i}mi{/i} presupuesto."
+    extend 2fslan " Y ni de broma podría pillar chocolate negro con mi presupuesto."
 
 # game/scripttopics.rpy:9595
 translate spanish talk_chocolate_preference_3457fd53:
@@ -3621,7 +3621,7 @@ translate spanish talk_chocolate_preference_a8ee22f5:
 translate spanish talk_chocolate_preference_27852a04:
 
     # n 2tsqem "Because unless you magically have something to sweeten {i}this{/i} experience up?"
-    n 2tsqem "¿Porque a menos que mágicamente tengas algo para endulzarme {i}este{/i} momento?"
+    n 2tsqem "¿Porque a menos que mágicamente tengas algo para endulzarme este momento?"
 
 # game/scripttopics.rpy:9602
 translate spanish talk_chocolate_preference_687b4647:
@@ -3633,7 +3633,7 @@ translate spanish talk_chocolate_preference_687b4647:
 translate spanish talk_chocolate_preference_a077d9d3:
 
     # n 2fsqan "I think we're about done here,{w=0.2} {i}[player]{/i}."
-    n 2fsqan "Creo que ya hemos acabado,{w=0.2} {i}[player]{/i}."
+    n 2fsqan "Creo que ya hemos acabado,{w=0.2} [player]."
 
 # game/scripttopics.rpy:9608
 translate spanish talk_chocolate_preference_48866cd7:
@@ -3651,7 +3651,7 @@ translate spanish talk_chocolate_preference_17ecd236:
 translate spanish talk_chocolate_preference_64a43583:
 
     # n 2fsqupltsb "Does your memory {i}seriously{/i} suck as much as your personality does?"
-    n 2fsqupltsb "¿Tu memoria {i}de verdad{/i} apesta tanto como tu personalidad?"
+    n 2fsqupltsb "¿Tu memoria de verdad apesta tanto como tu personalidad?"
 
 # game/scripttopics.rpy:9613
 translate spanish talk_chocolate_preference_278af149:
@@ -3663,13 +3663,13 @@ translate spanish talk_chocolate_preference_278af149:
 translate spanish talk_chocolate_preference_5244e84e:
 
     # n 1fsqfrltsb "Allow me to {i}remind{/i} you,{w=0.2} {i}[player]{/i}."
-    n 1fsqfrltsb "Permíteme que te lo {i}recuerde{/i},{w=0.2} {i}[player]{/i}."
+    n 1fsqfrltsb "Permíteme que te lo recuerde,{w=0.2} [player]."
 
 # game/scripttopics.rpy:9617
 translate spanish talk_chocolate_preference_d3e6a562:
 
     # n 2fsqupltsb "You {i}really{/i} wanna know,{w=0.2} [player]?"
-    n 2fsqupltsb "¿{i}De verdad{/i} quieres saberlo,{w=0.2} [player]?"
+    n 2fsqupltsb "¿De verdad quieres saberlo,{w=0.2} [player]?"
 
 # game/scripttopics.rpy:9618
 translate spanish talk_chocolate_preference_278af149_1:
@@ -3891,7 +3891,7 @@ translate spanish talk_chocolate_preference_8f2706db:
 translate spanish talk_chocolate_preference_55fe3c97:
 
     # n 4nslss "Milk chocolate is {i}okay{/i},{w=0.2} but you kinda see it everywhere already."
-    n 4nslss "El chocolate con leche está {i}bien{/i},{w=0.2} pero ya está un poco visto en todas partes."
+    n 4nslss "El chocolate con leche está bien,{w=0.2} pero ya está un poco visto en todas partes."
 
 # game/scripttopics.rpy:9664
 translate spanish talk_chocolate_preference_83db0691:
@@ -3951,13 +3951,13 @@ translate spanish talk_chocolate_preference_3aeaa63e:
 translate spanish talk_chocolate_preference_5d85800e:
 
     # extend 4fllbgsbr " It {i}totally{/i} has its place,{w=0.2} like I said..."
-    extend 4fllbgsbr " Tiene su lugar {i}totalmente{/i},{w=0.2} como he dicho..."
+    extend 4fllbgsbr " Tiene su lugar totalmente,{w=0.2} como he dicho..."
 
 # game/scripttopics.rpy:9674
 translate spanish talk_chocolate_preference_3edaea97:
 
     # n 2fslposbr "...Just not in {i}my{/i} mouth.{w=0.75}{nw}"
-    n 2fslposbr "Pero no en {i}mi{/i} boca.{w=0.75}{nw}"
+    n 2fslposbr "Pero no en mi boca.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:9675
 translate spanish talk_chocolate_preference_0db91dde:
@@ -3987,7 +3987,7 @@ translate spanish talk_chocolate_preference_b251e25b:
 translate spanish talk_chocolate_preference_72320549:
 
     # n 4tnmss "I'm {i}sure{/i} I had some kind of cute chocolate themed dress at some point.{w=0.75}{nw}"
-    n 4tnmss "Estoy {i}segura{/i} de que tuve algún vestido mono con temática de chocolate en algún momento.{w=0.75}{nw}"
+    n 4tnmss "Estoy segura de que tuve algún vestido mono con temática de chocolate en algún momento.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:9687
 translate spanish talk_chocolate_preference_d4e386ac:

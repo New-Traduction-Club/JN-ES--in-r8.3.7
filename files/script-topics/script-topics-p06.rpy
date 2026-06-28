@@ -21,7 +21,7 @@ translate spanish talk_custom_music_explanation_33fb680c:
 translate spanish talk_custom_music_explanation_86fc3796:
 
     # n 1nnmaj "Once you've done that,{w=0.1} just click the {i}Music{/i} button,{w=0.1} and I'll check that it's all done right."
-    n 1nnmaj "Una vez hecho,{w=0.1} dale al botón {i}Música{/i},{w=0.1} y comprobaré que todo esté bien."
+    n 1nnmaj "Una vez hecho,{w=0.1} dale al botón Música,{w=0.1} y comprobaré que todo esté bien."
 
 # game/scripttopics.rpy:6275
 translate spanish talk_custom_music_explanation_d71c6879:
@@ -375,7 +375,7 @@ translate spanish talk_skateboarding_f6a0c1a8:
 translate spanish talk_skateboarding_cd9205f9:
 
     # extend 2fsqsftsa " isn't that right,{w=0.2} {i}[player]{/i}?"
-    extend 2fsqsftsa " ¿verdad,{w=0.2} {i}[player]{/i}?"
+    extend 2fsqsftsa " ¿verdad,{w=0.2} [player]?"
 
 # game/scripttopics.rpy:6396
 translate spanish talk_skateboarding_738d4e79:
@@ -2133,7 +2133,7 @@ translate spanish talk_realizations_player_ddlc_actions_7128584c:
 translate spanish talk_realizations_player_ddlc_actions_ab0515c0:
 
     # extend 3kchbgl " {i}[player]~{/i}."
-    extend 3kchbgl " {i}[player]{/i}..."
+    extend 3kchbgl " [player]..."
 
 # game/scripttopics.rpy:6884
 translate spanish talk_realizations_player_ddlc_actions_6d7db15a:
@@ -2811,7 +2811,7 @@ translate spanish talk_fear_of_lightning_977fa9cc:
 translate spanish talk_fear_of_lightning_a4f282e7:
 
     # extend 2fcsfultsaean " {i}{cps=7.5}get lost{/cps}{/i},{w=0.3} [player]."
-    extend 2fcsfultsaean " {i}{cps=7.5}piérdete{/cps}{/i},{w=0.3} [player]."
+    extend 2fcsfultsaean " {cps=7.5}piérdete{/cps},{w=0.3} [player]."
 
 # game/scripttopics.rpy:7088
 translate spanish talk_fear_of_lightning_eee9afaf:
@@ -2853,7 +2853,7 @@ translate spanish talk_fear_of_lightning_496b5cf4:
 translate spanish talk_fear_of_lightning_7e8dec7f:
 
     # n 1nnmaj "A typical strike is like 300 {i}million{/i} volts!{w=0.5}{nw}"
-    n 1nnmaj "¡Un rayo típico tiene como 300 {i}millones{/i} de voltios!{w=0.5}{nw}"
+    n 1nnmaj "¡Un rayo típico tiene como 300 millones de voltios!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:7098
 translate spanish talk_fear_of_lightning_189708f0:
@@ -2913,13 +2913,13 @@ translate spanish talk_fear_of_lightning_44042a2f:
 translate spanish talk_fear_of_lightning_e5be51e4:
 
     # n 2fsqaj "And I mean {i}constantly{/i},{w=0.1} [player] {w=0.1}-{w=0.3}{nw}"
-    n 2fsqaj "Y digo {i}constantemente{/i},{w=0.1} [player]...{w=0.3}{nw}"
+    n 2fsqaj "Y digo constantemente,{w=0.1} [player]...{w=0.3}{nw}"
 
 # game/scripttopics.rpy:7108
 translate spanish talk_fear_of_lightning_b0e43594:
 
     # extend 2nllan " 44 strikes every {i}second{/i}!"
-    extend 2nllan " ¡44 rayos cada {i}segundo{/i}!"
+    extend 2nllan " ¡44 rayos cada segundo!"
 
 # game/scripttopics.rpy:7109
 translate spanish talk_fear_of_lightning_519595c6:
@@ -2943,7 +2943,7 @@ translate spanish talk_fear_of_lightning_960f86b5:
 translate spanish talk_fear_of_lightning_1db5f8f8:
 
     # n 1fbkwrl "So how do you think I feel about {i}nature{/i} trying to pull that crap?!"
-    n 1fbkwrl "¡¿Así que cómo crees que me siento cuando la {i}naturaleza{/i} intenta hacerme esa mierda?!"
+    n 1fbkwrl "¡¿Así que cómo crees que me siento cuando la naturaleza intenta hacerme esa mierda?!"
 
 # game/scripttopics.rpy:7117
 translate spanish talk_fear_of_lightning_2a65c28f:
@@ -2991,7 +2991,7 @@ translate spanish talk_fear_of_lightning_0dcb8e86:
 translate spanish talk_fear_of_lightning_7f67a232:
 
     # n 3fsqss "Are {i}you{/i} scared of lightning?"
-    n 3fsqss "¿A {i}ti{/i} te dan miedo los rayos?"
+    n 3fsqss "¿A ti te dan miedo los rayos?"
 
 # game/scripttopics.rpy:7129
 translate spanish talk_fear_of_lightning_2dd49f58:
@@ -3027,7 +3027,7 @@ translate spanish talk_fear_of_lightning_05498f4b:
 translate spanish talk_fear_of_lightning_8cdf1017:
 
     # n 1fsqbg "Are {i}you{/i} scared of light{nw}"
-    n 1fsqbg "¿A {i}ti{/i} te dan miedo los ra{nw}"
+    n 1fsqbg "¿A ti te dan miedo los ra{nw}"
 
 # game/scripttopics.rpy:7146
 translate spanish talk_fear_of_lightning_879949a4:
@@ -3069,7 +3069,7 @@ translate spanish talk_fear_of_lightning_ae5792d6:
 translate spanish talk_fear_of_lightning_19a06e6f:
 
     # extend 3fchtsl " they don't call it a thunder-{w=0.5}{i}clap{/i}{w=0.5} for nothing!~"
-    extend 3fchtsl " ¡por algo lo llaman {i}estruendo{/i}!~"
+    extend 3fchtsl " ¡por algo lo llaman estruendo!~"
 
 # game/scripttopics.rpy:7174
 translate spanish talk_fighting_drowsiness_6a91c1b3:
@@ -3279,7 +3279,7 @@ translate spanish talk_fighting_drowsiness_c4327ce5:
 translate spanish talk_fighting_drowsiness_43861efa:
 
     # extend 1unmbo " and how {i}often{/i} you should be drinking!"
-    extend 1unmbo " ¡y con qué {i}frecuencia{/i} deberías beber!"
+    extend 1unmbo " ¡y con qué frecuencia deberías beber!"
 
 # game/scripttopics.rpy:7214
 translate spanish talk_fighting_drowsiness_fbd0763f:
@@ -3321,7 +3321,7 @@ translate spanish talk_fighting_drowsiness_830cd113:
 translate spanish talk_fighting_drowsiness_6ddd087b:
 
     # extend 2fslss " We all just {i}love it{/i},{w=0.1} don't we?"
-    extend 2fslss " A todos nos {i}encanta{/i},{w=0.1} ¿verdad?"
+    extend 2fslss " A todos nos encanta,{w=0.1} ¿verdad?"
 
 # game/scripttopics.rpy:7221
 translate spanish talk_fighting_drowsiness_1d46a45e:
@@ -3339,7 +3339,7 @@ translate spanish talk_fighting_drowsiness_2525d27e:
 translate spanish talk_fighting_drowsiness_1ff8475f:
 
     # n 1unmbo "People {i}say{/i} an hour a day is good,{w=0.5}{nw}"
-    n 1unmbo "La gente {i}dice{/i} que una hora al día está bien,{w=0.5}{nw}"
+    n 1unmbo "La gente dice que una hora al día está bien,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:7224
 translate spanish talk_fighting_drowsiness_ac99669a:
@@ -3363,7 +3363,7 @@ translate spanish talk_fighting_drowsiness_5eaea488:
 translate spanish talk_fighting_drowsiness_252742b3:
 
     # extend 4fsqsm " and I {i}know{/i} you'll like this one,{w=0.1} [player]..."
-    extend 4fsqsm " y {i}sé{/i} que esta te va a gustar,{w=0.1} [player]..."
+    extend 4fsqsm " y sé que esta te va a gustar,{w=0.1} [player]..."
 
 # game/scripttopics.rpy:7228
 translate spanish talk_fighting_drowsiness_cc0cf38d:
@@ -3555,7 +3555,7 @@ translate spanish talk_fear_of_spiders_44d8bf6d:
 translate spanish talk_fear_of_spiders_de5edbcd:
 
     # n 4fslpo "I even {w=0.3}{i}said{/i}{w=0.3} the spider thing was a metaphor,{w=0.1} [chosen_tease]!{w=0.5}{nw}"
-    n 4fslpo "¡Incluso {w=0.3}{i}dije{/i}{w=0.3} que lo de la araña era una metáfora,{w=0.1} [chosen_tease]!{w=0.5}{nw}"
+    n 4fslpo "¡Incluso {w=0.3}dije{w=0.3} que lo de la araña era una metáfora,{w=0.1} [chosen_tease]!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:7286
 translate spanish talk_fear_of_spiders_ce4c0c4d:
@@ -3585,13 +3585,13 @@ translate spanish talk_fear_of_spiders_e89bd14b:
 translate spanish talk_fear_of_spiders_c04e0c48:
 
     # n 1fsqem "...And might I ask {i}why{/i} you feel entitled to know about my fears?"
-    n 1fsqem "¿Y se puede saber {i}por qué{/i} te crees con derecho a saber mis miedos?"
+    n 1fsqem "¿Y se puede saber por qué te crees con derecho a saber mis miedos?"
 
 # game/scripttopics.rpy:7293
 translate spanish talk_fear_of_spiders_e644a1d7:
 
     # n 2fcsan "Why the hell would I give you {i}more{/i} ammo to get on my nerves?"
-    n 2fcsan "¿Por qué demonios iba a darte {i}más{/i} munición para sacarme de quicio?"
+    n 2fcsan "¿Por qué demonios iba a darte más munición para sacarme de quicio?"
 
 # game/scripttopics.rpy:7294
 translate spanish talk_fear_of_spiders_c2a84a6f:
@@ -3609,13 +3609,13 @@ translate spanish talk_fear_of_spiders_81afb040:
 translate spanish talk_fear_of_spiders_078bbcef:
 
     # extend 2fsqpu " We're done talking here,{w=0.1} {i}[player]{/i}."
-    extend 2fsqpu " Se acabó la conversación,{w=0.1} {i}[player]{/i}."
+    extend 2fsqpu " Se acabó la conversación,{w=0.1} [player]."
 
 # game/scripttopics.rpy:7301
 translate spanish talk_fear_of_spiders_7b726c37:
 
     # n 2fcsan "...Are {i}you{/i} afraid of asking me dumb questions,{w=0.1} since you're the {i}last{/i} person I'd want to answer them for?!"
-    n 2fcsan "¿Te da miedo a {i}ti{/i} hacerme preguntas estúpidas?{w=0.1} ¡Porque eres la {i}última{/i} persona a la que querría contestárselas!"
+    n 2fcsan "¿Te da miedo a ti hacerme preguntas estúpidas?{w=0.1} ¡Porque eres la última persona a la que querría contestárselas!"
 
 # game/scripttopics.rpy:7302
 translate spanish talk_fear_of_spiders_30c9ec77:
@@ -3651,7 +3651,7 @@ translate spanish talk_fear_of_spiders_8e05ec0d:
 translate spanish talk_fear_of_spiders_a875cd3e:
 
     # n 2tnmbo "This isn't the {i}first{/i} time you've randomly asked me if I'm scared of stuff."
-    n 2tnmbo "No es la {i}primera{/i} vez que me preguntas de la nada si me dan miedo cosas."
+    n 2tnmbo "No es la primera vez que me preguntas de la nada si me dan miedo cosas."
 
 # game/scripttopics.rpy:7312
 translate spanish talk_fear_of_spiders_d78ea395:
@@ -3687,7 +3687,7 @@ translate spanish talk_fear_of_spiders_7a903d04:
 translate spanish talk_fear_of_spiders_60df1b74:
 
     # n 4ksrem "I wouldn't want them like...{w=0.3} {i}crawling{/i} over me or anything.{w=0.5}{nw}"
-    n 4ksrem "No las querría en plan...{w=0.3} {i}trepándome{/i} por encima ni nada.{w=0.5}{nw}"
+    n 4ksrem "No las querría en plan...{w=0.3} trepándome por encima ni nada.{w=0.5}{nw}"
 
 # game/scripttopics.rpy:7319
 translate spanish talk_fear_of_spiders_cc339890:
@@ -3699,7 +3699,7 @@ translate spanish talk_fear_of_spiders_cc339890:
 translate spanish talk_fear_of_spiders_77400f27:
 
     # n 2fslun " I don't even want to {i}imagine{/i} that."
-    n 2fslun " No quiero ni {i}imaginar{/i} eso."
+    n 2fslun " No quiero ni imaginar eso."
 
 # game/scripttopics.rpy:7321
 translate spanish talk_fear_of_spiders_fa426ab6:
@@ -3741,7 +3741,7 @@ translate spanish talk_fear_of_spiders_8272a1d6:
 translate spanish talk_fear_of_spiders_39ffee54:
 
     # extend 4fspgsedz " {i}adorable{/i}!"
-    extend 4fspgsedz " {i}adorables{/i}!"
+    extend 4fspgsedz " adorables!"
 
 # game/scripttopics.rpy:7328
 translate spanish talk_fear_of_spiders_5b1f1178:
@@ -3789,7 +3789,7 @@ translate spanish talk_fear_of_spiders_6dec7e63:
 translate spanish talk_fear_of_spiders_0d8f425a:
 
     # extend 4uskem " And I {i}wish{/i} I was kidding!"
-    extend 4uskem " ¡Y {i}ojalá{/i} estuviera de broma!"
+    extend 4uskem " ¡Y ojalá estuviera de broma!"
 
 # game/scripttopics.rpy:7336
 translate spanish talk_fear_of_spiders_4b4b6d4e:
@@ -3801,7 +3801,7 @@ translate spanish talk_fear_of_spiders_4b4b6d4e:
 translate spanish talk_fear_of_spiders_d26e6ed7:
 
     # n 1kskgs "That can put you in {i}hospital{/i} too!{w=0.5}{nw}"
-    n 1kskgs "¡Y que te pueden mandar al {i}hospital{/i}!{w=0.5}{nw}"
+    n 1kskgs "¡Y que te pueden mandar al hospital!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:7338
 translate spanish talk_fear_of_spiders_4db06cde:
@@ -3819,7 +3819,7 @@ translate spanish talk_fear_of_spiders_f1cd237b:
 translate spanish talk_fear_of_spiders_b83c9020:
 
     # extend 2nslun " Isn't {i}that{/i} a relief?"
-    extend 2nslun " ¿No es {i}eso{/i} un alivio?"
+    extend 2nslun " ¿No es eso un alivio?"
 
 # game/scripttopics.rpy:7341
 translate spanish talk_fear_of_spiders_88fd9bfd:
@@ -3837,7 +3837,7 @@ translate spanish talk_fear_of_spiders_82bbacc5:
 translate spanish talk_fear_of_spiders_7519e881:
 
     # n 3usqsm "Are {i}you{/i} afraid of spiders?"
-    n 3usqsm "¿A {i}ti{/i} te dan miedo las arañas?"
+    n 3usqsm "¿A ti te dan miedo las arañas?"
 
 # game/scripttopics.rpy:7346
 translate spanish talk_fear_of_spiders_4eac5c30:
@@ -3849,7 +3849,7 @@ translate spanish talk_fear_of_spiders_4eac5c30:
 translate spanish talk_fear_of_spiders_6a49134e:
 
     # n 3fsldvl "You're already caught in {i}my{/i} web,{w=0.1} after all..."
-    n 3fsldvl "Al fin y al cabo,{w=0.1} ya estás atrapad[end_letter_gender] en {i}mi{/i} red..."
+    n 3fsldvl "Al fin y al cabo,{w=0.1} ya estás atrapad[end_letter_gender] en mi red..."
 
 # game/scripttopics.rpy:7350
 translate spanish talk_fear_of_spiders_f98ed3fc:
@@ -3891,7 +3891,7 @@ translate spanish talk_fear_of_spiders_963d1310:
 translate spanish talk_fear_of_spiders_c0e890f5:
 
     # extend 3fsqss " {i}wraps{/i}{w=1}{nw}"
-    extend 3fsqss " {i}envuelve{/i}{w=1}{nw}"
+    extend 3fsqss " envuelve{w=1}{nw}"
 
 # game/scripttopics.rpy:7363
 translate spanish talk_fear_of_spiders_ded731d1:
@@ -3951,7 +3951,7 @@ translate spanish talk_thoughts_on_dan_salvato_aeb6e4a7:
 translate spanish talk_thoughts_on_dan_salvato_fbd941a9:
 
     # extend 2fslan " {i}him{/i}."
-    extend 2fslan " {i}él{/i}."
+    extend 2fslan " él."
 
 # game/scripttopics.rpy:7394
 translate spanish talk_thoughts_on_dan_salvato_9ebf0dc3:

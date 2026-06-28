@@ -675,7 +675,7 @@ translate spanish talk_work_experience_a9905bdb:
 translate spanish talk_work_experience_b6279d22:
 
     # n 1cnmsl "{i}That{/i} kind of work experience?"
-    n 1cnmsl "¿{i}Ese{/i} tipo de experiencia laboral?"
+    n 1cnmsl "¿Ese tipo de experiencia laboral?"
 
 # game/scripttopics.rpy:12166
 translate spanish talk_work_experience_edeb8ab4:
@@ -699,7 +699,7 @@ translate spanish talk_work_experience_eac2b543:
 translate spanish talk_work_experience_fbde1bf4:
 
     # extend 4cslfr " The whole process was an {i}experience{/i} alright."
-    extend 4cslfr " Todo el proceso fue una {i}experiencia{/i}, desde luego."
+    extend 4cslfr " Todo el proceso fue una experiencia, desde luego."
 
 # game/scripttopics.rpy:12170
 translate spanish talk_work_experience_402c93f0:
@@ -723,7 +723,7 @@ translate spanish talk_work_experience_9b73706a:
 translate spanish talk_work_experience_86a587a6:
 
     # extend 3clrem " We didn't even get to properly {i}choose{/i} our placements."
-    extend 3clrem " Ni siquiera pudimos {i}elegir{/i} bien nuestros puestos."
+    extend 3clrem " Ni siquiera pudimos elegir bien nuestros puestos."
 
 # game/scripttopics.rpy:12175
 translate spanish talk_work_experience_c11f0ab1:
@@ -759,7 +759,7 @@ translate spanish talk_work_experience_3b607978:
 translate spanish talk_work_experience_26f47fac:
 
     # extend 1csqemsbr " we didn't get a choice on if we {i}wanted{/i} to do it either."
-    extend 1csqemsbr " tampoco nos dieron a elegir si {i}queríamos{/i} hacerlo o no."
+    extend 1csqemsbr " tampoco nos dieron a elegir si queríamos hacerlo o no."
 
 # game/scripttopics.rpy:12186
 translate spanish talk_work_experience_308cd1fc:
@@ -813,13 +813,13 @@ translate spanish talk_work_experience_e94cb937:
 translate spanish talk_work_experience_69d67ba6:
 
     # extend 4fcswr " The whole point of those is that you don't even {i}need{/i} experience to do them!"
-    extend 4fcswr " ¡Se supone que para eso no {i}necesitas{/i} experiencia!"
+    extend 4fcswr " ¡Se supone que para eso no necesitas experiencia!"
 
 # game/scripttopics.rpy:12195
 translate spanish talk_work_experience_f38c79af:
 
     # n 2fsrem "...And we had to pick {i}three{/i} of them too.{w=0.5} {i}In order of preference{/i}."
-    n 2fsrem "Y encima teníamos que elegir {i}tres{/i}.{w=0.5} {i}Por orden de preferencia{/i}."
+    n 2fsrem "Y encima teníamos que elegir tres.{w=0.5} Por orden de preferencia."
 
 # game/scripttopics.rpy:12196
 translate spanish talk_work_experience_d56055b4:
@@ -837,7 +837,7 @@ translate spanish talk_work_experience_80fc22f2:
 translate spanish talk_work_experience_bb8b81ae:
 
     # extend 4fslsl " It {i}still{/i} bugs me talking about it a second time."
-    extend 4fslsl " {i}Sigue{/i} fastidiándome hablar de ello por segunda vez."
+    extend 4fslsl " Sigue fastidiándome hablar de ello por segunda vez."
 
 # game/scripttopics.rpy:12203
 translate spanish talk_work_experience_1aba656d:
@@ -879,13 +879,13 @@ translate spanish talk_work_experience_cb1b88f1:
 translate spanish talk_work_experience_bd0295c1:
 
     # n 3fcsgs "But {i}seriously{/i}!"
-    n 3fcsgs "¡Pero {i}en serio{/i}!"
+    n 3fcsgs "¡Pero en serio!"
 
 # game/scripttopics.rpy:12211
 translate spanish talk_work_experience_66345c08:
 
     # n 2fslan "Do you know how much of a pain it is to sound convincing for something you don't even {i}care{/i} about?"
-    n 2fslan "¿Sabes el coñazo que es intentar sonar convincente para algo que ni siquiera {i}te importa{/i}?"
+    n 2fslan "¿Sabes el coñazo que es intentar sonar convincente para algo que ni siquiera te importa?"
 
 # game/scripttopics.rpy:12212
 translate spanish talk_work_experience_a1e0b7bf:
@@ -897,7 +897,7 @@ translate spanish talk_work_experience_a1e0b7bf:
 translate spanish talk_work_experience_419b9306:
 
     # n 1fsran "It isn't like the places we were applying to didn't {i}know{/i} we had to do it either -{w=0.5}{nw}"
-    n 1fsran "Tampoco es que los sitios a los que echábamos la solicitud no {i}supieran{/i} que estábamos obligados... {w=0.5}{nw}"
+    n 1fsran "Tampoco es que los sitios a los que echábamos la solicitud no supieran que estábamos obligados... {w=0.5}{nw}"
 
 # game/scripttopics.rpy:12214
 translate spanish talk_work_experience_fe3c6495:
@@ -921,13 +921,13 @@ translate spanish talk_work_experience_425629a5:
 translate spanish talk_work_experience_cb661d04:
 
     # extend 4flran " how to actually {i}get{/i} there..."
-    extend 4flran " cómo {i}llegar{/i} hasta allí..."
+    extend 4flran " cómo llegar hasta allí..."
 
 # game/scripttopics.rpy:12218
 translate spanish talk_work_experience_4d09617e:
 
     # n 1fsqan "...While trying to play up how {i}amazing{/i} for the job we were and beat everyone else in submitting it!"
-    n 1fsqan "¡Mientras intentábamos exagerar lo {i}increíbles{/i} que éramos para el puesto y ganar a los demás enviándolo!"
+    n 1fsqan "¡Mientras intentábamos exagerar lo increíbles que éramos para el puesto y ganar a los demás enviándolo!"
 
 # game/scripttopics.rpy:12219
 translate spanish talk_work_experience_3243f318:
@@ -963,7 +963,7 @@ translate spanish talk_work_experience_52e84783:
 translate spanish talk_work_experience_95f39fac:
 
     # n 4csqslsbl "...So why did they think we'd have a couple of weeks to blow on something like {i}that{/i}?"
-    n 4csqslsbl "¿Entonces por qué pensaron que tendríamos un par de semanas para desperdiciar en algo como {i}eso{/i}?"
+    n 4csqslsbl "¿Entonces por qué pensaron que tendríamos un par de semanas para desperdiciar en algo como eso?"
 
 # game/scripttopics.rpy:12228
 translate spanish talk_work_experience_7083cfe4:
@@ -1575,13 +1575,13 @@ translate spanish talk_work_experience_bee56068:
 translate spanish talk_work_experience_57a7c118:
 
     # extend 5ccssmlsbr " I'd say that's an {i}experience{/i} I can be pretty happy about."
-    extend 5ccssmlsbr " diría que es una {i}experiencia{/i} con la que puedo estar bastante contenta."
+    extend 5ccssmlsbr " diría que es una experiencia con la que puedo estar bastante contenta."
 
 # game/scripttopics.rpy:12391
 translate spanish talk_work_experience_4be7b135:
 
     # n 5clrbglsbr "E-{w=0.2}even if you {i}are{/i} a bunch of work sometimes.{w=0.75}{nw}"
-    n 5clrbglsbr "A-{w=0.2}Aunque tú {i}seas{/i} mucho trabajo a veces.{w=0.75}{nw}"
+    n 5clrbglsbr "A-{w=0.2}Aunque tú seas mucho trabajo a veces.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12392
 translate spanish talk_work_experience_6584a6c2:
@@ -1737,13 +1737,13 @@ translate spanish talk_work_experience_21997730:
 translate spanish talk_work_experience_43baeb56:
 
     # extend 4fsqfl " This {i}again{/i}?{w=0.75}{nw}"
-    extend 4fsqfl " ¿Esto {i}otra vez{/i}?{w=0.75}{nw}"
+    extend 4fsqfl " ¿Esto otra vez?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12430
 translate spanish talk_work_experience_e8bc34b7:
 
     # extend 4fnmfl " Were you even {i}listening{/i} the first time or what?"
-    extend 4fnmfl " ¿Me estabas {i}escuchando{/i} la primera vez o qué?"
+    extend 4fnmfl " ¿Me estabas escuchando la primera vez o qué?"
 
 # game/scripttopics.rpy:12431
 translate spanish talk_work_experience_7835ddba:
@@ -1773,7 +1773,7 @@ translate spanish talk_work_experience_a5bbf9d8:
 translate spanish talk_work_experience_a0b3198b:
 
     # extend 4fsqsl " {i}hard of hearing{/i}."
-    extend 4fsqsl " {i}duros de oído{/i}."
+    extend 4fsqsl " duros de oído."
 
 # game/scripttopics.rpy:12436
 translate spanish talk_work_experience_0a4452e9:
@@ -1821,7 +1821,7 @@ translate spanish talk_work_experience_4416bdfa:
 translate spanish talk_work_experience_81966c91:
 
     # extend 2fsrpu " I had an {i}experience{/i} alright.{w=0.75}{nw}"
-    extend 2fsrpu " Tuve una {i}experiencia{/i}, desde luego.{w=0.75}{nw}"
+    extend 2fsrpu " Tuve una experiencia, desde luego.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12446
 translate spanish talk_work_experience_8891d216:
@@ -1845,7 +1845,7 @@ translate spanish talk_work_experience_26d8f0fc:
 translate spanish talk_work_experience_c043fb03:
 
     # n 2fslfr "Though some actual {i}notice{/i} would have been nice."
-    n 2fslfr "Aunque un poco de {i}aviso{/i} habría estado bien."
+    n 2fslfr "Aunque un poco de aviso habría estado bien."
 
 # game/scripttopics.rpy:12451
 translate spanish talk_work_experience_84eefc47:
@@ -1881,7 +1881,7 @@ translate spanish talk_work_experience_30a190d2:
 translate spanish talk_work_experience_6c2e09ff:
 
     # extend 3fcsan " But {i}everybody{/i} went for those!{w=0.75}{nw}"
-    extend 3fcsan " ¡Pero {i}todo el mundo{/i} fue a por esos!{w=0.75}{nw}"
+    extend 3fcsan " ¡Pero todo el mundo fue a por esos!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12457
 translate spanish talk_work_experience_a6c70061:
@@ -1905,7 +1905,7 @@ translate spanish talk_work_experience_0dec5ac7:
 translate spanish talk_work_experience_df9a6ad9:
 
     # extend 2cllsl " We {i}all{/i} had to do it."
-    extend 2cllsl " Tuvimos que hacerlo {i}todos{/i}."
+    extend 2cllsl " Tuvimos que hacerlo todos."
 
 # game/scripttopics.rpy:12461
 translate spanish talk_work_experience_c89af4cd:
@@ -1935,7 +1935,7 @@ translate spanish talk_work_experience_4118ea94:
 translate spanish talk_work_experience_6af156f2:
 
     # extend 2fsrsl " It wasn't like those places {i}weren't{/i} just going to accept whoever the school sent them."
-    extend 2fsrsl " No es como si esos sitios {i}no{/i} fueran a aceptar a cualquiera que les mandara el instituto."
+    extend 2fsrsl " No es como si esos sitios no fueran a aceptar a cualquiera que les mandara el instituto."
 
 # game/scripttopics.rpy:12466
 translate spanish talk_work_experience_d52f52fb:
@@ -1947,7 +1947,7 @@ translate spanish talk_work_experience_d52f52fb:
 translate spanish talk_work_experience_41c3d9ca:
 
     # extend 4fslem "As if we'd just {i}magically{/i} find the time around all the assignments and exams or something."
-    extend 4fslem "Como si fuéramos a sacar el tiempo {i}mágicamente{/i} entre todos los trabajos y exámenes o algo así."
+    extend 4fslem "Como si fuéramos a sacar el tiempo mágicamente entre todos los trabajos y exámenes o algo así."
 
 # game/scripttopics.rpy:12468
 translate spanish talk_work_experience_b0b863a8:
@@ -1971,7 +1971,7 @@ translate spanish talk_work_experience_bb4ee6b6:
 translate spanish talk_work_experience_193fb36b:
 
     # extend 2ccsem " {i}Obviously{/i} life skills and connections matter."
-    extend 2ccsem " {i}Obviamente{/i} las habilidades para la vida y los contactos importan."
+    extend 2ccsem " Obviamente las habilidades para la vida y los contactos importan."
 
 # game/scripttopics.rpy:12472
 translate spanish talk_work_experience_c4b356da:
@@ -1989,7 +1989,7 @@ translate spanish talk_work_experience_47bcaf5d:
 translate spanish talk_work_experience_421454e2:
 
     # extend 3flrsl " As if I'm missing out on {i}super important{/i} life experience stacking{w=0.5}{nw}"
-    extend 3flrsl " Como si me estuviera perdiendo una experiencia de vida {i}superimportante{/i} reponiendo{w=0.5}{nw}"
+    extend 3flrsl " Como si me estuviera perdiendo una experiencia de vida superimportante reponiendo{w=0.5}{nw}"
 
 # game/scripttopics.rpy:12475
 translate spanish talk_work_experience_5272d7e8:
@@ -2019,7 +2019,7 @@ translate spanish talk_work_experience_da977087:
 translate spanish talk_work_experience_1a7155ec:
 
     # extend 2fsrsl " Or if the work was actually {i}paid{/i}.{w=0.75}{nw}"
-    extend 2fsrsl " O si el trabajo fuera {i}remunerado{/i} de verdad.{w=0.75}{nw}"
+    extend 2fsrsl " O si el trabajo fuera remunerado de verdad.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12480
 translate spanish talk_work_experience_ed53c82b:
@@ -2049,19 +2049,19 @@ translate spanish talk_work_experience_27c94c5b:
 translate spanish talk_work_experience_e80e27a7:
 
     # extend 4fsqfr " {i}[player]{/i}."
-    extend 4fsqfr " {i}[player]{/i}."
+    extend 4fsqfr " [player]."
 
 # game/scripttopics.rpy:12489
 translate spanish talk_work_experience_1423987f:
 
     # n 4fcsan "Dealing with {i}you{/i} right now feels like a job enough to me,{w=0.5}{nw}"
-    n 4fcsan "Aguantarte a {i}ti{/i} ahora mismo ya me parece suficiente trabajo,{w=0.5}{nw}"
+    n 4fcsan "Aguantarte a ti ahora mismo ya me parece suficiente trabajo,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:12490
 translate spanish talk_work_experience_f011a887:
 
     # extend 4fsqan " {i}[player]{/i}."
-    extend 4fsqan " {i}[player]{/i}."
+    extend 4fsqan " [player]."
 
 # game/scripttopics.rpy:12494
 translate spanish talk_work_experience_46a4c291:
@@ -2079,13 +2079,13 @@ translate spanish talk_work_experience_d23faa22:
 translate spanish talk_work_experience_4fcde4bd:
 
     # extend 4fnmuptsc " Your personal {i}soundboard{/i}?"
-    extend 4fnmuptsc " ¿Tu {i}botonera de sonidos{/i} personal?"
+    extend 4fnmuptsc " ¿Tu botonera de sonidos personal?"
 
 # game/scripttopics.rpy:12497
 translate spanish talk_work_experience_bd4554ea:
 
     # n 4fcsantsa "Like I already {i}told you{/i} -{w=0.75}{nw}"
-    n 4fcsantsa "Como ya te {i}dije{/i}... {w=0.75}{nw}"
+    n 4fcsantsa "Como ya te dije... {w=0.75}{nw}"
 
 # game/scripttopics.rpy:12498
 translate spanish talk_work_experience_1517adfc:
@@ -2115,7 +2115,7 @@ translate spanish talk_work_experience_49c48438:
 translate spanish talk_work_experience_d9829e02:
 
     # extend 4fcsanltsa " I'm {i}done{/i} talking about this,{w=0.2} {i}[player]{/i}."
-    extend 4fcsanltsa " He {i}terminado{/i} de hablar de esto,{w=0.2} {i}[player]{/i}."
+    extend 4fcsanltsa " He terminado de hablar de esto,{w=0.2} [player]."
 
 # game/scripttopics.rpy:12505
 translate spanish talk_work_experience_4e2b8bae:
@@ -2133,7 +2133,7 @@ translate spanish talk_work_experience_e58fd56a:
 translate spanish talk_work_experience_fcc121b3:
 
     # extend 4fsqantsc " {i}[player]{/i}?"
-    extend 4fsqantsc " {i}[player]{/i}?"
+    extend 4fsqantsc " [player]?"
 
 # game/scripttopics.rpy:12508
 translate spanish talk_work_experience_0f526485:
@@ -2181,7 +2181,7 @@ translate spanish talk_work_experience_8fb49f9a:
 translate spanish talk_work_experience_d8332ab8:
 
     # extend 4fcsfutsa " The {i}entire{/i} process."
-    extend 4fcsfutsa " {i}Todo{/i} el proceso."
+    extend 4fcsfutsa " Todo el proceso."
 
 # game/scripttopics.rpy:12516
 translate spanish talk_work_experience_721a7046:
@@ -2229,7 +2229,7 @@ translate spanish talk_work_experience_91f17022:
 translate spanish talk_work_experience_b950db2f:
 
     # n 2fcsfultse "{i}[chosen_insult].{/i}"
-    n 2fcsfultse "{i}[chosen_insult].{/i}"
+    n 2fcsfultse "[chosen_insult]."
 
 # game/scripttopics.rpy:12550
 translate spanish talk_play_blackjack_47204656:
@@ -2415,7 +2415,7 @@ translate spanish talk_remind_blackjack_rules_5ddbdb6d:
 translate spanish talk_remind_blackjack_rules_2b073d02:
 
     # n 1fsqbg "...So long as you keep your ears pricked {i}this{/i} time,{w=0.2} at least.{w=0.75}{nw}"
-    n 1fsqbg "Siempre y cuando mantengas los oídos abiertos {i}esta{/i} vez,{w=0.2} al menos.{w=0.75}{nw}"
+    n 1fsqbg "Siempre y cuando mantengas los oídos abiertos esta vez,{w=0.2} al menos.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12633
 translate spanish talk_remind_blackjack_rules_c176c15e:
@@ -2475,7 +2475,7 @@ translate spanish talk_remind_blackjack_rules_2bcfdf92:
 translate spanish talk_remind_blackjack_rules_2eb94c49:
 
     # n 7ccsbg "I can't expect {i}everyone{/i} to have memory as good as mine,{w=0.5}{nw}"
-    n 7ccsbg "No puedo esperar que {i}todo el mundo{/i} tenga tan buena memoria como la mía,{w=0.5}{nw}"
+    n 7ccsbg "No puedo esperar que todo el mundo tenga tan buena memoria como la mía,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:12645
 translate spanish talk_remind_blackjack_rules_0e3e20a5:
@@ -2589,13 +2589,13 @@ translate spanish talk_windup_shaving_845518b4:
 translate spanish talk_windup_shaving_ea723b30:
 
     # n 2csqem "...You know what I {i}always{/i} hated,{w=0.2} [player]?{w=0.75}{nw}"
-    n 2csqem "¿Sabes qué es lo que {i}siempre{/i} he odiado,{w=0.2} [player]?{w=0.75}{nw}"
+    n 2csqem "¿Sabes qué es lo que siempre he odiado,{w=0.2} [player]?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12689
 translate spanish talk_windup_shaving_a6105953:
 
     # extend 4fslan " Something that {i}never{/i} failed to get on my nerves?"
-    extend 4fslan " ¿Algo que {i}nunca{/i} fallaba en ponerme de los nervios?"
+    extend 4fslan " ¿Algo que nunca fallaba en ponerme de los nervios?"
 
 # game/scripttopics.rpy:12690
 translate spanish talk_windup_shaving_fb8591da:
@@ -2655,7 +2655,7 @@ translate spanish talk_windup_shaving_6532da67:
 translate spanish talk_windup_shaving_2c1c0552:
 
     # n 3fcswr "It's like every part of it all is practically {i}designed{/i} to piss you off!"
-    n 3fcswr "¡Es como si cada parte estuviera prácticamente {i}diseñada{/i} para cabrearte!"
+    n 3fcswr "¡Es como si cada parte estuviera prácticamente diseñada para cabrearte!"
 
 # game/scripttopics.rpy:12700
 translate spanish talk_windup_shaving_6383b745:
@@ -2685,7 +2685,7 @@ translate spanish talk_windup_shaving_8559f986_1:
 translate spanish talk_windup_shaving_c38ca33b:
 
     # extend 3fupwr " let's give a {i}huge{/i} round of applause to everybody's favorite pain in the backside:{w=0.75}{nw}"
-    extend 3fupwr " demos un {i}gran{/i} aplauso al dolor de culo favorito de todos:{w=0.75}{nw}"
+    extend 3fupwr " demos un gran aplauso al dolor de culo favorito de todos:{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12706
 translate spanish talk_windup_shaving_2450598c:
@@ -2727,13 +2727,13 @@ translate spanish talk_windup_shaving_96802718:
 translate spanish talk_windup_shaving_a6ce15da:
 
     # extend 2fsqem " {i}ever{/i}{w=0.5}{nw}"
-    extend 2fsqem " {i}nunca{/i}{w=0.5}{nw}"
+    extend 2fsqem " nunca{w=0.5}{nw}"
 
 # game/scripttopics.rpy:12713
 translate spanish talk_windup_shaving_77cfdad8:
 
     # extend 2fllem " had anything better to do in the morning than blow a bunch of time obsessing over how {i}silky smooth{/i} their features are."
-    extend 2fllem " tuvo nada mejor que hacer por la mañana que perder un montón de tiempo obsesionándose con lo {i}suavecita{/i} que está su piel."
+    extend 2fllem " tuvo nada mejor que hacer por la mañana que perder un montón de tiempo obsesionándose con lo suavecita que está su piel."
 
 # game/scripttopics.rpy:12714
 translate spanish talk_windup_shaving_e87dc485:
@@ -2763,7 +2763,7 @@ translate spanish talk_windup_shaving_4e5c7a92:
 translate spanish talk_windup_shaving_4b145a7d:
 
     # extend 3fsqem " Just {i}look{/i} at your razor the wrong way?"
-    extend 3fsqem " ¿Simplemente {i}miras{/i} la cuchilla como no debes?"
+    extend 3fsqem " ¿Simplemente miras la cuchilla como no debes?"
 
 # game/scripttopics.rpy:12719
 translate spanish talk_windup_shaving_65d7bc45:
@@ -2799,7 +2799,7 @@ translate spanish talk_windup_shaving_d3be2852:
 translate spanish talk_windup_shaving_79f4ead4:
 
     # n 4flran "Why does it {i}have{/i} to be so different for hair anywhere else?"
-    n 4flran "¿Por qué {i}tiene{/i} que ser tan diferente con el pelo de cualquier otra parte?"
+    n 4flran "¿Por qué tiene que ser tan diferente con el pelo de cualquier otra parte?"
 
 # game/scripttopics.rpy:12725
 translate spanish talk_windup_shaving_762a5639:
@@ -2853,7 +2853,7 @@ translate spanish talk_windup_shaving_184ad38b:
 translate spanish talk_windup_shaving_687be9cc:
 
     # extend 4fsrem " {i}totally{/i}{w=0.2}{nw}"
-    extend 4fsrem " {i}me encanta{/i}{w=0.2}{nw}"
+    extend 4fsrem " me encanta{w=0.2}{nw}"
 
 # game/scripttopics.rpy:12735
 translate spanish talk_windup_shaving_49e534c7:
@@ -2877,13 +2877,13 @@ translate spanish talk_windup_shaving_a6aea237:
 translate spanish talk_windup_shaving_2bbc27e2:
 
     # extend 4fbkwr " They're even {i}more{/i} expensive than everything else!"
-    extend 4fbkwr " ¡Son incluso {i}más{/i} caras que todo lo demás!"
+    extend 4fbkwr " ¡Son incluso más caras que todo lo demás!"
 
 # game/scripttopics.rpy:12739
 translate spanish talk_windup_shaving_a4a8f9b5:
 
     # n 4fcsan "And we all know just how much fun it is having {i}another{/i} thing that keeps running out of juice."
-    n 4fcsan "Y todos sabemos lo divertido que es tener {i}otra{/i} cosa más que se queda sin batería."
+    n 4fcsan "Y todos sabemos lo divertido que es tener otra cosa más que se queda sin batería."
 
 # game/scripttopics.rpy:12740
 translate spanish talk_windup_shaving_560f88d2:
@@ -2925,7 +2925,7 @@ translate spanish talk_windup_shaving_fc855ad5:
 translate spanish talk_windup_shaving_32d3a885:
 
     # extend 7fslun " It {i}never{/i} feels like you'll even get the kind of shave you wanted in the first place."
-    extend 7fslun " {i}Nunca{/i} parece que consigas el resultado que querías."
+    extend 7fslun " Nunca parece que consigas el resultado que querías."
 
 # game/scripttopics.rpy:12748
 translate spanish talk_windup_shaving_baadcf42:
@@ -2967,7 +2967,7 @@ translate spanish talk_windup_shaving_46573aef:
 translate spanish talk_windup_shaving_c45ce3ac:
 
     # extend 4fcsan " As if they think I haven't {i}tried{/i} that already!"
-    extend 4fcsan " ¡Como si pensaran que no he {i}probado{/i} eso ya!"
+    extend 4fcsan " ¡Como si pensaran que no he probado eso ya!"
 
 # game/scripttopics.rpy:12755
 translate spanish talk_windup_shaving_aaf3ca97:
@@ -2979,7 +2979,7 @@ translate spanish talk_windup_shaving_aaf3ca97:
 translate spanish talk_windup_shaving_529a37b3:
 
     # extend 2fslan " Come {w=0.5}{nw}{i}on{/i}!{w=0.75}{nw}"
-    extend 2fslan " ¡venga {w=0.5}{nw}{i}ya{/i}!{w=0.75}{nw}"
+    extend 2fslan " ¡venga {w=0.5}{nw}ya!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12757
 translate spanish talk_windup_shaving_af250df5:
@@ -3045,7 +3045,7 @@ translate spanish talk_windup_shaving_e555ee06:
 translate spanish talk_windup_shaving_780ed0a0:
 
     # n 2csrpu "You'd think something practically everybody's had to deal with for so long would actually be {i}solved{/i} by now,{w=0.5}{nw}"
-    n 2csrpu "Uno pensaría que algo con lo que prácticamente todo el mundo ha tenido que lidiar tanto tiempo ya estaría {i}resuelto{/i},{w=0.5}{nw}"
+    n 2csrpu "Uno pensaría que algo con lo que prácticamente todo el mundo ha tenido que lidiar tanto tiempo ya estaría resuelto,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:12776
 translate spanish talk_windup_shaving_7b4fa688:
@@ -3081,7 +3081,7 @@ translate spanish talk_windup_shaving_4e48b964:
 translate spanish talk_windup_shaving_19f383a9:
 
     # extend 7cslfl " And I really don't want {i}shaving{/i} of all things living rent-free in my head again."
-    extend 7cslfl " Y de verdad que no quiero que {i}depilarme{/i}, de entre todas las cosas, me quite el sueño otra vez."
+    extend 7cslfl " Y de verdad que no quiero que depilarme, de entre todas las cosas, me quite el sueño otra vez."
 
 # game/scripttopics.rpy:12783
 translate spanish talk_windup_shaving_90c8d180:
@@ -3147,7 +3147,7 @@ translate spanish talk_windup_shaving_4e599674:
 translate spanish talk_windup_shaving_7471a7a0:
 
     # extend 7tnmpu " If you {i}do{/i} somehow have some kind of magical morning routine that {i}actually{/i} works for you?"
-    extend 7tnmpu " ¿Si por algún casual {i}tienes{/i} algún tipo de rutina matutina mágica que {i}realmente{/i} te funcione?"
+    extend 7tnmpu " ¿Si por algún casual tienes algún tipo de rutina matutina mágica que realmente te funcione?"
 
 # game/scripttopics.rpy:12800
 translate spanish talk_windup_shaving_17854df1:
@@ -3749,7 +3749,7 @@ translate spanish strings:
 
     # game/scripttopics.rpy:4265
     old "No, I love {i}you{/i} more!"
-    new "No, ¡{i}yo{/i} te quiero más!"
+    new "No, ¡yo te quiero más!"
 
     # game/scripttopics.rpy:4265
     old "Okay, fine. You love me more."

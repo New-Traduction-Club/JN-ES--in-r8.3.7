@@ -316,19 +316,19 @@ translate spanish blackjack_explanation_5bf12d9f:
 translate spanish blackjack_explanation_88340b65:
 
     # n 4clrss "The {i}face cards{/i} work kinda differently to the normal ones."
-    n 4clrss "Las {i}figuras{/i} funcionan un poco diferente a las normales."
+    n 4clrss "Las figuras funcionan un poco diferente a las normales."
 
 # game/scriptblackjack.rpy:454
 translate spanish blackjack_explanation_a9fcbe1f:
 
     # n 6tnmaj "If you get a {i}king,{w=0.2} queen,{w=0.2} or jack{/i},{w=0.5}{nw}"
-    n 6tnmaj "Si te toca un {i}rey,{w=0.2} reina{w=0.2} o jota{/i},{w=0.5}{nw}"
+    n 6tnmaj "Si te toca un rey,{w=0.2} reina{w=0.2} o jota,{w=0.5}{nw}"
 
 # game/scriptblackjack.rpy:455
 translate spanish blackjack_explanation_a3b46a41:
 
     # extend 3ccssm " then those just count as being worth {i}ten{/i}."
-    extend 3ccssm " esas cuentan como que valen {i}diez{/i}."
+    extend 3ccssm " esas cuentan como que valen diez."
 
 # game/scriptblackjack.rpy:456
 translate spanish blackjack_explanation_43c20dfc:
@@ -346,13 +346,13 @@ translate spanish blackjack_explanation_7a16aa37:
 translate spanish blackjack_explanation_8ed97377:
 
     # n 3ulrss "We'll say aces are worth {i}eleven{/i},{w=0.2} {i}unless{/i} you got one to start with that would make you bust instantly.{w=0.75}{nw}"
-    n 3ulrss "Diremos que los ases valen {i}once{/i},{w=0.2} {i}a menos{/i} que hayas sacado uno al principio que te haga pasarte al instante.{w=0.75}{nw}"
+    n 3ulrss "Diremos que los ases valen once,{w=0.2} a menos que hayas sacado uno al principio que te haga pasarte al instante.{w=0.75}{nw}"
 
 # game/scriptblackjack.rpy:459
 translate spanish blackjack_explanation_b6ced309:
 
     # extend 3fcssm " I'm not {i}that{/i} mean."
-    extend 3fcssm " No soy {i}tan{/i} mala."
+    extend 3fcssm " No soy tan mala."
 
 # game/scriptblackjack.rpy:460
 translate spanish blackjack_explanation_73c20187:
@@ -364,19 +364,19 @@ translate spanish blackjack_explanation_73c20187:
 translate spanish blackjack_explanation_8f12c265:
 
     # extend 2ullpu " if the ace would make you {i}lose on your first turn{/i},{w=0.5}{nw}"
-    extend 2ullpu " si el as te hiciera {i}perder en tu primer turno{/i},{w=0.5}{nw}"
+    extend 2ullpu " si el as te hiciera perder en tu primer turno,{w=0.5}{nw}"
 
 # game/scriptblackjack.rpy:462
 translate spanish blackjack_explanation_d24dc80d:
 
     # extend 2nnmbo " then it's just worth {i}one{/i} instead."
-    extend 2nnmbo " entonces vale solo {i}uno{/i}."
+    extend 2nnmbo " entonces vale solo uno."
 
 # game/scriptblackjack.rpy:463
 translate spanish blackjack_explanation_4f52a373:
 
     # n 7ulraj "We keep taking it in turns until one of us hits twenty one,{w=0.2} we both decide to {i}stay{/i} -{w=0.5}{nw}"
-    n 7ulraj "Seguimos por turnos hasta que uno llegue a veintiuno,{w=0.2} ambos decidamos {i}plantarnos{/i},{w=0.5}{nw}"
+    n 7ulraj "Seguimos por turnos hasta que uno llegue a veintiuno,{w=0.2} ambos decidamos plantarnos,{w=0.5}{nw}"
 
 # game/scriptblackjack.rpy:464
 translate spanish blackjack_explanation_4aa680db:
@@ -400,7 +400,7 @@ translate spanish blackjack_explanation_a7dd40ff:
 translate spanish blackjack_explanation_5cf68e97:
 
     # extend 2ccssm " then whoever got {i}closest{/i} to twenty one wins the round.{w=0.75}{nw}"
-    extend 2ccssm " entonces quien se haya quedado {i}más cerca{/i} de veintiuno gana la ronda.{w=0.75}{nw}"
+    extend 2ccssm " entonces quien se haya quedado más cerca de veintiuno gana la ronda.{w=0.75}{nw}"
 
 # game/scriptblackjack.rpy:468
 translate spanish blackjack_explanation_345c8c9c:
@@ -562,7 +562,7 @@ translate spanish blackjack_explanation_8fa35b61:
 translate spanish blackjack_explanation_3097b308:
 
     # extend 4ftlem " {i}later{/i}?"
-    extend 4ftlem " {i}luego{/i}?"
+    extend 4ftlem " luego?"
 
 # game/scriptblackjack.rpy:509
 translate spanish blackjack_explanation_519ffa66:
@@ -646,7 +646,7 @@ translate spanish blackjack_quit_forfeit_4bf8ccf7:
 translate spanish blackjack_quit_forfeit_04c52e1f:
 
     # n 4fcswr "We literally only just started {i}playing{/i}!{w=0.75}{nw}"
-    n 4fcswr "¡Si acabamos de empezar a {i}jugar{/i}!{w=0.75}{nw}"
+    n 4fcswr "¡Si acabamos de empezar a jugar!{w=0.75}{nw}"
 
 # game/scriptblackjack.rpy:771
 translate spanish blackjack_quit_forfeit_a2fcfb8f:
@@ -682,7 +682,7 @@ translate spanish blackjack_quit_forfeit_ece1e59e:
 translate spanish blackjack_quit_forfeit_443770aa:
 
     # extend 3ccsposbl " You can't be done this soon {i}already{/i}."
-    extend 3ccsposbl " No puedes haber terminado tan pronto,{w=0.2} {i}ya{/i}."
+    extend 3ccsposbl " No puedes haber terminado tan pronto,{w=0.2} ya."
 
 # game/scriptblackjack.rpy:782
 translate spanish blackjack_quit_forfeit_a5a52db9:
@@ -730,7 +730,7 @@ translate spanish blackjack_quit_forfeit_74846015:
 translate spanish blackjack_quit_forfeit_ae2ef246:
 
     # n 2nsqca "...Even if you {i}are{/i} calling it quits right in the middle of a game."
-    n 2nsqca "Aunque lo {i}estés{/i} dejando justo en mitad de una partida."
+    n 2nsqca "Aunque lo estés dejando justo en mitad de una partida."
 
 # game/scriptblackjack.rpy:795
 translate spanish blackjack_quit_forfeit_1063e077:
@@ -772,7 +772,7 @@ translate spanish blackjack_quit_forfeit_fa46f2b1:
 translate spanish blackjack_quit_forfeit_3096c19f:
 
     # extend 2fcsbs " Don't tell me you're giving up {i}that{/i} easily!"
-    extend 2fcsbs " ¡No me digas que te rindes {i}tan{/i} fácilmente!"
+    extend 2fcsbs " ¡No me digas que te rindes tan fácilmente!"
 
 # game/scriptblackjack.rpy:813
 translate spanish blackjack_quit_forfeit_07ec6436:
@@ -880,7 +880,7 @@ translate spanish blackjack_quit_forfeit_3ed89a90:
 translate spanish blackjack_quit_forfeit_69f064a2:
 
     # extend 2fcsss " Looks like {i}you{/i} know what they say at least,{w=0.5}{nw}"
-    extend 2fcsss " parece que al menos {i}tú{/i} te sabes el dicho,{w=0.5}{nw}"
+    extend 2fcsss " parece que al menos tú te sabes el dicho,{w=0.5}{nw}"
 
 # game/scriptblackjack.rpy:844
 translate spanish blackjack_quit_forfeit_33913456:
@@ -1050,7 +1050,7 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:616
     old "Oh?{w=0.75} Three wins now?{w=0.75} Looks like {i}someone's{/i} got the makings of a streak going!"
-    new "¿Ah?{w=0.75} ¿Ya van tres victorias?{w=0.75} ¡Parece que {i}alguien{/i} está empezando una racha!"
+    new "¿Ah?{w=0.75} ¿Ya van tres victorias?{w=0.75} ¡Parece que alguien está empezando una racha!"
 
     # game/scriptblackjack.rpy:616
     old "Yes!{w=0.75} That makes three in a row!{w=0.75} Ehehe."
@@ -1074,11 +1074,11 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:616
     old "Yes!{w=0.75} Five in a row!{w=1} Top that,{w=0.2} {i}[player]{/i}."
-    new "¡Sí!{w=0.75} ¡Cinco seguidas!{w=1} Supera eso,{w=0.2} {i}[player]{/i}."
+    new "¡Sí!{w=0.75} ¡Cinco seguidas!{w=1} Supera eso,{w=0.2} [player]."
 
     # game/scriptblackjack.rpy:616
     old "Aaaand that makes five!{w=0.75} Didn't I {i}say{/i} I was good?"
-    new "¡Yyyyy con esa van cinco!{w=0.75} ¿No {i}dije{/i} que era buena?"
+    new "¡Yyyyy con esa van cinco!{w=0.75} ¿No dije que era buena?"
 
     # game/scriptblackjack.rpy:616
     old "Yes!{w=0.75} That's five wins and counting!"
@@ -1090,11 +1090,11 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:616
     old "Oh yeah!{w=0.75} Ten!{w=0.75} Now {i}that's{/i} what it means to be a pro,{w=0.2} [player]!"
-    new "¡Ah, sí!{w=0.75} ¡Diez!{w=0.75} ¡{i}Eso{/i} sí que es ser una pro,{w=0.2} [player]!"
+    new "¡Ah, sí!{w=0.75} ¡Diez!{w=0.75} ¡Eso sí que es ser una pro,{w=0.2} [player]!"
 
     # game/scriptblackjack.rpy:616
     old "Man...{w=1} ten in a row?{w=0.75} I am on {i}fire{/i} today!{w=0.75} Ehehe."
-    new "Madre mía...{w=1} ¿diez seguidas?{w=0.75} ¡Hoy estoy que me {i}salgo{/i}!{w=0.75} Je, je, je."
+    new "Madre mía...{w=1} ¿diez seguidas?{w=0.75} ¡Hoy estoy que me salgo!{w=0.75} Je, je, je."
 
     # game/scriptblackjack.rpy:616
     old "Ha!{w=0.75} The big ten!{w=0.75} What have you got to say to that,{w=0.2} [player]?"
@@ -1106,7 +1106,7 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:616
     old "Jeez...{w=1} what is that now?{w=0.75} Ten?{w=0.75} At least {i}try{/i} to keep up,{w=0.2} [player]!"
-    new "Jolín...{w=1} ¿cuántas van ya?{w=0.75} ¿Diez?{w=0.75} ¡Al menos {i}intenta{/i} seguirme el ritmo,{w=0.2} [player]!"
+    new "Jolín...{w=1} ¿cuántas van ya?{w=0.75} ¿Diez?{w=0.75} ¡Al menos intenta seguirme el ritmo,{w=0.2} [player]!"
 
     # game/scriptblackjack.rpy:642
     old "L-{w=0.2}lucky break,{w=0.2} [player].{w=0.75} Anyone can luck out three times in a row!"
@@ -1150,15 +1150,15 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:642
     old "A-{w=0.2}are you reading my cards or what?!{w=0.75} {i}Ten{/i}?!{w=0.75} Jeez..."
-    new "¿M-{w=0.2}Me estás leyendo las cartas o qué?{w=0.75} ¡¿{i}Diez{/i}?!{w=0.75} Jolín..."
+    new "¿M-{w=0.2}Me estás leyendo las cartas o qué?{w=0.75} ¡¿Diez?!{w=0.75} Jolín..."
 
     # game/scriptblackjack.rpy:642
     old "Oh{w=0.2},{w=0.75} come {b}on{/b}!{w=0.75} There's no {i}way{/i} you just got ten in a row!{w=0.75} Ugh..."
-    new "¡Eh{w=0.2},{w=0.75} venga {b}ya{/b}!{w=0.75} ¡Es {i}imposible{/i} que hayas ganado diez seguidas!{w=0.75} Agh..."
+    new "¡Eh{w=0.2},{w=0.75} venga {b}ya{/b}!{w=0.75} ¡Es imposible que hayas ganado diez seguidas!{w=0.75} Agh..."
 
     # game/scriptblackjack.rpy:642
     old "T-{w=0.2}this is just getting ridiculous!{w=0.75} Ten in a row?!{w=0.75} I {i}swear{/i} these cards are rigged..."
-    new "¡E-{w=0.2}Esto ya es ridículo!{w=0.75} ¡¿Diez seguidas?!{w=0.75} {i}Juro{/i} que estas cartas están amañadas..."
+    new "¡E-{w=0.2}Esto ya es ridículo!{w=0.75} ¡¿Diez seguidas?!{w=0.75} Juro que estas cartas están amañadas..."
 
     # game/scriptblackjack.rpy:642
     old "Okay!{w=0.75} Okay!{w=0.75} You've made your point...{w=1} now can you go back to losing already? Yeesh..."
@@ -1202,11 +1202,11 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:668
     old "Oh,{w=0.2} come on!{w=0.75} I bust {i}again{/i}?!{w=0.75} Yeesh..."
-    new "¡Eh,{w=0.2} venga ya!{w=0.75} ¡¿Me he pasado {i}otra vez{/i}?!{w=0.75} Madre mía..."
+    new "¡Eh,{w=0.2} venga ya!{w=0.75} ¡¿Me he pasado otra vez?!{w=0.75} Madre mía..."
 
     # game/scriptblackjack.rpy:668
     old "Oh,{w=0.2} for-!{w=0.75} {i}Another{/i} bust?!{w=0.75} Seriously..."
-    new "¡Pero bu-!{w=0.75} ¡¿{i}Otra vez{/i} me paso?!{w=0.75} En serio..."
+    new "¡Pero bu-!{w=0.75} ¡¿Otra vez me paso?!{w=0.75} En serio..."
 
     # game/scriptblackjack.rpy:668
     old "A-{w=0.2}as {i}if{/i} I bust!{w=0.75} Man..."
@@ -1218,7 +1218,7 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:668
     old "You have {i}got{/i} to be joking.{w=0.75} Again?!"
-    new "{i}Tienes{/i} que estar de broma.{w=0.75} ¡¿Otra vez?!"
+    new "Tienes que estar de broma.{w=0.75} ¡¿Otra vez?!"
 
     # game/scriptblackjack.rpy:668
     old "Come on,{w=0.5} [n_name]...{w=1} get it together!"
@@ -1226,7 +1226,7 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:668
     old "Uuuuuuu...!{w=0.75} I {i}knew{/i} that was a crappy move!{w=0.75} Ugh..."
-    new "¡Uuuuuuu...!{w=0.75} ¡{i}Sabía{/i} que era una mala jugada!{w=0.75} Agh..."
+    new "¡Uuuuuuu...!{w=0.75} ¡Sabía que era una mala jugada!{w=0.75} Agh..."
 
     # game/scriptblackjack.rpy:668
     old "Yes!{w=0.5} Yes!{w=0.5} Blackjack!{w=0.75} Ehehe."
@@ -1238,11 +1238,11 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:668
     old "Blackjack!{w=0.5} Yes!{w=0.5} Now {i}that's{/i} how it's done!"
-    new "¡Blackjack!{w=0.5} ¡Sí!{w=0.5} ¡{i}Así{/i} es como se hace!"
+    new "¡Blackjack!{w=0.5} ¡Sí!{w=0.5} ¡Así es como se hace!"
 
     # game/scriptblackjack.rpy:668
     old "Yes!{w=0.5} Now {i}that's{/i} more like it!{w=0.75} Ahaha."
-    new "¡Sí!{w=0.5} ¡{i}Así{/i} me gusta más!{w=0.75} Ja, ja, ja."
+    new "¡Sí!{w=0.5} ¡Así me gusta más!{w=0.75} Ja, ja, ja."
 
     # game/scriptblackjack.rpy:668
     old "Better be taking notes,{w=0.2} [player]!{w=0.75} Ehehe."
@@ -1274,7 +1274,7 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:668
     old "Oh yeah!{w=0.75} Now {i}that's{/i} more like it!"
-    new "¡Ah, sí!{w=0.75} ¡{i}Así{/i} me gusta más!"
+    new "¡Ah, sí!{w=0.75} ¡Así me gusta más!"
 
     # game/scriptblackjack.rpy:668
     old "Yes!{w=0.75} Tough luck,{w=0.2} [player]!{w=0.75} Ehehe."
@@ -1282,11 +1282,11 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:668
     old "Ehehe.{w=0.75} Now {i}that's{/i} how it's played,{w=0.2} [player]!"
-    new "Je, je, je.{w=0.75} ¡{i}Así{/i} es como se juega,{w=0.2} [player]!"
+    new "Je, je, je.{w=0.75} ¡Así es como se juega,{w=0.2} [player]!"
 
     # game/scriptblackjack.rpy:668
     old "Well...{w=0.75} it's not a {i}blackjack{/i}...{w=0.75} but I'll take it!"
-    new "Bueno...{w=0.75} no es un {i}blackjack{/i}...{w=0.75} ¡pero me sirve!"
+    new "Bueno...{w=0.75} no es un blackjack...{w=0.75} ¡pero me sirve!"
 
     # game/scriptblackjack.rpy:668
     old "Ehehe.{w=0.75} A win's a win,{w=0.2} [player]!"
@@ -1334,7 +1334,7 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:668
     old "{i}Real{/i} smooth there,{w=0.2} [player]!{w=0.75} Ehehe."
-    new "¡Qué {i}fino{/i},{w=0.2} [player]!{w=0.75} Je, je, je."
+    new "¡Qué fino,{w=0.2} [player]!{w=0.75} Je, je, je."
 
     # game/scriptblackjack.rpy:668
     old "Hey,{w=0.2} [player] -{w=0.5} you're meant to count up the cards!{w=0.75} Ehehe."
@@ -1354,7 +1354,7 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:668
     old "Oh,{w=0.2} come {i}on{/i}!{w=0.75} Again?{w=0.75} Seriously..."
-    new "¡Eh,{w=0.2} venga {i}ya{/i}!{w=0.75} ¿Otra vez?{w=0.75} En serio..."
+    new "¡Eh,{w=0.2} venga ya!{w=0.75} ¿Otra vez?{w=0.75} En serio..."
 
     # game/scriptblackjack.rpy:668
     old "N-{w=0.2}now that one was just pure luck!{w=0.75} Ugh..."
@@ -1374,7 +1374,7 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:668
     old "{i}Seriously{/i}?{w=0.75} Ugh..."
-    new "¿{i}En serio{/i}?{w=0.75} Agh..."
+    new "¿En serio?{w=0.75} Agh..."
 
     # game/scriptblackjack.rpy:668
     old "Come on!{w=0.75} Really?{w=0.75} Man..."
@@ -1410,11 +1410,11 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:668
     old "L-{w=0.2}lucky break!{w=0.75} Now try {i}actually{/i} blackjacking..."
-    new "¡G-{w=0.2}Golpe de suerte!{w=0.75} Ahora intenta hacer blackjack {i}de verdad{/i}..."
+    new "¡G-{w=0.2}Golpe de suerte!{w=0.75} Ahora intenta hacer blackjack de verdad..."
 
     # game/scriptblackjack.rpy:668
     old "A-{w=0.2}as if {i}that{/i} hand won!{w=0.75} Ugh..."
-    new "¡C-{w=0.2}Como si {i}esa{/i} mano hubiera ganado!{w=0.75} Agh..."
+    new "¡C-{w=0.2}Como si esa mano hubiera ganado!{w=0.75} Agh..."
 
     # game/scriptblackjack.rpy:668
     old "Are you kidding me?!{w=0.75} You won with that?!{w=0.75} Man..."
@@ -1422,7 +1422,7 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:668
     old "Ugh...{w=0.75} and it wasn't even a {i}blackjack{/i}..."
-    new "Agh...{w=0.75} y ni siquiera ha sido un {i}blackjack{/i}..."
+    new "Agh...{w=0.75} y ni siquiera ha sido un blackjack..."
 
     # game/scriptblackjack.rpy:812
     old "No, I'm done playing for now."

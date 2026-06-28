@@ -2391,7 +2391,7 @@ translate spanish talk_thoughts_on_tea_7d8c5c54:
 translate spanish talk_thoughts_on_tea_864038d7:
 
     # extend 3fsqbg " {i}cup of tea{/i}{w=0.5}{nw},"
-    extend 3fsqbg " {i}tu infusión preferida{/i}...{w=0.5}{nw}"
+    extend 3fsqbg " tu infusión preferida...{w=0.5}{nw}"
 
 # game/scripttopics.rpy:8021
 translate spanish talk_thoughts_on_tea_fd240b49:
@@ -2421,7 +2421,7 @@ translate spanish talk_thoughts_on_tea_eb74d912:
 translate spanish talk_thoughts_on_tea_7d40f631:
 
     # n 1fsqsm "No need to be all {w=0.3}{i}bitter{/i}{w=0.3} about it."
-    n 1fsqsm "No hace falta que te {w=0.3}{i}amargues{/i}{w=0.3} por ello."
+    n 1fsqsm "No hace falta que te {w=0.3}amargues{w=0.3} por ello."
 
 # game/scripttopics.rpy:8026
 translate spanish talk_thoughts_on_tea_2fa84864:
@@ -2469,7 +2469,7 @@ translate spanish talk_thoughts_on_tea_da9157ba:
 translate spanish talk_thoughts_on_tea_92884109:
 
     # extend 3tnmss " You like {i}both{/i} now?"
-    extend 3tnmss " ¿Ahora te gustan las {i}dos{/i} cosas?"
+    extend 3tnmss " ¿Ahora te gustan las dos cosas?"
 
 # game/scripttopics.rpy:8042
 translate spanish talk_thoughts_on_tea_f2b55392:
@@ -2505,7 +2505,7 @@ translate spanish talk_thoughts_on_tea_a33781e4:
 translate spanish talk_thoughts_on_tea_7bd42d1b:
 
     # n 1fchbg "Most people like at least {i}one{/i} of the two more!"
-    n 1fchbg "¡A la mayoría de la gente le gusta más al menos {i}una{/i} de las dos!"
+    n 1fchbg "¡A la mayoría de la gente le gusta más al menos una de las dos!"
 
 # game/scripttopics.rpy:8050
 translate spanish talk_thoughts_on_tea_0cda3fac:
@@ -2541,7 +2541,7 @@ translate spanish talk_thoughts_on_tea_61239319:
 translate spanish talk_thoughts_on_tea_0cc06d61:
 
     # n 4tnmaj "Huh?{w=0.3} You don't like tea {i}or{/i} coffee now?{w=0.5}{nw}"
-    n 4tnmaj "¿Eh?{w=0.3} ¿Ahora no te gusta ni el té {i}ni{/i} el café?{w=0.5}{nw}"
+    n 4tnmaj "¿Eh?{w=0.3} ¿Ahora no te gusta ni el té ni el café?{w=0.5}{nw}"
 
 # game/scripttopics.rpy:8064
 translate spanish talk_thoughts_on_tea_b0afe7f1:
@@ -2577,7 +2577,7 @@ translate spanish talk_thoughts_on_tea_2c4ad0ee:
 translate spanish talk_thoughts_on_tea_9697a153:
 
     # n 4fsrpu "Most people at {i}least{/i} like one or the other..."
-    n 4fsrpu "A la mayoría de la gente le gusta por lo {i}menos{/i} una de las dos..."
+    n 4fsrpu "A la mayoría de la gente le gusta por lo menos una de las dos..."
 
 # game/scripttopics.rpy:8072
 translate spanish talk_thoughts_on_tea_8d4d783b:
@@ -2667,7 +2667,7 @@ translate spanish talk_how_to_make_friends_a4b851f1:
 translate spanish talk_how_to_make_friends_b60cf2ee:
 
     # extend 4tnmsleqm " You wanna know how to make {i}friends{/i}?"
-    extend 4tnmsleqm " ¿Quieres saber cómo hacer {i}amigos{/i}?"
+    extend 4tnmsleqm " ¿Quieres saber cómo hacer amigos?"
 
 # game/scripttopics.rpy:8110
 translate spanish talk_how_to_make_friends_b8630719:
@@ -2715,7 +2715,7 @@ translate spanish talk_how_to_make_friends_26483164:
 translate spanish talk_how_to_make_friends_41335f45:
 
     # extend 1nlrss " Like why're you asking {i}me{/i},{w=0.3} I mean."
-    extend 1nlrss " Quiero decir,{w=0.3} por qué me lo preguntas a {i}mí{/i}."
+    extend 1nlrss " Quiero decir,{w=0.3} por qué me lo preguntas a mí."
 
 # game/scripttopics.rpy:8120
 translate spanish talk_how_to_make_friends_568478a2:
@@ -2739,7 +2739,7 @@ translate spanish talk_how_to_make_friends_8830b53c:
 translate spanish talk_how_to_make_friends_0d7fce34:
 
     # extend 3tnmssl " I {i}seriously{/i} doubt it's something {i}you'd{/i} struggle with,{w=0.5}{nw}"
-    extend 3tnmssl " dudo {i}mucho{/i} que sea algo que te cueste,{w=0.5}{nw}"
+    extend 3tnmssl " dudo mucho que sea algo que te cueste,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:8126
 translate spanish talk_how_to_make_friends_c8371f61:
@@ -2751,7 +2751,7 @@ translate spanish talk_how_to_make_friends_c8371f61:
 translate spanish talk_how_to_make_friends_14f4cf66:
 
     # n 2ksqpol "Are we not {i}already{/i} friends,{w=0.1} [player]?"
-    n 2ksqpol "¿Acaso no somos {i}ya{/i} amigos,{w=0.1} [player]?"
+    n 2ksqpol "¿Acaso no somos ya amigos,{w=0.1} [player]?"
 
 # game/scripttopics.rpy:8132
 translate spanish talk_how_to_make_friends_c5e76c82:
@@ -2805,7 +2805,7 @@ translate spanish talk_how_to_make_friends_4b27ea56:
 translate spanish talk_how_to_make_friends_3a15dc0b:
 
     # n 1unmbo "I think the most important thing is to have {i}something{/i} in common.{w=1}{nw}"
-    n 1unmbo "Creo que lo más importante es tener {i}algo{/i} en común.{w=1}{nw}"
+    n 1unmbo "Creo que lo más importante es tener algo en común.{w=1}{nw}"
 
 # game/scripttopics.rpy:8142
 translate spanish talk_how_to_make_friends_0ac3faa0:
@@ -2817,7 +2817,7 @@ translate spanish talk_how_to_make_friends_0ac3faa0:
 translate spanish talk_how_to_make_friends_4051ce45:
 
     # n 4fnmpu "But I think people overthink what that actually {i}means{/i}!"
-    n 4fnmpu "¡Pero creo que la gente le da demasiadas vueltas a lo que eso significa {i}en realidad{/i}!"
+    n 4fnmpu "¡Pero creo que la gente le da demasiadas vueltas a lo que eso significa en realidad!"
 
 # game/scripttopics.rpy:8144
 translate spanish talk_how_to_make_friends_459a29ea:
@@ -2871,7 +2871,7 @@ translate spanish talk_how_to_make_friends_51f897d1:
 translate spanish talk_how_to_make_friends_17fe1734:
 
     # n 3fcssm "I guess what I'm getting at is that having {i}places{/i} in common is just as key as tastes!"
-    n 3fcssm "¡Supongo que a lo que quiero llegar es que tener {i}lugares{/i} en común es tan clave como los gustos!"
+    n 3fcssm "¡Supongo que a lo que quiero llegar es que tener lugares en común es tan clave como los gustos!"
 
 # game/scripttopics.rpy:8153
 translate spanish talk_how_to_make_friends_20ee3957:
@@ -2883,7 +2883,7 @@ translate spanish talk_how_to_make_friends_20ee3957:
 translate spanish talk_how_to_make_friends_1e103b3c:
 
     # extend 1tnmss " it actually makes it even easier if you {i}know{/i} you're gonna see them again!"
-    extend 1tnmss " ¡lo hace aún más fácil si {i}sabes{/i} que vas a volver a verles!"
+    extend 1tnmss " ¡lo hace aún más fácil si sabes que vas a volver a verles!"
 
 # game/scripttopics.rpy:8155
 translate spanish talk_how_to_make_friends_8b9414aa:
@@ -2913,7 +2913,7 @@ translate spanish talk_how_to_make_friends_fe8f41b8:
 translate spanish talk_how_to_make_friends_2f22c8c2:
 
     # extend 4tnmca " {i}think{/i} a little about the situation and what to say,{w=0.1} you know?"
-    extend 4tnmca " {i}piensa{/i} un poco en la situación y en qué decir,{w=0.1} ¿sabes?"
+    extend 4tnmca " piensa un poco en la situación y en qué decir,{w=0.1} ¿sabes?"
 
 # game/scripttopics.rpy:8160
 translate spanish talk_how_to_make_friends_b1bf5964:
@@ -3015,7 +3015,7 @@ translate spanish talk_how_to_make_friends_d69bd07b:
 translate spanish talk_how_to_make_friends_e4c2b92c:
 
     # n 4fslsr "{w=0.3}...And you shouldn't be the one putting in {i}everything{/i} to make it work."
-    n 4fslsr "{w=0.3}... Y no deberías ser tú quien ponga {i}todo{/i} de su parte para que funcione."
+    n 4fslsr "{w=0.3}... Y no deberías ser tú quien ponga todo de su parte para que funcione."
 
 # game/scripttopics.rpy:8177
 translate spanish talk_how_to_make_friends_ebdf7195:
@@ -3039,7 +3039,7 @@ translate spanish talk_how_to_make_friends_45d54bf7:
 translate spanish talk_how_to_make_friends_b85ceb03:
 
     # n 1nnmsl "There's one thing more important than {cps=10}{i}anything{/i}{/cps} else.{w=1.5}{nw}"
-    n 1nnmsl "Hay una cosa más importante que {cps=10}{i}cualquier{/i}{/cps} otra.{w=1.5}{nw}"
+    n 1nnmsl "Hay una cosa más importante que {cps=10}cualquier{/cps} otra.{w=1.5}{nw}"
 
 # game/scripttopics.rpy:8181
 translate spanish talk_how_to_make_friends_d1132eda:
@@ -3063,7 +3063,7 @@ translate spanish talk_how_to_make_friends_ebcc09c0:
 translate spanish talk_how_to_make_friends_cbd54c35:
 
     # n 4fsqsr "...And that goes {i}both{/i} ways,{w=0.1} [player]."
-    n 4fsqsr "Y eso vale para las {i}dos{/i} partes,{w=0.1} [player]."
+    n 4fsqsr "Y eso vale para las dos partes,{w=0.1} [player]."
 
 # game/scripttopics.rpy:8185
 translate spanish talk_how_to_make_friends_9b08ed8d:
@@ -3117,7 +3117,7 @@ translate spanish talk_how_to_make_friends_36933445:
 translate spanish talk_how_to_make_friends_7a2c8bce:
 
     # extend 3fcssm " Friendships are {i}formed{/i},{w=0.1} not forced."
-    extend 3fcssm " Las amistades se {i}forman{/i},{w=0.1} no se fuerzan."
+    extend 3fcssm " Las amistades se forman,{w=0.1} no se fuerzan."
 
 # game/scripttopics.rpy:8194
 translate spanish talk_how_to_make_friends_5ead63ee:
@@ -3159,7 +3159,7 @@ translate spanish talk_impressions_of_the_other_girls_b7b37685:
 translate spanish talk_impressions_of_the_other_girls_433b34a2:
 
     # extend 2kslemesisbl " come {i}on{/i}..."
-    extend 2kslemesisbl " ¡venga {i}ya{/i}!"
+    extend 2kslemesisbl " ¡venga ya!"
 
 # game/scripttopics.rpy:8226
 translate spanish talk_impressions_of_the_other_girls_5485b199:
@@ -3219,7 +3219,7 @@ translate spanish talk_impressions_of_the_other_girls_1a946137:
 translate spanish talk_impressions_of_the_other_girls_55549daf:
 
     # n 1fllsl "It's not that I {i}couldn't{/i} do impressions of them.{w=1}{nw}"
-    n 1fllsl "No es que {i}no pudiera{/i} imitarlas.{w=1}{nw}"
+    n 1fllsl "No es que no pudiera imitarlas.{w=1}{nw}"
 
 # game/scripttopics.rpy:8239
 translate spanish talk_impressions_of_the_other_girls_e0447f0a:
@@ -3231,7 +3231,7 @@ translate spanish talk_impressions_of_the_other_girls_e0447f0a:
 translate spanish talk_impressions_of_the_other_girls_3a7c9f2f:
 
     # n 4knmpu "...But that's exactly why I don't {i}want{/i} to,{w=0.1} [player]."
-    n 4knmpu "Pero es exactamente por eso por lo que no {i}quiero{/i},{w=0.1} [player]."
+    n 4knmpu "Pero es exactamente por eso por lo que no quiero,{w=0.1} [player]."
 
 # game/scripttopics.rpy:8241
 translate spanish talk_impressions_of_the_other_girls_103c402d:
@@ -3243,19 +3243,19 @@ translate spanish talk_impressions_of_the_other_girls_103c402d:
 translate spanish talk_impressions_of_the_other_girls_1f9f06e0:
 
     # n 4ksrputsb "...How much I {i}miss{/i} them..."
-    n 4ksrputsb "Lo mucho que las {i}echo de menos{/i}..."
+    n 4ksrputsb "Lo mucho que las echo de menos..."
 
 # game/scripttopics.rpy:8247
 translate spanish talk_impressions_of_the_other_girls_9c923a64:
 
     # n 2ksrputsb "...How much they {i}hurt{/i}..."
-    n 2ksrputsb "Lo mucho que {i}sufrieron{/i}..."
+    n 2ksrputsb "Lo mucho que sufrieron..."
 
 # game/scripttopics.rpy:8249
 translate spanish talk_impressions_of_the_other_girls_70903390:
 
     # n 2knmemtsc "What kind of a sick jerk would I be to make jokes out of {i}that{/i}?"
-    n 2knmemtsc "¿Qué clase de capulla enferma sería para hacer chistes de {i}eso{/i}?"
+    n 2knmemtsc "¿Qué clase de capulla enferma sería para hacer chistes de eso?"
 
 # game/scripttopics.rpy:8250
 translate spanish talk_impressions_of_the_other_girls_278af149:
@@ -3303,7 +3303,7 @@ translate spanish talk_impressions_of_the_other_girls_e0504c08:
 translate spanish talk_impressions_of_the_other_girls_2649f624:
 
     # n 4kslemlsbr "This {w=0.2}{i}again{/i}?"
-    n 4kslemlsbr "¿Esto {w=0.2}{i}otra vez{/i}?"
+    n 4kslemlsbr "¿Esto {w=0.2}otra vez?"
 
 # game/scripttopics.rpy:8263
 translate spanish talk_impressions_of_the_other_girls_67e876a8:
@@ -3315,7 +3315,7 @@ translate spanish talk_impressions_of_the_other_girls_67e876a8:
 translate spanish talk_impressions_of_the_other_girls_17c5eb5a:
 
     # n 2knmemtsc "...Why on {i}Earth{/i} would I want do {i}that{/i}?"
-    n 2knmemtsc "¿Por qué demonios querría hacer {i}eso{/i}?"
+    n 2knmemtsc "¿Por qué demonios querría hacer eso?"
 
 # game/scripttopics.rpy:8266
 translate spanish talk_impressions_of_the_other_girls_78a5f838:
@@ -3333,13 +3333,13 @@ translate spanish talk_impressions_of_the_other_girls_f3aeaf75:
 translate spanish talk_impressions_of_the_other_girls_3e60af0e:
 
     # n 2ksqem "Do you have any {i}idea{/i} how much I think about them,{w=0.1} still?"
-    n 2ksqem "¿Tienes alguna {i}idea{/i} de lo mucho que sigo pensando en ellas?"
+    n 2ksqem "¿Tienes alguna idea de lo mucho que sigo pensando en ellas?"
 
 # game/scripttopics.rpy:8271
 translate spanish talk_impressions_of_the_other_girls_31931415:
 
     # n 4fcseml "I even {i}told{/i} you how much I miss them,{w=0.1} [player]!"
-    n 4fcseml "¡Incluso te {i}dije{/i} cuánto las echo de menos,{w=0.1} [player]!"
+    n 4fcseml "¡Incluso te dije cuánto las echo de menos,{w=0.1} [player]!"
 
 # game/scripttopics.rpy:8273
 translate spanish talk_impressions_of_the_other_girls_a18ddad4:
@@ -3537,7 +3537,7 @@ translate spanish talk_newspapers_and_bias_86eeb7b5:
 translate spanish talk_newspapers_and_bias_07a264bd:
 
     # n 1tnmpu "...So don't you think it's weird how {i}few{/i} kinds of literature we actually looked at?"
-    n 1tnmpu "¿Entonces no te parece raro los {i}pocos{/i} tipos de literatura que vimos en realidad?"
+    n 1tnmpu "¿Entonces no te parece raro los pocos tipos de literatura que vimos en realidad?"
 
 # game/scripttopics.rpy:8346
 translate spanish talk_newspapers_and_bias_f053bbe6:
@@ -3675,7 +3675,7 @@ translate spanish talk_newspapers_and_bias_9ceff524:
 translate spanish talk_newspapers_and_bias_c87db6bf:
 
     # n 4tnmpu "Are they seriously just gonna leave the fate of their paper up to {i}chance{/i}?"
-    n 4tnmpu "¿De verdad iban a dejar el destino de su periódico en manos del {i}azar{/i}?"
+    n 4tnmpu "¿De verdad iban a dejar el destino de su periódico en manos del azar?"
 
 # game/scripttopics.rpy:8369
 translate spanish talk_newspapers_and_bias_a5e2ea41:
@@ -3705,19 +3705,19 @@ translate spanish talk_newspapers_and_bias_3ddb9a66:
 translate spanish talk_newspapers_and_bias_2a7a2709:
 
     # extend 3fsqsmeme " and {i}only{/i} interview people who supported the paper!"
-    extend 3fsqsmeme " ¡y {i}solo{/i} entrevistarían a gente que apoyase el periódico!"
+    extend 3fsqsmeme " ¡y solo entrevistarían a gente que apoyase el periódico!"
 
 # game/scripttopics.rpy:8374
 translate spanish talk_newspapers_and_bias_106676cc:
 
     # n 1tlrss "Or just {i}happen{/i} to forget to mention all the funds they got last semester?{w=1}{nw}"
-    n 1tlrss "¿O {i}casualmente{/i} se les olvidaría mencionar todos los fondos que recibieron el semestre pasado?{w=1}{nw}"
+    n 1tlrss "¿O casualmente se les olvidaría mencionar todos los fondos que recibieron el semestre pasado?{w=1}{nw}"
 
 # game/scripttopics.rpy:8375
 translate spanish talk_newspapers_and_bias_f07703f5:
 
     # extend 4kchblesd " How {i}convenient{/i}~!"
-    extend 4kchblesd " ¡Qué {i}oportuno{/i}!"
+    extend 4kchblesd " ¡Qué oportuno!"
 
 # game/scripttopics.rpy:8376
 translate spanish talk_newspapers_and_bias_b132c9f6:
@@ -3747,7 +3747,7 @@ translate spanish talk_newspapers_and_bias_84230e30:
 translate spanish talk_newspapers_and_bias_e7f93dd9:
 
     # n 1fcsbg "It's {i}all{/i} subject to bias!"
-    n 1fcsbg "¡{i}Todo{/i} está sujeto a sesgos!"
+    n 1fcsbg "¡Todo está sujeto a sesgos!"
 
 # game/scripttopics.rpy:8381
 translate spanish talk_newspapers_and_bias_7c1db7a5:
@@ -3789,7 +3789,7 @@ translate spanish talk_newspapers_and_bias_6beab856:
 translate spanish talk_newspapers_and_bias_873cb5e1:
 
     # n 3fsqsm "Only {i}real{/i} dummies believe {i}everything{/i} they read!"
-    n 3fsqsm "¡Solo l[end_letter_gender]s tont[end_letter_gender]s de verdad se creen {i}todo{/i} lo que leen!"
+    n 3fsqsm "¡Solo l[end_letter_gender]s tont[end_letter_gender]s de verdad se creen todo lo que leen!"
 
 # game/scripttopics.rpy:8409
 translate spanish talk_fear_of_flying_56a1e0de:
@@ -3819,7 +3819,7 @@ translate spanish talk_fear_of_flying_b463a583:
 translate spanish talk_fear_of_flying_1abb1fc6:
 
     # n 3fllss "How people can be afraid of things they've never {i}actually{/i} experienced before,{w=0.1} I mean."
-    n 3fllss "Me refiero a cómo la gente puede tener miedo de cosas que nunca ha experimentado {i}realmente{/i}."
+    n 3fllss "Me refiero a cómo la gente puede tener miedo de cosas que nunca ha experimentado realmente."
 
 # game/scripttopics.rpy:8414
 translate spanish talk_fear_of_flying_71186311:
@@ -3867,7 +3867,7 @@ translate spanish talk_fear_of_flying_79cc0ee9_1:
 translate spanish talk_fear_of_flying_48b87b4f:
 
     # n 4uskemlesh "B-{w=0.3}but that's not to say {i}I'm{/i} afraid of flying,{w=0.5}{nw}"
-    n 4uskemlesh "P...{w=0.3} pero eso no quiere decir que {i}me{/i} dé miedo volar,{w=0.5}{nw}"
+    n 4uskemlesh "P...{w=0.3} pero eso no quiere decir que me dé miedo volar,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:8427
 translate spanish talk_fear_of_flying_8a09c31b:
@@ -3891,7 +3891,7 @@ translate spanish talk_fear_of_flying_176dfb3a:
 translate spanish talk_fear_of_flying_d1a0115c:
 
     # extend 1unmbo " I guess I can see {i}why{/i} it would spook someone out."
-    extend 1unmbo " supongo que entiendo {i}por qué{/i} asustaría a alguien."
+    extend 1unmbo " supongo que entiendo por qué asustaría a alguien."
 
 # game/scripttopics.rpy:8431
 translate spanish talk_fear_of_flying_d95a30ce:
@@ -3915,7 +3915,7 @@ translate spanish talk_fear_of_flying_27d46e54:
 translate spanish talk_fear_of_flying_d86c6359:
 
     # n 1klrss "And it isn't like you can {i}ignore{/i} crashes when they happen!{w=0.75}{nw}"
-    n 1klrss "¡Y tampoco es que puedas {i}ignorar{/i} los accidentes cuando ocurren!{w=0.75}{nw}"
+    n 1klrss "¡Y tampoco es que puedas ignorar los accidentes cuando ocurren!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:8435
 translate spanish talk_fear_of_flying_070ba380:
@@ -3951,7 +3951,7 @@ translate spanish talk_fear_of_flying_a4d6c0f4:
 translate spanish talk_fear_of_flying_d86f0b43:
 
     # n 2fnmbo "I think people forget just how {i}safe{/i} air travel is!"
-    n 2fnmbo "¡Creo que la gente olvida lo {i}seguro{/i} que es viajar en avión!"
+    n 2fnmbo "¡Creo que la gente olvida lo seguro que es viajar en avión!"
 
 # game/scripttopics.rpy:8441
 translate spanish talk_fear_of_flying_21407501:
@@ -3963,7 +3963,7 @@ translate spanish talk_fear_of_flying_21407501:
 translate spanish talk_fear_of_flying_f13ce174:
 
     # extend 2fslem " {i}and the news{/i} -{w=0.5}{nw}"
-    extend 2fslem " {i}y las noticias{/i}...{w=0.5}{nw}"
+    extend 2fslem " y las noticias...{w=0.5}{nw}"
 
 # game/scripttopics.rpy:8443
 translate spanish talk_fear_of_flying_5c4899a3:
@@ -3975,7 +3975,7 @@ translate spanish talk_fear_of_flying_5c4899a3:
 translate spanish talk_fear_of_flying_ca7e1a77:
 
     # extend 4flrss " But it isn't like the statistics {i}lie{/i}!"
-    extend 4flrss " ¡Pero no es que las estadísticas {i}mientan{/i}!"
+    extend 4flrss " ¡Pero no es que las estadísticas mientan!"
 
 # game/scripttopics.rpy:8445
 translate spanish talk_fear_of_flying_608b4609:
@@ -3987,7 +3987,7 @@ translate spanish talk_fear_of_flying_608b4609:
 translate spanish talk_fear_of_flying_83b9b334:
 
     # extend 1uwdaj " {i}million{/i}."
-    extend 1uwdaj " {i}millones{/i}."
+    extend 1uwdaj " millones."
 
 # game/scripttopics.rpy:8447
 translate spanish talk_fear_of_flying_39332886:

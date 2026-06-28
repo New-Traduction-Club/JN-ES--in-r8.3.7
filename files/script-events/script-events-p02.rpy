@@ -1605,13 +1605,13 @@ translate spanish event_internet_connection_4ddb10e8:
 translate spanish event_internet_connection_4fedc195:
 
     # n "What are you {i}doing{/i}?{w=0.75} Stop hugging it out with the ground and get up already!"
-    n "¿Qué {i}haces{/i}?{w=0.75} ¡Deja de darle abrazos al suelo y levanta de una vez!"
+    n "¿Qué haces?{w=0.75} ¡Deja de darle abrazos al suelo y levanta de una vez!"
 
 # game/scriptevents.rpy:2871
 translate spanish event_internet_connection_e996f3eb:
 
     # n "As {i}if{/i} some no-name wannabe has both of you floored this easily!"
-    n "¡Como {i}si{/i} una don nadie pudiera tumbaros a las dos tan fácilmente!"
+    n "¡Como si una don nadie pudiera tumbaros a las dos tan fácilmente!"
 
 # game/scriptevents.rpy:2872
 translate spanish event_internet_connection_23d8f4de:
@@ -1623,7 +1623,7 @@ translate spanish event_internet_connection_23d8f4de:
 translate spanish event_internet_connection_13905d96:
 
     # n "Sheesh...{w=1} Enough with the inner monologues!{w=0.75} You had an entire {i}episode{/i} to doubt yourself!"
-    n "Madre mía...{w=1} ¡Basta ya de monólogos internos!{w=0.75} ¡Ya tuviste un {i}episodio{/i} entero para dudar de ti misma!"
+    n "Madre mía...{w=1} ¡Basta ya de monólogos internos!{w=0.75} ¡Ya tuviste un episodio entero para dudar de ti misma!"
 
 # game/scriptevents.rpy:2876
 translate spanish event_internet_connection_9ddd1f08:
@@ -1635,7 +1635,7 @@ translate spanish event_internet_connection_9ddd1f08:
 translate spanish event_internet_connection_008e67ba:
 
     # n "I hate when they drag it out like this.{w=0.75} As if there {i}wasn't{/i} already enough filler this episode..."
-    n "Odio cuando lo alargan así.{w=0.75} Como si no {i}hubiese{/i} habido ya suficiente relleno en este episodio..."
+    n "Odio cuando lo alargan así.{w=0.75} Como si no hubiese habido ya suficiente relleno en este episodio..."
 
 # game/scriptevents.rpy:2878
 translate spanish event_internet_connection_eeb250be:
@@ -1647,7 +1647,7 @@ translate spanish event_internet_connection_eeb250be:
 translate spanish event_internet_connection_c99ffe20:
 
     # n "Yeah!{w=0.5} Yeah!{w=0.5} Now {i}that's{/i} what I'm talking about!{w=0.75}{nw}"
-    n "¡Sí!{w=0.5} ¡Sí!{w=0.5} ¡De {i}eso{/i} estaba hablando!{w=0.75}{nw}"
+    n "¡Sí!{w=0.5} ¡Sí!{w=0.5} ¡De eso estaba hablando!{w=0.75}{nw}"
 
 # game/scriptevents.rpy:2888
 translate spanish event_internet_connection_1c2b3fc0:
@@ -1683,7 +1683,7 @@ translate spanish event_internet_connection_f8141ca6:
 translate spanish event_internet_connection_5d090b66:
 
     # n "Can you seriously dodge {i}any{/i} slower?"
-    n "¿En serio no puedes esquivar {i}más{/i} despacio?"
+    n "¿En serio no puedes esquivar más despacio?"
 
 # game/scriptevents.rpy:2902
 translate spanish event_internet_connection_5e65d95f:
@@ -1737,7 +1737,7 @@ translate spanish event_internet_connection_c20a8c35:
 translate spanish event_internet_connection_0eac3a23:
 
     # n "What is {i}up{/i} with the internet in this dump?!{w=0.75} Seriously!"
-    n "¿Qué le {i}pasa{/i} a internet en este antro?{w=0.75} ¡En serio!"
+    n "¿Qué le pasa a internet en este antro?{w=0.75} ¡En serio!"
 
 # game/scriptevents.rpy:2940
 translate spanish event_internet_connection_495c2e90:
@@ -1749,7 +1749,7 @@ translate spanish event_internet_connection_495c2e90:
 translate spanish event_internet_connection_6a4d0b3a:
 
     # n "Don't tell me the internet connection is {i}already{/i} checking out on me..."
-    n "No me digas que la conexión a internet {i}ya{/i} me está dejando tirada..."
+    n "No me digas que la conexión a internet ya me está dejando tirada..."
 
 # game/scriptevents.rpy:2945
 translate spanish event_internet_connection_78d4bf37:
@@ -1773,7 +1773,7 @@ translate spanish event_internet_connection_0223831e:
 translate spanish event_internet_connection_25c9ca0b:
 
     # n "D-{w=0.2}does nothing in this {w=0.2}{i}STUPID{/i}{w=0.2} classroom work besides me?"
-    n "¿E-{w=0.2}Es que no funciona nada en esta {w=0.2}{i}ESTÚPIDA{/i}{w=0.2} clase aparte de mí?"
+    n "¿E-{w=0.2}Es que no funciona nada en esta {w=0.2}ESTÚPIDA{w=0.2} clase aparte de mí?"
 
 # game/scriptevents.rpy:2977
 translate spanish event_internet_connection_3d12c807:
@@ -1809,7 +1809,7 @@ translate spanish event_internet_connection_66a6657a:
 translate spanish event_internet_connection_4b1cb38c:
 
     # extend 3fcswrlsbl " C-{w=0.2}can you {i}believe{/i}{w=0.2} this garbage?!"
-    extend 3fcswrlsbl " ¿T-{w=0.2}Te puedes {i}creer{/i}{w=0.2} esta basura?"
+    extend 3fcswrlsbl " ¿T-{w=0.2}Te puedes creer{w=0.2} esta basura?"
 
 # game/scriptevents.rpy:2983
 translate spanish event_internet_connection_318c328e:
@@ -1995,7 +1995,7 @@ translate spanish event_internet_connection_4e9195cc:
 translate spanish event_internet_connection_ee1e3803:
 
     # n 7ccsbgl "A-{w=0.2}at least there's {i}one{/i} connection here I can always rely on,{w=0.2} right?{w=0.75}{nw}"
-    n 7ccsbgl "A-{w=0.2}Al menos hay {i}una{/i} conexión aquí con la que siempre puedo contar,{w=0.2} ¿no?{w=0.75}{nw}"
+    n 7ccsbgl "A-{w=0.2}Al menos hay una conexión aquí con la que siempre puedo contar,{w=0.2} ¿no?{w=0.75}{nw}"
 
 # game/scriptevents.rpy:3034
 translate spanish event_internet_connection_4257c13a:
@@ -2037,7 +2037,7 @@ translate spanish event_internet_connection_1e8cf8bf:
 translate spanish event_internet_connection_8bc37f37:
 
     # n 7fsqbgl "Looks like there's still {i}one{/i} connection here that isn't gonna flake out on me.{w=0.75}{nw}"
-    n 7fsqbgl "Parece que todavía queda {i}una{/i} conexión por aquí que no me va a dejar tirada.{w=0.75}{nw}"
+    n 7fsqbgl "Parece que todavía queda una conexión por aquí que no me va a dejar tirada.{w=0.75}{nw}"
 
 # game/scriptevents.rpy:3049
 translate spanish event_internet_connection_fbdf2fe5:
@@ -2097,13 +2097,13 @@ translate spanish event_change_of_atmosphere_a867c05f:
 translate spanish event_change_of_atmosphere_c508d92c:
 
     # extend " I {i}knew{/i} trying to get some sleep at my desk wasn't going to work..."
-    extend " {i}Sabía{/i} que intentar dormir un poco en el escritorio no iba a funcionar..."
+    extend " Sabía que intentar dormir un poco en el escritorio no iba a funcionar..."
 
 # game/scriptevents.rpy:3097
 translate spanish event_change_of_atmosphere_005b03e9:
 
     # extend " I {i}knew{/i} trying to take a powernap at my desk was a {i}stupid{/i} idea..."
-    extend " {i}Sabía{/i} que intentar echar una siesta en el escritorio era una idea {i}estúpida{/i}..."
+    extend " Sabía que intentar echar una siesta en el escritorio era una idea estúpida..."
 
 # game/scriptevents.rpy:3099
 translate spanish event_change_of_atmosphere_c176b122:
@@ -2127,7 +2127,7 @@ translate spanish event_change_of_atmosphere_a9661842:
 translate spanish event_change_of_atmosphere_986364ec:
 
     # n "My back is {w=0.5}{i}killing{/i}{w=0.2} me..."
-    n "Me {i}mata{/i} la espalda..."
+    n "Me mata la espalda..."
 
 # game/scriptevents.rpy:3108
 translate spanish event_change_of_atmosphere_887d229c:
@@ -2157,7 +2157,7 @@ translate spanish event_change_of_atmosphere_bb2cf764_1:
 translate spanish event_change_of_atmosphere_9f12bd0d:
 
     # n "Is that...{w=1} {i}rainwater{/i}...?{w=0.75} Oh,{w=0.2} you have {w=0.2}{b}got{/b}{w=0.2} to be joking.{w=0.75} Really?!{w=0.75} Why now?!"
-    n "¿Eso es...{w=1} {i}agua de lluvia{/i}...?{w=0.75} Ah,{w=0.2} tienes que {w=0.2}{b}estar{/b}{w=0.2} de coña.{w=0.75} ¡¿En serio?!{w=0.75} ¡¿Por qué ahora?!"
+    n "¿Eso es...{w=1} agua de lluvia...?{w=0.75} Ah,{w=0.2} tienes que {w=0.2}{b}estar{/b}{w=0.2} de coña.{w=0.75} ¡¿En serio?!{w=0.75} ¡¿Por qué ahora?!"
 
 # game/scriptevents.rpy:3121
 translate spanish event_change_of_atmosphere_64d9c0dc:
@@ -2409,7 +2409,7 @@ translate spanish event_change_of_atmosphere_55a86092:
 translate spanish event_change_of_atmosphere_ebac4454:
 
     # n 2ftrem "{i}'Brand new classrooms!'{/i},{w=0.5}{nw}"
-    n 2ftrem "{i}'¡Aulas nuevas a estrenar!'{/i},{w=0.5}{nw}"
+    n 2ftrem "'¡Aulas nuevas a estrenar!',{w=0.5}{nw}"
 
 # game/scriptevents.rpy:3220
 translate spanish event_change_of_atmosphere_76b3ae5c:
@@ -3081,13 +3081,13 @@ translate spanish holiday_new_years_day_d534f43a:
 translate spanish holiday_new_years_day_03878a92:
 
     # n 1fbkwrlean "How do I {i}always{/i} miss something that only happens once a year?!{w=1.25}{nw}"
-    n 1fbkwrlean "¡¿Cómo es posible que {i}siempre{/i} me pierda algo que solo pasa una vez al año?!{w=1.25}{nw}"
+    n 1fbkwrlean "¡¿Cómo es posible que siempre me pierda algo que solo pasa una vez al año?!{w=1.25}{nw}"
 
 # game/scriptevents.rpy:3458
 translate spanish holiday_new_years_day_1e8b8e08:
 
     # extend 4kslfreso " I can't {i}believe{/i} I was so off with the timing!"
-    extend 4kslfreso " ¡No me puedo {i}creer{/i} que haya calculado tan mal!"
+    extend 4kslfreso " ¡No me puedo creer que haya calculado tan mal!"
 
 # game/scriptevents.rpy:3461
 translate spanish holiday_new_years_day_5778cdce:
@@ -3267,7 +3267,7 @@ translate spanish holiday_new_years_day_8f8afe97:
 translate spanish holiday_new_years_day_478bdb2e:
 
     # n 1fchgn "{i}Something{/i} tells me you wouldn't appreciate the extra headache!"
-    n 1fchgn "¡{i}Algo{/i} me dice que no te haría mucha gracia el dolor de cabeza extra!"
+    n 1fchgn "¡Algo me dice que no te haría mucha gracia el dolor de cabeza extra!"
 
 # game/scriptevents.rpy:3498
 translate spanish holiday_new_years_day_11d61aeb:
@@ -3375,7 +3375,7 @@ translate spanish holiday_new_years_day_0db8b3b8:
 translate spanish holiday_new_years_day_26d19896:
 
     # n 1knmsl "But the right message really {i}can{/i} make all the difference."
-    n 1knmsl "Pero el mensaje adecuado {i}puede{/i} marcar la diferencia."
+    n 1knmsl "Pero el mensaje adecuado puede marcar la diferencia."
 
 # game/scriptevents.rpy:3526
 translate spanish holiday_new_years_day_438b4862:
@@ -3429,7 +3429,7 @@ translate spanish holiday_new_years_day_ee1e9b42:
 translate spanish holiday_new_years_day_66447104:
 
     # n 1fnmsrl "So I don't care {i}how{/i} you do it.{w=1}{nw}"
-    n 1fnmsrl "Así que me da igual {i}cómo{/i} lo hagas.{w=1}{nw}"
+    n 1fnmsrl "Así que me da igual cómo lo hagas.{w=1}{nw}"
 
 # game/scriptevents.rpy:3535
 translate spanish holiday_new_years_day_6f9b0c8d:
@@ -3633,7 +3633,7 @@ translate spanish holiday_new_years_day_c61687b4:
 translate spanish holiday_new_years_day_8a8f600a:
 
     # n 1kllssless "Even if I {i}am{/i} just a grouchy girl stuck in some{w=0.5}{nw}"
-    n 1kllssless "Aunque solo {i}sea{/i} una chica gruñona atrapada en un{w=0.5}{nw}"
+    n 1kllssless "Aunque solo sea una chica gruñona atrapada en un{w=0.5}{nw}"
 
 # game/scriptevents.rpy:3592
 translate spanish holiday_new_years_day_1adb0ad6:
@@ -3771,7 +3771,7 @@ translate spanish holiday_valentines_day_61e80b10:
 translate spanish holiday_valentines_day_b1906ead:
 
     # extend 1fsqpol " Do I {i}seriously{/i} have to remind you?"
-    extend 1fsqpol " ¿{i}En serio{/i} tengo que recordártelo?"
+    extend 1fsqpol " ¿En serio tengo que recordártelo?"
 
 # game/scriptevents.rpy:3634
 translate spanish holiday_valentines_day_f5ff224f:
@@ -3855,7 +3855,7 @@ translate spanish holiday_valentines_day_2c3a0c22:
 translate spanish holiday_valentines_day_a2d3256d:
 
     # extend 1klrfllsbl " Why else do you think I'd {i}magically{/i} have a box of them ready?"
-    extend 1klrfllsbl " ¿Por qué si no crees que tendría {i}mágicamente{/i} una caja preparada?"
+    extend 1klrfllsbl " ¿Por qué si no crees que tendría mágicamente una caja preparada?"
 
 # game/scriptevents.rpy:3650
 translate spanish holiday_valentines_day_2ed562d9:
@@ -3963,7 +3963,7 @@ translate spanish holiday_valentines_day_62b2e8f5:
 translate spanish holiday_valentines_day_57d2b5d3:
 
     # extend 1knmbol " But it's all the small things I {i}really{/i} care about,{w=0.2} [player]."
-    extend 1knmbol " Pero son las pequeñas cosas lo que {i}de verdad{/i} me importa,{w=0.2} [player]."
+    extend 1knmbol " Pero son las pequeñas cosas lo que de verdad me importa,{w=0.2} [player]."
 
 # game/scriptevents.rpy:3668
 translate spanish holiday_valentines_day_3ee7f0d7:

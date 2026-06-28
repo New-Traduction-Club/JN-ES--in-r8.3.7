@@ -2439,7 +2439,7 @@ translate spanish talk_natsukis_hairstyle_33a1dd26:
 translate spanish talk_natsukis_hairstyle_78c4895d:
 
     # n 1fsqfu "Because I {i}like{/i} it that way.{w=0.75}{nw}"
-    n 1fsqfu "Porque me {i}gusta{/i} así."
+    n 1fsqfu "Porque me gusta así."
 
 # game/scripttopics.rpy:4439
 translate spanish talk_natsukis_hairstyle_46fa438c:
@@ -2517,7 +2517,7 @@ translate spanish talk_natsukis_hairstyle_9469836a:
 translate spanish talk_natsukis_hairstyle_29067263:
 
     # extend 3fcsbg " so it isn't like I had to go {i}buy{/i} anything new to try twintails out."
-    extend 3fcsbg " así que tampoco es que tuviera que {i}comprar{/i} nada nuevo para probar las coletas."
+    extend 3fcsbg " así que tampoco es que tuviera que comprar nada nuevo para probar las coletas."
 
 # game/scripttopics.rpy:4467
 translate spanish talk_natsukis_hairstyle_b5d943ce:
@@ -2535,7 +2535,7 @@ translate spanish talk_natsukis_hairstyle_c7e3c09b:
 translate spanish talk_natsukis_hairstyle_729b6691:
 
     # extend 4nsrsr " Not like I had to {i}buy{/i} anything to try doing twintails."
-    extend 4nsrsr " No es como si tuviera que {i}comprar{/i} nada para probar a hacerme coletas."
+    extend 4nsrsr " No es como si tuviera que comprar nada para probar a hacerme coletas."
 
 # game/scripttopics.rpy:4472
 translate spanish talk_natsukis_hairstyle_d1d8c15a:
@@ -2595,7 +2595,7 @@ translate spanish talk_natsukis_hairstyle_a9c04133:
 translate spanish talk_natsukis_hairstyle_0a0737c5:
 
     # n 1fsqsl "...And no,{w=0.1} {i}not{/i} in the physical sense."
-    n 1fsqsl "Y no, {i}no{/i} en el sentido físico."
+    n 1fsqsl "Y no, no en el sentido físico."
 
 # game/scripttopics.rpy:4489
 translate spanish talk_natsukis_hairstyle_f59ea839:
@@ -2649,7 +2649,7 @@ translate spanish talk_natsukis_hairstyle_d4d33c36:
 translate spanish talk_natsukis_hairstyle_48fb06ab:
 
     # n 1ullbo "I think that kinda speaks for itself,{w=0.1} really.{w=0.2} I {i}am{/i} trying out a different one..."
-    n 1ullbo "Creo que eso habla por sí solo, la verdad... {i}Estoy{/i} probando uno diferente..."
+    n 1ullbo "Creo que eso habla por sí solo, la verdad... Estoy probando uno diferente..."
 
 # game/scripttopics.rpy:4510
 translate spanish talk_natsukis_hairstyle_dad23393:
@@ -2775,7 +2775,7 @@ translate spanish talk_integrity_0b02afc5:
 translate spanish talk_integrity_c9884037:
 
     # n 1fnmpu "{i}You{/i} are your own master,{w=0.1} [player] -{w=0.1} you have your own opinions,{w=0.1} your own values:{w=0.1} and that's super important!"
-    n 1fnmpu "{i}Tú{/i} eres tu propi[end_letter_gender] dueñ[end_letter_gender], [player]... tienes tus propias opiniones, tus propios valores... ¡y eso es superimportante!"
+    n 1fnmpu "Tú eres tu propi[end_letter_gender] dueñ[end_letter_gender], [player]... tienes tus propias opiniones, tus propios valores... ¡y eso es superimportante!"
 
 # game/scripttopics.rpy:4559
 translate spanish talk_integrity_b45b7a7c:
@@ -2877,7 +2877,7 @@ translate spanish talk_integrity_7c81f736:
 translate spanish talk_integrity_3f6c338f:
 
     # n 3fcsbg "{i}Especially{/i} ones like me!{w=0.5}{nw}"
-    n 3fcsbg "¡{i}Especialmente{/i} las como yo!"
+    n 3fcsbg "¡Especialmente las como yo!"
 
 # game/scripttopics.rpy:4584
 translate spanish talk_integrity_bb81a910_1:
@@ -2913,7 +2913,7 @@ translate spanish talk_favourite_animal_ae4e5f38:
 translate spanish talk_favourite_animal_3761f73c:
 
     # n 4fspgsedz "{i}Adorable{/i}!!"
-    n 4fspgsedz "¡¡{i}Adorables{/i}!!"
+    n 4fspgsedz "¡¡Adorables!!"
 
 # game/scripttopics.rpy:4610
 translate spanish talk_favourite_animal_4cfc9156:
@@ -3063,7 +3063,7 @@ translate spanish talk_favourite_animal_3ae535f9:
 translate spanish talk_favourite_animal_84db309d:
 
     # n 1fsqpu "But honestly,{w=0.1} [player]?{w=0.2} If you've shown you can't take care of {i}me{/i}?"
-    n 1fsqpu "Pero sinceramente, [player]... ¿Si has demostrado que no puedes cuidar de {i}mí{/i}?"
+    n 1fsqpu "Pero sinceramente, [player]... ¿Si has demostrado que no puedes cuidar de mí?"
 
 # game/scripttopics.rpy:4641
 translate spanish talk_favourite_animal_d85057dc:
@@ -3315,7 +3315,7 @@ translate spanish talk_school_uniform_2dd694b7:
 translate spanish talk_school_uniform_40bf7791:
 
     # n 1ksqaj "Wow...{w=0.3} you're even {i}more{/i} gross than I thought."
-    n 1ksqaj "Guau... eres incluso {i}más{/i} asqueros[end_letter_gender] de lo que pensaba."
+    n 1ksqaj "Guau... eres incluso más asqueros[end_letter_gender] de lo que pensaba."
 
 # game/scripttopics.rpy:4746
 translate spanish talk_school_uniform_f6c57e0b:
@@ -3417,7 +3417,7 @@ translate spanish talk_school_uniform_37f01cd9:
 translate spanish talk_school_uniform_21db4321:
 
     # n 2fsran "Heh.{w=0.2} I like it more than {i}you{/i}.{w=0.2} Jerk."
-    n 2fsran "Je... Me gusta más que {i}tú{/i}... Imbécil."
+    n 2fsran "Je... Me gusta más que tú... Imbécil."
 
 # game/scripttopics.rpy:4775
 translate spanish talk_school_uniform_99ac9787:
@@ -3453,7 +3453,7 @@ translate spanish talk_school_uniform_9de6465f:
 translate spanish talk_school_uniform_d5ec2743:
 
     # n 1fbkwr "I mean...{w=0.3} do you even {i}know{/i} what wearing all that clothing in summer is like?!{w=0.2} It's {i}horrible{/i}!"
-    n 1fbkwr "Quiero decir... ¡¿tienes siquiera {i}idea{/i} de lo que es llevar toda esa ropa en verano?! ¡Es {i}horrible{/i}!"
+    n 1fbkwr "Quiero decir... ¡¿tienes siquiera idea de lo que es llevar toda esa ropa en verano?! ¡Es horrible!"
 
 # game/scripttopics.rpy:4781
 translate spanish talk_school_uniform_20d078e1:
@@ -3471,7 +3471,7 @@ translate spanish talk_school_uniform_dcd5bf74:
 translate spanish talk_school_uniform_b93bae61:
 
     # n 2fllpo "...Or get told off.{w=0.2} {i}Again{/i}.{w=0.2} I honestly have no idea how Sayori got away with hers being so scruffy."
-    n 2fllpo "O que me echaran la bronca... {i}Otra vez{/i}... Sinceramente no tengo ni idea de cómo Sayori se libraba llevando el suyo tan desaliñado."
+    n 2fllpo "O que me echaran la bronca... Otra vez... Sinceramente no tengo ni idea de cómo Sayori se libraba llevando el suyo tan desaliñado."
 
 # game/scripttopics.rpy:4784
 translate spanish talk_school_uniform_996adada:
@@ -3591,7 +3591,7 @@ translate spanish talk_school_uniform_05c1813f:
 translate spanish talk_school_uniform_30311e34:
 
     # n 1fllss "I still don't particularly {i}like{/i} wearing it..."
-    n 1fllss "Sigue sin {i}gustarme{/i} especialmente llevarlo..."
+    n 1fllss "Sigue sin gustarme especialmente llevarlo..."
 
 # game/scripttopics.rpy:4823
 translate spanish talk_school_uniform_ba342535:
@@ -3645,7 +3645,7 @@ translate spanish talk_flying_3e439ae9:
 translate spanish talk_flying_bfe08a3c:
 
     # n 1fchbg "Don't get me wrong though!{w=0.2} I'd {i}totally{/i} fly somewhere new if I could!"
-    n 1fchbg "¡Pero no me malinterpretes! ¡Volaría {i}sin dudarlo{/i} a algún sitio nuevo si pudiera!"
+    n 1fchbg "¡Pero no me malinterpretes! ¡Volaría sin dudarlo a algún sitio nuevo si pudiera!"
 
 # game/scripttopics.rpy:4856
 translate spanish talk_flying_e195e161:
@@ -3765,7 +3765,7 @@ translate spanish talk_flying_1c45c91d:
 translate spanish talk_flying_c4dd6ac8:
 
     # n 2fsqca "...Am I {i}wrong{/i}?"
-    n 2fsqca "¿Me {i}equivoco{/i}?"
+    n 2fsqca "¿Me equivoco?"
 
 # game/scripttopics.rpy:4885
 translate spanish talk_flying_19ef1478:
@@ -3819,7 +3819,7 @@ translate spanish talk_flying_79b3df0e:
 translate spanish talk_flying_019b1d4a:
 
     # n 3fslpo "I guess it's {i}plane{/i} to see how well you're doing for yourself?"
-    n 3fslpo "¡Supongo que está claro que te va {i}volando{/i}!"
+    n 3fslpo "¡Supongo que está claro que te va volando!"
 
 # game/scripttopics.rpy:4899
 translate spanish talk_flying_2074468b:
@@ -3939,7 +3939,7 @@ translate spanish talk_flying_2b9a8977:
 translate spanish talk_flying_4538071c:
 
     # n 4fsqdv "We're both just {i}well grounded{/i} people,{w=0.1} huh?"
-    n 4fsqdv "Que ambos tenemos {i}los pies en la tierra{/i}, ¿eh?"
+    n 4fsqdv "Que ambos tenemos los pies en la tierra, ¿eh?"
 
 # game/scripttopics.rpy:4939
 translate spanish talk_flying_ffdd5618:
@@ -3987,10 +3987,10 @@ translate spanish talk_are_you_into_cars_9ba410a8:
 translate spanish talk_are_you_into_cars_da8162a3:
 
     # n 2fsqan "You know I can't drive.{w=0.2} So I'm not even going to {i}pretend{/i} I care if you're into that,{w=0.1} [player]."
-    n 2fsqan "Sabes que no sé conducir... Así que ni siquiera voy a {i}fingir{/i} que me importa si a ti te va eso, [player]."
+    n 2fsqan "Sabes que no sé conducir... Así que ni siquiera voy a fingir que me importa si a ti te va eso, [player]."
 
 # game/scripttopics.rpy:4984
 translate spanish talk_are_you_into_cars_ba4225c2:
 
     # n 1fnmfultsc "Besides...{w=0.3} I bet you'd {i}never{/i} treat your {i}precious{/i} car like you treat me,{w=0.1} huh?"
-    n 1fnmfultsc "Además... apuesto a que {i}nunca{/i} tratarías a tu {i}precioso{/i} coche como me tratas a mí, ¿eh?"
+    n 1fnmfultsc "Además... apuesto a que nunca tratarías a tu precioso coche como me tratas a mí, ¿eh?"

@@ -2775,13 +2775,13 @@ translate spanish holiday_christmas_eve_e6aeef4c:
 translate spanish holiday_christmas_eve_2dcd3382:
 
     # extend 1tsqemsbr " you'd think with a whole {i}year{/i} to prepare,{w=1}{nw}"
-    extend 1tsqemsbr " cualquiera pensaría que teniendo un año {i}entero{/i} para prepararse,{w=1}{nw}"
+    extend 1tsqemsbr " cualquiera pensaría que teniendo un año entero para prepararse,{w=1}{nw}"
 
 # game/scriptevents.rpy:4491
 translate spanish holiday_christmas_eve_a2ae622a:
 
     # extend 1fslcasbr " people wouldn't {i}always{/i} leave things to the very last month."
-    extend 1fslcasbr " la gente no lo dejaría {i}siempre{/i} todo para el último mes."
+    extend 1fslcasbr " la gente no lo dejaría siempre todo para el último mes."
 
 # game/scriptevents.rpy:4492
 translate spanish holiday_christmas_eve_f1f3fe8b:
@@ -2805,7 +2805,7 @@ translate spanish holiday_christmas_eve_dc51cf0f:
 translate spanish holiday_christmas_eve_50f0d71e:
 
     # extend 1fcsgs " and don't even get me {i}started{/i} on the music {i}every{w=0.3} single{w=0.3} store{/i}{w=0.3} feels the need to play..."
-    extend 1fcsgs " y ni me hables de la música que a {i}todas{w=0.3} y cada una{w=0.3} de las tiendas{/i}{w=0.3} les da por poner..."
+    extend 1fcsgs " y ni me hables de la música que a todas{w=0.3} y cada una{w=0.3} de las tiendas{w=0.3} les da por poner..."
 
 # game/scriptevents.rpy:4496
 translate spanish holiday_christmas_eve_e7b37499:
@@ -2847,7 +2847,7 @@ translate spanish holiday_christmas_eve_bd19cdc3:
 translate spanish holiday_christmas_eve_3f6b7dc6:
 
     # n 1fcsbglsbr "...I{w=0.2}-I'm just not stuck in the {i}Christmas past{/i},{w=0.2} that's all!{w=0.75}{nw}"
-    n 1fcsbglsbr "E{w=0.2}-es solo que no vivo anclada en las {i}Navidades pasadas{/i},{w=0.2} ¡eso es todo!{w=0.75}{nw}"
+    n 1fcsbglsbr "E{w=0.2}-es solo que no vivo anclada en las Navidades pasadas,{w=0.2} ¡eso es todo!{w=0.75}{nw}"
 
 # game/scriptevents.rpy:4503
 translate spanish holiday_christmas_eve_436106bb:
@@ -2871,7 +2871,7 @@ translate spanish holiday_christmas_eve_2e7accf8:
 translate spanish holiday_christmas_eve_d0b2100d:
 
     # extend 1fchgn " At least {i}here{/i} we can change the record,{w=0.2} right?"
-    extend 1fchgn " Al menos {i}aquí{/i} podemos cambiar de aires,{w=0.2} ¿no?"
+    extend 1fchgn " Al menos aquí podemos cambiar de aires,{w=0.2} ¿no?"
 
 # game/scriptevents.rpy:4507
 translate spanish holiday_christmas_eve_7712b2b9:
@@ -2889,7 +2889,7 @@ translate spanish holiday_christmas_eve_c992544e:
 translate spanish holiday_christmas_eve_4f79a8ab:
 
     # extend 4fwlbgeme " Not bad for {i}just{/i} school supplies,{w=0.2} if I say so myself."
-    extend 4fwlbgeme " No está nada mal para ser {i}solo{/i} material escolar,{w=0.2} aunque lo diga yo."
+    extend 4fwlbgeme " No está nada mal para ser solo material escolar,{w=0.2} aunque lo diga yo."
 
 # game/scriptevents.rpy:4510
 translate spanish holiday_christmas_eve_135fb32f:
@@ -2925,7 +2925,7 @@ translate spanish holiday_christmas_eve_6479b70b:
 translate spanish holiday_christmas_eve_c19ff4e6:
 
     # n 1fcsbg "You didn't {i}seriously{/i} think {i}you{/i} were off the hook for decorating,{w=0.2} did you?"
-    n 1fcsbg "No te creerías {i}en serio{/i} que te habías librado de decorar,{w=0.2} ¿verdad?"
+    n 1fcsbg "No te creerías en serio que te habías librado de decorar,{w=0.2} ¿verdad?"
 
 # game/scriptevents.rpy:4516
 translate spanish holiday_christmas_eve_159e723c:
@@ -3003,13 +3003,13 @@ translate spanish holiday_christmas_eve_05006499:
 translate spanish holiday_christmas_eve_f89ded82:
 
     # n 3fcspolsbl "I'm not doing {i}your{/i} place too,{w=0.2} you know."
-    n 3fcspolsbl "No te voy a hacer {i}tu{/i} casa también,{w=0.2} que lo sepas."
+    n 3fcspolsbl "No te voy a hacer tu casa también,{w=0.2} que lo sepas."
 
 # game/scriptevents.rpy:4539
 translate spanish holiday_christmas_eve_ba75caab:
 
     # n 1fchbl "...Not for {i}free{/i},{w=0.2} anyway."
-    n 1fchbl "Al menos no {i}gratis{/i}."
+    n 1fchbl "Al menos no gratis."
 
 # game/scriptevents.rpy:4544
 translate spanish holiday_christmas_eve_24f1edf5:
@@ -3729,13 +3729,13 @@ translate spanish holiday_christmas_day_9ac6013f:
 translate spanish holiday_christmas_day_07eb4c25:
 
     # n 1fcssr "...You don't need to buy gifts,{w=0.2} if you're {i}traditional{/i}.{w=1.25}{nw}"
-    n 1fcssr "No hace falta comprar regalos{w=0.2} si eres {i}tradicional{/i}.{w=1.25}{nw}"
+    n 1fcssr "No hace falta comprar regalos{w=0.2} si eres tradicional.{w=1.25}{nw}"
 
 # game/scriptevents.rpy:4738
 translate spanish holiday_christmas_day_63731be2:
 
     # extend 2fsrsl " You don't need to invite guests,{w=0.2} if you're {i}traditional{/i}."
-    extend 2fsrsl " No hace falta invitar a nadie{w=0.2} si eres {i}tradicional{/i}."
+    extend 2fsrsl " No hace falta invitar a nadie{w=0.2} si eres tradicional."
 
 # game/scriptevents.rpy:4739
 translate spanish holiday_christmas_day_d7d6c936:
@@ -3759,7 +3759,7 @@ translate spanish holiday_christmas_day_05bb8ac1:
 translate spanish holiday_christmas_day_5721b775:
 
     # n 2fcsunl "N-{w=0.2}not celebrating it wasn't a {i}choice{/i} at my place,{w=0.2} [player]."
-    n 2fcsunl "N-{w=0.2}No celebrarlo no era una {i}opción{/i} en mi casa,{w=0.2} [player]."
+    n 2fcsunl "N-{w=0.2}No celebrarlo no era una opción en mi casa,{w=0.2} [player]."
 
 # game/scriptevents.rpy:4743
 translate spanish holiday_christmas_day_5bc71cb3:
@@ -3795,7 +3795,7 @@ translate spanish holiday_christmas_day_0a0b0a00:
 translate spanish holiday_christmas_day_fd2eaf14:
 
     # extend 4nslss " I'd already gotten {i}real{/i} good at figuring out where the squeaky floorboards were,{w=0.5}{nw}"
-    extend 4nslss " Ya se me daba {i}muy{/i} bien averiguar qué tablas del suelo chirriaban,{w=0.5}{nw}"
+    extend 4nslss " Ya se me daba muy bien averiguar qué tablas del suelo chirriaban,{w=0.5}{nw}"
 
 # game/scriptevents.rpy:4749
 translate spanish holiday_christmas_day_cccbc19b:
@@ -3825,13 +3825,13 @@ translate spanish holiday_christmas_day_b9baadd5:
 translate spanish holiday_christmas_day_9fe04ab1:
 
     # n 1fsrunl "At least seeing all the decorations up on people's houses gave me {i}some{/i} sense of cheer."
-    n 1fsrunl "Al menos ver todos los adornos en las casas de la gente me alegraba {i}algo{/i} el ánimo."
+    n 1fsrunl "Al menos ver todos los adornos en las casas de la gente me alegraba algo el ánimo."
 
 # game/scriptevents.rpy:4754
 translate spanish holiday_christmas_day_5a2f63ee:
 
     # n 1fslsll "Besides.{w=0.3} Not like {i}they{/i} particularly cared where I was..."
-    n 1fslsll "Además.{w=0.3} Tampoco es que a {i}ellos{/i} les importara mucho dónde estaba yo..."
+    n 1fslsll "Además.{w=0.3} Tampoco es que a ellos les importara mucho dónde estaba yo..."
 
 # game/scriptevents.rpy:4755
 translate spanish holiday_christmas_day_d2e00ee8:
@@ -3873,7 +3873,7 @@ translate spanish holiday_christmas_day_7227cd60:
 translate spanish holiday_christmas_day_3c613ee1:
 
     # n 1nllss "I was {i}meant{/i} to meet up with everyone,{w=0.75}{nw}"
-    n 1nllss "Se suponía que {i}iba{/i} a quedar con todos,{w=0.75}{nw}"
+    n 1nllss "Se suponía que iba a quedar con todos,{w=0.75}{nw}"
 
 # game/scriptevents.rpy:4762
 translate spanish holiday_christmas_day_c0e5dd4d:
@@ -3903,7 +3903,7 @@ translate spanish holiday_christmas_day_afedf983:
 translate spanish holiday_christmas_day_e4ed5b9a:
 
     # extend 2nsrsssbl " but it would have been {i}way{/i} too cramped for all of us."
-    extend 2nsrsssbl " pero hubiéramos estado {i}demasiado{/i} apretados."
+    extend 2nsrsssbl " pero hubiéramos estado demasiado apretados."
 
 # game/scriptevents.rpy:4767
 translate spanish holiday_christmas_day_8e9349d1:
@@ -3975,7 +3975,7 @@ translate spanish holiday_christmas_day_e85cec2f:
 translate spanish holiday_christmas_day_11cbf7ee:
 
     # n 2fcsunl "T-{w=0.3}that's where {i}my{/i} home was."
-    n 2fcsunl "A-{w=0.3}Ahí es donde estaba {i}mi{/i} hogar."
+    n 2fcsunl "A-{w=0.3}Ahí es donde estaba mi hogar."
 
 # game/scriptevents.rpy:4779
 translate spanish holiday_christmas_day_c2ac5d06:
