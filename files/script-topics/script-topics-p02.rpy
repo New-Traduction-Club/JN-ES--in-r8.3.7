@@ -1821,7 +1821,7 @@ translate spanish talk_careful_spending_beb45de8:
 translate spanish talk_careful_spending_0a209b24:
 
     # n 1tnmpu "Hmm...?"
-    n 1tnmpu "¿Hmm...?"
+    n 1tnmpu "¿Mmm...?"
 
 # game/scripttopics.rpy:1526
 translate spanish talk_careful_spending_8454679a:
