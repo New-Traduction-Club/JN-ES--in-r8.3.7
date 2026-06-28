@@ -1072,7 +1072,7 @@ translate spanish apology_prolonged_leave_8b7f376f:
 translate spanish apology_prolonged_leave_77098686:
 
     # n 2ksrbol "A-{w=0.2}and you know I like spending time with you.{w=1}{nw}"
-    n 2ksrbol "Y-{w=0.2}y sabes que me gusta pasar tiempo contigo.{w=1}{nw}"
+    n 2ksrbol "Y-{w=0.2}Y sabes que me gusta pasar tiempo contigo.{w=1}{nw}"
 
 # game/scriptapologies.rpy:388
 translate spanish apology_prolonged_leave_e3f8d0e6:
@@ -1300,7 +1300,7 @@ translate spanish apology_prolonged_leave_07c3ad8b:
 translate spanish apology_prolonged_leave_ef75953c:
 
     # n 2fcspol "I-{w=0.2}if I wanted a disappearing act,{w=0.2} I would have asked,{w=0.2} after all."
-    n 2fcspol "S-{w=0.2}si quisiera un truco de desaparición,{w=0.2} lo habría pedido,{w=0.2} al fin y al cabo."
+    n 2fcspol "S-{w=0.2}Si quisiera un truco de desaparición,{w=0.2} lo habría pedido,{w=0.2} al fin y al cabo."
 
 # game/scriptapologies.rpy:433
 translate spanish apology_prolonged_leave_c61a5bcd:
@@ -1390,7 +1390,7 @@ translate spanish apology_prolonged_leave_0c515af5:
 translate spanish apology_prolonged_leave_ba771302:
 
     # n 4fsqflltse "Y-{w=0.2}you're apologizing to me?{w=0.75}{nw}"
-    n 4fsqflltse "¿T-{w=0.2}te estás disculpando conmigo?{w=0.75}{nw}"
+    n 4fsqflltse "¿T-{w=0.2}Te estás disculpando conmigo?{w=0.75}{nw}"
 
 # game/scriptapologies.rpy:456
 translate spanish apology_prolonged_leave_405e0757:
@@ -1750,7 +1750,7 @@ translate spanish apology_sudden_leave_ba681017:
 translate spanish apology_sudden_leave_d6eebf3e:
 
     # extend 4fsrunl " A-{w=0.2}and it hurts."
-    extend 4fsrunl " Y-{w=0.2}y duele."
+    extend 4fsrunl " Y-{w=0.2}Y duele."
 
 # game/scriptapologies.rpy:564
 translate spanish apology_sudden_leave_18e208ca:
@@ -2074,7 +2074,7 @@ translate spanish apology_unhealthy_f00821bf:
 translate spanish apology_unhealthy_f2724f49:
 
     # n 3fchbll "L-{w=0.2}love you too,{w=0.2} [chosen_tease]!"
-    n 3fchbll "¡Y-{w=0.2}yo también te quiero,{w=0.2} [chosen_tease]!"
+    n 3fchbll "¡Y-{w=0.2}Yo también te quiero,{w=0.2} [chosen_tease]!"
 
 # game/scriptapologies.rpy:653
 translate spanish apology_unhealthy_78f07163:
@@ -2122,7 +2122,7 @@ translate spanish apology_unhealthy_bb7d98ce:
 translate spanish apology_unhealthy_27715c65:
 
     # n 2flremlsbl "A-{w=0.2}and no,{w=0.5}{nw}"
-    n 2flremlsbl "Y-{w=0.2}y no,{w=0.5}{nw}"
+    n 2flremlsbl "Y-{w=0.2}Y no,{w=0.5}{nw}"
 
 # game/scriptapologies.rpy:665
 translate spanish apology_unhealthy_63712b6f:
@@ -2134,7 +2134,7 @@ translate spanish apology_unhealthy_63712b6f:
 translate spanish apology_unhealthy_065bbaee:
 
     # n 4fcsfll "I-{w=0.2}I just care about all my friends like this,{w=0.75}{nw}"
-    n 4fcsfll "S-{w=0.2}simplemente me preocupo por todos mis amigos así,{w=0.75}{nw}"
+    n 4fcsfll "S-{w=0.2}Simplemente me preocupo por todos mis amigos así,{w=0.75}{nw}"
 
 # game/scriptapologies.rpy:667
 translate spanish apology_unhealthy_2a083da8:
@@ -2260,7 +2260,7 @@ translate spanish apology_unhealthy_5d0a829d:
 translate spanish apology_scare_641b75d8:
 
     # n 4fskwrl "A-{w=0.2}and I should think so too,{w=0.2} [player]!"
-    n 4fskwrl "¡Y-{w=0.2}y más te vale,{w=0.2} [player]!"
+    n 4fskwrl "¡Y-{w=0.2}Y más te vale,{w=0.2} [player]!"
 
 # game/scriptapologies.rpy:714
 translate spanish apology_scare_cf6e280d:
@@ -2320,7 +2320,7 @@ translate spanish apology_scare_76cc200c:
 translate spanish apology_scare_e48fd063:
 
     # n 4fbkwrl "A-{w=0.2}and you're right to {i}be{/i} sorry,{w=0.2} [player]!"
-    n 4fbkwrl "¡Y-{w=0.2}y haces bien en sentirlo,{w=0.2} [player]!"
+    n 4fbkwrl "¡Y-{w=0.2}Y haces bien en sentirlo,{w=0.2} [player]!"
 
 # game/scriptapologies.rpy:728
 translate spanish apology_scare_89286d0d:

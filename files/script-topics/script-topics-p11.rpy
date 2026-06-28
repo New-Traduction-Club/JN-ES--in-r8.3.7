@@ -129,7 +129,7 @@ translate spanish talk_windup_playing_things_out_loud_558bd77b:
 translate spanish talk_windup_playing_things_out_loud_34c1b607:
 
     # n 2fnmwrl "H-{w=0.2}hey!{w=0.75}{nw}"
-    n 2fnmwrl "¡E-{w=0.2}eh!{w=0.75}{nw}"
+    n 2fnmwrl "¡E-{w=0.2}Eh!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12020
 translate spanish talk_windup_playing_things_out_loud_bc6ebeda:
@@ -321,7 +321,7 @@ translate spanish talk_windup_playing_things_out_loud_575974fc:
 translate spanish talk_windup_playing_things_out_loud_3463fdb3:
 
     # n 4fslem "B-{w=0.2}besides,{w=0.5}{nw}"
-    n 4fslem "A-{w=0.2}además,{w=0.5}{nw}"
+    n 4fslem "A-{w=0.2}Además,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:12053
 translate spanish talk_windup_playing_things_out_loud_1d06c2f4:
@@ -465,7 +465,7 @@ translate spanish talk_windup_playing_things_out_loud_116d476d:
 translate spanish talk_windup_playing_things_out_loud_a4768479:
 
     # n 2fcsssl "...E-{w=0.2}even if I know you just can't get enough of the sound of my voice."
-    n 2fcsssl "A-{w=0.2}aunque sepa que no te cansas de oír mi voz."
+    n 2fcsssl "A-{w=0.2}Aunque sepa que no te cansas de oír mi voz."
 
 # game/scripttopics.rpy:12091
 translate spanish talk_windup_playing_things_out_loud_326015b2:
@@ -579,7 +579,7 @@ translate spanish talk_work_experience_0a3a9fe2:
 translate spanish talk_work_experience_f4c42686:
 
     # extend 3ccsajsbr " H-{w=0.2}hang on a sec."
-    extend 3ccsajsbr " E-{w=0.2}espera un momento."
+    extend 3ccsajsbr " E-{w=0.2}Espera un momento."
 
 # game/scripttopics.rpy:12148
 translate spanish talk_work_experience_158625b1:
@@ -1029,7 +1029,7 @@ translate spanish talk_work_experience_df0c1aba:
 translate spanish talk_work_experience_397686de:
 
     # n 4fcsemsbr "I-{w=0.2}it's just so {i}annoying{/i}!{w=0.75}{nw}"
-    n 4fcsemsbr "¡E-{w=0.2}es que es un fastidio!{w=0.75}{nw}"
+    n 4fcsemsbr "¡E-{w=0.2}Es que es un fastidio!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12244
 translate spanish talk_work_experience_46d6dfae:
@@ -1125,7 +1125,7 @@ translate spanish talk_work_experience_99e70164:
 translate spanish talk_work_experience_073de044:
 
     # n 4ccsemlsbr "A-{w=0.2}anyway!"
-    n 4ccsemlsbr "¡E-{w=0.2}en fin!"
+    n 4ccsemlsbr "¡E-{w=0.2}En fin!"
 
 # game/scripttopics.rpy:12264
 translate spanish talk_work_experience_99e70164_1:
@@ -1137,7 +1137,7 @@ translate spanish talk_work_experience_99e70164_1:
 translate spanish talk_work_experience_dd3601fd:
 
     # n 4ccscasbr "A-{w=0.2}anyway."
-    n 4ccscasbr "E-{w=0.2}en fin."
+    n 4ccscasbr "E-{w=0.2}En fin."
 
 # game/scripttopics.rpy:12267
 translate spanish talk_work_experience_ba4114e1:
@@ -1155,7 +1155,7 @@ translate spanish talk_work_experience_38e586aa:
 translate spanish talk_work_experience_3a6bdc27:
 
     # extend 2fcsgssbr " O-{w=0.2}of course I did!{w=0.75}{nw}"
-    extend 2fcsgssbr " ¡P-{w=0.2}por supuesto que lo hice!{w=0.75}{nw}"
+    extend 2fcsgssbr " ¡P-{w=0.2}Por supuesto que lo hice!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12270
 translate spanish talk_work_experience_3f6aadcd:
@@ -1275,7 +1275,7 @@ translate spanish talk_work_experience_653a106a:
 translate spanish talk_work_experience_2a97e1e3:
 
     # n "Hey!{w=0.5} N-{w=0.2}no peeking!"
-    n "¡Eh!{w=0.5} ¡N-{w=0.2}nada de mirar!"
+    n "¡Eh!{w=0.5} ¡N-{w=0.2}Nada de mirar!"
 
 # game/scripttopics.rpy:12315
 translate spanish talk_work_experience_fd50edd5:
@@ -1317,7 +1317,7 @@ translate spanish talk_work_experience_8704ca32:
 translate spanish talk_work_experience_a0bd42c9:
 
     # n 6fsgsmlsbl "D-{w=0.2}didn't you {i}like{/i} a girl in uniform,{w=0.2} [player]?{w=0.75}{nw}"
-    n 6fsgsmlsbl "¿N-{w=0.2}no te gustaban las chicas con uniforme,{w=0.2} [player]?{w=0.75}{nw}"
+    n 6fsgsmlsbl "¿N-{w=0.2}No te gustaban las chicas con uniforme,{w=0.2} [player]?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12325
 translate spanish talk_work_experience_817e8c69:
@@ -1353,7 +1353,7 @@ translate spanish talk_work_experience_dbb872c8:
 translate spanish talk_work_experience_f056968a:
 
     # n 4ccsflsbr "N-{w=0.2}nevermind.{w=0.75}{nw}"
-    n 4ccsflsbr "O-{w=0.2}olvídalo.{w=0.75}{nw}"
+    n 4ccsflsbr "O-{w=0.2}Olvídalo.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12335
 translate spanish talk_work_experience_6894bdb8:
@@ -1581,7 +1581,7 @@ translate spanish talk_work_experience_57a7c118:
 translate spanish talk_work_experience_4be7b135:
 
     # n 5clrbglsbr "E-{w=0.2}even if you {i}are{/i} a bunch of work sometimes.{w=0.75}{nw}"
-    n 5clrbglsbr "A-{w=0.2}aunque tú {i}seas{/i} mucho trabajo a veces.{w=0.75}{nw}"
+    n 5clrbglsbr "A-{w=0.2}Aunque tú {i}seas{/i} mucho trabajo a veces.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12392
 translate spanish talk_work_experience_6584a6c2:
@@ -1593,7 +1593,7 @@ translate spanish talk_work_experience_6584a6c2:
 translate spanish talk_work_experience_27ccdb86:
 
     # n 5fchblfeaf "L-{w=0.2}love you too,{w=0.2} [chosen_tease]!"
-    n 5fchblfeaf "¡T-{w=0.2}te quiero también,{w=0.2} [chosen_tease]!"
+    n 5fchblfeaf "¡T-{w=0.2}Te quiero también,{w=0.2} [chosen_tease]!"
 
 # game/scripttopics.rpy:12399
 translate spanish talk_work_experience_8d51095b:
@@ -1629,7 +1629,7 @@ translate spanish talk_work_experience_2e6e3f07:
 translate spanish talk_work_experience_e6cf3f00:
 
     # extend 6ccsbglsbl " I-{w=0.2}I guess I could think of a worse placement!"
-    extend 6ccsbglsbl " ¡S-{w=0.2}supongo que se me ocurre un lugar peor para hacer prácticas!"
+    extend 6ccsbglsbl " ¡S-{w=0.2}Supongo que se me ocurre un lugar peor para hacer prácticas!"
 
 # game/scripttopics.rpy:12405
 translate spanish talk_work_experience_42b96555:
@@ -1707,7 +1707,7 @@ translate spanish talk_work_experience_d0cce84a:
 translate spanish talk_work_experience_a076a88a:
 
     # n 2csrajsbl "J-{w=0.2}just don't make it all awkward,{w=0.2} [player].{w=0.75}{nw}"
-    n 2csrajsbl "S-{w=0.2}solo no hagas que sea incómodo,{w=0.2} [player].{w=0.75}{nw}"
+    n 2csrajsbl "S-{w=0.2}Solo no hagas que sea incómodo,{w=0.2} [player].{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12422
 translate spanish talk_work_experience_7e8ef8b9:
@@ -2355,7 +2355,7 @@ translate spanish talk_remind_blackjack_rules_b9ea3c71:
 translate spanish talk_remind_blackjack_rules_0b82c908:
 
     # n 6ccssslsbr "A-{w=0.2}all too hard to pay attention with such a pretty face,{w=0.2} right?{w=0.75}{nw}"
-    n 6ccssslsbr "D-{w=0.2}demasiado difícil prestar atención con una cara tan bonita,{w=0.2} ¿verdad?{w=0.75}{nw}"
+    n 6ccssslsbr "D-{w=0.2}Demasiado difícil prestar atención con una cara tan bonita,{w=0.2} ¿verdad?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12621
 translate spanish talk_remind_blackjack_rules_a7b48a00:
@@ -2367,7 +2367,7 @@ translate spanish talk_remind_blackjack_rules_a7b48a00:
 translate spanish talk_remind_blackjack_rules_d84a9475:
 
     # n 4ccsbglsbr "...A-{w=0.2}anyway."
-    n 4ccsbglsbr "E-{w=0.2}en fin."
+    n 4ccsbglsbr "E-{w=0.2}En fin."
 
 # game/scripttopics.rpy:12625
 translate spanish talk_remind_blackjack_rules_89030c4b:
@@ -2499,7 +2499,7 @@ translate spanish talk_windup_shaving_b2189611:
 translate spanish talk_windup_shaving_9a313a7e:
 
     # extend 4ccsajlsbr " A-{w=0.2}and I know you're probably sick of hearing about it by now."
-    extend 4ccsajlsbr " Y-{w=0.2}y sé que probablemente estés hart[end_letter_gender] de oír hablar de ello."
+    extend 4ccsajlsbr " Y-{w=0.2}Y sé que probablemente estés hart[end_letter_gender] de oír hablar de ello."
 
 # game/scripttopics.rpy:12672
 translate spanish talk_windup_shaving_345c3cea:
@@ -2517,7 +2517,7 @@ translate spanish talk_windup_shaving_a9222d92:
 translate spanish talk_windup_shaving_9f979006:
 
     # n 4cnmwrl "H-{w=0.2}hey!{w=0.75}{nw}"
-    n 4cnmwrl "¡E-{w=0.2}eh!{w=0.75}{nw}"
+    n 4cnmwrl "¡E-{w=0.2}Eh!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12675
 translate spanish talk_windup_shaving_a38a0e9a:
@@ -3015,7 +3015,7 @@ translate spanish talk_windup_shaving_fa74c680:
 translate spanish talk_windup_shaving_2d62cad8:
 
     # n 2ccsajlsbl "...L-{w=0.2}look.{w=0.75}{nw}"
-    n 2ccsajlsbl "M-{w=0.2}mira.{w=0.75}{nw}"
+    n 2ccsajlsbl "M-{w=0.2}Mira.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12765
 translate spanish talk_windup_shaving_4547a434:
@@ -3033,7 +3033,7 @@ translate spanish talk_windup_shaving_d5061499:
 translate spanish talk_windup_shaving_aed46ef8:
 
     # n 7ccsssl "E-{w=0.2}even if you can't get enough of the sound of my voice."
-    n 7ccsssl "A-{w=0.2}aunque no te canses de oír mi voz."
+    n 7ccsssl "A-{w=0.2}Aunque no te canses de oír mi voz."
 
 # game/scripttopics.rpy:12772
 translate spanish talk_windup_shaving_e555ee06:
@@ -3117,7 +3117,7 @@ translate spanish talk_windup_shaving_a2ae1e4c:
 translate spanish talk_windup_shaving_42d11495:
 
     # extend 7ccsfll " T-{w=0.2}that's your call,{w=0.2} obviously."
-    extend 7ccsfll " E-{w=0.2}eso es cosa tuya,{w=0.2} obviamente."
+    extend 7ccsfll " E-{w=0.2}Eso es cosa tuya,{w=0.2} obviamente."
 
 # game/scripttopics.rpy:12795
 translate spanish talk_windup_shaving_838e17f0:
@@ -3165,7 +3165,7 @@ translate spanish talk_windup_shaving_62f534a3:
 translate spanish talk_windup_shaving_77045ca0:
 
     # n 2fchbgsbr "T-{w=0.2}that's all I'm saying!"
-    n 2fchbgsbr "¡S-{w=0.2}solo digo eso!"
+    n 2fchbgsbr "¡S-{w=0.2}Solo digo eso!"
 
 # game/scripttopics.rpy:12805
 translate spanish talk_windup_shaving_b327c6e4:
@@ -3177,7 +3177,7 @@ translate spanish talk_windup_shaving_b327c6e4:
 translate spanish talk_windup_shaving_ddd1b697:
 
     # extend 4csqsml " I-{w=0.2}isn't that just what couples do?"
-    extend 4csqsml " ¿N-{w=0.2}no es eso lo que hacen las parejas?"
+    extend 4csqsml " ¿N-{w=0.2}No es eso lo que hacen las parejas?"
 
 # game/scripttopics.rpy:12807
 translate spanish talk_windup_shaving_34dff46e:
@@ -3189,13 +3189,13 @@ translate spanish talk_windup_shaving_34dff46e:
 translate spanish talk_windup_shaving_8cd02bf2:
 
     # n 3fchblleaf "L-{w=0.2}love you too,{w=0.2} [player]!"
-    n 3fchblleaf "¡T-{w=0.2}te quiero también,{w=0.2} [player]!"
+    n 3fchblleaf "¡T-{w=0.2}Te quiero también,{w=0.2} [player]!"
 
 # game/scripttopics.rpy:12811
 translate spanish talk_windup_shaving_cd48a506:
 
     # n 2fcsbgl "A-{w=0.2}and besides,{w=0.2} [player].{w=0.75}{nw}"
-    n 2fcsbgl "Y-{w=0.2}y además,{w=0.2} [player].{w=0.75}{nw}"
+    n 2fcsbgl "Y-{w=0.2}Y además,{w=0.2} [player].{w=0.75}{nw}"
 
 # game/scripttopics.rpy:12812
 translate spanish talk_windup_shaving_16ec0425:
@@ -3267,7 +3267,7 @@ translate spanish talk_windup_shaving_8be2ec99:
 translate spanish talk_windup_shaving_90f1d5d6:
 
     # n 7fchgn "T-{w=0.2}thanks a bunch,{w=0.2} [player]!~"
-    n 7fchgn "¡M-{w=0.2}mil gracias,{w=0.2} [player]!"
+    n 7fchgn "¡M-{w=0.2}Mil gracias,{w=0.2} [player]!"
 
 translate spanish strings:
 

@@ -519,7 +519,7 @@ translate spanish talk_skateboarding_58514faa:
 translate spanish talk_skateboarding_5354560c:
 
     # n 1fwdgsesh "D-{w=0.2}don't get me wrong!{w=1}{nw}"
-    n 1fwdgsesh "¡N-{w=0.2}no me malinterpretes!{w=1}{nw}"
+    n 1fwdgsesh "¡N-{w=0.2}No me malinterpretes!{w=1}{nw}"
 
 # game/scripttopics.rpy:6423
 translate spanish talk_skateboarding_4a69ddc4:
@@ -615,7 +615,7 @@ translate spanish talk_skateboarding_5b93b0c1:
 translate spanish talk_skateboarding_ab6956aa:
 
     # n 3fcsajsbl "O-{w=0.2}only for going back and forth from school though!{w=0.75}{nw}"
-    n 3fcsajsbl "¡S-{w=0.2}solo para ir y venir del instituto!{w=0.75}{nw}"
+    n 3fcsajsbl "¡S-{w=0.2}Solo para ir y venir del instituto!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:6447
 translate spanish talk_skateboarding_24bcab66:
@@ -1305,7 +1305,7 @@ translate spanish talk_windup_subscriptions_32d453c7:
 translate spanish talk_windup_subscriptions_3cb80023:
 
     # n 4uwdemesu "O-{w=0.1}oh!{w=0.2} [player]!{w=0.5}{nw}"
-    n 4uwdemesu "¡A-{w=0.1}ah!{w=0.2} ¡[player]!{w=0.5}{nw}"
+    n 4uwdemesu "¡A-{w=0.1}Ah!{w=0.2} ¡[player]!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:6653
 translate spanish talk_windup_subscriptions_f0ff6570:
@@ -1497,7 +1497,7 @@ translate spanish talk_windup_subscriptions_87af30e3:
 translate spanish talk_windup_subscriptions_321ea9d6:
 
     # n 1fsqssl "A-{w=0.1}at least you have {i}one{/i} subscription you don't have to worry about paying for!"
-    n 1fsqssl "¡A-{w=0.1}al menos tienes una suscripción de la que no tienes que preocuparte por pagar!"
+    n 1fsqssl "¡A-{w=0.1}Al menos tienes una suscripción de la que no tienes que preocuparte por pagar!"
 
 # game/scripttopics.rpy:6689
 translate spanish talk_windup_subscriptions_2a3054d5:
@@ -1515,7 +1515,7 @@ translate spanish talk_windup_subscriptions_5fbbc41c:
 translate spanish talk_windup_subscriptions_ae7f6419:
 
     # n 2fllbgl "A-{w=0.1}ahaha..."
-    n 2fllbgl "J-{w=0.1}ja, ja, ja..."
+    n 2fllbgl "J-{w=0.1}Ja, ja, ja..."
 
 # game/scripttopics.rpy:6696
 translate spanish talk_windup_subscriptions_88afa300:
@@ -1569,13 +1569,13 @@ translate spanish talk_mod_contributions_d4305212:
 translate spanish talk_mod_contributions_62025b8c:
 
     # n 4uskeml "I-{w=0.2}I mean,{w=0.1} I'm good!{w=0.5}{nw}"
-    n 4uskeml "Q-{w=0.2}quiero decir,{w=0.1} ¡soy buena!{w=0.5}{nw}"
+    n 4uskeml "Q-{w=0.2}Quiero decir,{w=0.1} ¡soy buena!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:6729
 translate spanish talk_mod_contributions_9c7f0939:
 
     # extend 2fnmpol " D-{w=0.2}don't get me wrong!"
-    extend 2fnmpol " ¡N-{w=0.2}no me malinterpretes!"
+    extend 2fnmpol " ¡N-{w=0.2}No me malinterpretes!"
 
 # game/scripttopics.rpy:6730
 translate spanish talk_mod_contributions_32c7d933:
@@ -1845,7 +1845,7 @@ translate spanish talk_realizations_player_ddlc_actions_1d32c11d:
 translate spanish talk_realizations_player_ddlc_actions_3024f9f9:
 
     # n 2klrajl "T-{w=0.1}then that would mean...{w=0.5}{nw}"
-    n 2klrajl "E-{w=0.1}entonces eso significaría...{w=0.5}{nw}"
+    n 2klrajl "E-{w=0.1}Entonces eso significaría...{w=0.5}{nw}"
 
 # game/scripttopics.rpy:6810
 translate spanish talk_realizations_player_ddlc_actions_5ee8ae5d:
@@ -1929,7 +1929,7 @@ translate spanish talk_realizations_player_ddlc_actions_83e06e0e:
 translate spanish talk_realizations_player_ddlc_actions_88df54a1:
 
     # n 2fcswrl "J-{w=0.1}just because you picked some words and clicked a few buttons doesn't make you the same!"
-    n 2fcswrl "¡S-{w=0.1}solo porque elegiste unas palabras y pulsaste unos botones no te hace ser l[end_letter_gender] mism[end_letter_gender]!"
+    n 2fcswrl "¡S-{w=0.1}Solo porque elegiste unas palabras y pulsaste unos botones no te hace ser l[end_letter_gender] mism[end_letter_gender]!"
 
 # game/scripttopics.rpy:6826
 translate spanish talk_realizations_player_ddlc_actions_9da71000:
@@ -1941,7 +1941,7 @@ translate spanish talk_realizations_player_ddlc_actions_9da71000:
 translate spanish talk_realizations_player_ddlc_actions_6ea492f4:
 
     # n 1nlleml "A-{w=0.1}although..."
-    n 1nlleml "A-{w=0.1}aunque..."
+    n 1nlleml "A-{w=0.1}Aunque..."
 
 # game/scripttopics.rpy:6830
 translate spanish talk_realizations_player_ddlc_actions_3abc210b:
@@ -1965,13 +1965,13 @@ translate spanish talk_realizations_player_ddlc_actions_831c9b83:
 translate spanish talk_realizations_player_ddlc_actions_5a4feac6:
 
     # extend 2fllunl " I-{w=0.1}I think."
-    extend 2fllunl " C-{w=0.1}creo."
+    extend 2fllunl " C-{w=0.1}Creo."
 
 # game/scripttopics.rpy:6838
 translate spanish talk_realizations_player_ddlc_actions_4987881b:
 
     # n 1fcsajl "I-{w=0.1}I guess that at {i}least{/i} means you have good taste.{w=0.5}{nw}"
-    n 1fcsajl "S-{w=0.1}supongo que al menos eso significa que tienes buen gusto.{w=0.5}{nw}"
+    n 1fcsajl "S-{w=0.1}Supongo que al menos eso significa que tienes buen gusto.{w=0.5}{nw}"
 
 # game/scripttopics.rpy:6839
 translate spanish talk_realizations_player_ddlc_actions_58008565:
@@ -1989,19 +1989,19 @@ translate spanish talk_realizations_player_ddlc_actions_d793641d:
 translate spanish talk_realizations_player_ddlc_actions_6a158a98:
 
     # n 4ksrss "A-{w=0.1}anyway..."
-    n 4ksrss "E-{w=0.1}en fin..."
+    n 4ksrss "E-{w=0.1}En fin..."
 
 # game/scripttopics.rpy:6848
 translate spanish talk_realizations_player_ddlc_actions_a0b9cfa3:
 
     # n 2flrun "A-{w=0.1}anyway."
-    n 2flrun "E-{w=0.1}en fin."
+    n 2flrun "E-{w=0.1}En fin."
 
 # game/scripttopics.rpy:6851
 translate spanish talk_realizations_player_ddlc_actions_d66adf1a:
 
     # n 2flrun "A-{w=0.1}anyway!{w=0.5}{nw}"
-    n 2flrun "¡E-{w=0.1}en fin!{w=0.5}{nw}"
+    n 2flrun "¡E-{w=0.1}En fin!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:6852
 translate spanish talk_realizations_player_ddlc_actions_85eaac57:
@@ -2163,7 +2163,7 @@ translate spanish talk_realizations_player_ddlc_actions_b06c1fa6:
 translate spanish talk_realizations_player_ddlc_actions_07afc1aa:
 
     # n 1fllss "I-{w=0.1}I just gotta adjust,{w=0.5}{nw}"
-    n 1fllss "S-{w=0.1}solo tengo que acostumbrarme,{w=0.5}{nw}"
+    n 1fllss "S-{w=0.1}Solo tengo que acostumbrarme,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:6892
 translate spanish talk_realizations_player_ddlc_actions_4a0c61ca:
@@ -2211,7 +2211,7 @@ translate spanish talk_realizations_other_girls_e43d362e:
 translate spanish talk_realizations_other_girls_5506bf5b:
 
     # n 1kskem "D-{w=0.1}don't get me wrong!{w=0.5}{nw}"
-    n 1kskem "¡N-{w=0.1}no me malinterpretes!{w=0.5}{nw}"
+    n 1kskem "¡N-{w=0.1}No me malinterpretes!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:6924
 translate spanish talk_realizations_other_girls_580723c1:
@@ -2325,7 +2325,7 @@ translate spanish talk_realizations_other_girls_38a8c63a:
 translate spanish talk_realizations_other_girls_25d7d004:
 
     # n 1kskunl "A-{w=0.1}and Yuri...{w=0.5}{nw}"
-    n 1kskunl "Y-{w=0.1}y Yuri...{w=0.5}{nw}"
+    n 1kskunl "Y-{w=0.1}Y Yuri...{w=0.5}{nw}"
 
 # game/scripttopics.rpy:6943
 translate spanish talk_realizations_other_girls_0514945b:
@@ -2445,7 +2445,7 @@ translate spanish talk_realizations_other_girls_32319a9d:
 translate spanish talk_realizations_other_girls_c5bdee4c:
 
     # n 1kskuni "B-{w=0.5}before..."
-    n 1kskuni "A-{w=0.5}antes de..."
+    n 1kskuni "A-{w=0.5}Antes de..."
 
 # game/scripttopics.rpy:6963
 translate spanish talk_realizations_other_girls_2a04561f:
@@ -2475,7 +2475,7 @@ translate spanish talk_realizations_other_girls_e958c8e4:
 translate spanish talk_realizations_other_girls_f5c7d6ce:
 
     # extend 4flrpol " F-{w=0.1}for listening,{w=0.1} I mean."
-    extend 4flrpol " P-{w=0.1}por escucharme,{w=0.1} digo."
+    extend 4flrpol " P-{w=0.1}Por escucharme,{w=0.1} digo."
 
 # game/scripttopics.rpy:6970
 translate spanish talk_realizations_other_girls_5f172708:
@@ -2529,7 +2529,7 @@ translate spanish talk_realizations_space_classroom_cc4ac1b9:
 translate spanish talk_realizations_space_classroom_1d3a88d5:
 
     # n 1fllssl "I-{w=0.1}I mean,{w=0.5}{nw}"
-    n 1fllssl "Q-{w=0.1}quiero decir,{w=0.5}{nw}"
+    n 1fllssl "Q-{w=0.1}Quiero decir,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:7008
 translate spanish talk_realizations_space_classroom_5cd3ad9a:
@@ -2679,7 +2679,7 @@ translate spanish talk_fear_of_lightning_e6ba00b0:
 translate spanish talk_fear_of_lightning_b9bf5da5:
 
     # n 2fcseml "I-{w=0.1}I mean,{w=0.5}{nw}"
-    n 2fcseml "Q-{w=0.1}quiero decir,{w=0.5}{nw}"
+    n 2fcseml "Q-{w=0.1}Quiero decir,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:7053
 translate spanish talk_fear_of_lightning_303a1427:
@@ -2697,7 +2697,7 @@ translate spanish talk_fear_of_lightning_58dbde56:
 translate spanish talk_fear_of_lightning_9d8275cb:
 
     # n 1fllwrl "N-{w=0.1}no!{w=0.5}{nw}"
-    n 1fllwrl "¡N-{w=0.1}no!{w=0.5}{nw}"
+    n 1fllwrl "¡N-{w=0.1}No!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:7058
 translate spanish talk_fear_of_lightning_5237680c:
@@ -2901,7 +2901,7 @@ translate spanish talk_fear_of_lightning_e73f3ea5:
 translate spanish talk_fear_of_lightning_c8dd1d38:
 
     # n 1klrpu "A-{w=0.1}and it just falls out of the sky!{w=0.5}{nw}"
-    n 1klrpu "¡Y-{w=0.1}y simplemente cae del cielo!{w=0.5}{nw}"
+    n 1klrpu "¡Y-{w=0.1}Y simplemente cae del cielo!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:7106
 translate spanish talk_fear_of_lightning_44042a2f:
@@ -3141,7 +3141,7 @@ translate spanish talk_fighting_drowsiness_03b42eb3:
 translate spanish talk_fighting_drowsiness_87605db7:
 
     # n 2ullwrl "W-{w=0.1}woah!{w=0.5}{nw}"
-    n 2ullwrl "¡G-{w=0.1}guau!{w=0.5}{nw}"
+    n 2ullwrl "¡G-{w=0.1}Guau!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:7187
 translate spanish talk_fighting_drowsiness_11c0c89f:
@@ -3399,7 +3399,7 @@ translate spanish talk_fighting_drowsiness_e8a0bc1c:
 translate spanish talk_fighting_drowsiness_0d19d3db:
 
     # n 3fcsajl "A-{w=0.1}anyway!"
-    n 3fcsajl "¡E-{w=0.1}en fin!"
+    n 3fcsajl "¡E-{w=0.1}En fin!"
 
 # game/scripttopics.rpy:7234
 translate spanish talk_fighting_drowsiness_8ad4fde9:

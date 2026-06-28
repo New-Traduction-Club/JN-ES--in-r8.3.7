@@ -15,7 +15,7 @@ translate spanish talk_chocolate_preference_2c20693f:
 translate spanish talk_chocolate_preference_dc6f3eea:
 
     # n 1fllajlsbr "A-{w=0.2}anyway!{w=0.75}{nw}"
-    n 1fllajlsbr "E-{w=0.2}en fin, ¡total!{w=0.75}{nw}"
+    n 1fllajlsbr "E-{w=0.2}En fin, ¡total!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:9695
 translate spanish talk_chocolate_preference_c3f16966:
@@ -75,7 +75,7 @@ translate spanish talk_chocolate_preference_d668cd03:
 translate spanish talk_chocolate_preference_69fa8df0:
 
     # n 4fsldvlsbl "I-{w=0.2}I like to think I {i}know{/i} a sweetheart when I see one."
-    n 4fsldvlsbl "M-{w=0.2}me gusta pensar que reconozco a un encanto cuando lo veo."
+    n 4fsldvlsbl "M-{w=0.2}Me gusta pensar que reconozco a un encanto cuando lo veo."
 
 # game/scripttopics.rpy:9708
 translate spanish talk_chocolate_preference_f42eb0f1:
@@ -87,7 +87,7 @@ translate spanish talk_chocolate_preference_f42eb0f1:
 translate spanish talk_chocolate_preference_f32d3baa:
 
     # n 2fchblfsbl "L-{w=0.2}love you,{w=0.2} [player]~!"
-    n 2fchblfsbl "¡T-{w=0.2}te quiero,{w=0.2} [player]!"
+    n 2fchblfsbl "¡T-{w=0.2}Te quiero,{w=0.2} [player]!"
 
 # game/scripttopics.rpy:9712
 translate spanish talk_chocolate_preference_22b39a9d:
@@ -105,7 +105,7 @@ translate spanish talk_chocolate_preference_c6c7b492:
 translate spanish talk_chocolate_preference_b34b543b:
 
     # n 2fllssless "H-{w=0.2}how else would our time together be this sweet?"
-    n 2fllssless "¿C-{w=0.2}cómo si no iba a ser tan dulce el tiempo que pasamos juntos?"
+    n 2fllssless "¿C-{w=0.2}Cómo si no iba a ser tan dulce el tiempo que pasamos juntos?"
 
 # game/scripttopics.rpy:9715
 translate spanish talk_chocolate_preference_ef8694e2:
@@ -303,7 +303,7 @@ translate spanish talk_learning_languages_afba9279:
 translate spanish talk_learning_languages_989c2105:
 
     # n 4flrbglsbr "O-oder wie man auch sagt -{w=0.3}{nw}"
-    n 4flrbglsbr "O-oder wie man auch sagt -{w=0.3}{nw}"
+    n 4flrbglsbr "O-Oder wie man auch sagt -{w=0.3}{nw}"
 
 # game/scripttopics.rpy:9778
 translate spanish talk_learning_languages_7fc4073c:
@@ -375,7 +375,7 @@ translate spanish talk_learning_languages_12f6c3a9:
 translate spanish talk_learning_languages_fc193e76:
 
     # n 2fcswrl "N-{w=0.3}not like I couldn't do it!{w=0.75}{nw}"
-    n 2fcswrl "¡N-{w=0.3}no es que no supiera hacerlo!{w=0.75}{nw}"
+    n 2fcswrl "¡N-{w=0.3}No es que no supiera hacerlo!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:9792
 translate spanish talk_learning_languages_4898b716:
@@ -663,7 +663,7 @@ translate spanish talk_learning_languages_a65391fb:
 translate spanish talk_learning_languages_cbe9e702:
 
     # n 4uskemlesh "H-{w=0.3}huh?{w=0.75}{nw}"
-    n 4uskemlesh "¿E-{w=0.3}eh?{w=0.75}{nw}"
+    n 4uskemlesh "¿E-{w=0.3}Eh?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:9852
 translate spanish talk_learning_languages_40f571f0:
@@ -825,7 +825,7 @@ translate spanish talk_learning_languages_b9aa9f47:
 translate spanish talk_learning_languages_e58a9598:
 
     # n 4uskemlesh "W-{w=0.2}wait a second!{w=0.5}{nw}"
-    n 4uskemlesh "¡E-{w=0.2}espera un segundo!{w=0.5}{nw}"
+    n 4uskemlesh "¡E-{w=0.2}Espera un segundo!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:9897
 translate spanish talk_learning_languages_0f852874:
@@ -1461,7 +1461,7 @@ translate spanish talk_thoughts_on_vegetarianism_d24ec79f:
 translate spanish talk_thoughts_on_vegetarianism_b061375c:
 
     # n 1unmeml "B-{w=0.2}but that's not to say they looked {i}bad{/i} or anything!"
-    n 1unmeml "¡P-{w=0.2}pero eso no quiere decir que tuvieran {i}mala{/i} pinta ni nada!"
+    n 1unmeml "¡P-{w=0.2}Pero eso no quiere decir que tuvieran {i}mala{/i} pinta ni nada!"
 
 # game/scripttopics.rpy:10104
 translate spanish talk_thoughts_on_vegetarianism_31d654d8:
@@ -1965,7 +1965,7 @@ translate spanish talk_thoughts_on_vegetarianism_0b255fda:
 translate spanish talk_thoughts_on_vegetarianism_187526f3:
 
     # extend 1fsqful " A-{w=0.2}and why should I?"
-    extend 1fsqful " ¿Y-{w=0.2}y por qué debería?"
+    extend 1fsqful " ¿Y-{w=0.2}Y por qué debería?"
 
 # game/scripttopics.rpy:10199
 translate spanish talk_thoughts_on_vegetarianism_c39de1a4:
@@ -2127,13 +2127,13 @@ translate spanish talk_staying_motivated_30ff9d68:
 translate spanish talk_staying_motivated_2afe2162:
 
     # n 4unmfllsbl "...T-{w=0.2}that's not to say I feel like that often or anything!{w=0.75}{nw}"
-    n 4unmfllsbl "¡E-{w=0.2}eso no quiere decir que me sienta así a menudo ni nada!{w=0.75}{nw}"
+    n 4unmfllsbl "¡E-{w=0.2}Eso no quiere decir que me sienta así a menudo ni nada!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:10249
 translate spanish talk_staying_motivated_f3cbca32:
 
     # extend 3fcsemlsbl " N-{w=0.2}no way!{w=0.75}{nw}"
-    extend 3fcsemlsbl " ¡Q-{w=0.2}qué va!{w=0.75}{nw}"
+    extend 3fcsemlsbl " ¡Q-{w=0.2}Qué va!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:10250
 translate spanish talk_staying_motivated_5f2ddac9:
@@ -2409,7 +2409,7 @@ translate spanish talk_staying_motivated_7b33023c:
 translate spanish talk_staying_motivated_001b7681:
 
     # n 3fcsbgl "N-{w=0.2}now that's something I {i}know{/i} you of all people find motivating.{w=0.75}{nw}"
-    n 3fcsbgl "Y-{w=0.2}y eso es algo que sé que precisamente a ti te motiva.{w=0.75}{nw}"
+    n 3fcsbgl "Y-{w=0.2}Y eso es algo que sé que precisamente a ti te motiva.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:10310
 translate spanish talk_staying_motivated_2e97223d:
@@ -2433,7 +2433,7 @@ translate spanish talk_staying_motivated_a3cac25b:
 translate spanish talk_staying_motivated_c2c9a103:
 
     # n 3fcsbglsbl "N-{w=0.2}now {i}that's{/i} something anyone should find motivating!{w=1}{nw}"
-    n 3fcsbglsbl "¡Y-{w=0.2}y eso es algo que debería motivar a cualquiera!{w=1}{nw}"
+    n 3fcsbglsbl "¡Y-{w=0.2}Y eso es algo que debería motivar a cualquiera!{w=1}{nw}"
 
 # game/scripttopics.rpy:10316
 translate spanish talk_staying_motivated_a644a6da:
@@ -2511,7 +2511,7 @@ translate spanish talk_daily_jokes_unlock_c48eda0f:
 translate spanish talk_daily_jokes_unlock_cabe026a:
 
     # n 4unmemeshsbl "N-{w=0.2}not that I don't appreciate it,{w=0.2} or anything like that!{w=0.75}{nw}"
-    n 4unmemeshsbl "¡N-{w=0.2}no es que no lo aprecie,{w=0.2} ni nada de eso!{w=0.75}{nw}"
+    n 4unmemeshsbl "¡N-{w=0.2}No es que no lo aprecie,{w=0.2} ni nada de eso!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:10352
 translate spanish talk_daily_jokes_unlock_d89a9b86:
@@ -2523,13 +2523,13 @@ translate spanish talk_daily_jokes_unlock_d89a9b86:
 translate spanish talk_daily_jokes_unlock_63aa0827:
 
     # extend 2fcsajlsbl " I-{w=0.2}I totally do!{w=1}{nw}"
-    extend 2fcsajlsbl " ¡C-{w=0.2}claro que sí!{w=1}{nw}"
+    extend 2fcsajlsbl " ¡C-{w=0.2}Claro que sí!{w=1}{nw}"
 
 # game/scripttopics.rpy:10358
 translate spanish talk_daily_jokes_unlock_1607252a:
 
     # extend 4fcsemsbl " O-{w=0.2}of course I do!"
-    extend 4fcsemsbl " ¡P-{w=0.2}pues claro que sí!"
+    extend 4fcsemsbl " ¡P-{w=0.2}Pues claro que sí!"
 
 # game/scripttopics.rpy:10359
 translate spanish talk_daily_jokes_unlock_70d3e31b:
@@ -2769,7 +2769,7 @@ translate spanish talk_daily_jokes_unlock_5d9350a6:
 translate spanish talk_daily_jokes_unlock_d1a67cfb:
 
     # n "W-{w=0.2}who the hell just {b}balances{/b} books like that?!{w=0.75}{nw}"
-    n "¡¿A-{w=0.2}a quién demonios se le ocurre {b}poner{/b} los libros en equilibrio así?!{w=0.75}{nw}"
+    n "¡¿A-{w=0.2}A quién demonios se le ocurre {b}poner{/b} los libros en equilibrio así?!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:10418
 translate spanish talk_daily_jokes_unlock_2a946959:
@@ -3249,7 +3249,7 @@ translate spanish talk_daily_joke_c07c6552:
 translate spanish talk_daily_joke_ebdd99d3:
 
     # n 1fcsgslsbr "D-{w=0.2}don't get me wrong!"
-    n 1fcsgslsbr "¡N-{w=0.2}no me malinterpretes!"
+    n 1fcsgslsbr "¡N-{w=0.2}No me malinterpretes!"
 
 # game/scripttopics.rpy:10562
 translate spanish talk_daily_joke_219a29d8:
@@ -3261,7 +3261,7 @@ translate spanish talk_daily_joke_219a29d8:
 translate spanish talk_daily_joke_8ff299da:
 
     # extend 1fcsposbr " O-{w=0.2}obviously."
-    extend 1fcsposbr " O-{w=0.2}obviamente."
+    extend 1fcsposbr " O-{w=0.2}Obviamente."
 
 # game/scripttopics.rpy:10564
 translate spanish talk_daily_joke_9ffad459:
@@ -3381,7 +3381,7 @@ translate spanish talk_daily_joke_fb390573:
 translate spanish talk_daily_joke_884c52f6:
 
     # n 1tdlpu "O-{w=0.2}kay..."
-    n 1tdlpu "V-{w=0.2}vale..."
+    n 1tdlpu "V-{w=0.2}Vale..."
 
 # game/scripttopics.rpy:10625
 translate spanish talk_daily_joke_90d18393:
@@ -3579,7 +3579,7 @@ translate spanish talk_daily_joke_4bffd548:
 translate spanish talk_daily_joke_89b0f757:
 
     # n 1fcsbgsbl "W-{w=0.2}well,{w=0.5}{nw}"
-    n 1fcsbgsbl "B-{w=0.2}bueno,{w=0.5}{nw}"
+    n 1fcsbgsbl "B-{w=0.2}Bueno,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:10692
 translate spanish talk_daily_joke_9bf04c35:

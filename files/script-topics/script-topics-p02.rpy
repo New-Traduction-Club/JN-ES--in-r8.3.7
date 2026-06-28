@@ -165,13 +165,13 @@ translate spanish talk_using_computers_healthily_4bcc371c:
 translate spanish talk_using_computers_healthily_a4991159:
 
     # n 3unmfll "N-{w=0.2}not that I'm saying I don't appreciate it or anything like that!\n{w=0.75}{nw}"
-    n 3unmfll "¡N-{w=0.2}no es que diga que no lo aprecio ni nada de eso!\n{w=0.75}{nw}"
+    n 3unmfll "¡N-{w=0.2}No es que diga que no lo aprecio ni nada de eso!\n{w=0.75}{nw}"
 
 # game/scripttopics.rpy:1088
 translate spanish talk_using_computers_healthily_00a415fd:
 
     # extend 3ccsajlsbr "O-{w=0.2}of course I do!"
-    extend 3ccsajlsbr "¡C-{w=0.2}claro que lo aprecio!"
+    extend 3ccsajlsbr "¡C-{w=0.2}Claro que lo aprecio!"
 
 # game/scripttopics.rpy:1090
 translate spanish talk_using_computers_healthily_efe82ffb:
@@ -183,7 +183,7 @@ translate spanish talk_using_computers_healthily_efe82ffb:
 translate spanish talk_using_computers_healthily_309efb5e:
 
     # n 3unmeml "N-{w=0.2}not that it's a problem,{w=0.5}{nw}"
-    n 3unmeml "N-{w=0.2}no es que sea un problema,{w=0.5}{nw}"
+    n 3unmeml "N-{w=0.2}No es que sea un problema,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:1094
 translate spanish talk_using_computers_healthily_316b02c2:
@@ -195,13 +195,13 @@ translate spanish talk_using_computers_healthily_316b02c2:
 translate spanish talk_using_computers_healthily_95eca0d4:
 
     # extend 3ccspolsbl " Y-{w=0.2}you should know it isn't by now anyway,{w=0.2} [player]."
-    extend 3ccspolsbl " Y-{w=0.2}ya deberías saber que no lo es,{w=0.2} [player]."
+    extend 3ccspolsbl " Y-{w=0.2}Ya deberías saber que no lo es,{w=0.2} [player]."
 
 # game/scripttopics.rpy:1098
 translate spanish talk_using_computers_healthily_cd2386ff:
 
     # n 3unmeml "N-{w=0.2}not that I'm saying it's some kind of problem or anything like that,\n{w=0.5}{nw}"
-    n 3unmeml "N-{w=0.2}no digo que sea algún tipo de problema ni nada de eso,\n{w=0.5}{nw}"
+    n 3unmeml "N-{w=0.2}No digo que sea algún tipo de problema ni nada de eso,\n{w=0.5}{nw}"
 
 # game/scripttopics.rpy:1099
 translate spanish talk_using_computers_healthily_467d0f91:
@@ -291,7 +291,7 @@ translate spanish talk_using_computers_healthily_cfc88b9f:
 translate spanish talk_using_computers_healthily_2443ec70:
 
     # n 2ccspol "I-{w=0.2}I'm not having {i}that{/i} on my conscience."
-    n 2ccspol "N-{w=0.2}no pienso cargar con eso en mi conciencia."
+    n 2ccspol "N-{w=0.2}No pienso cargar con eso en mi conciencia."
 
 # game/scripttopics.rpy:1142
 translate spanish talk_using_computers_healthily_c888a5a7:
@@ -477,7 +477,7 @@ translate spanish talk_using_computers_healthily_90018735:
 translate spanish talk_using_computers_healthily_9a2c33df:
 
     # n 2fcsbglsbr "I-{w=0.2}I know you just can't get enough of me,{w=0.2} [player].{w=0.75}{nw}"
-    n 2fcsbglsbr "S-{w=0.2}sé que no te cansas de mí,{w=0.2} [player].{w=0.75}{nw}"
+    n 2fcsbglsbr "S-{w=0.2}Sé que no te cansas de mí,{w=0.2} [player].{w=0.75}{nw}"
 
 # game/scripttopics.rpy:1176
 translate spanish talk_using_computers_healthily_6f1ed2c6:
@@ -495,7 +495,7 @@ translate spanish talk_using_computers_healthily_0c84a561:
 translate spanish talk_using_computers_healthily_16ff7010:
 
     # n 2fsrsslsbr "I-{w=0.2}I know I {i}am{/i} pretty awesome,{w=0.5}{nw}"
-    n 2fsrsslsbr "S-{w=0.2}sé que soy bastante increíble,{w=0.5}{nw}"
+    n 2fsrsslsbr "S-{w=0.2}Sé que soy bastante increíble,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:1181
 translate spanish talk_using_computers_healthily_3ced40c0:
@@ -507,7 +507,7 @@ translate spanish talk_using_computers_healthily_3ced40c0:
 translate spanish talk_using_computers_healthily_5f78ccc2:
 
     # n 2ccsflsbr "A-{w=0.2}and besides,{w=0.5}{nw}"
-    n 2ccsflsbr "Y-{w=0.2}y además,{w=0.5}{nw}"
+    n 2ccsflsbr "Y-{w=0.2}Y además,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:1185
 translate spanish talk_using_computers_healthily_c3ac7b6f:
@@ -909,7 +909,7 @@ translate spanish talk_using_computers_healthily_9574d65d:
 translate spanish talk_using_computers_healthily_ff3be63b:
 
     # n 2cllflsbr "A-{w=0.2}and besides,{w=0.2} [player].{w=0.75}{nw}"
-    n 2cllflsbr "Y-{w=0.2}y además,{w=0.2} [player].{w=0.75}{nw}"
+    n 2cllflsbr "Y-{w=0.2}Y además,{w=0.2} [player].{w=0.75}{nw}"
 
 # game/scripttopics.rpy:1266
 translate spanish talk_using_computers_healthily_50eec2f5:
@@ -939,7 +939,7 @@ translate spanish talk_using_computers_healthily_2ed3bb6c:
 translate spanish talk_using_computers_healthily_e43b2825:
 
     # n 2fcstr "A-{w=0.2}and besides,{w=0.2} [player]."
-    n 2fcstr "Y-{w=0.2}y además,{w=0.2} [player]."
+    n 2fcstr "Y-{w=0.2}Y además,{w=0.2} [player]."
 
 # game/scripttopics.rpy:1273
 translate spanish talk_using_computers_healthily_404e48e2:
@@ -963,7 +963,7 @@ translate spanish talk_using_computers_healthily_e524e8f3:
 translate spanish talk_using_computers_healthily_e40b0036:
 
     # n 4ccsflsbr "A-{w=0.2}anyway."
-    n 4ccsflsbr "E-{w=0.2}en fin."
+    n 4ccsflsbr "E-{w=0.2}En fin."
 
 # game/scripttopics.rpy:1278
 translate spanish talk_using_computers_healthily_cbee8baf:
@@ -1143,13 +1143,13 @@ translate spanish talk_staying_active_55f5a747:
 translate spanish talk_staying_active_49d247a2:
 
     # n 5ccsajl "W-{w=0.2}well,{w=0.2} anyway.{w=0.75}{nw}"
-    n 5ccsajl "B-{w=0.2}bueno,{w=0.2} en fin.{w=0.75}{nw}"
+    n 5ccsajl "B-{w=0.2}Bueno,{w=0.2} en fin.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:1342
 translate spanish talk_staying_active_c5721ca1:
 
     # n 4ccsajl "A-{w=0.2}and besides!"
-    n 4ccsajl "¡Y-{w=0.2}y además!"
+    n 4ccsajl "¡Y-{w=0.2}Y además!"
 
 # game/scripttopics.rpy:1343
 translate spanish talk_staying_active_a00c72a4:
@@ -1167,7 +1167,7 @@ translate spanish talk_staying_active_e4a0c955:
 translate spanish talk_staying_active_230b821e:
 
     # n 5ccsaj "A-{w=0.2}anyway.{w=0.75}{nw}"
-    n 5ccsaj "E-{w=0.2}en fin.{w=0.75}{nw}"
+    n 5ccsaj "E-{w=0.2}En fin.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:1348
 translate spanish talk_staying_active_bf2e8c05:
@@ -1305,7 +1305,7 @@ translate spanish talk_staying_active_6b3b4756:
 translate spanish talk_staying_active_0bf693d3:
 
     # n 2ccsflsbl "B-{w=0.2}before all of {i}this{/i},{w=0.2} I mean."
-    n 2ccsflsbl "A-{w=0.2}antes de todo {i}esto{/i},{w=0.2} quiero decir."
+    n 2ccsflsbl "A-{w=0.2}Antes de todo {i}esto{/i},{w=0.2} quiero decir."
 
 # game/scripttopics.rpy:1375
 translate spanish talk_staying_active_b7a4ca24:
@@ -1461,7 +1461,7 @@ translate spanish talk_staying_active_dab471bd:
 translate spanish talk_staying_active_b254e758:
 
     # n 2fcstrlsbr "N-{w=0.2}not that it made it any less of a pain in the backside,{w=0.2} obviously."
-    n 2fcstrlsbr "N-{w=0.2}no es que eso lo hiciera menos coñazo,{w=0.2} obviamente."
+    n 2fcstrlsbr "N-{w=0.2}No es que eso lo hiciera menos coñazo,{w=0.2} obviamente."
 
 # game/scripttopics.rpy:1408
 translate spanish talk_staying_active_88d2e342:
@@ -1587,7 +1587,7 @@ translate spanish talk_staying_active_81277c59:
 translate spanish talk_staying_active_0abe2986:
 
     # n 5ccsbglsbr "T-{w=0.2}then maybe you won't be the {i}only{/i} one getting pumped.{w=0.75}{nw}"
-    n 5ccsbglsbr "E-{w=0.2}entonces quizás no seas [el_la] únic[end_letter_gender] que se anime.{w=0.75}{nw}"
+    n 5ccsbglsbr "E-{w=0.2}Entonces quizás no seas [el_la] únic[end_letter_gender] que se anime.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:1437
 translate spanish talk_staying_active_629319d1:
@@ -1599,13 +1599,13 @@ translate spanish talk_staying_active_629319d1:
 translate spanish talk_staying_active_548abb38:
 
     # n 3fcsbgl "L-{w=0.2}love you too,{w=0.2} [player]~!"
-    n 3fcsbgl "¡Y-{w=0.2}yo también te quiero,{w=0.2} [player]~!"
+    n 3fcsbgl "¡Y-{w=0.2}Yo también te quiero,{w=0.2} [player]~!"
 
 # game/scripttopics.rpy:1444
 translate spanish talk_staying_active_c9b381cd:
 
     # n 4ccsbglemesbr "B-{w=0.2}better hop to it,{w=0.2} [player]!"
-    n 4ccsbglemesbr "¡M-{w=0.2}mejor ponte a ello,{w=0.2} [player]!"
+    n 4ccsbglemesbr "¡M-{w=0.2}Mejor ponte a ello,{w=0.2} [player]!"
 
 # game/scripttopics.rpy:1447
 translate spanish talk_staying_active_d221492f:
@@ -1773,13 +1773,13 @@ translate spanish talk_relieving_stress_47135665:
 translate spanish talk_relieving_stress_f35da866:
 
     # n 2fslpo "A-{w=0.1}and of course,{w=0.1} you could always come see me,{w=0.1} you know..."
-    n 2fslpo "Y-{w=0.1}y por supuesto,{w=0.1} siempre podrías venir a verme,{w=0.1} ya sabes..."
+    n 2fslpo "Y-{w=0.1}Y por supuesto,{w=0.1} siempre podrías venir a verme,{w=0.1} ya sabes..."
 
 # game/scripttopics.rpy:1499
 translate spanish talk_relieving_stress_d8347c83:
 
     # n 1fchbgl "A-{w=0.1}anyway!"
-    n 1fchbgl "¡E-{w=0.1}en fin!"
+    n 1fchbgl "¡E-{w=0.1}En fin!"
 
 # game/scripttopics.rpy:1500
 translate spanish talk_relieving_stress_10b0caa9:
@@ -1893,7 +1893,7 @@ translate spanish talk_careful_spending_34b890f0:
 translate spanish talk_careful_spending_47205773:
 
     # n 4uwdajl "T-{w=0.1}that's not to say you shouldn't treat yourself,{w=0.1} of course!{w=0.5}{nw}"
-    n 4uwdajl "N-{w=0.1}no digo que no debas darte un capricho,{w=0.1} ¡claro!{w=0.5}{nw}"
+    n 4uwdajl "N-{w=0.1}No digo que no debas darte un capricho,{w=0.1} ¡claro!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:1538
 translate spanish talk_careful_spending_b0eec481:
@@ -2397,7 +2397,7 @@ translate spanish talk_weather_setup_main_555802fe:
 translate spanish talk_weather_setup_main_8fa0dc9c:
 
     # n 4fllssl "N-{w=0.3}not that I was {i}waiting{/i} for help,{w=0.1} {i}obviously{/i}!"
-    n 4fllssl "N-{w=0.3}no es que estuviera {i}esperando{/i} ayuda,{w=0.1} ¡{i}obviamente{/i}!"
+    n 4fllssl "N-{w=0.3}No es que estuviera {i}esperando{/i} ayuda,{w=0.1} ¡{i}obviamente{/i}!"
 
 # game/scripttopics.rpy:1731
 translate spanish talk_weather_setup_main_5e844418:
@@ -3747,7 +3747,7 @@ translate spanish talk_weather_setup_verify_1b10ea0e:
 translate spanish talk_weather_setup_verify_fac1c172:
 
     # extend 2knmpolesssbr " I-{w=0.3}I promise!"
-    extend 2knmpolesssbr " ¡T-{w=0.3}te lo prometo!"
+    extend 2knmpolesssbr " ¡T-{w=0.3}Te lo prometo!"
 
 # game/scripttopics.rpy:2179
 translate spanish talk_weather_setup_verify_58f30863:

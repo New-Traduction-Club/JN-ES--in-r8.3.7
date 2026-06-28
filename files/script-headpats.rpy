@@ -4,25 +4,25 @@
 translate spanish headpats_start_ebbc48b3:
 
     # n 1uskemlesh "H-{w=0.2}huh?!{w=0.75}{nw}"
-    n 1uskemlesh "¡¿E-{w=0.2}eh?!{w=0.75}{nw}"
+    n 1uskemlesh "¡¿E-{w=0.2}Eh?!{w=0.75}{nw}"
 
 # game/scriptheadpats.rpy:56
 translate spanish headpats_start_32364a90:
 
     # extend 1uwdemlsbl " D-{w=0.1}did you just say...?!"
-    extend 1uwdemlsbl " ¿A-{w=0.1}acabas de decir...?!"
+    extend 1uwdemlsbl " ¿A-{w=0.1}Acabas de decir...?!"
 
 # game/scriptheadpats.rpy:57
 translate spanish headpats_start_5b3daf7d:
 
     # n 2kbkwrlsbl "[player]!{w=0.5} W-{w=0.2}wait...!"
-    n 2kbkwrlsbl "¡[player]!{w=0.5} ¡E-{w=0.2}espera...!"
+    n 2kbkwrlsbl "¡[player]!{w=0.5} ¡E-{w=0.2}Espera...!"
 
 # game/scriptheadpats.rpy:61
 translate spanish headpats_start_55af5b38:
 
     # n 1knmemlsbl "T-{w=0.2}this again?!"
-    n 1knmemlsbl "¡¿O-{w=0.2}otra vez esto?!"
+    n 1knmemlsbl "¡¿O-{w=0.2}Otra vez esto?!"
 
 # game/scriptheadpats.rpy:62
 translate spanish headpats_start_14ab970d:
@@ -94,13 +94,13 @@ translate spanish headpats_inactive_58a5b1ae:
 translate spanish headpats_inactive_a93b1b31:
 
     # n 4knmpulsbr "...D-{w=0.2}did you change your mind or something already?"
-    n 4knmpulsbr "¿H-{w=0.2}has cambiado de opinión o algo?"
+    n 4knmpulsbr "¿H-{w=0.2}Has cambiado de opinión o algo?"
 
 # game/scriptheadpats.rpy:159
 translate spanish headpats_inactive_1771a013:
 
     # n 4kwmpulsbr "...D-{w=0.2}did you not feel like it anymore or something?"
-    n 4kwmpulsbr "¿Y-{w=0.2}ya no te apetece o qué?"
+    n 4kwmpulsbr "¿Y-{w=0.2}Ya no te apetece o qué?"
 
 # game/scriptheadpats.rpy:163
 translate spanish headpats_inactive_6858c67b:
@@ -124,7 +124,7 @@ translate spanish headpats_milestone_5_74db4f44:
 translate spanish headpats_milestone_10_02da9e1b:
 
     # n 4kwmpulsbr "Y-{w=0.2}you're still going?{w=0.5}{nw}"
-    n 4kwmpulsbr "¿T-{w=0.2}todavía sigues?{w=0.5}{nw}"
+    n 4kwmpulsbr "¿T-{w=0.2}Todavía sigues?{w=0.5}{nw}"
 
 # game/scriptheadpats.rpy:179
 translate spanish headpats_milestone_10_226cf9c6:
@@ -202,7 +202,7 @@ translate spanish headpats_milestone_500_d930846c:
 translate spanish headpats_milestone_500_a93bbcab:
 
     # n 3fcscafsbr "O-{w=0.2}once you get used to it."
-    n 3fcscafsbr "U-{w=0.2}una vez te acostumbras."
+    n 3fcscafsbr "U-{w=0.2}Una vez te acostumbras."
 
 # game/scriptheadpats.rpy:222
 translate spanish headpats_milestone_750_19e4ac9a:
@@ -262,7 +262,7 @@ translate spanish headpats_finished_29c87c37:
 translate spanish headpats_finished_dc43fb58:
 
     # n "J-{w=0.2}just a little." nointeract
-    n "S-{w=0.2}solo un poco." nointeract
+    n "S-{w=0.2}Solo un poco." nointeract
 
 # game/scriptheadpats.rpy:261
 translate spanish headpats_finished_33538415:
@@ -280,7 +280,7 @@ translate spanish headpats_finished_1734c889:
 translate spanish headpats_finished_db9bc8a8:
 
     # n 2fcsemlsbl "W-{w=0.2}well,{w=0.2} that's fine!{w=0.75}{nw}"
-    n 2fcsemlsbl "B-{w=0.2}bueno,{w=0.2} ¡está bien!{w=0.75}{nw}"
+    n 2fcsemlsbl "B-{w=0.2}Bueno,{w=0.2} ¡está bien!{w=0.75}{nw}"
 
 # game/scriptheadpats.rpy:270
 translate spanish headpats_finished_6d81a7d6:

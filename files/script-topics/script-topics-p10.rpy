@@ -3,7 +3,7 @@
 translate spanish talk_daily_jokes_stop_699c8167:
 
     # n 1unmem "H-{w=0.3}huh?{w=1}{nw}"
-    n 1unmem "¿E-{w=0.3}eh?{w=1}{nw}"
+    n 1unmem "¿E-{w=0.3}Eh?{w=1}{nw}"
 
 # game/scripttopics.rpy:10853
 translate spanish talk_daily_jokes_stop_2743c16b:
@@ -21,7 +21,7 @@ translate spanish talk_daily_jokes_stop_b2a8de1e:
 translate spanish talk_daily_jokes_stop_bf82115f:
 
     # n 1fcswr "A-{w=0.2}and just what is {i}that{/i} meant to mean,{w=0.2} [player]?!"
-    n 1fcswr "¿Y-{w=0.2}y qué se supone que significa eso,{w=0.2} [player]?!"
+    n 1fcswr "¿Y-{w=0.2}Y qué se supone que significa eso,{w=0.2} [player]?!"
 
 # game/scripttopics.rpy:10856
 translate spanish talk_daily_jokes_stop_fabdca31:
@@ -945,7 +945,7 @@ translate spanish talk_daily_jokes_seen_before_loop_20b1eaa0:
 translate spanish talk_daily_jokes_seen_before_loop_74ae3ae9:
 
     # n 1ccsajsbr "W-{w=0.2}well,{w=0.2} anyway."
-    n 1ccsajsbr "B-{w=0.2}bueno,{w=0.2} en fin."
+    n 1ccsajsbr "B-{w=0.2}Bueno,{w=0.2} en fin."
 
 # game/scripttopics.rpy:11180
 translate spanish talk_daily_jokes_seen_before_loop_e0be1e21_1:
@@ -1305,7 +1305,7 @@ translate spanish talk_fitting_clothing_7b2291b2:
 translate spanish talk_fitting_clothing_e024445d:
 
     # extend 4fcsgsl " A-{w=0.2}and why shouldn't I?{w=0.75}{nw}"
-    extend 4fcsgsl " ¿Y-{w=0.2}y por qué no iba a hacerlo?{w=0.75}{nw}"
+    extend 4fcsgsl " ¿Y-{w=0.2}Y por qué no iba a hacerlo?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11307
 translate spanish talk_fitting_clothing_908dc298:
@@ -1599,7 +1599,7 @@ translate spanish talk_fitting_clothing_c193522e:
 translate spanish talk_fitting_clothing_7379fb1c:
 
     # n 3fcsbgsbl "Y-{w=0.2}you better sit tight,{w=0.2} [player]..."
-    n 3fcsbgsbl "M-{w=0.2}más te vale no moverte,{w=0.2} [player]..."
+    n 3fcsbgsbl "M-{w=0.2}Más te vale no moverte,{w=0.2} [player]..."
 
 # game/scripttopics.rpy:11368
 translate spanish talk_fitting_clothing_07a26d24:
@@ -1635,19 +1635,19 @@ translate spanish talk_fitting_clothing_d1c3e445:
 translate spanish talk_fitting_clothing_4d03a665:
 
     # n "N-{w=0.2}no peeking!{w=0.75} Ehehe..."
-    n "¡S-{w=0.2}sin mirar!{w=0.75} Je, je, je..."
+    n "¡S-{w=0.2}Sin mirar!{w=0.75} Je, je, je..."
 
 # game/scripttopics.rpy:11390
 translate spanish talk_fitting_clothing_4283c307:
 
     # n "N-{w=0.2}no peeking!"
-    n "¡S-{w=0.2}sin mirar!"
+    n "¡S-{w=0.2}Sin mirar!"
 
 # game/scripttopics.rpy:11393
 translate spanish talk_fitting_clothing_5f26e220:
 
     # n "H-{w=0.2}hey!{w=0.75} You better not be peeking!"
-    n "¡E-{w=0.2}eh!{w=0.75} ¡Más te vale no estar mirando!"
+    n "¡E-{w=0.2}Eh!{w=0.75} ¡Más te vale no estar mirando!"
 
 # game/scripttopics.rpy:11401
 translate spanish talk_fitting_clothing_7b96d186:
@@ -2013,7 +2013,7 @@ translate spanish talk_favorite_subject_55caaed0:
 translate spanish talk_favorite_subject_64257a70:
 
     # n 4fcsgslsbr "B-{w=0.2}but that's not to say nobody would help or anything like that!{w=0.75}{nw}"
-    n 4fcsgslsbr "P-{w=0.2}pero eso no quiere decir que nadie me ayudara ni nada por el estilo.{w=0.75}{nw}"
+    n 4fcsgslsbr "P-{w=0.2}Pero eso no quiere decir que nadie me ayudara ni nada por el estilo.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11502
 translate spanish talk_favorite_subject_2e86091f:
@@ -2061,7 +2061,7 @@ translate spanish talk_favorite_subject_9454c98c:
 translate spanish talk_favorite_subject_4603b8ca:
 
     # n 1cslcal "E-{w=0.2}even if it's just so I can {i}say{/i} I can do it."
-    n 1cslcal "A-{w=0.2}aunque solo sea para poder decir que puedo hacerlo."
+    n 1cslcal "A-{w=0.2}Aunque solo sea para poder decir que puedo hacerlo."
 
 # game/scripttopics.rpy:11514
 translate spanish talk_favorite_subject_465ff2e4:
@@ -2085,7 +2085,7 @@ translate spanish talk_favorite_subject_cf55bf38:
 translate spanish talk_favorite_subject_da94dbb1:
 
     # n 2ccsfllsbr "A-{w=0.2}anyway!{w=0.75}{nw}"
-    n 2ccsfllsbr "E-{w=0.2}en fin.{w=0.75}{nw}"
+    n 2ccsfllsbr "E-{w=0.2}En fin.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11521
 translate spanish talk_favorite_subject_21120474:
@@ -2145,7 +2145,7 @@ translate spanish talk_favorite_subject_82b261a8:
 translate spanish talk_favorite_subject_119d2ea3:
 
     # n 2fcsajlsbl "A-{w=0.2}and besides.{w=0.75}{nw}"
-    n 2fcsajlsbl "Y-{w=0.2}y además.{w=0.75}{nw}"
+    n 2fcsajlsbl "Y-{w=0.2}Y además.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11537
 translate spanish talk_favorite_subject_1037059c:
@@ -2343,7 +2343,7 @@ translate spanish talk_favorite_subject_d90b30eb:
 translate spanish talk_favorite_subject_b19af1da:
 
     # n 1fchbgfsbr "L-{w=0.2}love you too,{w=0.2} [chosen_tease]!"
-    n 1fchbgfsbr "¡Y-{w=0.2}yo también te quiero,{w=0.2} [chosen_tease]!"
+    n 1fchbgfsbr "¡Y-{w=0.2}Yo también te quiero,{w=0.2} [chosen_tease]!"
 
 # game/scripttopics.rpy:11580
 translate spanish talk_favorite_subject_cc99fb0d:
@@ -2355,7 +2355,7 @@ translate spanish talk_favorite_subject_cc99fb0d:
 translate spanish talk_favorite_subject_e7886b11:
 
     # n 3fcsbglsbr "D-{w=0.2}don't you have something {i}way{/i} more interesting in front of you that you should be learning from instead?{w=0.75}{nw}"
-    n 3fcsbglsbr "¿N-{w=0.2}no tienes algo mucho más interesante delante de ti de lo que deberías estar aprendiendo?{w=0.75}{nw}"
+    n 3fcsbglsbr "¿N-{w=0.2}No tienes algo mucho más interesante delante de ti de lo que deberías estar aprendiendo?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11582
 translate spanish talk_favorite_subject_80bebf54:
@@ -2895,7 +2895,7 @@ translate spanish talk_can_you_draw_88adaf29:
 translate spanish talk_can_you_draw_c1934f75:
 
     # n 2cslem "A-{w=0.2}and besides!{w=0.75}{nw}"
-    n 2cslem "¡Y-{w=0.2}y además!{w=0.75}{nw}"
+    n 2cslem "¡Y-{w=0.2}Y además!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11713
 translate spanish talk_can_you_draw_3cc88579:
@@ -3045,7 +3045,7 @@ translate spanish talk_can_you_draw_11b385be:
 translate spanish talk_can_you_draw_136bf8cb:
 
     # extend 2fnmflsbl " A-{w=0.2}and I'm not saying they're wrong!"
-    extend 2fnmflsbl " ¡Y-{w=0.2}y no digo que se equivoquen!"
+    extend 2fnmflsbl " ¡Y-{w=0.2}Y no digo que se equivoquen!"
 
 # game/scripttopics.rpy:11742
 translate spanish talk_can_you_draw_5c17a9c8:
@@ -3111,7 +3111,7 @@ translate spanish talk_can_you_draw_3fa92575:
 translate spanish talk_can_you_draw_c9b18e45:
 
     # n 4fcsajlsbl "A-{w=0.2}anyway!{w=0.75}{nw}"
-    n 4fcsajlsbl "¡B-{w=0.2}bueno!{w=0.75}{nw}"
+    n 4fcsajlsbl "¡B-{w=0.2}Bueno!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11755
 translate spanish talk_can_you_draw_43df0cb8:
@@ -3147,7 +3147,7 @@ translate spanish talk_can_you_draw_9ebf0dc3:
 translate spanish talk_can_you_draw_c76e1dfc:
 
     # n 1fcscalsbr "N-{w=0.2}nevermind."
-    n 1fcscalsbr "O-{w=0.2}olvídalo."
+    n 1fcscalsbr "O-{w=0.2}Olvídalo."
 
 # game/scripttopics.rpy:11763
 translate spanish talk_can_you_draw_f52819ba:
@@ -3723,7 +3723,7 @@ translate spanish talk_enable_no_topics_reminder_922b2d42:
 translate spanish talk_enable_no_topics_reminder_f417f29c:
 
     # n 4fnmwrleexsbr "...H-{w=0.2}hey!{w=0.75}{nw}"
-    n 4fnmwrleexsbr "¡E-{w=0.2}eh!{w=0.75}{nw}"
+    n 4fnmwrleexsbr "¡E-{w=0.2}Eh!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11910
 translate spanish talk_enable_no_topics_reminder_8def345f:
@@ -3831,7 +3831,7 @@ translate spanish talk_enable_no_topics_reminder_ba8ca84c:
 translate spanish talk_enable_no_topics_reminder_9345d553:
 
     # n 2fcsbglsbr "E-{w=0.2}even if you do enjoy listening to me go on about it {i}that{/i} much.{w=0.75}{nw}"
-    n 2fcsbglsbr "A-{w=0.2}aunque disfrutes tanto escuchándome hablar de ello.{w=0.75}{nw}"
+    n 2fcsbglsbr "A-{w=0.2}Aunque disfrutes tanto escuchándome hablar de ello.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11930
 translate spanish talk_enable_no_topics_reminder_2cbe43cd:
@@ -3849,7 +3849,7 @@ translate spanish talk_enable_no_topics_reminder_94ce701f:
 translate spanish talk_enable_no_topics_reminder_373c91c8:
 
     # n 2fcsajlsbr "E-{w=0.2}even if you {i}do{/i} enjoy hearing me go on about it that much.{w=0.75}{nw}"
-    n 2fcsajlsbr "A-{w=0.2}aunque te guste tanto oírme hablar de ello.{w=0.75}{nw}"
+    n 2fcsajlsbr "A-{w=0.2}Aunque te guste tanto oírme hablar de ello.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11937
 translate spanish talk_enable_no_topics_reminder_37783c12:
@@ -3861,7 +3861,7 @@ translate spanish talk_enable_no_topics_reminder_37783c12:
 translate spanish talk_enable_no_topics_reminder_68c46482:
 
     # n 2fcsaj "A-{w=0.2}and I'm sure you would too.{w=0.75}{nw}"
-    n 2fcsaj "Y-{w=0.2}y estoy segura de que a ti también.{w=0.75}{nw}"
+    n 2fcsaj "Y-{w=0.2}Y estoy segura de que a ti también.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:11941
 translate spanish talk_enable_no_topics_reminder_170e63fe:
@@ -3975,7 +3975,7 @@ translate spanish talk_enable_no_topics_reminder_815e8d02:
 translate spanish talk_enable_no_topics_reminder_61d5c6e7:
 
     # n 2ccspo "J-{w=0.2}just don't get all antsy when I gotta tell you what's up again,{w=0.2} got it?"
-    n 2ccspo "S-{w=0.2}solo no te pongas nervios[end_letter_gender] cuando tenga que decirte qué pasa otra vez,{w=0.2} ¿vale?"
+    n 2ccspo "S-{w=0.2}Solo no te pongas nervios[end_letter_gender] cuando tenga que decirte qué pasa otra vez,{w=0.2} ¿vale?"
 
 # game/scripttopics.rpy:11993
 translate spanish talk_windup_playing_things_out_loud_76d94f6f:

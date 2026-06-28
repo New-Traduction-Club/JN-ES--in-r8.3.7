@@ -10,7 +10,7 @@ translate spanish talk_menu_688f7e27:
 translate spanish try_force_quit_ffc267b7:
 
     # n 2ccsem "W-{w=0.2}wait,{w=0.5}{nw}"
-    n 2ccsem "E-{w=0.2}espera,{w=0.5}{nw}"
+    n 2ccsem "E-{w=0.2}Espera,{w=0.5}{nw}"
 
 # game/scriptch30.rpy:870
 translate spanish try_force_quit_fd623c5c:
@@ -28,13 +28,13 @@ translate spanish try_force_quit_1344dfd4:
 translate spanish try_force_quit_3ba847a8:
 
     # n 4kskem "H-{w=0.2}hey!{w=0.75}{nw}"
-    n 4kskem "¡E-{w=0.2}eh!{w=0.75}{nw}"
+    n 4kskem "¡E-{w=0.2}Eh!{w=0.75}{nw}"
 
 # game/scriptch30.rpy:875
 translate spanish try_force_quit_221f8362:
 
     # extend 4kllflsbl " Y-{w=0.2}you aren't just going to leave like that,{w=0.5}{nw}"
-    extend 4kllflsbl " N-{w=0.2}no pensarás irte así sin más,{w=0.5}{nw}"
+    extend 4kllflsbl " N-{w=0.2}No pensarás irte así sin más,{w=0.5}{nw}"
 
 # game/scriptch30.rpy:876
 translate spanish try_force_quit_a59274b2:
@@ -64,7 +64,7 @@ translate spanish try_force_quit_faafa34b:
 translate spanish try_force_quit_5e81eb70:
 
     # n 4kllssl "T-{w=0.2}thanks,{w=0.2} [player].{w=1}{nw}"
-    n 4kllssl "G-{w=0.2}gracias,{w=0.2} [player].{w=1}{nw}"
+    n 4kllssl "G-{w=0.2}Gracias,{w=0.2} [player].{w=1}{nw}"
 
 # game/scriptch30.rpy:890
 translate spanish try_force_quit_bf071b9c:
@@ -82,7 +82,7 @@ translate spanish try_force_quit_80e1adfd:
 translate spanish try_force_quit_9dd05b39:
 
     # n 2flleml "G-{w=0.2}good!{w=1}{nw}"
-    n 2flleml "¡B-{w=0.2}bien!{w=1}{nw}"
+    n 2flleml "¡B-{w=0.2}Bien!{w=1}{nw}"
 
 # game/scriptch30.rpy:895
 translate spanish try_force_quit_5390bee5:

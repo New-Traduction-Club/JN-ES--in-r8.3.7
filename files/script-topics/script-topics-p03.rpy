@@ -212,7 +212,7 @@ translate spanish talk_favourite_season_50ab7402:
 translate spanish talk_favourite_season_d22d471c:
 
     # n 2flrpol "N-{w=0.1}not that I {i}dislike{/i} that side of you,{w=0.1} o-{w=0.1}or anything."
-    n 2flrpol "N-{w=0.1}no es que me desagrade ese lado tuyo,{w=0.1} n-{w=0.1}ni nada de eso."
+    n 2flrpol "N-{w=0.1}No es que me desagrade ese lado tuyo,{w=0.1} n-{w=0.1}ni nada de eso."
 
 # game/scripttopics.rpy:2327
 translate spanish talk_favourite_season_670bca14:
@@ -668,7 +668,7 @@ translate spanish talk_sweet_tooth_dba43341:
 translate spanish talk_sweet_tooth_c93349df:
 
     # n 3flleml "A-{w=0.1}anyway!"
-    n 3flleml "B-{w=0.1}bueno,{w=0.1} ¡da igual!"
+    n 3flleml "B-{w=0.1}Bueno,{w=0.1} ¡da igual!"
 
 # game/scripttopics.rpy:2522
 translate spanish talk_sweet_tooth_bd2f2643:
@@ -800,7 +800,7 @@ translate spanish talk_player_appearance_4e38058c:
 translate spanish talk_player_appearance_5627f114:
 
     # n 3fcsbg "A-{w=0.1}aha!{w=0.2} I knew you'd come around eventually,{w=0.1} [player].{nw}"
-    n 3fcsbg "¡J-{w=0.1}ja!{w=0.2} Sabía que acabarías cediendo,{w=0.1} [player].{nw}"
+    n 3fcsbg "¡J-{w=0.1}Ja!{w=0.2} Sabía que acabarías cediendo,{w=0.1} [player].{nw}"
 
 # game/scripttopics.rpy:2576
 translate spanish talk_player_appearance_7661a8d3:
@@ -890,7 +890,7 @@ translate spanish talk_player_appearance_3e53c9d7:
 translate spanish talk_player_appearance_cb064d9c:
 
     # n 1tnmsr "H-{w=0.1}huh?{w=0.2} Just pulling my leg,{w=0.1} are you?"
-    n 1tnmsr "¿E-{w=0.1}eh?{w=0.2} Me estás tomando el pelo,{w=0.1} ¿no?"
+    n 1tnmsr "¿E-{w=0.1}Eh?{w=0.2} Me estás tomando el pelo,{w=0.1} ¿no?"
 
 # game/scripttopics.rpy:2602
 translate spanish talk_player_appearance_5125f575:
@@ -926,7 +926,7 @@ translate spanish talk_player_appearance_4320baa6:
 translate spanish talk_player_appearance_998c8c24:
 
     # extend 2fslssl " B-{w=0.1}by spending time with me here,{w=0.1} I mean."
-    extend 2fslssl " D-{w=0.1}de pasar tiempo conmigo aquí,{w=0.1} quiero decir."
+    extend 2fslssl " D-{w=0.1}De pasar tiempo conmigo aquí,{w=0.1} quiero decir."
 
 # game/scripttopics.rpy:2612
 translate spanish talk_player_appearance_4a2076a4:
@@ -962,7 +962,7 @@ translate spanish talk_player_appearance_f42fe8a9:
 translate spanish talk_player_appearance_107b26bb:
 
     # n 1fllsfl "N-{w=0.1}not like anyone else would care {i}that{/i} much,{w=0.1} anyway."
-    n 1fllsfl "N-{w=0.1}no es que a nadie más le fuera a importar tanto,{w=0.1} de todas formas."
+    n 1fllsfl "N-{w=0.1}No es que a nadie más le fuera a importar tanto,{w=0.1} de todas formas."
 
 # game/scripttopics.rpy:2618
 translate spanish talk_player_appearance_3a992589:
@@ -986,7 +986,7 @@ translate spanish talk_player_appearance_310f798d:
 translate spanish talk_player_appearance_d6b0eca8:
 
     # extend 2fcsbgl " I-{w=0.1}I mean good!{w=0.5}{nw}"
-    extend 2fcsbgl " ¡Q-{w=0.1}quiero decir... bien!{w=0.5}{nw}"
+    extend 2fcsbgl " ¡Q-{w=0.1}Quiero decir... bien!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:2625
 translate spanish talk_player_appearance_e71114e5:
@@ -1046,7 +1046,7 @@ translate spanish talk_player_appearance_e3494b8b:
 translate spanish talk_player_appearance_da042d4a:
 
     # n 1fcseml "A-{w=0.1}anyway...!"
-    n 1fcseml "¡B-{w=0.1}bueno...!"
+    n 1fcseml "¡B-{w=0.1}Bueno...!"
 
 # game/scripttopics.rpy:2643
 translate spanish talk_player_appearance_9214b1e1:
@@ -1604,7 +1604,7 @@ translate spanish talk_player_appearance_90c5ebd8:
 translate spanish talk_player_appearance_62a1b240:
 
     # n 4unmgs "H-{w=0.1}huh?{w=0.2} Really?"
-    n 4unmgs "¿E-{w=0.1}eh?{w=0.2} ¿En serio?"
+    n 4unmgs "¿E-{w=0.1}Eh?{w=0.2} ¿En serio?"
 
 # game/scripttopics.rpy:2820
 translate spanish talk_player_appearance_a0f8322c:
@@ -1670,7 +1670,7 @@ translate spanish talk_player_appearance_fb08bc17:
 translate spanish talk_player_appearance_75cb46c1:
 
     # extend 2fllpo " I-{w=0.1}I'm not one to judge,{w=0.1} after all."
-    extend 2fllpo " Y-yo no soy quién para juzgar,{w=0.1} al fin y al cabo."
+    extend 2fllpo " Y-Yo no soy quién para juzgar,{w=0.1} al fin y al cabo."
 
 # game/scripttopics.rpy:2839
 translate spanish talk_player_appearance_2399f40b:
@@ -1706,7 +1706,7 @@ translate spanish talk_player_appearance_1ba3e5a6_1:
 translate spanish talk_player_appearance_1755f78a:
 
     # n 4unmgs "W-{w=0.1}woah!{w=0.2} What the heck,{w=0.1} [player]?{w=0.2} Really?"
-    n 4unmgs "¡G-guau!{w=0.2} ¿Qué narices,{w=0.1} [player]?{w=0.2} ¿En serio?"
+    n 4unmgs "¡G-Guau!{w=0.2} ¿Qué narices,{w=0.1} [player]?{w=0.2} ¿En serio?"
 
 # game/scripttopics.rpy:2849
 translate spanish talk_player_appearance_f7153086:
@@ -1814,7 +1814,7 @@ translate spanish talk_player_appearance_2909afe8:
 translate spanish talk_player_appearance_0f25dabf:
 
     # extend 2fllajl " A-ahem!{w=0.2} Anyway..."
-    extend 2fllajl " ¡E-ejem!{w=0.2} En fin..."
+    extend 2fllajl " ¡E-Ejem!{w=0.2} En fin..."
 
 # game/scripttopics.rpy:2901
 translate spanish talk_player_appearance_ea03cc33:
@@ -2150,7 +2150,7 @@ translate spanish talk_drinking_alcohol_67f90aa0:
 translate spanish talk_drinking_alcohol_a64708b0:
 
     # n 2flleml "B-{w=0.1}but only because I'm not gonna clean up after you!"
-    n 2flleml "¡P-{w=0.1}pero solo porque no pienso limpiar lo que manches!"
+    n 2flleml "¡P-{w=0.1}Pero solo porque no pienso limpiar lo que manches!"
 
 # game/scripttopics.rpy:2985
 translate spanish talk_drinking_alcohol_d1f5fc76:
@@ -2942,7 +2942,7 @@ translate spanish talk_give_nickname_55a35436:
 translate spanish talk_give_nickname_a92be479:
 
     # n 1fcsbgl "W-{w=0.1}well,{w=0.1} you have good taste,{w=0.1} at least."
-    n 1fcsbgl "B-{w=0.1}bueno,{w=0.1} tienes buen gusto,{w=0.1} al menos."
+    n 1fcsbgl "B-{w=0.1}Bueno,{w=0.1} tienes buen gusto,{w=0.1} al menos."
 
 # game/scripttopics.rpy:3299
 translate spanish talk_give_nickname_f48188cc:
@@ -2984,7 +2984,7 @@ translate spanish talk_give_nickname_a340b4f2:
 translate spanish talk_give_nickname_466bad8c:
 
     # n 2fskem "W-{w=0.1}what?{w=0.5}{nw}"
-    n 2fskem "¿Q-{w=0.1}qué?{w=0.5}{nw}"
+    n 2fskem "¿Q-{w=0.1}Qué?{w=0.5}{nw}"
 
 # game/scripttopics.rpy:3312
 translate spanish talk_give_nickname_7dd7a3e7:
@@ -3020,7 +3020,7 @@ translate spanish talk_give_nickname_870403b3:
 translate spanish talk_give_nickname_7816b6af:
 
     # n 4fskpu "E-{w=0.1}excuse me?!"
-    n 4fskpu "¡¿P-{w=0.1}perdona?!"
+    n 4fskpu "¡¿P-{w=0.1}Perdona?!"
 
 # game/scripttopics.rpy:3321
 translate spanish talk_give_nickname_81232cd7:
@@ -3146,7 +3146,7 @@ translate spanish talk_give_nickname_e82552d6:
 translate spanish talk_give_nickname_a12f21cf:
 
     # n 3fnmssl "D-{w=0.1}dreaming big,{w=0.1} are we,{w=0.1} [player]?"
-    n 3fnmssl "S-{w=0.1}soñando a lo grande,{w=0.1} ¿eh,{w=0.1} [player]?"
+    n 3fnmssl "S-{w=0.1}Soñando a lo grande,{w=0.1} ¿eh,{w=0.1} [player]?"
 
 # game/scripttopics.rpy:3362
 translate spanish talk_give_nickname_ccebb951:
@@ -3872,7 +3872,7 @@ translate spanish talk_aging_821dbeb3:
 translate spanish talk_aging_2a4b648f:
 
     # n 3klrpol "Y-{w=0.1}you better know that I love you all the same,{w=0.1} [chosen_tease]."
-    n 3klrpol "M-{w=0.1}más te vale saber que te quiero igual,{w=0.1} [chosen_tease]."
+    n 3klrpol "M-{w=0.1}Más te vale saber que te quiero igual,{w=0.1} [chosen_tease]."
 
 # game/scripttopics.rpy:3590
 translate spanish talk_aging_889c8a77:

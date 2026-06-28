@@ -244,7 +244,7 @@ translate spanish idle_reading_step_by_step_a25c35ff:
 translate spanish idle_reading_step_by_step_864c8548:
 
     # n 1fcsbglsbr "W-{w=0.2}what's up?{w=1}{nw}"
-    n 1fcsbglsbr "¿Q-{w=0.2}qué pasa?{w=1}{nw}"
+    n 1fcsbglsbr "¿Q-{w=0.2}Qué pasa?{w=1}{nw}"
 
 # game/scriptidles.rpy:430
 translate spanish idle_reading_step_by_step_69ce0f5e:
@@ -322,13 +322,13 @@ translate spanish idle_daydreaming_faa64e32:
 translate spanish idle_daydreaming_7c4cbf67:
 
     # extend 4fllsslsbr " H-{w=0.2}hey."
-    extend 4fllsslsbr " H-{w=0.2}hola."
+    extend 4fllsslsbr " H-{w=0.2}Hola."
 
 # game/scriptidles.rpy:472
 translate spanish idle_daydreaming_9e36a88e:
 
     # n 2fcsajlsbr "I-{w=0.2}I {i}totally{/i} wasn't spacing out or anything like that.{w=1}{nw}"
-    n 2fcsajlsbr "N-{w=0.2}no es que me haya quedado embobada ni nada parecido.{w=1}{nw}"
+    n 2fcsajlsbr "N-{w=0.2}No es que me haya quedado embobada ni nada parecido.{w=1}{nw}"
 
 # game/scriptidles.rpy:473
 translate spanish idle_daydreaming_6c0a0370:
@@ -340,7 +340,7 @@ translate spanish idle_daydreaming_6c0a0370:
 translate spanish idle_daydreaming_41cef6a0:
 
     # n 1fcsajsbr "A-{w=0.2}anyway."
-    n 1fcsajsbr "E-{w=0.2}en fin."
+    n 1fcsajsbr "E-{w=0.2}En fin."
 
 # game/scriptidles.rpy:477
 translate spanish idle_daydreaming_a1d6a725:
@@ -370,7 +370,7 @@ translate spanish idle_daydreaming_9fb43d63:
 translate spanish idle_daydreaming_171ded35:
 
     # n 2fcspolsbr "Y-{w=0.2}you should {i}really{/i} know better than to interrupt someone thinking,{w=0.75}{nw}"
-    n 2fcspolsbr "Y-{w=0.2}ya deberías saber que no se interrumpe a alguien cuando piensa,{w=0.75}{nw}"
+    n 2fcspolsbr "Y-{w=0.2}Ya deberías saber que no se interrumpe a alguien cuando piensa,{w=0.75}{nw}"
 
 # game/scriptidles.rpy:482
 translate spanish idle_daydreaming_5d5312b0:
@@ -436,13 +436,13 @@ translate spanish idle_poetry_attempts_71869b8d:
 translate spanish idle_poetry_attempts_3fa8a4d5:
 
     # n 1udwemleex "A-{w=0.2}ah!{w=0.75}{nw}"
-    n 1udwemleex "¡A-{w=0.2}ah!{w=0.75}{nw}"
+    n 1udwemleex "¡A-{w=0.2}Ah!{w=0.75}{nw}"
 
 # game/scriptidles.rpy:504
 translate spanish idle_poetry_attempts_8f7bb46b:
 
     # extend 1flremlsbl " T-{w=0.2}this?{w=0.75}{nw}"
-    extend 1flremlsbl " ¿E-{w=0.2}esto?{w=0.75}{nw}"
+    extend 1flremlsbl " ¿E-{w=0.2}Esto?{w=0.75}{nw}"
 
 # game/scriptidles.rpy:505
 translate spanish idle_poetry_attempts_7cf65c64:
@@ -454,7 +454,7 @@ translate spanish idle_poetry_attempts_7cf65c64:
 translate spanish idle_poetry_attempts_12b31f16:
 
     # extend 1fcscalsbl " N-{w=0.2}nothing at all."
-    extend 1fcscalsbl " N-{w=0.2}nada de nada."
+    extend 1fcscalsbl " N-{w=0.2}Nada de nada."
 
 # game/scriptidles.rpy:509
 translate spanish idle_poetry_attempts_75d387d7:
@@ -472,7 +472,7 @@ translate spanish idle_poetry_attempts_1f5a5190:
 translate spanish idle_poetry_attempts_a873b151:
 
     # n 1unmeml "A-{w=0.2}ah!{w=0.75}{nw}"
-    n 1unmeml "¡A-{w=0.2}ah!{w=0.75}{nw}"
+    n 1unmeml "¡A-{w=0.2}Ah!{w=0.75}{nw}"
 
 # game/scriptidles.rpy:512
 translate spanish idle_poetry_attempts_544ed9a0:
@@ -484,7 +484,7 @@ translate spanish idle_poetry_attempts_544ed9a0:
 translate spanish idle_poetry_attempts_bc077659:
 
     # n 1fcsajlsbr "J-{w=0.2}just a second!{w=1}{nw}"
-    n 1fcsajlsbr "¡D-{w=0.2}dame un segundo!{w=1}{nw}"
+    n 1fcsajlsbr "¡D-{w=0.2}Dame un segundo!{w=1}{nw}"
 
 # game/scriptidles.rpy:514
 translate spanish idle_poetry_attempts_e8ff2631:
@@ -526,7 +526,7 @@ translate spanish idle_vibing_headphones_8b6934aa:
 translate spanish idle_vibing_headphones_95417353:
 
     # n 2fcsfllsbl "J-{w=0.2}just give me a second here."
-    n 2fcsfllsbl "D-{w=0.2}dame un segundo."
+    n 2fcsfllsbl "D-{w=0.2}Dame un segundo."
 
 # game/scriptidles.rpy:560
 translate spanish idle_vibing_headphones_f4a8d171:
@@ -580,7 +580,7 @@ translate spanish idle_whistling_c05e91c4:
 translate spanish idle_whistling_8a828185:
 
     # extend 4cllssl " H-{w=0.2}hey [player]."
-    extend 4cllssl " H-{w=0.2}hola [player]."
+    extend 4cllssl " H-{w=0.2}Hola [player]."
 
 # game/scriptidles.rpy:589
 translate spanish idle_whistling_b45b4cdb:
@@ -604,7 +604,7 @@ translate spanish idle_whistling_8f585663:
 translate spanish idle_whistling_670ad2d2:
 
     # n 4unmfllesh "A-{w=0.2}ah!{w=0.75}{nw}"
-    n 4unmfllesh "¡A-{w=0.2}ah!{w=0.75}{nw}"
+    n 4unmfllesh "¡A-{w=0.2}Ah!{w=0.75}{nw}"
 
 # game/scriptidles.rpy:595
 translate spanish idle_whistling_3aee6299:
@@ -706,7 +706,7 @@ translate spanish idle_laptop_86fb3700:
 translate spanish idle_laptop_e7f132d8:
 
     # extend 4ccstrsbr " J-{w=0.2}just give me a sec to power down,{w=0.2} alright?"
-    extend 4ccstrsbr " D-{w=0.2}dame un segundo para apagar,{w=0.2} ¿vale?"
+    extend 4ccstrsbr " D-{w=0.2}Dame un segundo para apagar,{w=0.2} ¿vale?"
 
 # game/scriptidles.rpy:657
 translate spanish idle_math_attempts_f2a2032e:
@@ -724,13 +724,13 @@ translate spanish idle_math_attempts_45c8631e:
 translate spanish idle_math_attempts_64fe9340:
 
     # extend 1fchbgsbl " H-{w=0.2}hey [player]."
-    extend 1fchbgsbl " H-{w=0.2}hola [player]."
+    extend 1fchbgsbl " H-{w=0.2}Hola [player]."
 
 # game/scriptidles.rpy:660
 translate spanish idle_math_attempts_f5b75020:
 
     # n 2fslsssbl "I-{w=0.2}I was just..."
-    n 2fslsssbl "Y-{w=0.2}yo solo estaba..."
+    n 2fslsssbl "Y-{w=0.2}Yo solo estaba..."
 
 # game/scriptidles.rpy:661
 translate spanish idle_math_attempts_9d987237:
@@ -766,7 +766,7 @@ translate spanish idle_math_attempts_1f5a5190:
 translate spanish idle_math_attempts_03a1d698:
 
     # n 1uwdwrlesh "A-{w=0.2}ah!{w=0.75}{nw}"
-    n 1uwdwrlesh "¡A-{w=0.2}ah!{w=0.75}{nw}"
+    n 1uwdwrlesh "¡A-{w=0.2}Ah!{w=0.75}{nw}"
 
 # game/scriptidles.rpy:669
 translate spanish idle_math_attempts_dd343cd5:
@@ -778,7 +778,7 @@ translate spanish idle_math_attempts_dd343cd5:
 translate spanish idle_math_attempts_7253c8b8:
 
     # n 2fcsajlsbr "Y-{w=0.2}you {i}seriously{/i} need to learn how to speak up!{w=0.75}{nw}"
-    n 2fcsajlsbr "¡E-{w=0.2}en serio tienes que aprender a avisar!{w=0.75}{nw}"
+    n 2fcsajlsbr "¡E-{w=0.2}En serio tienes que aprender a avisar!{w=0.75}{nw}"
 
 # game/scriptidles.rpy:671
 translate spanish idle_math_attempts_956ff0c1:
@@ -814,7 +814,7 @@ translate spanish idle_plantcare_03fc1917:
 translate spanish idle_plantcare_00f5939e:
 
     # extend 1fllbgsbr " H-{w=0.2}hey,{w=0.2} [player].{w=0.75}{nw}"
-    extend 1fllbgsbr " H-{w=0.2}hola,{w=0.2} [player].{w=0.75}{nw}"
+    extend 1fllbgsbr " H-{w=0.2}Hola,{w=0.2} [player].{w=0.75}{nw}"
 
 # game/scriptidles.rpy:702
 translate spanish idle_plantcare_9a984cff:

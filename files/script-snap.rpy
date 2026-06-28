@@ -532,7 +532,7 @@ translate spanish snap_end_e21d6713:
 translate spanish snap_end_cfa459e2:
 
     # n 4fcsem "J-{w=0.2}jeez!{w=0.5}{nw}"
-    n 4fcsem "¡M-{w=0.2}madre mía!{w=0.5}{nw}"
+    n 4fcsem "¡M-{w=0.2}Madre mía!{w=0.5}{nw}"
 
 # game/scriptsnap.rpy:616
 translate spanish snap_end_55c7a754:
@@ -592,7 +592,7 @@ translate spanish snap_end_6085e53d:
 translate spanish snap_end_34b4257a:
 
     # n 2fcssssbr "W-{w=0.2}well played,{w=0.2} [player].{w=0.75}{nw}"
-    n 2fcssssbr "B-{w=0.2}bien jugado, [player].{w=0.75}{nw}"
+    n 2fcssssbr "B-{w=0.2}Bien jugado, [player].{w=0.75}{nw}"
 
 # game/scriptsnap.rpy:630
 translate spanish snap_end_4bf6fefe:
@@ -730,7 +730,7 @@ translate spanish snap_end_94d98cbc:
 translate spanish snap_end_2d911d89:
 
     # extend 1fcsbgsbl " A-{w=0.2}as if it was gonna go any other way."
-    extend 1fcsbgsbl " C-{w=0.2}como si fuera a acabar de otra forma."
+    extend 1fcsbgsbl " C-{w=0.2}Como si fuera a acabar de otra forma."
 
 # game/scriptsnap.rpy:666
 translate spanish snap_end_f38e1319:
@@ -814,7 +814,7 @@ translate spanish snap_end_2e3786f9:
 translate spanish snap_end_6c307de4:
 
     # n 4fcsgsl "I-{w=0.2}I demand a rematch!{w=0.75}{nw}"
-    n 4fcsgsl "¡E-{w=0.2}exijo la revancha!{w=0.75}{nw}"
+    n 4fcsgsl "¡E-{w=0.2}Exijo la revancha!{w=0.75}{nw}"
 
 # game/scriptsnap.rpy:692
 translate spanish snap_end_9823663a:
@@ -928,7 +928,7 @@ translate spanish snap_end_c2eb4b14:
 translate spanish snap_forfeit_6d0f7622:
 
     # n 4ccsflsbr "W-{w=0.2}wait,{w=0.5}{nw}"
-    n 4ccsflsbr "E-{w=0.2}espera,{w=0.5}{nw}"
+    n 4ccsflsbr "E-{w=0.2}Espera,{w=0.5}{nw}"
 
 # game/scriptsnap.rpy:760
 translate spanish snap_forfeit_4c9e8130:
@@ -1000,7 +1000,7 @@ translate spanish strings:
 
     # game/scriptsnap.rpy:440
     old "Y-{w=0.2}You're fast!"
-    new "¡E-{w=0.2}eres rápid[end_letter_gender]!"
+    new "¡E-{w=0.2}Eres rápid[end_letter_gender]!"
 
     # game/scriptsnap.rpy:440
     old "But I was just about to call ittt!"
@@ -1164,7 +1164,7 @@ translate spanish strings:
 
     # game/scriptsnap.rpy:564
     old "SNAP!{w=0.2} Huh...?{w=0.2} O-{w=0.2}oh."
-    new "¡SNAP!{w=0.2} ¿Eh...?{w=0.2} A-{w=0.2}ah."
+    new "¡SNAP!{w=0.2} ¿Eh...?{w=0.2} A-{w=0.2}Ah."
 
     # game/scriptsnap.rpy:564
     old "Snap sna-...{w=0.3} grrr."

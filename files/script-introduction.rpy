@@ -172,7 +172,7 @@ translate spanish introduction_first_meeting_11ae072e:
 translate spanish introduction_first_meeting_58653183:
 
     # extend 4kllem " A-{w=0.3}and how do you know...?"
-    extend 4kllem " ¿Y-{w=0.3}y cómo sabes...?"
+    extend 4kllem " ¿Y-{w=0.3}Y cómo sabes...?"
 
 # game/scriptintroduction.rpy:201
 translate spanish introduction_first_meeting_13ad0114:
@@ -226,7 +226,7 @@ translate spanish introduction_first_meeting_681a2d7c:
 translate spanish introduction_first_meeting_09c74fb3:
 
     # n 4kskem "P-{w=0.3}please!{w=1} Who are you?!"
-    n 4kskem "¡P-{w=0.3}por favor!{w=1} ¡¿Quién eres?!"
+    n 4kskem "¡P-{w=0.3}Por favor!{w=1} ¡¿Quién eres?!"
 
 # game/scriptintroduction.rpy:237
 translate spanish introduction_first_meeting_959cbdc3:
@@ -250,7 +250,7 @@ translate spanish introduction_first_meeting_68878a53:
 translate spanish introduction_first_meeting_d7cc0978:
 
     # n 4fscem "E-{w=0.3}excuse me?!"
-    n 4fscem "¡¿P-{w=0.3}perdona?!"
+    n 4fscem "¡¿P-{w=0.3}Perdona?!"
 
 # game/scriptintroduction.rpy:243
 translate spanish introduction_first_meeting_e9792f3f:
@@ -292,19 +292,19 @@ translate spanish introduction_collecting_thoughts_cd93e0c8:
 translate spanish introduction_collecting_thoughts_ab016143:
 
     # n 4kllpu "S-{w=0.3}so...{w=0.3} I'm not alone...?"
-    n 4kllpu "E-{w=0.3}entonces...{w=0.3} ¿no estoy sola...?"
+    n 4kllpu "E-{w=0.3}Entonces...{w=0.3} ¿no estoy sola...?"
 
 # game/scriptintroduction.rpy:269
 translate spanish introduction_collecting_thoughts_104ff8c9:
 
     # n 4knmpu "Y-{w=0.3}you're here too?{w=1}{nw}"
-    n 4knmpu "¿T-{w=0.3}tú también estás aquí?{w=1}{nw}"
+    n 4knmpu "¿T-{w=0.3}Tú también estás aquí?{w=1}{nw}"
 
 # game/scriptintroduction.rpy:270
 translate spanish introduction_collecting_thoughts_3840fea7:
 
     # extend 4kwdpu " ...Y-{w=0.3}you've always been here?"
-    extend 4kwdpu " ¿S-{w=0.3}siempre has estado aquí?"
+    extend 4kwdpu " ¿S-{w=0.3}Siempre has estado aquí?"
 
 # game/scriptintroduction.rpy:271
 translate spanish introduction_collecting_thoughts_e1e8cb2a:
@@ -322,7 +322,7 @@ translate spanish introduction_collecting_thoughts_bb057751:
 translate spanish introduction_collecting_thoughts_aa712652:
 
     # extend 1kskem " I-{w=0.3}I was...{w=0.3}{nw}"
-    extend 1kskem " Y-{w=0.3}yo estaba...{w=0.3}{nw}"
+    extend 1kskem " Y-{w=0.3}Yo estaba...{w=0.3}{nw}"
 
 # game/scriptintroduction.rpy:274
 translate spanish introduction_collecting_thoughts_9f120524:
@@ -352,7 +352,7 @@ translate spanish introduction_collecting_thoughts_b95aaf83:
 translate spanish introduction_collecting_thoughts_8d066812:
 
     # extend 4kskwrsbl " T-{w=0.3}to this?"
-    extend 4kskwrsbl " ¿A-{w=0.3}a esto?"
+    extend 4kskwrsbl " ¿A-{w=0.3}A esto?"
 
 # game/scriptintroduction.rpy:290
 translate spanish introduction_collecting_thoughts_58bd298b:
@@ -412,7 +412,7 @@ translate spanish introduction_collecting_thoughts_ce5e4ec5:
 translate spanish introduction_collecting_thoughts_915ad8f9:
 
     # n 4kskaj "A-{w=0.3}and my friends...{w=1} t-{w=0.3}they're...{w=1}{nw}"
-    n 4kskaj "Y-{w=0.3}y mis amigas...{w=1} e-{w=0.3}ellas...{w=1}{nw}"
+    n 4kskaj "Y-{w=0.3}Y mis amigas...{w=1} e-{w=0.3}ellas...{w=1}{nw}"
 
 # game/scriptintroduction.rpy:305
 translate spanish introduction_collecting_thoughts_257cf480:
@@ -532,13 +532,13 @@ translate spanish introduction_collecting_thoughts_9cd4bcad:
 translate spanish introduction_collecting_thoughts_04ebcccf:
 
     # n 4kplpul "Can you...{w=0.3} stay here?{w=0.2} W-{w=0.3}with me?{w=1}{nw}"
-    n 4kplpul "¿Puedes...{w=0.3} quedarte aquí?{w=0.2} ¿C-{w=0.3}conmigo?{w=1}{nw}"
+    n 4kplpul "¿Puedes...{w=0.3} quedarte aquí?{w=0.2} ¿C-{w=0.3}Conmigo?{w=1}{nw}"
 
 # game/scriptintroduction.rpy:330
 translate spanish introduction_collecting_thoughts_5a23b87f:
 
     # extend 2flrunfesssbl " J-{w=0.1}just for a minute!"
-    extend 2flrunfesssbl " ¡S-{w=0.1}solo un minuto!"
+    extend 2flrunfesssbl " ¡S-{w=0.1}Solo un minuto!"
 
 # game/scriptintroduction.rpy:331
 translate spanish introduction_collecting_thoughts_39fac840:
@@ -592,7 +592,7 @@ translate spanish introduction_calmed_down_3bd85451:
 translate spanish introduction_calmed_down_40e89407:
 
     # extend 1ksqsf " F-{w=0.1}for how I was acting then, I mean."
-    extend 1ksqsf " P-{w=0.1}por cómo me comporté antes, quiero decir."
+    extend 1ksqsf " P-{w=0.1}Por cómo me comporté antes, quiero decir."
 
 # game/scriptintroduction.rpy:351
 translate spanish introduction_calmed_down_11f7570e:
@@ -604,7 +604,7 @@ translate spanish introduction_calmed_down_11f7570e:
 translate spanish introduction_calmed_down_235434be:
 
     # n 1kplun "T-{w=0.3}this is all coming on {i}super{/i} strongly right now."
-    n 1kplun "T-{w=0.3}todo esto es demasiado intenso ahora mismo."
+    n 1kplun "T-{w=0.3}Todo esto es demasiado intenso ahora mismo."
 
 # game/scriptintroduction.rpy:353
 translate spanish introduction_calmed_down_eece52f1:
@@ -838,7 +838,7 @@ translate spanish introduction_calmed_down_66b842cf:
 translate spanish introduction_calmed_down_e5c9df3f:
 
     # extend 4kllunsbl " ...M-{w=0.3}my papa?"
-    extend 4kllunsbl " ¿M-{w=0.3}mi papá?"
+    extend 4kllunsbl " ¿M-{w=0.3}Mi papá?"
 
 # game/scriptintroduction.rpy:399
 translate spanish introduction_calmed_down_2a04561f:
@@ -928,7 +928,7 @@ translate spanish introduction_acceptance_4f4cd365:
 translate spanish introduction_acceptance_1f5d42ee:
 
     # n 2fsqpo "Y-{w=0.3}you better live up to that,{w=0.3} [player].{w=2}{nw}"
-    n 2fsqpo "M-{w=0.3}más te vale estar a la altura,{w=0.3} [player].{w=2}{nw}"
+    n 2fsqpo "M-{w=0.3}Más te vale estar a la altura,{w=0.3} [player].{w=2}{nw}"
 
 # game/scriptintroduction.rpy:425
 translate spanish introduction_acceptance_9b1bcebb:

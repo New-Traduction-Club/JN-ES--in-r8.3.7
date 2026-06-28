@@ -32,7 +32,7 @@ translate spanish greeting_affectionate_enamored_barging_in_80321076:
 translate spanish greeting_affectionate_enamored_barging_in_820fbbf7:
 
     # n 2fcswr "H-{w=0.2}hey!{w=0.75}{nw}"
-    n 2fcswr "¡E-{w=0.2}eh!{w=0.75}{nw}"
+    n 2fcswr "¡E-{w=0.2}Eh!{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:1387
 translate spanish greeting_affectionate_enamored_barging_in_04b7fe11:
@@ -110,7 +110,7 @@ translate spanish greeting_affectionate_enamored_barging_in_e2b91729:
 translate spanish greeting_affectionate_enamored_barging_in_d3a54402:
 
     # n 4ccsssl "A-{w=0.2}and besides."
-    n 4ccsssl "Y-{w=0.2}y además."
+    n 4ccsssl "Y-{w=0.2}Y además."
 
 # game/scriptgreetings.rpy:1400
 translate spanish greeting_affectionate_enamored_barging_in_7ee57e80:
@@ -230,7 +230,7 @@ translate spanish greeting_normal_happy_knew_youd_be_back_cb2c2d7e:
 translate spanish greeting_normal_happy_knew_youd_be_back_e5fbf2d5:
 
     # n 2fcsbglesssbr "I-{w=0.2}I knew you'd be back,{w=0.2} obviously."
-    n 2fcsbglesssbr "S-{w=0.2}sabía que volverías,{w=0.2} obviamente."
+    n 2fcsbglesssbr "S-{w=0.2}Sabía que volverías,{w=0.2} obviamente."
 
 # game/scriptgreetings.rpy:1514
 translate spanish greeting_normal_happy_knew_youd_be_back_9830edb6:
@@ -344,7 +344,7 @@ translate spanish greeting_normal_happy_wake_up_nat_8b04400b:
 translate spanish greeting_normal_happy_wake_up_nat_e609f077:
 
     # n 4flrbgesssbr "H-{w=0.3}hey!{w=0.5}{nw}"
-    n 4flrbgesssbr "¡E-{w=0.3}eh!{w=0.5}{nw}"
+    n 4flrbgesssbr "¡E-{w=0.3}Eh!{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:1569
 translate spanish greeting_normal_happy_wake_up_nat_918f4882:
@@ -380,7 +380,7 @@ translate spanish greeting_normal_happy_oh_whats_up_7ed70de4:
 translate spanish greeting_normal_happy_oh_whats_up_b33d9207:
 
     # n 2cchsssbr "W-{w=0.2}what's up?"
-    n 2cchsssbr "¿Q-{w=0.2}qué hay?"
+    n 2cchsssbr "¿Q-{w=0.2}Qué hay?"
 
 # game/scriptgreetings.rpy:1611
 translate spanish greeting_normal_happy_whats_new_c771865a:
@@ -398,7 +398,7 @@ translate spanish greeting_normal_happy_whats_new_fda13941:
 translate spanish greeting_normal_happy_whats_new_42080e1b:
 
     # extend 3ccsajsbr " I-{w=0.2}I was wondering when you were gonna decide to show up."
-    extend 3ccsajsbr " M-{w=0.2}me estaba preguntando cuándo ibas a decidir aparecer."
+    extend 3ccsajsbr " M-{w=0.2}Me estaba preguntando cuándo ibas a decidir aparecer."
 
 # game/scriptgreetings.rpy:1616
 translate spanish greeting_normal_happy_whats_new_f7f6bd73:
@@ -1040,7 +1040,7 @@ translate spanish greeting_feeling_better_sick_df4f871a:
 translate spanish greeting_feeling_better_sick_64669f61:
 
     # extend 2cchbgl " H-{w=0.2}hey!"
-    extend 2cchbgl " ¡H-{w=0.2}hola!"
+    extend 2cchbgl " ¡H-{w=0.2}Hola!"
 
 # game/scriptgreetings.rpy:2107
 translate spanish greeting_feeling_better_sick_bcdf775b:
@@ -1088,7 +1088,7 @@ translate spanish greeting_feeling_better_sick_1649032f:
 translate spanish greeting_feeling_better_sick_39c7c71a:
 
     # extend 2fchbg " I-{w=0.2}I knew you'd beat the crap out of some dumb old bug any day!"
-    extend 2fchbg " ¡S-{w=0.2}sabía que podrías con cualquier virus tonto en un periquete!"
+    extend 2fchbg " ¡S-{w=0.2}Sabía que podrías con cualquier virus tonto en un periquete!"
 
 # game/scriptgreetings.rpy:2122
 translate spanish greeting_feeling_better_sick_cb6bc4a1:
@@ -1136,7 +1136,7 @@ translate spanish greeting_feeling_better_sick_be750080:
 translate spanish greeting_feeling_better_sick_10a23e3d:
 
     # n 3ccsfllsbr "I-{w=0.2}I don't want some stinky sickness stealing all of our time together just because you needed me to nurse you back up again.{w=0.75}{nw}"
-    n 3ccsfllsbr "N-{w=0.2}no quiero que una enfermedad apestosa nos robe todo nuestro tiempo juntos solo porque necesitas que te vuelva a cuidar.{w=0.75}{nw}"
+    n 3ccsfllsbr "N-{w=0.2}No quiero que una enfermedad apestosa nos robe todo nuestro tiempo juntos solo porque necesitas que te vuelva a cuidar.{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:2131
 translate spanish greeting_feeling_better_sick_09e70178:
@@ -1154,7 +1154,7 @@ translate spanish greeting_feeling_better_sick_bcc1ba80:
 translate spanish greeting_feeling_better_sick_04624d39:
 
     # n 5ccsajlsbl "A-{w=0.2}anyway.{w=0.75}{nw}"
-    n 5ccsajlsbl "E-{w=0.2}en fin.{w=0.75}{nw}"
+    n 5ccsajlsbl "E-{w=0.2}En fin.{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:2134
 translate spanish greeting_feeling_better_sick_25fe5f9a:
@@ -1202,13 +1202,13 @@ translate spanish greeting_feeling_better_sick_c9c46a97:
 translate spanish greeting_feeling_better_sick_b5b1b457:
 
     # extend 2ccsbgsbl " I-{w=0.2}I totally knew you'd see the back of it soon!"
-    extend 2ccsbgsbl " ¡S-{w=0.2}sabía perfectamente que saldrías de esta pronto!"
+    extend 2ccsbgsbl " ¡S-{w=0.2}Sabía perfectamente que saldrías de esta pronto!"
 
 # game/scriptgreetings.rpy:2149
 translate spanish greeting_feeling_better_sick_0dbaf15a:
 
     # n 4clreml "N-{w=0.2}not that I care {i}that{/i} much, obviously!{w=0.75}{nw}"
-    n 4clreml "¡N-{w=0.2}no es que me importe taaanto, obviamente!{w=0.75}{nw}"
+    n 4clreml "¡N-{w=0.2}No es que me importe taaanto, obviamente!{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:2150
 translate spanish greeting_feeling_better_sick_64b7a043:
@@ -1364,13 +1364,13 @@ translate spanish greeting_feeling_better_sick_f5c07c8c:
 translate spanish greeting_feeling_better_sick_31020156:
 
     # n 4unmfllsbl "I-{w=0.2}It isn't like I don't {i}want{/i} you here or anything like that!"
-    n 4unmfllsbl "¡N-{w=0.2}no es que no te {i}quiera{/i} aquí ni nada de eso!"
+    n 4unmfllsbl "¡N-{w=0.2}No es que no te {i}quiera{/i} aquí ni nada de eso!"
 
 # game/scriptgreetings.rpy:2186
 translate spanish greeting_feeling_better_sick_fbd0fee1:
 
     # extend 2ccswrlsbl " O-{w=0.2}of course I do!"
-    extend 2ccswrlsbl " ¡C-{w=0.2}claro que quiero!"
+    extend 2ccswrlsbl " ¡C-{w=0.2}Claro que quiero!"
 
 # game/scriptgreetings.rpy:2187
 translate spanish greeting_feeling_better_sick_fc381494:
@@ -1442,7 +1442,7 @@ translate spanish greeting_feeling_better_sick_9ad3420c:
 translate spanish greeting_feeling_better_sick_80f7fc95:
 
     # n 4unmfllsbl "D-{w=0.2}don't get me wrong!{w=0.75}{nw}"
-    n 4unmfllsbl "¡N-{w=0.2}no me malinterpretes!{w=0.75}{nw}"
+    n 4unmfllsbl "¡N-{w=0.2}No me malinterpretes!{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:2205
 translate spanish greeting_feeling_better_sick_09d7cb8b:
@@ -1454,7 +1454,7 @@ translate spanish greeting_feeling_better_sick_09d7cb8b:
 translate spanish greeting_feeling_better_sick_ac777232:
 
     # n 3ccsajlsbl "I-{w=0.2}I just don't wanna be held responsible if you end up giving yourself a face full of keys because you were too stubborn to go rest properly.{w=0.75}{nw}"
-    n 3ccsajlsbl "S-{w=0.2}simplemente no quiero que se me haga responsable si acabas dándote de bruces contra el teclado por ser demasiado testarud[end_letter_gender] para ir a descansar como es debido.{w=0.75}{nw}"
+    n 3ccsajlsbl "S-{w=0.2}Simplemente no quiero que se me haga responsable si acabas dándote de bruces contra el teclado por ser demasiado testarud[end_letter_gender] para ir a descansar como es debido.{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:2207
 translate spanish greeting_feeling_better_sick_0bc15908:
@@ -1484,7 +1484,7 @@ translate spanish greeting_feeling_better_sick_4bbf450f:
 translate spanish greeting_feeling_better_sick_83147a92:
 
     # n 2ccseml "H-{w=0.2}hang on a second.{w=0.75}{nw}"
-    n 2ccseml "E-{w=0.2}espera un segundo.{w=0.75}{nw}"
+    n 2ccseml "E-{w=0.2}Espera un segundo.{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:2219
 translate spanish greeting_feeling_better_sick_1e3a6e08:
@@ -1496,7 +1496,7 @@ translate spanish greeting_feeling_better_sick_1e3a6e08:
 translate spanish greeting_feeling_better_sick_290beab8:
 
     # n 4fnmwrl "A-{w=0.2}are you being {i}serious{/i} right now?{w=1}{nw}"
-    n 4fnmwrl "¿E-{w=0.2}estás hablando en {i}serio{/i}?{w=1}{nw}"
+    n 4fnmwrl "¿E-{w=0.2}Estás hablando en {i}serio{/i}?{w=1}{nw}"
 
 # game/scriptgreetings.rpy:2221
 translate spanish greeting_feeling_better_sick_63ba9fb4:
@@ -1550,7 +1550,7 @@ translate spanish greeting_feeling_better_sick_fe53b901:
 translate spanish greeting_feeling_better_sick_73db59e4:
 
     # extend 4kllfllsbr " I-{w=0.2}it's not like I don't want you to be here.{w=0.75}{nw}"
-    extend 4kllfllsbr " N-{w=0.2}no es que no quiera que estés aquí.{w=0.75}{nw}"
+    extend 4kllfllsbr " N-{w=0.2}No es que no quiera que estés aquí.{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:2232
 translate spanish greeting_feeling_better_sick_d81dff4a:
@@ -1640,7 +1640,7 @@ translate spanish greeting_feeling_better_sick_f9a5e8db:
 translate spanish greeting_feeling_better_sick_16330202:
 
     # extend 3fcsemlsbr " O-{w=0.2}of course I do!{w=0.75}{nw}"
-    extend 3fcsemlsbr " ¡C-{w=0.2}claro que quiero!{w=0.75}{nw}"
+    extend 3fcsemlsbr " ¡C-{w=0.2}Claro que quiero!{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:2250
 translate spanish greeting_feeling_better_sick_c8cd78c5:
@@ -1664,7 +1664,7 @@ translate spanish greeting_feeling_better_sick_20a833ae:
 translate spanish greeting_feeling_better_sick_3e2df069:
 
     # n 7cllfll "I-{w=0.2}I mean,{w=0.2} really..."
-    n 7cllfll "Q-{w=0.2}quiero decir,{w=0.2} de verdad..."
+    n 7cllfll "Q-{w=0.2}Quiero decir,{w=0.2} de verdad..."
 
 # game/scriptgreetings.rpy:2254
 translate spanish greeting_feeling_better_sick_24549234:
@@ -1988,7 +1988,7 @@ translate spanish greeting_sudden_leave_1cefb443:
 translate spanish greeting_sudden_leave_0bac6cec:
 
     # n 4ncseml "I-{w=0.2}I don't know if something happened or what,{w=0.75}{nw}"
-    n 4ncseml "N-{w=0.2}no sé si ha pasado algo o qué,{w=0.75}{nw}"
+    n 4ncseml "N-{w=0.2}No sé si ha pasado algo o qué,{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:2385
 translate spanish greeting_sudden_leave_89309947:
@@ -2114,7 +2114,7 @@ translate spanish greeting_prolonged_leave_e8782d15:
 translate spanish greeting_prolonged_leave_7f8e9cb4:
 
     # n 4fbkwrf "W-{w=0.3}where were you?!{w=0.5}{nw}"
-    n 4fbkwrf "¡¿D-{w=0.3}dónde te habías metido?!{w=0.5}{nw}"
+    n 4fbkwrf "¡¿D-{w=0.3}Dónde te habías metido?!{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:2436
 translate spanish greeting_prolonged_leave_d0d19470:
@@ -2186,7 +2186,7 @@ translate spanish greeting_prolonged_leave_50d905ce:
 translate spanish greeting_prolonged_leave_d6c4a73d:
 
     # n 2fcsupl "J-{w=0.3}just as a friend,{w=0.5} but still!"
-    n 2fcsupl "S-{w=0.3}solo como amiga,{w=0.5} ¡pero aun así!"
+    n 2fcsupl "S-{w=0.3}Solo como amiga,{w=0.5} ¡pero aun así!"
 
 # game/scriptgreetings.rpy:2450
 translate spanish greeting_prolonged_leave_3adbbabd:
@@ -2258,7 +2258,7 @@ translate spanish greeting_prolonged_leave_fd2709f8:
 translate spanish greeting_early_morning_why_are_you_here_bee39986:
 
     # n 1uwdajlesh "H-{w=0.1}huh?{w=0.5}{nw}"
-    n 1uwdajlesh "¿E-{w=0.1}eh?{w=0.5}{nw}"
+    n 1uwdajlesh "¿E-{w=0.1}Eh?{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:2491
 translate spanish greeting_early_morning_why_are_you_here_8ab12123:
@@ -2312,7 +2312,7 @@ translate spanish greeting_early_morning_why_are_you_here_2858c6a0:
 translate spanish greeting_early_morning_why_are_you_here_6e31cd97:
 
     # n 4cchbgsbr "M-{w=0.2}morning?{w=0.75}{nw}"
-    n 4cchbgsbr "¿B-{w=0.2}buenos días?{w=0.75}{nw}"
+    n 4cchbgsbr "¿B-{w=0.2}Buenos días?{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:2500
 translate spanish greeting_early_morning_why_are_you_here_656cd155:
@@ -2348,7 +2348,7 @@ translate spanish greeting_morning_starshine_8ead4aba:
 translate spanish greeting_morning_starshine_4504f341:
 
     # n 7clrbglsbr "G-{w=0.2}good morning,{w=0.5}{nw}"
-    n 7clrbglsbr "B-{w=0.2}buenos días,{w=0.5}{nw}"
+    n 7clrbglsbr "B-{w=0.2}Buenos días,{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:2529
 translate spanish greeting_morning_starshine_6bdaee09:
@@ -2360,7 +2360,7 @@ translate spanish greeting_morning_starshine_6bdaee09:
 translate spanish greeting_morning_starshine_7ea57657:
 
     # n 6cchbglsbr "The Earth says 'H-{w=0.2}hello!'"
-    n 6cchbglsbr "La Tierra te dice '¡H-{w=0.2}hola!'"
+    n 6cchbglsbr "La Tierra te dice '¡H-{w=0.2}Hola!'"
 
 # game/scriptgreetings.rpy:2531
 translate spanish greeting_morning_starshine_15d8a0dc:
@@ -2378,7 +2378,7 @@ translate spanish greeting_morning_starshine_c4379da5:
 translate spanish greeting_morning_starshine_54496bd6:
 
     # n 5ccswrlsbl "...I-{w=0.2}it sounded better in my head [player],{w=0.5}{nw}"
-    n 5ccswrlsbl "S-{w=0.2}sonaba mejor en mi cabeza [player],{w=0.5}{nw}"
+    n 5ccswrlsbl "S-{w=0.2}Sonaba mejor en mi cabeza [player],{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:2534
 translate spanish greeting_morning_starshine_7220fae6:
@@ -2426,7 +2426,7 @@ translate spanish greeting_morning_starshine_0619d77d:
 translate spanish greeting_morning_starshine_46859571:
 
     # n 2cchblleaf "W-{w=0.2}welcome back!"
-    n 2cchblleaf "¡B-{w=0.2}bienvenid[end_letter_gender] de nuevo!"
+    n 2cchblleaf "¡B-{w=0.2}Bienvenid[end_letter_gender] de nuevo!"
 
 # game/scriptgreetings.rpy:2563
 translate spanish greeting_morning_waiting_for_you_a4a8ade9:
@@ -2594,7 +2594,7 @@ translate spanish greeting_morning_german_4637bfab:
 translate spanish greeting_morning_german_f1d71355:
 
     # n 6fcsbsl "G-{w=0.1}guten Morgen,{w=0.75}{nw}"
-    n 6fcsbsl "G-{w=0.1}guten Morgen,{w=0.75}{nw}"
+    n 6fcsbsl "G-{w=0.1}Guten Morgen,{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:2652
 translate spanish greeting_morning_german_18c127cb:
@@ -2660,7 +2660,7 @@ translate spanish greeting_morning_german_b3ba3fe1:
 translate spanish greeting_morning_german_799cd8cf:
 
     # extend 3fllbgsbr " O-{w=0.2}or something like that."
-    extend 3fllbgsbr " O-{w=0.2}o algo así."
+    extend 3fllbgsbr " O-{w=0.2}O algo así."
 
 # game/scriptgreetings.rpy:2685
 translate spanish greeting_afternoon_keeping_well_b3f116e9:
@@ -2816,7 +2816,7 @@ translate spanish greeting_night_night_owl_4500f6cd:
 translate spanish greeting_night_night_owl_1b056de1:
 
     # n 3fcsbg "N-{w=0.2}not that I have a problem with that,{w=0.2} obviously."
-    n 3fcsbg "O-{w=0.2}obviamente no es que tenga ningún problema con eso."
+    n 3fcsbg "O-{w=0.2}Obviamente no es que tenga ningún problema con eso."
 
 # game/scriptgreetings.rpy:2816
 translate spanish greeting_night_night_owl_54c97881:
@@ -3098,7 +3098,7 @@ translate spanish greeting_sanjo_generic_83d5cb02:
 translate spanish greeting_sanjo_generic_260673ef:
 
     # n 5clrajsbr "N-{w=0.2}not that I completely forgot to water him before or anything like that,\n{w=0.5}{nw}"
-    n 5clrajsbr "N-{w=0.2}no es que se me haya olvidado regarlo antes ni nada por el estilo,\n{w=0.5}{nw}"
+    n 5clrajsbr "N-{w=0.2}No es que se me haya olvidado regarlo antes ni nada por el estilo,\n{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:2938
 translate spanish greeting_sanjo_generic_09fc5792:
@@ -3182,7 +3182,7 @@ translate spanish greeting_glasses_eyetest_f5a1a700:
 translate spanish greeting_glasses_eyetest_48108ae9:
 
     # extend 7fchbglsbr " W-{w=0.2}what's up?"
-    extend 7fchbglsbr " ¿Q-{w=0.2}qué pasa?"
+    extend 7fchbglsbr " ¿Q-{w=0.2}Qué pasa?"
 
 # game/scriptgreetings.rpy:2979
 translate spanish greeting_glasses_eyetest_4ad0de13:
@@ -3218,7 +3218,7 @@ translate spanish greeting_glasses_eyetest_2542e9b6:
 translate spanish greeting_glasses_eyetest_0db9dbad:
 
     # extend 2ccscalsbl " O-{w=0.2}obviously."
-    extend 2ccscalsbl " O-{w=0.2}obviamente."
+    extend 2ccscalsbl " O-{w=0.2}Obviamente."
 
 # game/scriptgreetings.rpy:2997
 translate spanish greeting_glasses_eyetest_92ee3eec:
@@ -3248,7 +3248,7 @@ translate spanish greeting_glasses_eyetest_d4b66581:
 translate spanish greeting_glasses_eyetest_45f7f97d:
 
     # n 7fcsbglsbr "...O-{w=0.2}or did you just come here for an eye test featuring yours truly?{w=0.75}{nw}"
-    n 7fcsbglsbr "¿O-{w=0.2}o es que vienes a que una servidora te haga un examen de la vista?{w=0.75}{nw}"
+    n 7fcsbglsbr "¿O-{w=0.2}O es que vienes a que una servidora te haga un examen de la vista?{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:3002
 translate spanish greeting_glasses_eyetest_3fbb73a5:
@@ -3320,7 +3320,7 @@ translate spanish greeting_night_browsing_1fd355d6:
 translate spanish greeting_night_browsing_cc9f60e7:
 
     # extend 1fbkwrlsbl " S-{w=0.2}since when did you get here?!{w=0.75}{nw}"
-    extend 1fbkwrlsbl " ¿¡D-{w=0.2}desde cuándo estás aquí?!{w=0.75}{nw}"
+    extend 1fbkwrlsbl " ¿¡D-{w=0.2}Desde cuándo estás aquí?!{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:3044
 translate spanish greeting_night_browsing_374a1061:
@@ -3362,7 +3362,7 @@ translate spanish greeting_night_browsing_b3d939e1:
 translate spanish greeting_night_browsing_7a6373a4:
 
     # extend 1ccsfll " J-{w=0.2}just give me a second,{w=0.2} alright?"
-    extend 1ccsfll " D-{w=0.2}dame un segundo,{w=0.2} ¿vale?"
+    extend 1ccsfll " D-{w=0.2}Dame un segundo,{w=0.2} ¿vale?"
 
 # game/scriptgreetings.rpy:3062
 translate spanish greeting_night_browsing_62df6001:
@@ -3398,7 +3398,7 @@ translate spanish greeting_night_browsing_8eb0093c:
 translate spanish greeting_night_browsing_bfba80f1:
 
     # n 7fklbgl "O-{w=0.2}or were you just here to {i}browse{/i} too?"
-    n 7fklbgl "¿O-{w=0.2}o tú también has venido solo a navegar un rato?"
+    n 7fklbgl "¿O-{w=0.2}O tú también has venido solo a navegar un rato?"
 
 # game/scriptgreetings.rpy:3070
 translate spanish greeting_night_browsing_3242f0c1:

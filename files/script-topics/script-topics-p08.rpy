@@ -429,7 +429,7 @@ translate spanish talk_what_do_you_think_about_fanart_6fed07bd:
 translate spanish talk_what_do_you_think_about_fanart_b7aba6fa:
 
     # n 4uskajesh "T-{w=0.1}that's not to say those who don't make any aren't {i}real{/i} fans or anything like that!"
-    n 4uskajesh "¡N-{w=0.1}no es que los que no lo hagan no sean fans de verdad ni nada de eso!"
+    n 4uskajesh "¡N-{w=0.1}No es que los que no lo hagan no sean fans de verdad ni nada de eso!"
 
 # game/scripttopics.rpy:8559
 translate spanish talk_what_do_you_think_about_fanart_7fc9248d:
@@ -1245,7 +1245,7 @@ translate spanish talk_windup_bullying_aac3b032:
 translate spanish talk_windup_bullying_4007c422:
 
     # extend 4uskemesh " O-{w=0.3}oh!{w=0.5}{nw}"
-    extend 4uskemesh " ¡O-{w=0.3}oh!{w=0.5}{nw}"
+    extend 4uskemesh " ¡O-{w=0.3}Oh!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:8752
 translate spanish talk_windup_bullying_77394a31:
@@ -1473,7 +1473,7 @@ translate spanish talk_windup_bullying_6e311102:
 translate spanish talk_windup_bullying_ffe861df:
 
     # n 4uskemesu "...T-{w=0.3}that's not to say you gotta freak out or anything crazy like that!{w=0.75}{nw}"
-    n 4uskemesu "¡N-{w=0.3}no es que tengas que volverte loc[end_letter_gender] ni hacer ninguna locura!{w=0.75}{nw}"
+    n 4uskemesu "¡N-{w=0.3}No es que tengas que volverte loc[end_letter_gender] ni hacer ninguna locura!{w=0.75}{nw}"
 
 # game/scripttopics.rpy:8790
 translate spanish talk_windup_bullying_286ce11b:
@@ -1839,7 +1839,7 @@ translate spanish talk_player_change_name_d4389fde:
 translate spanish talk_player_change_name_312e40fb:
 
     # n 2fskwrlesh "...E-{w=0.2}excuse me?!"
-    n 2fskwrlesh "¡¿P-{w=0.2}perdona?!"
+    n 2fskwrlesh "¡¿P-{w=0.2}Perdona?!"
 
 # game/scripttopics.rpy:8925
 translate spanish talk_player_change_name_1fd559f0:
@@ -1869,13 +1869,13 @@ translate spanish talk_player_change_name_65859bc5:
 translate spanish talk_player_change_name_d797112d:
 
     # n 1fscwresh "Y-{w=0.2}you said {i}what{/i} now?!{w=1}{nw}"
-    n 1fscwresh "¿Q-{w=0.2}qué acabas de decir?{w=1}{nw}"
+    n 1fscwresh "¿Q-{w=0.2}Qué acabas de decir?{w=1}{nw}"
 
 # game/scripttopics.rpy:8933
 translate spanish talk_player_change_name_8212b930:
 
     # extend 2fsqfuean " I-{w=0.1}is that some kind of joke?!"
-    extend 2fsqfuean " ¿E-{w=0.1}esto es algún tipo de broma?"
+    extend 2fsqfuean " ¿E-{w=0.1}Esto es algún tipo de broma?"
 
 # game/scripttopics.rpy:8934
 translate spanish talk_player_change_name_a2a8286f:
@@ -2355,7 +2355,7 @@ translate spanish talk_players_birthday_intro_653aa271:
 translate spanish talk_players_birthday_intro_d4b4e106:
 
     # n 4fnmem "H-{w=0.3}hey!"
-    n 4fnmem "¡E-{w=0.3}eh!"
+    n 4fnmem "¡E-{w=0.3}Eh!"
 
 # game/scripttopics.rpy:9119
 translate spanish talk_players_birthday_intro_2c076a01:
@@ -2607,7 +2607,7 @@ translate spanish talk_players_birthday_intro_b81d9117:
 translate spanish talk_players_birthday_intro_d7dec93d:
 
     # n 2fcseml "A-{w=0.3}anyway!"
-    n 2fcseml "¡E-{w=0.3}en fin!"
+    n 2fcseml "¡E-{w=0.3}En fin!"
 
 # game/scripttopics.rpy:9180
 translate spanish talk_players_birthday_intro_279b0733:
@@ -2655,7 +2655,7 @@ translate spanish talk_players_birthday_intro_bf2c6684:
 translate spanish talk_players_birthday_intro_6d0200e3:
 
     # n 3fcsbgl "Y-yeah!{w=0.5}{nw}"
-    n 3fcsbgl "¡S-sí!{w=0.5}{nw}"
+    n 3fcsbgl "¡S-Sí!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:9195
 translate spanish talk_players_birthday_intro_4a6b3301:
@@ -2721,7 +2721,7 @@ translate spanish talk_players_birthday_intro_a3197e29:
 translate spanish talk_players_birthday_intro_89292549:
 
     # n 2fcseml "W-{w=0.3}well,{w=0.2} that's fine,{w=0.5}{nw}"
-    n 2fcseml "B-{w=0.3}bueno,{w=0.2} está bien,{w=0.5}{nw}"
+    n 2fcseml "B-{w=0.3}Bueno,{w=0.2} está bien,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:9209
 translate spanish talk_players_birthday_intro_329e5324:
@@ -3357,7 +3357,7 @@ translate spanish talk_chocolate_preference_e69b0624:
 translate spanish talk_chocolate_preference_252ec585:
 
     # n 3fcsbglsbl "Y-{w=0.2}you aren't trying to {i}sweeten{/i} me up or something,{w=0.2} are you?{w=0.75}{nw}"
-    n 3fcsbglsbl "N-{w=0.2}no estarás intentando {i}conquistarme{/i} con dulzura ni nada de eso,{w=0.2} ¿no?{w=0.75}{nw}"
+    n 3fcsbglsbl "N-{w=0.2}No estarás intentando {i}conquistarme{/i} con dulzura ni nada de eso,{w=0.2} ¿no?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:9546
 translate spanish talk_chocolate_preference_c18fbee9:
@@ -3375,7 +3375,7 @@ translate spanish talk_chocolate_preference_bcce65f1:
 translate spanish talk_chocolate_preference_6bb913d7:
 
     # n 3fcsbglsbl "W-{w=0.2}well,{w=0.2} anyway!"
-    n 3fcsbglsbl "¡B-{w=0.2}bueno,{w=0.2} en fin!"
+    n 3fcsbglsbl "¡B-{w=0.2}Bueno,{w=0.2} en fin!"
 
 # game/scripttopics.rpy:9552
 translate spanish talk_chocolate_preference_3e00f3dd:
@@ -3867,7 +3867,7 @@ translate spanish talk_chocolate_preference_14bb661a:
 translate spanish talk_chocolate_preference_a15bc69f:
 
     # n 4fllbglsbr "T-{w=0.2}that's not to say the others are terrible,{w=0.2} or anything like that.{w=0.75}{nw}"
-    n 4fllbglsbr "N-{w=0.2}no es que los otros sean terribles,{w=0.2} ni nada de eso.{w=0.75}{nw}"
+    n 4fllbglsbr "N-{w=0.2}No es que los otros sean terribles,{w=0.2} ni nada de eso.{w=0.75}{nw}"
 
 # game/scripttopics.rpy:9660
 translate spanish talk_chocolate_preference_6fc62546:
@@ -3909,7 +3909,7 @@ translate spanish talk_chocolate_preference_b505697f:
 translate spanish talk_chocolate_preference_5760e219:
 
     # n 2fcsbglsbr "W-{w=0.2}well,{w=1}{nw}"
-    n 2fcsbglsbr "B-{w=0.2}bueno,{w=1}{nw}"
+    n 2fcsbglsbr "B-{w=0.2}Bueno,{w=1}{nw}"
 
 # game/scripttopics.rpy:9667
 translate spanish talk_chocolate_preference_40fc4d51:
@@ -3933,7 +3933,7 @@ translate spanish talk_chocolate_preference_f4299551:
 translate spanish talk_chocolate_preference_9f12fba7:
 
     # n 2tnmsssbl "A-{w=0.2}at least for chocolate?{w=1}{nw}"
-    n 2tnmsssbl " ¿A-{w=0.2}al menos para ser chocolate?{w=1}{nw}"
+    n 2tnmsssbl " ¿A-{w=0.2}Al menos para ser chocolate?{w=1}{nw}"
 
 # game/scripttopics.rpy:9671
 translate spanish talk_chocolate_preference_b20aa3c1:

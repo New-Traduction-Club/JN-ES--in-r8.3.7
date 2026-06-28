@@ -70,13 +70,13 @@ translate spanish compliment_amazing_08b0e1c7:
 translate spanish compliment_amazing_81df31f6:
 
     # n 2fcspol "A-{w=0.2}and you better remember that."
-    n 2fcspol "Y-{w=0.2}y más te vale recordarlo."
+    n 2fcspol "Y-{w=0.2}Y más te vale recordarlo."
 
 # game/scriptcompliments.rpy:87
 translate spanish compliment_amazing_6dadeb2f:
 
     # n 2kchssleaf "L-{w=0.2}love you,{w=0.2} [player]!"
-    n 2kchssleaf "¡T-{w=0.2}te quiero,{w=0.2} [player]!"
+    n 2kchssleaf "¡T-{w=0.2}Te quiero,{w=0.2} [player]!"
 
 # game/scriptcompliments.rpy:90
 translate spanish compliment_amazing_b9c772c6:
@@ -100,7 +100,7 @@ translate spanish compliment_amazing_83255745:
 translate spanish compliment_amazing_cd95e094:
 
     # n 2fcsajl "D-{w=0.2}don't get me wrong though!{w=0.5}{nw}"
-    n 2fcsajl "¡A-{w=0.2}aunque no me malinterpretes!{w=0.5}{nw}"
+    n 2fcsajl "¡A-{w=0.2}Aunque no me malinterpretes!{w=0.5}{nw}"
 
 # game/scriptcompliments.rpy:94
 translate spanish compliment_amazing_8940921c:
@@ -112,7 +112,7 @@ translate spanish compliment_amazing_8940921c:
 translate spanish compliment_amazing_f8e01ec6:
 
     # extend 2fcssmlsbl " I-{w=0.2}it's good to know we {i}both{/i} agree!"
-    extend 2fcssmlsbl " ¡E-{w=0.2}está bien saber que l[end_letter_gender]s dos estamos de acuerdo!"
+    extend 2fcssmlsbl " ¡E-{w=0.2}Está bien saber que l[end_letter_gender]s dos estamos de acuerdo!"
 
 # game/scriptcompliments.rpy:96
 translate spanish compliment_amazing_2106e7bf:
@@ -148,7 +148,7 @@ translate spanish compliment_amazing_075ca640:
 translate spanish compliment_amazing_9b0db7e2:
 
     # n 1kwmpul "...Y{w=0.2}-you really think so,{w=0.5}{nw}"
-    n 1kwmpul "¿D-{w=0.2}de verdad lo piensas,{w=0.5}{nw}"
+    n 1kwmpul "¿D-{w=0.2}De verdad lo piensas,{w=0.5}{nw}"
 
 # game/scriptcompliments.rpy:105
 translate spanish compliment_amazing_2db676b1:
@@ -238,7 +238,7 @@ translate spanish compliment_amazing_2dbede48:
 translate spanish compliment_amazing_27042408:
 
     # n 4kchssf "L-{w=0.2}love you."
-    n 4kchssf "T-{w=0.2}te quiero."
+    n 4kchssf "T-{w=0.2}Te quiero."
 
 # game/scriptcompliments.rpy:125
 translate spanish compliment_amazing_c213f2cc:
@@ -250,7 +250,7 @@ translate spanish compliment_amazing_c213f2cc:
 translate spanish compliment_amazing_0df3513a:
 
     # extend 4fllbglesssbr " A-{w=0.2}aha!{w=0.5}{nw}"
-    extend 4fllbglesssbr " ¡J-{w=0.2}ja!{w=0.5}{nw}"
+    extend 4fllbglesssbr " ¡J-{w=0.2}Ja!{w=0.5}{nw}"
 
 # game/scriptcompliments.rpy:127
 translate spanish compliment_amazing_3cff0d60:
@@ -274,7 +274,7 @@ translate spanish compliment_amazing_b6887a78:
 translate spanish compliment_amazing_1fa50625:
 
     # n 3fcsssl "J-{w=0.2}just remember though,{w=0.2} [player]..."
-    n 3fcsssl "P-{w=0.2}pero recuerda,{w=0.2} [player]..."
+    n 3fcsssl "P-{w=0.2}Pero recuerda,{w=0.2} [player]..."
 
 # game/scriptcompliments.rpy:133
 translate spanish compliment_amazing_49d8cd2d:
@@ -370,19 +370,19 @@ translate spanish compliment_beautiful_7aa920e0:
 translate spanish compliment_beautiful_27c61217:
 
     # n 2kslbol "T-{w=0.2}thanks again,{w=0.2} [chosen_tease]."
-    n 2kslbol "G-{w=0.2}gracias otra vez,{w=0.2} [chosen_tease]."
+    n 2kslbol "G-{w=0.2}Gracias otra vez,{w=0.2} [chosen_tease]."
 
 # game/scriptcompliments.rpy:177
 translate spanish compliment_beautiful_25b1a14a:
 
     # n 1kslfsfeaf "...Y-{w=0.2}you always make me feel prettier."
-    n 1kslfsfeaf "S-{w=0.2}siempre haces que me sienta más guapa."
+    n 1kslfsfeaf "S-{w=0.2}Siempre haces que me sienta más guapa."
 
 # game/scriptcompliments.rpy:180
 translate spanish compliment_beautiful_27c61217_1:
 
     # n 2kslbol "T-{w=0.2}thanks again,{w=0.2} [chosen_tease]."
-    n 2kslbol "G-{w=0.2}gracias otra vez,{w=0.2} [chosen_tease]."
+    n 2kslbol "G-{w=0.2}Gracias otra vez,{w=0.2} [chosen_tease]."
 
 # game/scriptcompliments.rpy:181
 translate spanish compliment_beautiful_3f4dfd5c:
@@ -394,7 +394,7 @@ translate spanish compliment_beautiful_3f4dfd5c:
 translate spanish compliment_beautiful_8a743b4b:
 
     # n 4fskgslesh "E-{w=0.2}excuse me?!"
-    n 4fskgslesh "¡¿P-{w=0.2}perdona?!"
+    n 4fskgslesh "¡¿P-{w=0.2}Perdona?!"
 
 # game/scriptcompliments.rpy:185
 translate spanish compliment_beautiful_50212306:
@@ -430,7 +430,7 @@ translate spanish compliment_beautiful_14e8ad2f:
 translate spanish compliment_beautiful_0d93d3f1:
 
     # n 4fcsajl "I-{w=0.2}I mean,{w=0.75}{nw}"
-    n 4fcsajl "Q-{w=0.2}quiero decir,{w=0.75}{nw}"
+    n 4fcsajl "Q-{w=0.2}Quiero decir,{w=0.75}{nw}"
 
 # game/scriptcompliments.rpy:192
 translate spanish compliment_beautiful_6f300a8b:
@@ -454,7 +454,7 @@ translate spanish compliment_beautiful_499a0e2b:
 translate spanish compliment_beautiful_c9a16e45:
 
     # n 2fslunlsbl "T-{w=0.2}to keep...!"
-    n 2fslunlsbl "¡S-{w=0.2}sigas...!"
+    n 2fslunlsbl "¡S-{w=0.2}Sigas...!"
 
 # game/scriptcompliments.rpy:196
 translate spanish compliment_beautiful_cb535974:
@@ -502,13 +502,13 @@ translate spanish compliment_beautiful_1689fe40:
 translate spanish compliment_beautiful_95b2fc44:
 
     # n 1kllemlsbl "Y-{w=0.2}you really think I'm..."
-    n 1kllemlsbl "¿D-{w=0.2}de verdad crees que soy..."
+    n 1kllemlsbl "¿D-{w=0.2}De verdad crees que soy..."
 
 # game/scriptcompliments.rpy:210
 translate spanish compliment_beautiful_c3c2303a:
 
     # n 1fslunfsbl "I-{w=0.3}I'm..."
-    n 1fslunfsbl "Q-{w=0.3}que soy..."
+    n 1fslunfsbl "Q-{w=0.3}Que soy..."
 
 # game/scriptcompliments.rpy:211
 translate spanish compliment_beautiful_ae9fd596:
@@ -544,13 +544,13 @@ translate spanish compliment_beautiful_c2172ba8:
 translate spanish compliment_beautiful_6dc395a5:
 
     # n 1knmajlsbl "I-{w=0.2}it's not that I don't believe you!{w=1}{nw}"
-    n 1knmajlsbl "¡N-{w=0.2}no es que no te crea!{w=1}{nw}"
+    n 1knmajlsbl "¡N-{w=0.2}No es que no te crea!{w=1}{nw}"
 
 # game/scriptcompliments.rpy:219
 translate spanish compliment_beautiful_86fb2d80:
 
     # extend 2klrsslsbl " O-{w=0.2}of course not!"
-    extend 2klrsslsbl " ¡P-{w=0.2}por supuesto que no!"
+    extend 2klrsslsbl " ¡P-{w=0.2}Por supuesto que no!"
 
 # game/scriptcompliments.rpy:220
 translate spanish compliment_beautiful_bcab61ce:
@@ -616,7 +616,7 @@ translate spanish compliment_beautiful_06369f94:
 translate spanish compliment_beautiful_e31fa96f:
 
     # n 2fcstrlesssbr "I-{w=0.2}I mean...!"
-    n 2fcstrlesssbr "¡Q-{w=0.2}quiero decir...!"
+    n 2fcstrlesssbr "¡Q-{w=0.2}Quiero decir...!"
 
 # game/scriptcompliments.rpy:233
 translate spanish compliment_beautiful_542fcbb5:
@@ -634,7 +634,7 @@ translate spanish compliment_beautiful_0084e931:
 translate spanish compliment_beautiful_565b0fac:
 
     # n 2ksrfslsbr "T-{w=0.2}thanks, [player]."
-    n 2ksrfslsbr "G-{w=0.2}gracias, [player]."
+    n 2ksrfslsbr "G-{w=0.2}Gracias, [player]."
 
 # game/scriptcompliments.rpy:238
 translate spanish compliment_beautiful_ff0ac942:
@@ -646,7 +646,7 @@ translate spanish compliment_beautiful_ff0ac942:
 translate spanish compliment_beautiful_8f334b73:
 
     # n 1fskeml "W-{w=0.2}what did you say?!"
-    n 1fskeml "¡¿Q-{w=0.2}qué has dicho?!"
+    n 1fskeml "¡¿Q-{w=0.2}Qué has dicho?!"
 
 # game/scriptcompliments.rpy:240
 translate spanish compliment_beautiful_213cd923:
@@ -658,7 +658,7 @@ translate spanish compliment_beautiful_213cd923:
 translate spanish compliment_beautiful_479511e5:
 
     # n 4fbkwrfsbr "Y-{w=0.2}you can't just {i}say{/i} things like that so suddenly!"
-    n 4fbkwrfsbr "¡N-{w=0.2}no puedes soltar cosas así de repente!"
+    n 4fbkwrfsbr "¡N-{w=0.2}No puedes soltar cosas así de repente!"
 
 # game/scriptcompliments.rpy:242
 translate spanish compliment_beautiful_01eae4c6:
@@ -682,7 +682,7 @@ translate spanish compliment_beautiful_ab8e54fb:
 translate spanish compliment_beautiful_b2293298:
 
     # n 1fcsemlsbr "I-{w=0.2}I mean,{w=0.75}{nw}"
-    n 1fcsemlsbr "Q-{w=0.2}quiero decir,{w=0.75}{nw}"
+    n 1fcsemlsbr "Q-{w=0.2}Quiero decir,{w=0.75}{nw}"
 
 # game/scriptcompliments.rpy:246
 translate spanish compliment_beautiful_694fc503:
@@ -724,7 +724,7 @@ translate spanish compliment_beautiful_f7d11bc2:
 translate spanish compliment_beautiful_b98814cc:
 
     # extend 2fsrsllsbr " I-{w=0.2}it just makes everything all awkward."
-    extend 2fsrsllsbr " H-{w=0.2}hace que todo sea muy incómodo."
+    extend 2fsrsllsbr " H-{w=0.2}Hace que todo sea muy incómodo."
 
 # game/scriptcompliments.rpy:253
 translate spanish compliment_beautiful_524a6522:
@@ -736,7 +736,7 @@ translate spanish compliment_beautiful_524a6522:
 translate spanish compliment_beautiful_3a8b92e2:
 
     # extend 4fcsajlsbr " A-{w=0.2}and besides,{w=0.75}{nw}"
-    extend 4fcsajlsbr " Y-{w=0.2}y además,{w=0.75}{nw}"
+    extend 4fcsajlsbr " Y-{w=0.2}Y además,{w=0.75}{nw}"
 
 # game/scriptcompliments.rpy:255
 translate spanish compliment_beautiful_28abab31:
@@ -790,7 +790,7 @@ translate spanish compliment_confident_76ae3e9c:
 translate spanish compliment_confident_cde3c5a7:
 
     # n 4nslssl "E-{w=0.2}especially with you around,"
-    n 4nslssl "E-{w=0.2}especialmente contigo cerca,"
+    n 4nslssl "E-{w=0.2}Especialmente contigo cerca,"
 
 # game/scriptcompliments.rpy:287
 translate spanish compliment_confident_f8b41db9:
@@ -904,7 +904,7 @@ translate spanish compliment_confident_bbb68e71:
 translate spanish compliment_confident_302aa242:
 
     # n 4fcssmlsbl "I-{w=0.2}I hope I inspire you just as much as you inspire me.{w=0.75}{nw}"
-    n 4fcssmlsbl "E-{w=0.2}espero inspirarte tanto como tú me inspiras a mí.{w=0.75}{nw}"
+    n 4fcssmlsbl "E-{w=0.2}Espero inspirarte tanto como tú me inspiras a mí.{w=0.75}{nw}"
 
 # game/scriptcompliments.rpy:312
 translate spanish compliment_confident_29033ac4:
@@ -916,7 +916,7 @@ translate spanish compliment_confident_29033ac4:
 translate spanish compliment_confident_d559af61:
 
     # n 1fchbgleafsbr "L-{w=0.2}love you,{w=0.2} [player]!"
-    n 1fchbgleafsbr "¡T-{w=0.2}te quiero,{w=0.2} [player]!"
+    n 1fchbgleafsbr "¡T-{w=0.2}Te quiero,{w=0.2} [player]!"
 
 # game/scriptcompliments.rpy:316
 translate spanish compliment_confident_0e2f0635:
@@ -928,13 +928,13 @@ translate spanish compliment_confident_0e2f0635:
 translate spanish compliment_confident_92db181f:
 
     # n 2fslbglsbr "N-{w=0.2}not that you need it {i}too{/i} much,{w=0.2} a-{w=0.2}anyway."
-    n 2fslbglsbr "N-{w=0.2}no es que te haga demasiada falta,{w=0.2} d-{w=0.2}de todas formas."
+    n 2fslbglsbr "N-{w=0.2}No es que te haga demasiada falta,{w=0.2} d-{w=0.2}de todas formas."
 
 # game/scriptcompliments.rpy:318
 translate spanish compliment_confident_33f15c45:
 
     # n 2fchbglsbr "Y-{w=0.2}you're welcome,{w=0.2} [player]!"
-    n 2fchbglsbr "¡D-{w=0.2}de nada,{w=0.2} [player]!"
+    n 2fchbglsbr "¡D-{w=0.2}De nada,{w=0.2} [player]!"
 
 # game/scriptcompliments.rpy:321
 translate spanish compliment_confident_e2cf2063:
@@ -1102,7 +1102,7 @@ translate spanish compliment_cute_c73f73c1:
 translate spanish compliment_cute_f2416580:
 
     # n 1fcspol "A-{w=0.2}and besides,{w=0.2} [player]."
-    n 1fcspol "Y-{w=0.2}y además,{w=0.2} [player]."
+    n 1fcspol "Y-{w=0.2}Y además,{w=0.2} [player]."
 
 # game/scriptcompliments.rpy:372
 translate spanish compliment_cute_d9c0da0e:
@@ -1126,7 +1126,7 @@ translate spanish compliment_cute_08e552c3:
 translate spanish compliment_cute_f36ba933:
 
     # n 2fcssslsbl "S-{w=0.2}sounds like some pretty bad projection,{w=0.5}{nw}"
-    n 2fcssslsbl "S-{w=0.2}suena a que te estás proyectando un montón,{w=0.5}{nw}"
+    n 2fcssslsbl "S-{w=0.2}Suena a que te estás proyectando un montón,{w=0.5}{nw}"
 
 # game/scriptcompliments.rpy:376
 translate spanish compliment_cute_fd091919:
@@ -1156,7 +1156,7 @@ translate spanish compliment_cute_f9b75e23:
 translate spanish compliment_cute_e25994d7:
 
     # n 3fchbllsbr "L-{w=0.2}love you too,{w=0.2} [chosen_tease]~!"
-    n 3fchbllsbr "¡Y-{w=0.2}yo también te quiero,{w=0.2} [chosen_tease]!"
+    n 3fchbllsbr "¡Y-{w=0.2}Yo también te quiero,{w=0.2} [chosen_tease]!"
 
 # game/scriptcompliments.rpy:384
 translate spanish compliment_cute_d7884b0a:
@@ -1192,7 +1192,7 @@ translate spanish compliment_cute_44e83af3:
 translate spanish compliment_cute_007e66c7:
 
     # n 4fcsgsf "H-{w=0.2}how many times do I have to explain this?!"
-    n 4fcsgsf "¡¿C-{w=0.2}cuántas veces tengo que explicar esto?!"
+    n 4fcsgsf "¡¿C-{w=0.2}Cuántas veces tengo que explicar esto?!"
 
 # game/scriptcompliments.rpy:392
 translate spanish compliment_cute_5641a67b:
@@ -1264,7 +1264,7 @@ translate spanish compliment_cute_cfedad52:
 translate spanish compliment_cute_b2b8bbb1:
 
     # n 2fsqsslsbl "O-{w=0.2}or I wouldn't be {i}nearly{/i} this patient.{w=0.75}{nw}"
-    n 2fsqsslsbl "O-{w=0.2}o no sería ni la mitad de paciente.{w=0.75}{nw}"
+    n 2fsqsslsbl "O-{w=0.2}O no sería ni la mitad de paciente.{w=0.75}{nw}"
 
 # game/scriptcompliments.rpy:406
 translate spanish compliment_cute_6cb05f29:
@@ -1306,7 +1306,7 @@ translate spanish compliment_cute_802f57e6:
 translate spanish compliment_cute_49183e00:
 
     # n 1fcsbslsbr "A-{w=0.2}Aha!{w=0.5}{nw}"
-    n 1fcsbslsbr "¡J-{w=0.2}ja!{w=0.5}{nw}"
+    n 1fcsbslsbr "¡J-{w=0.2}Ja!{w=0.5}{nw}"
 
 # game/scriptcompliments.rpy:418
 translate spanish compliment_cute_7bd04925:
@@ -1342,7 +1342,7 @@ translate spanish compliment_cute_18dc44e3:
 translate spanish compliment_cute_4f5f6414:
 
     # n 4uskemfesh "W-{w=0.2}what?"
-    n 4uskemfesh "¿Q-{w=0.2}qué?"
+    n 4uskemfesh "¿Q-{w=0.2}Qué?"
 
 # game/scriptcompliments.rpy:426
 translate spanish compliment_cute_b3870922:
@@ -1366,7 +1366,7 @@ translate spanish compliment_cute_e7f15e9b:
 translate spanish compliment_cute_f0fde49f:
 
     # n 2fsrssfsbr "I...{w=0.75}{nw}"
-    n 2fsrssfsbr "D-{w=0.2}debo...{w=0.75}{nw}"
+    n 2fsrssfsbr "D-{w=0.2}Debo...{w=0.75}{nw}"
 
 # game/scriptcompliments.rpy:430
 translate spanish compliment_cute_d76d773a:
@@ -1378,7 +1378,7 @@ translate spanish compliment_cute_d76d773a:
 translate spanish compliment_cute_5116455b:
 
     # n 4fcsbgl "Y-{w=0.2}yeah.{w=0.5}{nw}"
-    n 4fcsbgl "S-{w=0.2}sí.{w=0.5}{nw}"
+    n 4fcsbgl "S-{w=0.2}Sí.{w=0.5}{nw}"
 
 # game/scriptcompliments.rpy:432
 translate spanish compliment_cute_74dcd2e4:
@@ -1390,7 +1390,7 @@ translate spanish compliment_cute_74dcd2e4:
 translate spanish compliment_cute_5e063901:
 
     # extend 3fcssslsbl " I {i}totally{/i} misheard you!{w=0.5} O-{w=0.2}one hundred percent."
-    extend 3fcssslsbl " ¡Te he oído mal totalmente!{w=0.5} C-{w=0.2}cien por cien."
+    extend 3fcssslsbl " ¡Te he oído mal totalmente!{w=0.5} C-{w=0.2}Cien por cien."
 
 # game/scriptcompliments.rpy:434
 translate spanish compliment_cute_76c1497c:
@@ -1522,7 +1522,7 @@ translate spanish compliment_hilarious_d6e19f8a:
 translate spanish compliment_hilarious_b67f59a9:
 
     # n 1fcsajlsbr "I-{w=0.2}I know it's dumb.{w=0.75}{nw}"
-    n 1fcsajlsbr "S-{w=0.2}sé que es una tontería.{w=0.75}{nw}"
+    n 1fcsajlsbr "S-{w=0.2}Sé que es una tontería.{w=0.75}{nw}"
 
 # game/scriptcompliments.rpy:486
 translate spanish compliment_hilarious_51abbdf4:
@@ -1546,7 +1546,7 @@ translate spanish compliment_hilarious_aa7ab629:
 translate spanish compliment_hilarious_153d1600:
 
     # n 2fcsajlsbl "T-{w=0.2}that'd just be super lame."
-    n 2fcsajlsbl "E-{w=0.2}eso sería súper cutre."
+    n 2fcsajlsbl "E-{w=0.2}Eso sería súper cutre."
 
 # game/scriptcompliments.rpy:490
 translate spanish compliment_hilarious_bde25728:
@@ -1576,7 +1576,7 @@ translate spanish compliment_hilarious_c32d0428:
 translate spanish compliment_hilarious_3bfc8e11:
 
     # n 4fchsmleaf "Y-{w=0.2}you always know just what to say."
-    n 4fchsmleaf "S-{w=0.2}siempre sabes justo qué decir."
+    n 4fchsmleaf "S-{w=0.2}Siempre sabes justo qué decir."
 
 # game/scriptcompliments.rpy:499
 translate spanish compliment_hilarious_6a33fa86:
@@ -1654,7 +1654,7 @@ translate spanish compliment_inspirational_287f5caf:
 translate spanish compliment_inspirational_5cfadece:
 
     # n 3fsrssl "J-{w=0.2}just like I know I can count on you.{w=0.75}{nw}"
-    n 3fsrssl "A-{w=0.2}al igual que sé que puedo contar contigo.{w=0.75}{nw}"
+    n 3fsrssl "A-{w=0.2}Al igual que sé que puedo contar contigo.{w=0.75}{nw}"
 
 # game/scriptcompliments.rpy:539
 translate spanish compliment_inspirational_d4d33c36:
@@ -1672,7 +1672,7 @@ translate spanish compliment_inspirational_52b84f3a:
 translate spanish compliment_inspirational_b5147344:
 
     # extend 2flrbglsbr " W-{w=0.2}well,{w=0.2} yeah!{w=0.75}{nw}"
-    extend 2flrbglsbr " ¡B-{w=0.2}bueno,{w=0.2} sí!{w=0.75}{nw}"
+    extend 2flrbglsbr " ¡B-{w=0.2}Bueno,{w=0.2} sí!{w=0.75}{nw}"
 
 # game/scriptcompliments.rpy:544
 translate spanish compliment_inspirational_ee3029f5:
@@ -1858,7 +1858,7 @@ translate spanish compliment_style_a6a3cf39:
 translate spanish compliment_style_c091ce35:
 
     # n 2fsqbglsbl "I-{w=0.2}is there something you wanna tell me?{w=0.75}{nw}"
-    n 2fsqbglsbl "¿H-{w=0.2}hay algo que quieras contarme?{w=0.75}{nw}"
+    n 2fsqbglsbl "¿H-{w=0.2}Hay algo que quieras contarme?{w=0.75}{nw}"
 
 # game/scriptcompliments.rpy:615
 translate spanish compliment_style_4a895085:
@@ -1900,7 +1900,7 @@ translate spanish compliment_style_62663f1b:
 translate spanish compliment_style_c0658b0c:
 
     # n 2fchsmlsbr "Y-{w=0.2}you should know when I'm pulling your leg by now,{w=0.2} you dork.{w=1}{nw}"
-    n 2fchsmlsbr "Y-{w=0.2}ya deberías saber cuándo te estoy tomando el pelo,{w=0.2} bob[end_letter_gender].{w=1}{nw}"
+    n 2fchsmlsbr "Y-{w=0.2}Ya deberías saber cuándo te estoy tomando el pelo,{w=0.2} bob[end_letter_gender].{w=1}{nw}"
 
 # game/scriptcompliments.rpy:622
 translate spanish compliment_style_b7472198:
@@ -1936,7 +1936,7 @@ translate spanish compliment_style_f10c1cdf:
 translate spanish compliment_style_366433a7:
 
     # n 2fcsbglesssbl "W-{w=0.2}well,{w=0.75}{nw}"
-    n 2fcsbglesssbl "B-{w=0.2}bueno,{w=0.75}{nw}"
+    n 2fcsbglesssbl "B-{w=0.2}Bueno,{w=0.75}{nw}"
 
 # game/scriptcompliments.rpy:630
 translate spanish compliment_style_05d9e435:
@@ -1984,7 +1984,7 @@ translate spanish compliment_style_d1c6420f:
 translate spanish compliment_style_9c460f55:
 
     # n 3fcsbgl "I-{w=0.2}I {i}am{/i} the one wearing it,{w=0.5}{nw}"
-    n 3fcsbgl "S-{w=0.2}soy yo la que lo lleva,{w=0.5}{nw}"
+    n 3fcsbgl "S-{w=0.2}Soy yo la que lo lleva,{w=0.5}{nw}"
 
 # game/scriptcompliments.rpy:645
 translate spanish compliment_style_445dde56:
@@ -2002,7 +2002,7 @@ translate spanish compliment_style_bdc2d821:
 translate spanish compliment_style_e3c62860:
 
     # n 1fcsbglsbl "H-{w=0.2}ha!{w=0.5}{nw}"
-    n 1fcsbglsbl "¡J-{w=0.2}ja!{w=0.5}{nw}"
+    n 1fcsbglsbl "¡J-{w=0.2}Ja!{w=0.5}{nw}"
 
 # game/scriptcompliments.rpy:652
 translate spanish compliment_style_31e8ef58:
@@ -2038,7 +2038,7 @@ translate spanish compliment_style_a6424ffa:
 translate spanish compliment_style_22448216:
 
     # n 1tnmpul "M-{w=0.2}my sense of style?"
-    n 1tnmpul "¿M-{w=0.2}mi sentido del estilo?"
+    n 1tnmpul "¿M-{w=0.2}Mi sentido del estilo?"
 
 # game/scriptcompliments.rpy:662
 translate spanish compliment_style_0c2e9b5d:
@@ -2098,7 +2098,7 @@ translate spanish compliment_style_f0e2573d:
 translate spanish compliment_style_b1123f50:
 
     # n 1tnmpuleqm "M-{w=0.2}my sense of style..."
-    n 1tnmpuleqm "¿M-{w=0.2}mi sentido del estilo...?"
+    n 1tnmpuleqm "¿M-{w=0.2}Mi sentido del estilo...?"
 
 # game/scriptcompliments.rpy:675
 translate spanish compliment_style_d4947623:
@@ -2152,7 +2152,7 @@ translate spanish compliment_style_231e089a:
 translate spanish compliment_style_54de8298:
 
     # extend 1fllbgl " I-{w=0.2}I guess you tried!{w=0.75}{nw}"
-    extend 1fllbgl " ¡S-{w=0.2}supongo que lo has intentado!{w=0.75}{nw}"
+    extend 1fllbgl " ¡S-{w=0.2}Supongo que lo has intentado!{w=0.75}{nw}"
 
 # game/scriptcompliments.rpy:684
 translate spanish compliment_style_ca15b967:
@@ -2218,7 +2218,7 @@ translate spanish compliment_thoughtful_19370786:
 translate spanish compliment_thoughtful_dd90b072:
 
     # n 2fsrbglsbr "P-{w=0.2}plus it looks like you're trying just as much anyway!"
-    n 2fsrbglsbr "¡A-{w=0.2}además parece que tú te esfuerzas lo mismo de todas formas!"
+    n 2fsrbglsbr "¡A-{w=0.2}Además parece que tú te esfuerzas lo mismo de todas formas!"
 
 # game/scriptcompliments.rpy:717
 translate spanish compliment_thoughtful_4818c831:
@@ -2392,7 +2392,7 @@ translate spanish compliment_thoughtful_346c283e:
 translate spanish compliment_thoughtful_7a49411a:
 
     # n 1fllbglesssbl "W-{w=0.2}well...{w=0.75}{nw}"
-    n 1fllbglesssbl "B-{w=0.2}bueno...{w=0.75}{nw}"
+    n 1fllbglesssbl "B-{w=0.2}Bueno...{w=0.75}{nw}"
 
 # game/scriptcompliments.rpy:758
 translate spanish compliment_thoughtful_1cda0d5c:

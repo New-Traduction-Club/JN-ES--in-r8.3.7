@@ -3238,7 +3238,7 @@ translate spanish admission_sad_8f825dea:
 translate spanish admission_sad_9b123386:
 
     # extend 2fcsfllsbr " Y-{w=0.2}you don't have to tell me if you don't want to,{w=0.2} of course."
-    extend 2fcsfllsbr " N-{w=0.2}no tienes que contármelo si no quieres,{w=0.2} claro."
+    extend 2fcsfllsbr " N-{w=0.2}No tienes que contármelo si no quieres,{w=0.2} claro."
 
 # game/scriptadmissions.rpy:1023
 translate spanish admission_sad_364653b9:
@@ -3256,7 +3256,7 @@ translate spanish admission_sad_9da33110:
 translate spanish admission_sad_84196ee0:
 
     # n 1uskfl "H-{w=0.2}huh?{w=0.75}{nw}"
-    n 1uskfl "¿E-{w=0.2}eh?{w=0.75}{nw}"
+    n 1uskfl "¿E-{w=0.2}Eh?{w=0.75}{nw}"
 
 # game/scriptadmissions.rpy:1028
 translate spanish admission_sad_c03f86c7:
@@ -3448,7 +3448,7 @@ translate spanish admission_sad_1813fa51:
 translate spanish admission_sad_dfefe546:
 
     # extend 4fchbgsbl " S-{w=0.2}see?{w=1}{nw}"
-    extend 4fchbgsbl " ¿V-{w=0.2}ves?{w=1}{nw}"
+    extend 4fchbgsbl " ¿V-{w=0.2}Ves?{w=1}{nw}"
 
 # game/scriptadmissions.rpy:1071
 translate spanish admission_sad_72fd313b:
@@ -3574,7 +3574,7 @@ translate spanish admission_sick_fa561f63:
 translate spanish admission_sick_84ecec49:
 
     # n 2fcsajsbl "W-{w=0.2}well,{w=0.75}{nw}"
-    n 2fcsajsbl "B-{w=0.2}bueno,{w=0.75}{nw}"
+    n 2fcsajsbl "B-{w=0.2}Bueno,{w=0.75}{nw}"
 
 # game/scriptadmissions.rpy:1119
 translate spanish admission_sick_b464b2da:
@@ -3688,7 +3688,7 @@ translate spanish admission_sick_9df9d9da:
 translate spanish admission_sick_7a7d931f:
 
     # extend 4kllsslsbr " F-{w=0.2}for me?"
-    extend 4kllsslsbr " ¿P-{w=0.2}por mí?"
+    extend 4kllsslsbr " ¿P-{w=0.2}Por mí?"
 
 # game/scriptadmissions.rpy:1142
 translate spanish admission_sick_928881c5:
@@ -4066,7 +4066,7 @@ translate spanish admission_sick_21ea3b1e:
 translate spanish admission_sick_4eff4f71:
 
     # n 4fcsbglsbl "H-{w=0.2}ha!{w=1}{nw}"
-    n 4fcsbglsbl "¡J-{w=0.2}ja!{w=1}{nw}"
+    n 4fcsbglsbl "¡J-{w=0.2}Ja!{w=1}{nw}"
 
 # game/scriptadmissions.rpy:1242
 translate spanish admission_sick_f53990b8:
@@ -4138,7 +4138,7 @@ translate spanish admission_sick_945d4cf5:
 translate spanish admission_sick_99cabc73:
 
     # n 4fcsfllsbr "I-{w=0.2}it's not that I don't appreciate the company!{w=0.75}{nw}"
-    n 4fcsfllsbr "¡N-{w=0.2}no es que no aprecie tu compañía!{w=0.75}{nw}"
+    n 4fcsfllsbr "¡N-{w=0.2}No es que no aprecie tu compañía!{w=0.75}{nw}"
 
 # game/scriptadmissions.rpy:1256
 translate spanish admission_sick_f632b339:
@@ -4348,7 +4348,7 @@ translate spanish admission_tired_d2c65291:
 translate spanish admission_tired_5fd1c2fc:
 
     # n 4fchsmleafsbr "L-{w=0.2}love you!"
-    n 4fchsmleafsbr "¡T-{w=0.2}te quiero!"
+    n 4fchsmleafsbr "¡T-{w=0.2}Te quiero!"
 
 # game/scriptadmissions.rpy:1334
 translate spanish admission_tired_6160a0ea:
@@ -4420,7 +4420,7 @@ translate spanish admission_tired_8936c16e:
 translate spanish admission_tired_5b56774c:
 
     # n 2fnmgsl "A-{w=0.2}and just who do you have to thank for that?!"
-    n 2fnmgsl "¡¿Y-{w=0.2}y a quién se supone que tienes que agradecérselo?!"
+    n 2fnmgsl "¡¿Y-{w=0.2}Y a quién se supone que tienes que agradecérselo?!"
 
 # game/scriptadmissions.rpy:1362
 translate spanish admission_tired_0bd5d0b2:
@@ -4456,13 +4456,13 @@ translate spanish admission_tired_b9fc5fab:
 translate spanish admission_tired_29ce9426:
 
     # extend 4fcsfllsbl " I-{w=0.2}it's not that I don't want you here or anything!{w=1}{nw}"
-    extend 4fcsfllsbl " ¡N-{w=0.2}no es que no quiera que estés aquí ni nada!{w=1}{nw}"
+    extend 4fcsfllsbl " ¡N-{w=0.2}No es que no quiera que estés aquí ni nada!{w=1}{nw}"
 
 # game/scriptadmissions.rpy:1370
 translate spanish admission_tired_f2adb0d1:
 
     # extend 4ksrpolsbl " O-{w=0.2}of course I do!{w=1}{nw}"
-    extend 4ksrpolsbl " ¡C-{w=0.2}claro que quiero!{w=1}{nw}"
+    extend 4ksrpolsbl " ¡C-{w=0.2}Claro que quiero!{w=1}{nw}"
 
 # game/scriptadmissions.rpy:1373
 translate spanish admission_tired_aa3e1dd5:
@@ -4510,7 +4510,7 @@ translate spanish admission_tired_59ed5dcc:
 translate spanish admission_tired_c4fdec6e:
 
     # n 4fchsmlsbl "S-{w=0.2}sweet dreams!"
-    n 4fchsmlsbl "¡D-{w=0.2}dulces sueños!"
+    n 4fchsmlsbl "¡D-{w=0.2}Dulces sueños!"
 
 # game/scriptadmissions.rpy:1397
 translate spanish admission_tired_3fcb4519:

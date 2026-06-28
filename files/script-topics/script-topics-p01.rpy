@@ -142,7 +142,7 @@ translate spanish talk_out_of_topics_df9df4b8:
 translate spanish talk_out_of_topics_e67c9fe2:
 
     # n 1flrpol "J-{w=0.2}just don't make the silence all awkward,{w=0.2} got it?!"
-    n 1flrpol "S-{w=0.2}solo procura que el silencio no se vuelva incómodo,{w=0.2} ¿lo pillas?!"
+    n 1flrpol "S-{w=0.2}Solo procura que el silencio no se vuelva incómodo,{w=0.2} ¿lo pillas?!"
 
 # game/scripttopics.rpy:88
 translate spanish talk_out_of_topics_37ce4ad8:
@@ -334,7 +334,7 @@ translate spanish talk_did_you_have_pets_6b431c32:
 translate spanish talk_did_you_have_pets_ba3e73eb:
 
     # extend 4clremsbl " L-{w=0.2}let alone all the stuff I'd need to actually keep it here!"
-    extend 4clremsbl " ¡P-{w=0.2}por no hablar de todo lo que necesitaría para cuidarlo aquí!"
+    extend 4clremsbl " ¡P-{w=0.2}Por no hablar de todo lo que necesitaría para cuidarlo aquí!"
 
 # game/scripttopics.rpy:153
 translate spanish talk_did_you_have_pets_f4b25088:
@@ -376,19 +376,19 @@ translate spanish talk_did_you_have_pets_57434bab:
 translate spanish talk_did_you_have_pets_8288153a:
 
     # n 2ccsbolsbr "A-{w=0.2}as much as having you here helps.{w=0.75}{nw}"
-    n 2ccsbolsbr "P-{w=0.2}por mucho que tenerte aquí ayude. {w=0.75}{nw}"
+    n 2ccsbolsbr "P-{w=0.2}Por mucho que tenerte aquí ayude. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:164
 translate spanish talk_did_you_have_pets_be50e7c4:
 
     # n 2fcsajlsbr "B-{w=0.2}between your visits,{w=0.2} I mean.{w=0.75}{nw}"
-    n 2fcsajlsbr "E-{w=0.2}entre visita y visita,{w=0.2} digo. {w=0.75}{nw}"
+    n 2fcsajlsbr "E-{w=0.2}Entre visita y visita,{w=0.2} digo. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:167
 translate spanish talk_did_you_have_pets_2637521d:
 
     # n 2fcsemlsbr "O-{w=0.2}of course I would!{w=0.75}{nw}"
-    n 2fcsemlsbr "¡C-{w=0.2}claro que me gustaría! {w=0.75}{nw}"
+    n 2fcsemlsbr "¡C-{w=0.2}Claro que me gustaría! {w=0.75}{nw}"
 
 # game/scripttopics.rpy:169
 translate spanish talk_did_you_have_pets_05e1aa3c:
@@ -436,7 +436,7 @@ translate spanish talk_did_you_have_pets_6cf045d5:
 translate spanish talk_did_you_have_pets_118d5a87:
 
     # n 2ccsfl "I-{w=0.2}I know I'm already stuck here.{w=0.75}{nw}"
-    n 2ccsfl "Y-{w=0.2}yo sé que ya estoy atrapada aquí. {w=0.75}{nw}"
+    n 2ccsfl "Y-{w=0.2}Yo sé que ya estoy atrapada aquí. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:179
 translate spanish talk_did_you_have_pets_a6858da5:
@@ -484,7 +484,7 @@ translate spanish talk_did_you_have_pets_0018bdcd:
 translate spanish talk_did_you_have_pets_4d477681:
 
     # extend 2csrsll " A-{w=0.2}at least right {i}now{/i}."
-    extend 2csrsll " A-{w=0.2}al menos ahora mismo."
+    extend 2csrsll " A-{w=0.2}Al menos ahora mismo."
 
 # game/scripttopics.rpy:189
 translate spanish talk_did_you_have_pets_25c6add2:
@@ -502,7 +502,7 @@ translate spanish talk_did_you_have_pets_d6489f6e:
 translate spanish talk_did_you_have_pets_cd0e9e0c:
 
     # n 4ccsfllsbr "N-{w=0.2}nevermind.{w=0.75}{nw}"
-    n 4ccsfllsbr "O-{w=0.2}olvídalo. {w=0.75}{nw}"
+    n 4ccsfllsbr "O-{w=0.2}Olvídalo. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:194
 translate spanish talk_did_you_have_pets_429bc24a:
@@ -520,7 +520,7 @@ translate spanish talk_did_you_have_pets_9fcf13d8:
 translate spanish talk_did_you_have_pets_226cf27f:
 
     # n 4ccsemsbl "A-{w=0.2}anyway.{w=0.75}{nw}"
-    n 4ccsemsbl "E-{w=0.2}en fin. {w=0.75}{nw}"
+    n 4ccsemsbl "E-{w=0.2}En fin. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:198
 translate spanish talk_did_you_have_pets_e6b8bafe:
@@ -580,7 +580,7 @@ translate spanish talk_did_you_have_pets_d6489f6e_1:
 translate spanish talk_did_you_have_pets_cd0e9e0c_1:
 
     # n 4ccsfllsbr "N-{w=0.2}nevermind.{w=0.75}{nw}"
-    n 4ccsfllsbr "O-{w=0.2}olvídalo. {w=0.75}{nw}"
+    n 4ccsfllsbr "O-{w=0.2}Olvídalo. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:219
 translate spanish talk_did_you_have_pets_429bc24a_1:
@@ -982,7 +982,7 @@ translate spanish talk_did_you_have_pets_5773e6de:
 translate spanish talk_did_you_have_pets_11e4ab18:
 
     # n 5csrsllsbl "Y-{w=0.2}you should know you have people around you who'd listen by now."
-    n 5csrsllsbl "Y-{w=0.2}ya deberías saber que tienes gente a tu alrededor dispuesta a escucharte."
+    n 5csrsllsbl "Y-{w=0.2}Ya deberías saber que tienes gente a tu alrededor dispuesta a escucharte."
 
 # game/scripttopics.rpy:358
 translate spanish talk_did_you_have_pets_e524ee77:
@@ -1048,7 +1048,7 @@ translate spanish talk_did_you_have_pets_3597892f:
 translate spanish talk_did_you_have_pets_e8c7ffc5:
 
     # n 2ccsfllsbl "I-{w=0.2}I'm not saying I {i}know{/i} how you feel.{w=0.75}{nw}"
-    n 2ccsfllsbl "N-{w=0.2}no digo que {i}sepa{/i} cómo te sientes. {w=0.75}{nw}"
+    n 2ccsfllsbl "N-{w=0.2}No digo que {i}sepa{/i} cómo te sientes. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:369
 translate spanish talk_did_you_have_pets_c5da0d41:
@@ -1174,7 +1174,7 @@ translate spanish talk_did_you_have_pets_48e419b1:
 translate spanish talk_did_you_have_pets_0dd5b7b9:
 
     # n 4ccsemsbr "W-{w=0.2}wait.{w=0.75}{nw}"
-    n 4ccsemsbr "E-{w=0.2}espera. {w=0.75}{nw}"
+    n 4ccsemsbr "E-{w=0.2}Espera. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:408
 translate spanish talk_did_you_have_pets_8861a02d:
@@ -1216,7 +1216,7 @@ translate spanish talk_did_you_have_pets_cf524f64:
 translate spanish talk_did_you_have_pets_2f98268f:
 
     # extend 2kslbolsbl " T-{w=0.2}truly."
-    extend 2kslbolsbl " D-{w=0.2}de verdad."
+    extend 2kslbolsbl " D-{w=0.2}De verdad."
 
 # game/scripttopics.rpy:415
 translate spanish talk_did_you_have_pets_d886edcd:
@@ -1234,7 +1234,7 @@ translate spanish talk_did_you_have_pets_a8ce4f48:
 translate spanish talk_did_you_have_pets_85bc5c41:
 
     # extend 2cnmemlsbr " I-{w=0.2}if you wanted to,{w=0.5}{nw}"
-    extend 2cnmemlsbr " S-{w=0.2}si tú quieres,{w=0.5}{nw}"
+    extend 2cnmemlsbr " S-{w=0.2}Si tú quieres,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:418
 translate spanish talk_did_you_have_pets_b76197af:
@@ -1936,7 +1936,7 @@ translate spanish talk_did_you_have_pets_e8c38b7a:
 translate spanish talk_did_you_have_pets_392ef5e8:
 
     # n 1fcsaj "W-{w=0.2}wait.{w=0.75}{nw}"
-    n 1fcsaj "E-{w=0.2}espera. {w=0.75}{nw}"
+    n 1fcsaj "E-{w=0.2}Espera. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:587
 translate spanish talk_did_you_have_pets_7516b663:
@@ -2074,7 +2074,7 @@ translate spanish talk_did_you_have_pets_1aa37be5:
 translate spanish talk_did_you_have_pets_a15fb7a8:
 
     # n 1unmemesu "H-{w=0.2}huh?{w=0.75}{nw}"
-    n 1unmemesu "¿E-{w=0.2}eh? {w=0.75}{nw}"
+    n 1unmemesu "¿E-{w=0.2}Eh? {w=0.75}{nw}"
 
 # game/scripttopics.rpy:618
 translate spanish talk_did_you_have_pets_759acc62:
@@ -2134,7 +2134,7 @@ translate spanish talk_did_you_have_pets_806a8099:
 translate spanish talk_did_you_have_pets_27cfc2dc:
 
     # n 2csrsssbr "W-{w=0.2}well,{w=0.2} anyway.{w=0.75}{nw}"
-    n 2csrsssbr "B-{w=0.2}bueno,{w=0.2} da igual. {w=0.75}{nw}"
+    n 2csrsssbr "B-{w=0.2}Bueno,{w=0.2} da igual. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:635
 translate spanish talk_did_you_have_pets_cdc8db07:
@@ -2182,7 +2182,7 @@ translate spanish talk_did_you_have_pets_8bdf03d1:
 translate spanish talk_did_you_have_pets_497c7bf8:
 
     # n 2ccssslsbr "B-{w=0.2}bugs,{w=0.5}{nw}"
-    n 2ccssslsbr "¿B-{w=0.2}bichos?{w=0.5}{nw}"
+    n 2ccssslsbr "¿B-{w=0.2}Bichos?{w=0.5}{nw}"
 
 # game/scripttopics.rpy:647
 translate spanish talk_did_you_have_pets_d9581838:
@@ -2200,7 +2200,7 @@ translate spanish talk_did_you_have_pets_d0362eb9:
 translate spanish talk_did_you_have_pets_d5740252:
 
     # n 1ccsajlsbl "I-{w=0.2}I mean,{w=0.75}{nw}"
-    n 1ccsajlsbl "Q-{w=0.2}quiero decir,{w=0.75}{nw}"
+    n 1ccsajlsbl "Q-{w=0.2}Quiero decir,{w=0.75}{nw}"
 
 # game/scripttopics.rpy:650
 translate spanish talk_did_you_have_pets_335039be:
@@ -2236,7 +2236,7 @@ translate spanish talk_did_you_have_pets_6faf60b5:
 translate spanish talk_did_you_have_pets_054e7308:
 
     # n 4ccssssbl "W-{w=0.2}well..."
-    n 4ccssssbl "B-{w=0.2}bueno..."
+    n 4ccssssbl "B-{w=0.2}Bueno..."
 
 # game/scripttopics.rpy:656
 translate spanish talk_did_you_have_pets_3d659e90:
@@ -2608,7 +2608,7 @@ translate spanish talk_did_you_have_pets_6b253420:
 translate spanish talk_did_you_have_pets_3ec5f148:
 
     # n 4ccsfllsbr "I-{w=0.2}I mean,{w=0.5}{nw}"
-    n 4ccsfllsbr "Q-{w=0.2}quiero decir,{w=0.5}{nw}"
+    n 4ccsfllsbr "Q-{w=0.2}Quiero decir,{w=0.5}{nw}"
 
 # game/scripttopics.rpy:734
 translate spanish talk_did_you_have_pets_f080bc35:
@@ -2668,13 +2668,13 @@ translate spanish talk_did_you_have_pets_ad19cc14:
 translate spanish talk_did_you_have_pets_636f0170:
 
     # n 1unmemesh "H-{w=0.2}huh?{w=0.75}{nw}"
-    n 1unmemesh "¿E-{w=0.2}eh? {w=0.75}{nw}"
+    n 1unmemesh "¿E-{w=0.2}Eh? {w=0.75}{nw}"
 
 # game/scripttopics.rpy:746
 translate spanish talk_did_you_have_pets_15aa6034:
 
     # extend 4ccsemlsbl " N-{w=0.2}now just hold on a second,{w=0.2} [player].{w=0.75}{nw}"
-    extend 4ccsemlsbl " E-{w=0.2}espera un momento,{w=0.2} [player]. {w=0.75}{nw}"
+    extend 4ccsemlsbl " E-{w=0.2}Espera un momento,{w=0.2} [player]. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:747
 translate spanish talk_did_you_have_pets_cfb99c4e:
@@ -2722,7 +2722,7 @@ translate spanish talk_did_you_have_pets_f5622d16:
 translate spanish talk_did_you_have_pets_9c055caf:
 
     # n 2fcsfllsbr "S-{w=0.2}snakes,{w=0.2} I mean."
-    n 2fcsfllsbr "C-{w=0.2}con las serpientes,{w=0.2} digo."
+    n 2fcsfllsbr "C-{w=0.2}Con las serpientes,{w=0.2} digo."
 
 # game/scripttopics.rpy:755
 translate spanish talk_did_you_have_pets_e919e06d:
@@ -2746,7 +2746,7 @@ translate spanish talk_did_you_have_pets_dc10b7f1:
 translate spanish talk_did_you_have_pets_5448af30:
 
     # n 6fcsgsl "B-{w=0.2}but that's not to say that they {i}can't{/i} be cute,{w=0.1} obviously!{w=0.75}{nw}"
-    n 6fcsgsl "¡P-pero eso no quiere decir que no puedan ser monas,{w=0.1} obviamente! {w=0.75}{nw}"
+    n 6fcsgsl "¡P-Pero eso no quiere decir que no puedan ser monas,{w=0.1} obviamente! {w=0.75}{nw}"
 
 # game/scripttopics.rpy:759
 translate spanish talk_did_you_have_pets_13893694:
@@ -2908,7 +2908,7 @@ translate spanish talk_did_you_have_pets_1a1d8a3c:
 translate spanish talk_did_you_have_pets_b4292e70:
 
     # n 1unmemlsbl "I-{w=0.2}it's not that I think you're automatically a bad owner or anything!{w=0.75}{nw}"
-    n 1unmemlsbl "¡N-no es que piense que no vales para cuidar animales ni nada de eso! {w=0.75}{nw}"
+    n 1unmemlsbl "¡N-No es que piense que no vales para cuidar animales ni nada de eso! {w=0.75}{nw}"
 
 # game/scripttopics.rpy:796
 translate spanish talk_did_you_have_pets_a3add324:
@@ -2968,7 +2968,7 @@ translate spanish talk_did_you_have_pets_d26f5c82:
 translate spanish talk_did_you_have_pets_7f7b412b:
 
     # n 6ccsajlsbr "Y-{w=0.2}you owe the animal {i}that{/i} much,{w=0.2} after all.{w=0.75}{nw}"
-    n 6ccsajlsbr "L-{w=0.2}le debes {i}eso{/i} al animal,{w=0.2} al fin y al cabo. {w=0.75}{nw}"
+    n 6ccsajlsbr "L-{w=0.2}Le debes {i}eso{/i} al animal,{w=0.2} al fin y al cabo. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:812
 translate spanish talk_did_you_have_pets_ae7f592d:
@@ -3004,7 +3004,7 @@ translate spanish talk_service_animals_e2508714:
 translate spanish talk_service_animals_dca07641:
 
     # n 4fsrsssbl "N-{w=0.2}not the careers advice or anything like that.{w=0.75}{nw}"
-    n 4fsrsssbl "N-{w=0.2}no la de orientación laboral ni nada de eso. {w=0.75}{nw}"
+    n 4fsrsssbl "N-{w=0.2}No la de orientación laboral ni nada de eso. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:840
 translate spanish talk_service_animals_e4cbfa68:
@@ -3508,7 +3508,7 @@ translate spanish talk_service_animals_93053704:
 translate spanish talk_service_animals_e23c1eaf:
 
     # n 5cslcal "...W-{w=0.2}with Sayori and all."
-    n 5cslcal "C-{w=0.2}con Sayori y todo eso."
+    n 5cslcal "C-{w=0.2}Con Sayori y todo eso."
 
 # game/scripttopics.rpy:935
 translate spanish talk_service_animals_04aab53a:
@@ -3532,7 +3532,7 @@ translate spanish talk_service_animals_accbedeb:
 translate spanish talk_service_animals_082ec4f7:
 
     # n 2ccsfllsbl "I-{w=0.2}it's just that..."
-    n 2ccsfllsbl "E-{w=0.2}es solo que..."
+    n 2ccsfllsbl "E-{w=0.2}Es solo que..."
 
 # game/scripttopics.rpy:941
 translate spanish talk_service_animals_dc7e9693:
@@ -3574,7 +3574,7 @@ translate spanish talk_service_animals_438e7ff6:
 translate spanish talk_service_animals_9399a288:
 
     # extend 2ccssrlsbr " I-{w=0.2}I'm not {i}naive{/i}."
-    extend 2ccssrlsbr " N-{w=0.2}no soy ingenua."
+    extend 2ccssrlsbr " N-{w=0.2}No soy ingenua."
 
 # game/scripttopics.rpy:948
 translate spanish talk_service_animals_677f491d:
@@ -3610,7 +3610,7 @@ translate spanish talk_service_animals_da6ee7e0:
 translate spanish talk_service_animals_deff0b04:
 
     # n 3ccsfllsbl "...A-{w=0.2}anyway."
-    n 3ccsfllsbl "E-{w=0.2}en fin."
+    n 3ccsfllsbl "E-{w=0.2}En fin."
 
 # game/scripttopics.rpy:956
 translate spanish talk_service_animals_c47c1ca7:
@@ -3622,7 +3622,7 @@ translate spanish talk_service_animals_c47c1ca7:
 translate spanish talk_service_animals_ef4ab647:
 
     # n 4ccsemlsbl "...N-{w=0.2}nevermind.{w=0.75}{nw}"
-    n 4ccsemlsbl "O-{w=0.2}olvídalo. {w=0.75}{nw}"
+    n 4ccsemlsbl "O-{w=0.2}Olvídalo. {w=0.75}{nw}"
 
 # game/scripttopics.rpy:958
 translate spanish talk_service_animals_34ba3d21:
@@ -3640,7 +3640,7 @@ translate spanish talk_service_animals_e88914e2:
 translate spanish talk_service_animals_fc98907f:
 
     # n 2nslbolsbr "S-{w=0.2}sorry."
-    n 2nslbolsbr "L-{w=0.2}lo siento."
+    n 2nslbolsbr "L-{w=0.2}Lo siento."
 
 # game/scripttopics.rpy:961
 translate spanish talk_service_animals_c11b41ce:
@@ -3652,7 +3652,7 @@ translate spanish talk_service_animals_c11b41ce:
 translate spanish talk_service_animals_98345cca:
 
     # n 4ccsajl "A-{w=0.2}anyway."
-    n 4ccsajl "E-{w=0.2}en fin."
+    n 4ccsajl "E-{w=0.2}En fin."
 
 # game/scripttopics.rpy:965
 translate spanish talk_service_animals_a0c1cdae_1:

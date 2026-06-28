@@ -1083,7 +1083,7 @@ translate spanish talk_natsukis_fang_975a0e3b:
 translate spanish talk_i_love_you_24a27943:
 
     # n 1uscemf "O-{w=0.1}o-{w=0.1}oh my gosh..."
-    n 1uscemf "M-{w=0.1}m-{w=0.1}madre mía..."
+    n 1uscemf "M-{w=0.1}M-{w=0.1}madre mía..."
 
 # game/scripttopics.rpy:4008
 translate spanish talk_i_love_you_6c0437e3:
@@ -1101,7 +1101,7 @@ translate spanish talk_i_love_you_2702bdb1:
 translate spanish talk_i_love_you_20c5bc98:
 
     # n 1fbkwrf "W-{w=0.1}well it took you long enough!{w=0.2} What did you think you were doing?!"
-    n 1fbkwrf "¡B-{w=0.1}bueno, ya te ha costado! ¿Qué te creías que estabas haciendo?"
+    n 1fbkwrf "¡B-{w=0.1}Bueno, ya te ha costado! ¿Qué te creías que estabas haciendo?"
 
 # game/scripttopics.rpy:4011
 translate spanish talk_i_love_you_8e29f100:
@@ -1125,7 +1125,7 @@ translate spanish talk_i_love_you_6e050e33:
 translate spanish talk_i_love_you_1010c701:
 
     # n 2fcswrf "B-{w=0.1}but...!"
-    n 2fcswrf "¡P-{w=0.1}pero...!"
+    n 2fcswrf "¡P-{w=0.1}Pero...!"
 
 # game/scripttopics.rpy:4015
 translate spanish talk_i_love_you_f56fcc93:
@@ -1149,7 +1149,7 @@ translate spanish talk_i_love_you_efb918ae:
 translate spanish talk_i_love_you_5df0cdf6:
 
     # n 4kchbsf "I-{w=0.1}I love...{w=0.3} you too..."
-    n 4kchbsf "Y-{w=0.1}yo también... te quiero..."
+    n 4kchbsf "Y-{w=0.1}Yo también... te quiero..."
 
 # game/scripttopics.rpy:4019
 translate spanish talk_i_love_you_1affc0d1:
@@ -1185,7 +1185,7 @@ translate spanish talk_i_love_you_b9053a62:
 translate spanish talk_i_love_you_6796e362:
 
     # n 1kskemf "S-{w=0.1}sorry...!"
-    n 1kskemf "¡L-{w=0.1}lo siento...!"
+    n 1kskemf "¡L-{w=0.1}Lo siento...!"
 
 # game/scripttopics.rpy:4035
 translate spanish talk_i_love_you_bb2a7f2e:
@@ -1209,19 +1209,19 @@ translate spanish talk_i_love_you_4d550ed5:
 translate spanish talk_i_love_you_31a3128c:
 
     # n 2kbkemf "J-{w=0.1}jeez!{w=0.2} Stop looking at me like that already!"
-    n 2kbkemf "¡J-{w=0.1}jolín! ¡Deja de mirarme así de una vez!"
+    n 2kbkemf "¡J-{w=0.1}Jolín! ¡Deja de mirarme así de una vez!"
 
 # game/scripttopics.rpy:4039
 translate spanish talk_i_love_you_4debaf25:
 
     # n 4fllemf "W-{w=0.1}we're both on the same page now,{w=0.1} so..."
-    n 4fllemf "Y-{w=0.1}ya estamos en el mismo punto, así que..."
+    n 4fllemf "Y-{w=0.1}Ya estamos en el mismo punto, así que..."
 
 # game/scripttopics.rpy:4040
 translate spanish talk_i_love_you_e5e55fa9:
 
     # n 4kllbof "...{w=0.3}T-that's all I had."
-    n 4kllbof "E-{w=0.1}eso es todo lo que tenía."
+    n 4kllbof "E-{w=0.1}Eso es todo lo que tenía."
 
 # game/scripttopics.rpy:4041
 translate spanish talk_i_love_you_b18f37c4:
@@ -1233,7 +1233,7 @@ translate spanish talk_i_love_you_b18f37c4:
 translate spanish talk_i_love_you_9899a2e7:
 
     # n 1kllssf "S-{w=0.1}so..."
-    n 1kllssf "E-{w=0.1}entonces..."
+    n 1kllssf "E-{w=0.1}Entonces..."
 
 # game/scripttopics.rpy:4043
 translate spanish talk_i_love_you_a4be956e:
@@ -1251,7 +1251,7 @@ translate spanish talk_i_love_you_3471e247:
 translate spanish talk_i_love_you_c2fdf4db:
 
     # n 2fskgsf "Y-{w=0.1}you...!"
-    n 2fskgsf "¡T-{w=0.1}tú...!"
+    n 2fskgsf "¡T-{w=0.1}Tú...!"
 
 # game/scripttopics.rpy:4062
 translate spanish talk_i_love_you_8f2fda5d:
@@ -1263,7 +1263,7 @@ translate spanish talk_i_love_you_8f2fda5d:
 translate spanish talk_i_love_you_130a115e:
 
     # n 1fbkwrf "I-{w=0.1}I know we've been seeing each other a while,{w=0.1} but this is way too sudden!"
-    n 1fbkwrf "S-{w=0.1}sé que llevamos un tiempo viéndonos... ¡pero esto es demasiado repentino!"
+    n 1fbkwrf "S-{w=0.1}Sé que llevamos un tiempo viéndonos... ¡pero esto es demasiado repentino!"
 
 # game/scripttopics.rpy:4064
 translate spanish talk_i_love_you_b6c777ea:
@@ -1311,7 +1311,7 @@ translate spanish talk_i_love_you_feed1dbb:
 translate spanish talk_i_love_you_088c0523:
 
     # n 1flrbol "N-{w=0.1}never mind..."
-    n 1flrbol "O-{w=0.1}olvídalo..."
+    n 1flrbol "O-{w=0.1}Olvídalo..."
 
 # game/scripttopics.rpy:4072
 translate spanish talk_i_love_you_4130c98f:
@@ -1329,13 +1329,13 @@ translate spanish talk_i_love_you_fbc4c507:
 translate spanish talk_i_love_you_1a781f4c:
 
     # n 1uskwrf "W-{w=0.1}w-{w=0.1}what?"
-    n 1uskwrf "¿Q-{w=0.1}q-{w=0.1}qué?"
+    n 1uskwrf "¿Q-{w=0.1}Q-{w=0.1}qué?"
 
 # game/scripttopics.rpy:4078
 translate spanish talk_i_love_you_dadb0c39:
 
     # n 4fwdwrf "D-{w=0.1}did you just...?"
-    n 4fwdwrf "¿A-{w=0.1}acabas de...?"
+    n 4fwdwrf "¿A-{w=0.1}Acabas de...?"
 
 # game/scripttopics.rpy:4079
 translate spanish talk_i_love_you_6ba1c3f9:
@@ -1371,7 +1371,7 @@ translate spanish talk_i_love_you_ddd92fce:
 translate spanish talk_i_love_you_9cbf6deb:
 
     # n 4fllajf "I-{w=0.1}I mean..."
-    n 4fllajf "Q-{w=0.1}quiero decir..."
+    n 4fllajf "Q-{w=0.1}Quiero decir..."
 
 # game/scripttopics.rpy:4085
 translate spanish talk_i_love_you_74c87cfe:
@@ -1395,7 +1395,7 @@ translate spanish talk_i_love_you_17fad5c1:
 translate spanish talk_i_love_you_952ad139:
 
     # n 1fcsajf "F-{w=0.1}forget it!{w=0.2} I-{w=0.1}it's nothing..."
-    n 1fcsajf "¡O-{w=0.1}olvídalo! N-{w=0.1}no es nada..."
+    n 1fcsajf "¡O-{w=0.1}Olvídalo! N-{w=0.1}No es nada..."
 
 # game/scripttopics.rpy:4089
 translate spanish talk_i_love_you_e0609e7f:
@@ -1431,7 +1431,7 @@ translate spanish talk_i_love_you_1c7cca9a:
 translate spanish talk_i_love_you_a2470024:
 
     # n 4knmajf "R-{w=0.1}right...?"
-    n 4knmajf "¿V-{w=0.1}verdad...?"
+    n 4knmajf "¿V-{w=0.1}Verdad...?"
 
 # game/scripttopics.rpy:4098
 translate spanish talk_i_love_you_eb8ce7a0:
@@ -1443,7 +1443,7 @@ translate spanish talk_i_love_you_eb8ce7a0:
 translate spanish talk_i_love_you_cf06caae:
 
     # n 1fcsgsf "J-{w=0.1}jeez!{w=0.2} Enough of this!"
-    n 1fcsgsf "¡J-{w=0.1}jolín! ¡Basta ya de esto!"
+    n 1fcsgsf "¡J-{w=0.1}Jolín! ¡Basta ya de esto!"
 
 # game/scripttopics.rpy:4100
 translate spanish talk_i_love_you_d2ad76cb:
@@ -1455,13 +1455,13 @@ translate spanish talk_i_love_you_d2ad76cb:
 translate spanish talk_i_love_you_c2cf5ac2:
 
     # n 3fslpul "Y-{w=0.1}you're just lucky I've got a great sense of humor."
-    n 3fslpul "T-{w=0.1}tienes suerte de que tenga un gran sentido del humor."
+    n 3fslpul "T-{w=0.1}Tienes suerte de que tenga un gran sentido del humor."
 
 # game/scripttopics.rpy:4102
 translate spanish talk_i_love_you_d824f3d7:
 
     # n 4fnmpol "S-{w=0.1}so it's fine...{w=0.3} this time..."
-    n 4fnmpol "A-{w=0.1}así que vale... por esta vez..."
+    n 4fnmpol "A-{w=0.1}Así que vale... por esta vez..."
 
 # game/scripttopics.rpy:4103
 translate spanish talk_i_love_you_f5c42f92:
@@ -1485,7 +1485,7 @@ translate spanish talk_i_love_you_c32b943d:
 translate spanish talk_i_love_you_959b9499:
 
     # n 4fskanf "W-{w=0.1}what did you..."
-    n 4fskanf "¿Q-{w=0.1}qué has..."
+    n 4fskanf "¿Q-{w=0.1}Qué has..."
 
 # game/scripttopics.rpy:4110
 translate spanish talk_i_love_you_f946cd1a:
@@ -1503,7 +1503,7 @@ translate spanish talk_i_love_you_445a549e:
 translate spanish talk_i_love_you_0af7222e:
 
     # n 3fcsbgf "A-{w=0.1}aha!{w=0.2} I mean...{w=0.3} y-{w=0.1}yeah!{w=0.2} Who wouldn't love me,{w=0.1} right?"
-    n 3fcsbgf "¡J-{w=0.1}ja! Quiero decir... ¡s-{w=0.1}sí! ¿Quién no me querría, verdad?"
+    n 3fcsbgf "¡J-{w=0.1}Ja! Quiero decir... ¡s-{w=0.1}sí! ¿Quién no me querría, verdad?"
 
 # game/scripttopics.rpy:4113
 translate spanish talk_i_love_you_7bf5b814:
@@ -1515,13 +1515,13 @@ translate spanish talk_i_love_you_7bf5b814:
 translate spanish talk_i_love_you_2485e555:
 
     # n 1fbkwrf "D-{w=0.1}don't get the wrong idea or a-{w=0.1}anything, though!"
-    n 1fbkwrf "¡P-{w=0.1}pero no te hagas ideas equivocadas ni n-{w=0.1}nada de eso!"
+    n 1fbkwrf "¡P-{w=0.1}Pero no te hagas ideas equivocadas ni n-{w=0.1}nada de eso!"
 
 # game/scripttopics.rpy:4115
 translate spanish talk_i_love_you_dd8ed533:
 
     # n 1fllssf "I-{w=0.1}I mean,{w=0.1} I'm just glad you have some good taste."
-    n 1fllssf "Q-{w=0.1}quiero decir... me alegra que tengas buen gusto."
+    n 1fllssf "Q-{w=0.1}Quiero decir... me alegra que tengas buen gusto."
 
 # game/scripttopics.rpy:4116
 translate spanish talk_i_love_you_fa997e95:
@@ -1599,19 +1599,19 @@ translate spanish talk_i_love_you_7f3c3088:
 translate spanish talk_i_love_you_3d8ad8de:
 
     # n 2fcsuntsa "Y-{w=0.1}you..."
-    n 2fcsuntsa "T-{w=0.1}tú..."
+    n 2fcsuntsa "T-{w=0.1}Tú..."
 
 # game/scripttopics.rpy:4135
 translate spanish talk_i_love_you_9e2d3122:
 
     # n 1fcsantsa "You...{w=0.3} h-{w=0.1}how...!"
-    n 1fcsantsa "Tú... ¡C-{w=0.1}cómo...!"
+    n 1fcsantsa "Tú... ¡C-{w=0.1}Cómo...!"
 
 # game/scripttopics.rpy:4136
 translate spanish talk_i_love_you_7d547e46:
 
     # n 4fscwr "H-{w=0.1}how {i}dare{/i} you tell me that now!"
-    n 4fscwr "¡C-{w=0.1}cómo te atreves a decirme eso ahora!"
+    n 4fscwr "¡C-{w=0.1}Cómo te atreves a decirme eso ahora!"
 
 # game/scripttopics.rpy:4137
 translate spanish talk_i_love_you_868c7d8f:
@@ -1665,7 +1665,7 @@ translate spanish talk_i_love_you_e82fe21d:
 translate spanish talk_i_love_you_28069f3b:
 
     # n 1kplan "I...{w=0.3} I c-{w=0.1}can't do this right now."
-    n 1kplan "Yo... N-{w=0.1}no puedo con esto ahora mismo."
+    n 1kplan "Yo... N-{w=0.1}No puedo con esto ahora mismo."
 
 # game/scripttopics.rpy:4146
 translate spanish talk_i_love_you_26175035:
@@ -1827,7 +1827,7 @@ translate spanish talk_i_love_you_59d4a71e:
 translate spanish talk_i_love_you_d3689eb5:
 
     # n 4fnmawl "H-{w=0.1}hey...{w=0.3} wait a minute...!"
-    n 4fnmawl "¡E-{w=0.1}eh! ¡Un momento...!"
+    n 4fnmawl "¡E-{w=0.1}Eh! ¡Un momento...!"
 
 # game/scripttopics.rpy:4214
 translate spanish talk_i_love_you_c4bad226:
@@ -2223,7 +2223,7 @@ translate spanish talk_i_love_you_9dccdd60:
 translate spanish talk_i_love_you_560ae6f1:
 
     # n 1fbkwrf "G-{w=0.1}gah!{w=0.2} [player]!"
-    n 1fbkwrf "¡G-{w=0.1}gah! ¡[player]!"
+    n 1fbkwrf "¡G-{w=0.1}Gah! ¡[player]!"
 
 # game/scripttopics.rpy:4361
 translate spanish talk_i_love_you_aca597c8:
@@ -2247,7 +2247,7 @@ translate spanish talk_i_love_you_fd25f524:
 translate spanish talk_i_love_you_4c584bc1:
 
     # n 4flrpof "Y-{w=0.1}you can fawn over me in your {i}own{/i} time!"
-    n 4flrpof "¡P-{w=0.1}puedes babear por mí en tu propio tiempo!"
+    n 4flrpof "¡P-{w=0.1}Puedes babear por mí en tu propio tiempo!"
 
 # game/scripttopics.rpy:4365
 translate spanish talk_i_love_you_66666167:
@@ -2259,7 +2259,7 @@ translate spanish talk_i_love_you_66666167:
 translate spanish talk_i_love_you_c997d21b:
 
     # n 1fskemf "H-{w=0.1}hey! I thought I told you not to just come out with stuff like that!"
-    n 1fskemf "¡E-{w=0.1}eh! ¡Creía que te había dicho que no soltaras cosas así de repente!"
+    n 1fskemf "¡E-{w=0.1}Eh! ¡Creía que te había dicho que no soltaras cosas así de repente!"
 
 # game/scripttopics.rpy:4371
 translate spanish talk_i_love_you_b448724b:
@@ -2271,7 +2271,7 @@ translate spanish talk_i_love_you_b448724b:
 translate spanish talk_i_love_you_fc65e26d:
 
     # n 1fcsemf "I-{w=0.1}I don't know if you're trying to win me over,{w=0.1} or what..."
-    n 1fcsemf "N-{w=0.1}no sé si estás intentando conquistarme o qué..."
+    n 1fcsemf "N-{w=0.1}No sé si estás intentando conquistarme o qué..."
 
 # game/scripttopics.rpy:4373
 translate spanish talk_i_love_you_f9525209:
@@ -2283,7 +2283,7 @@ translate spanish talk_i_love_you_f9525209:
 translate spanish talk_i_love_you_e94d3b56:
 
     # n 1fskemf "G-{w=0.1}gah!"
-    n 1fskemf "¡G-{w=0.1}gah!"
+    n 1fskemf "¡G-{w=0.1}Gah!"
 
 # game/scripttopics.rpy:4378
 translate spanish talk_i_love_you_879fa92a:
@@ -2415,7 +2415,7 @@ translate spanish talk_natsukis_hairstyle_9909c623:
 translate spanish talk_natsukis_hairstyle_2a930bf0:
 
     # extend 4fnmeml " a-{w=0.1}are you messing with me?{w=0.2} What do you mean?"
-    extend 4fnmeml " ¿M-me estás vacilando? ¿Qué quieres decir?"
+    extend 4fnmeml " ¿M-Me estás vacilando? ¿Qué quieres decir?"
 
 # game/scripttopics.rpy:4431
 translate spanish talk_natsukis_hairstyle_55fefc38:
@@ -3609,7 +3609,7 @@ translate spanish talk_school_uniform_8cb4dc44:
 translate spanish talk_school_uniform_df2510e8:
 
     # n 4usrdvl "I-{w=0.1}if you don't mind it,{w=0.1} [player]?"
-    n 4usrdvl "S-{w=0.1}si no te importa, [player]..."
+    n 4usrdvl "S-{w=0.1}Si no te importa, [player]..."
 
 # game/scripttopics.rpy:4828
 translate spanish talk_school_uniform_e50ae51d:
@@ -3843,7 +3843,7 @@ translate spanish talk_flying_d07df995:
 translate spanish talk_flying_42d4a4c2:
 
     # n 4fslnvf "E-{w=0.1}especially if people we really care about are in it.{w=0.2} Ahaha..."
-    n 4fslnvf "E-{w=0.1}especialmente si la gente que realmente nos importa está en él... Ja, ja, ja..."
+    n 4fslnvf "E-{w=0.1}Especialmente si la gente que realmente nos importa está en él... Ja, ja, ja..."
 
 # game/scripttopics.rpy:4907
 translate spanish talk_flying_65548b90:
