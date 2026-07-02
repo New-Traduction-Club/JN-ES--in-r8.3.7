@@ -808,7 +808,7 @@ translate spanish snap_end_0eade990:
 translate spanish snap_end_2e3786f9:
 
     # n 2fcsan "Uuuuuu-!"
-    n 2fcsan "¡Joooo-!"
+    n 2fcsan "¡Jooo-!"
 
 # game/scriptsnap.rpy:691
 translate spanish snap_end_6c307de4:
@@ -1012,7 +1012,7 @@ translate spanish strings:
 
     # game/scriptsnap.rpy:440
     old "Uuuuuu-!"
-    new "¡Joooo-!"
+    new "¡Jooo-!"
 
     # game/scriptsnap.rpy:440
     old "Not again!{w=0.2} Grrr..."

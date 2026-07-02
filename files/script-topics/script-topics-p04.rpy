@@ -1857,7 +1857,7 @@ translate spanish talk_i_love_you_edca6972:
 translate spanish talk_i_love_you_5cefdb8c:
 
     # n 1nchbgf "I looooove you,{w=0.1} [player]~!"
-    n 1nchbgf "¡Te quieeeeeero, [player]!"
+    n 1nchbgf "¡Te quieeero, [player]!"
 
 # game/scripttopics.rpy:4223
 translate spanish talk_i_love_you_36c2015f:
@@ -1959,7 +1959,7 @@ translate spanish talk_i_love_you_dcaaa2c4:
 translate spanish talk_i_love_you_ebec5e52:
 
     # n 3uchbsf "Looooooooove you too,{w=0.1} [player]!"
-    n 3uchbsf "¡Yo también te quieeeeeero, [player]!"
+    n 3uchbsf "¡Yo también te quieeero, [player]!"
 
 # game/scripttopics.rpy:4253
 translate spanish talk_i_love_you_c0934568:

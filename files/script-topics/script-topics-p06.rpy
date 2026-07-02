@@ -1293,7 +1293,7 @@ translate spanish talk_windup_subscriptions_0ef0a4a7:
 translate spanish talk_windup_subscriptions_bb2fcb0c:
 
     # extend 1fbkwr " I thought I cancelled thaaat!"
-    extend 1fbkwr " ¡Pensaba que había cancelado esooo!"
+    extend 1fbkwr " ¡Pensaba que había cancelado eso!"
 
 # game/scripttopics.rpy:6651
 translate spanish talk_windup_subscriptions_32d453c7:
@@ -2241,7 +2241,7 @@ translate spanish talk_realizations_other_girls_f94b6cb6:
 translate spanish talk_realizations_other_girls_8bee9677:
 
     # n 1knmaj "I-"
-    n 1knmaj "Yo-"
+    n 1knmaj "Yo..."
 
 # game/scripttopics.rpy:6929
 translate spanish talk_realizations_other_girls_44f9a7da:
@@ -3195,7 +3195,7 @@ translate spanish talk_fighting_drowsiness_e59862af:
 translate spanish talk_fighting_drowsiness_8ce2044b:
 
     # n 1nchbg "Okaaay!{w=0.5}{nw}"
-    n 1nchbg "¡Valeee!{w=0.5}{nw}"
+    n 1nchbg "¡Vaaale!{w=0.5}{nw}"
 
 # game/scripttopics.rpy:7200
 translate spanish talk_fighting_drowsiness_6e5fac5e:

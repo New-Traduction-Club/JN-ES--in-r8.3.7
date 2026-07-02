@@ -201,7 +201,7 @@ translate spanish holiday_valentines_day_a4573d55:
 translate spanish holiday_valentines_day_2f3c2151:
 
     # n 1fcsanlsbr "Uuuuuuuu...!"
-    n 1fcsanlsbr "¡Joooo...!"
+    n 1fcsanlsbr "¡Jooo...!"
 
 # game/scriptevents.rpy:3735
 translate spanish holiday_valentines_day_c241d373:
@@ -2655,7 +2655,7 @@ translate spanish holiday_halloween_1a417e66:
 translate spanish holiday_christmas_eve_647d5903:
 
     # n 1uchbg "Heeeey!{w=0.75}{nw}"
-    n 1uchbg "¡Eeeeh!{w=0.75}{nw}"
+    n 1uchbg "¡Ehhh!{w=0.75}{nw}"
 
 # game/scriptevents.rpy:4471
 translate spanish holiday_christmas_eve_7fe21ee7:

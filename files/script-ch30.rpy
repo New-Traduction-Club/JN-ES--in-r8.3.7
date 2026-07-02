@@ -148,7 +148,7 @@ translate spanish try_force_quit_3fd74d4a:
 translate spanish try_force_quit_59e84abc:
 
     # n 2kcsfu "Hnnng-!{nw}"
-    n 2kcsfu "¡Hnnng-!{nw}"
+    n 2kcsfu "¡Ehhh!{nw}"
 
 # game/scriptch30.rpy:929
 translate spanish try_force_quit_3aa55e20:
@@ -166,7 +166,7 @@ translate spanish try_force_quit_00f1d1fd:
 translate spanish try_force_quit_f486b017:
 
     # n 2fcsan "Nnngg-!{nw}"
-    n 2fcsan "¡Nnngg-!{nw}"
+    n 2fcsan "¡Ehhh!{nw}"
 
 # game/scriptch30.rpy:936
 translate spanish try_force_quit_ab24e8f8:
@@ -206,11 +206,11 @@ translate spanish strings:
 
     # game/scriptch30.rpy:343
     old "Heeey! Wanna talk?"
-    new "¡Eeeh! ¿Hablamos?"
+    new "¡Ehhh! ¿Hablamos?"
 
     # game/scriptch30.rpy:343
     old "Talk to meeee! [angry_emote]"
-    new "¡Háblameeee! [angry_emote]"
+    new "¡Háblameee! [angry_emote]"
 
     # game/scriptch30.rpy:343
     old "I'm talking to you, dummy! [tease_emote]"

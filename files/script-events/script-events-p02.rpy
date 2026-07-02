@@ -3027,7 +3027,7 @@ translate spanish holiday_new_years_day_b3e590d7:
 translate spanish holiday_new_years_day_d410c121:
 
     # n 1unmajesu "ON-"
-    n 1unmajesu "UN-"
+    n 1unmajesu "UN..."
 
 # game/scriptevents.rpy:3449
 translate spanish holiday_new_years_day_e9a61483:

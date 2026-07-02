@@ -2841,7 +2841,7 @@ translate spanish talk_daily_jokes_unlock_c4d532bb:
 translate spanish talk_daily_jokes_unlock_173b9006:
 
     # n 4uchgneme "Guess what I fooound~?{w=0.75}{nw}"
-    n 4uchgneme "¿Adivina qué he encontradooo?{w=0.75}{nw}"
+    n 4uchgneme "¿Adivina qué he encontrado?{w=0.75}{nw}"
 
 # game/scripttopics.rpy:10439
 translate spanish talk_daily_jokes_unlock_102df988:

@@ -3430,7 +3430,7 @@ translate spanish event_warm_package_95494b15:
 translate spanish event_warm_package_0deed608:
 
     # extend 2nllss " I-"
-    extend 2nllss " Yo-"
+    extend 2nllss " Yo..."
 
 # game/scriptevents.rpy:2175
 translate spanish event_warm_package_7ba0d921:

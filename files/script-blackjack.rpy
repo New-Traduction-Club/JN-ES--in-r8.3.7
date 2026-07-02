@@ -1142,7 +1142,7 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:642
     old "Nnnnnn-!{w=0.75} T-{w=0.2}there's no way you just got five in a row!{w=0.75} Cut me a break..."
-    new "¡Nnnnnn-!{w=0.75} ¡N-{w=0.2}No hay manera de que hayas ganado cinco seguidas!{w=0.75} Dame un respiro..."
+    new "¡N-{w=0.2}No hay manera de que hayas ganado cinco seguidas!{w=0.75} Dame un respiro..."
 
     # game/scriptblackjack.rpy:642
     old "Y-{w=0.2}you've got to be kidding me!{w=0.75} Five times?!{w=0.75} T-{w=0.2}there's no way this is anything but luck!"
@@ -1166,7 +1166,7 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:642
     old "Nnnnnnnn-!{w=0.75} J-{w=0.2}just lose already,{w=0.2} [player]!{w=0.75} It's my turn to win something!"
-    new "¡Nnnnnnnn-!{w=0.75} ¡P-{w=0.2}Pierde de una vez,{w=0.2} [player]!{w=0.75} ¡Me toca ganar algo a mí!"
+    new "¡P-{w=0.2}Pierde de una vez,{w=0.2} [player]!{w=0.75} ¡Me toca ganar algo a mí!"
 
     # game/scriptblackjack.rpy:668
     old "We drew?{w=0.75} Huh."
@@ -1206,7 +1206,7 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:668
     old "Oh,{w=0.2} for-!{w=0.75} {i}Another{/i} bust?!{w=0.75} Seriously..."
-    new "¡Pero bu-!{w=0.75} ¡¿Otra vez me paso?!{w=0.75} En serio..."
+    new "¡Pero bu...!{w=0.75} ¡¿Otra vez me paso?!{w=0.75} En serio..."
 
     # game/scriptblackjack.rpy:668
     old "A-{w=0.2}as {i}if{/i} I bust!{w=0.75} Man..."
@@ -1390,7 +1390,7 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:668
     old "Uuuuuu-!{w=0.75} You totally just got the better hand!{w=0.75} Ugh..."
-    new "¡Uuuuuu-!{w=0.75} ¡Está claro que tenías mejor mano!{w=0.75} Agh..."
+    new "¡Está claro que tenías mejor mano!{w=0.75} Agh..."
 
     # game/scriptblackjack.rpy:668
     old "Y-{w=0.2}you totally just got lucky this time,{w=0.2} [player].{w=0.75} That's all this is."
@@ -1402,7 +1402,7 @@ translate spanish strings:
 
     # game/scriptblackjack.rpy:668
     old "Nnnnn-!{w=0.75} A-{w=0.2}at least you didn't blackjack."
-    new "¡Nnnnn-!{w=0.75} A-{w=0.2}Al menos no has hecho blackjack."
+    new "A-{w=0.2}Al menos no has hecho blackjack."
 
     # game/scriptblackjack.rpy:668
     old "Yeah,{w=0.2} yeah,{w=0.2} whatever.{w=0.75} Lucky hand,{w=0.2} [player]."

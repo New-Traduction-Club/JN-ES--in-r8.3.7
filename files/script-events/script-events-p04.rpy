@@ -975,7 +975,7 @@ translate spanish holiday_natsuki_birthday_3d8b00d8:
 translate spanish holiday_natsuki_birthday_7c00a9db:
 
     # extend 2kbkwrl " What {i}is{/i} all thiiiis?!"
-    extend 2kbkwrl " ¡¿Qué es todo estoooo?!"
+    extend 2kbkwrl " ¡¿Qué es todo esto?!"
 
 # game/scriptevents.rpy:5086
 translate spanish holiday_natsuki_birthday_b974ccdf:

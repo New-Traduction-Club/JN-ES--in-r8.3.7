@@ -1222,7 +1222,7 @@ translate spanish farewell_option_school_9a2e0e34:
 translate spanish farewell_option_school_5d08b711:
 
     # n 4fbkwrean "What the hell kind of school is thaaaat?!"
-    n 4fbkwrean "¡¿Pero qué clase de escuela es eeesa?!"
+    n 4fbkwrean "¡¿Pero qué clase de escuela es esa?!"
 
 # game/scriptfarewells.rpy:458
 translate spanish farewell_option_school_d13e522e:
@@ -3652,7 +3652,7 @@ translate spanish farewell_short_session_ask_a74e1fa1:
 translate spanish farewell_short_session_ask_536f6284:
 
     # n 1fllanl "Nnnnnn-!"
-    n 1fllanl "¡Nnnnnn-!"
+    n 1fllanl "¡Ehhh!"
 
 # game/scriptfarewells.rpy:1714
 translate spanish farewell_short_session_ask_e8185944:
@@ -3970,7 +3970,7 @@ translate spanish farewell_short_session_ask_alt_81fe70d7:
 translate spanish farewell_short_session_ask_alt_bc5c9693:
 
     # n 1fcsunl "Uuuu-"
-    n 1fcsunl "Uuuu-"
+    n 1fcsunl "Uuu..."
 
 # game/scriptfarewells.rpy:1824
 translate spanish farewell_short_session_ask_alt_fe533e52:

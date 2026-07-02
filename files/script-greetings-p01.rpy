@@ -434,7 +434,7 @@ translate spanish greeting_leave_return_9394c0c3:
 translate spanish greeting_leave_return_e12c069e:
 
     # n 2fcsanlsbr "Nnnnnnn-!"
-    n 2fcsanlsbr "¡Nnnnnnn-!"
+    n 2fcsanlsbr "¡Ehhh!"
 
 # game/scriptgreetings.rpy:209
 translate spanish greeting_leave_return_edc1b926:
@@ -1184,19 +1184,19 @@ translate spanish greeting_tt_warning_b24f9f4b:
 translate spanish greeting_tt_warning_9ba2a2a8:
 
     # n 4kscpoitsc "Hrk-!{w=0.5}{nw}"
-    n 4kscpoitsc "¡Arg-!{w=0.5}{nw}"
+    n 4kscpoitsc "¡Arg!{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:421
 translate spanish greeting_tt_warning_0980bbdd:
 
     # n "{b}B-{w=0.15}BLURGHHH-!{/b}{w=0.2}{nw}"
-    n "{b}B-{w=0.15}BUAAAAJJ-!{/b}{w=0.2}{nw}"
+    n "{b}¡E-{w=0.15}Eyyy!{/b}{w=0.2}{nw}"
 
 # game/scriptgreetings.rpy:433
 translate spanish greeting_tt_warning_17aa34ea:
 
     # n 1kcsemi "Uuuuuu..."
-    n 1kcsemi "Uuuuuu..."
+    n 1kcsemi "Ahhh..."
 
 # game/scriptgreetings.rpy:434
 translate spanish greeting_tt_warning_42202818:
@@ -1364,13 +1364,13 @@ translate spanish greeting_tt_warning_85c9bd9e:
 translate spanish greeting_tt_warning_bd54634b:
 
     # n 2fcsscltsf "I-!{w=0.75}{nw}"
-    n 2fcsscltsf "¡Yo-!{w=0.75}{nw}"
+    n 2fcsscltsf "¡Yo...!{w=0.75}{nw}"
 
 # game/scriptgreetings.rpy:472
 translate spanish greeting_tt_warning_cb6e67a5:
 
     # n 4kskpoitsc "H-{w=0.2}hrp-!{w=0.5}{nw}"
-    n 4kskpoitsc "¡A-{w=0.2}Arg-!{w=0.5}{nw}"
+    n 4kskpoitsc "¡A-{w=0.2}Arg!{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:479
 translate spanish greeting_tt_warning_c3dd8f67:
@@ -1868,13 +1868,13 @@ translate spanish greeting_tt_warning_0eda3866:
 translate spanish greeting_tt_warning_5f2aa6e4:
 
     # n 4ksksrisbr "Urk-!{w=0.5}{nw}"
-    n 4ksksrisbr "¡Arg-!{w=0.5}{nw}"
+    n 4ksksrisbr "¡Arg!{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:594
 translate spanish greeting_tt_warning_210e6ef6:
 
     # n 2kcsansbr "Guh..."
-    n 2kcsansbr "Agh..."
+    n 2kcsansbr "Mmm..."
 
 # game/scriptgreetings.rpy:595
 translate spanish greeting_tt_warning_746732bb:
@@ -1952,7 +1952,7 @@ translate spanish greeting_tt_warning_16891b56:
 translate spanish greeting_tt_warning_969d0a07:
 
     # n 4fcsanltsa "Nnnnng-!{w=0.5}{nw}"
-    n 4fcsanltsa "¡Nnnnng-!{w=0.5}{nw}"
+    n 4fcsanltsa "¡Ehhh!{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:614
 translate spanish greeting_tt_warning_cd45e255:
@@ -2144,7 +2144,7 @@ translate spanish greeting_tt_warning_bdc31898:
 translate spanish greeting_tt_warning_5579633e:
 
     # n 4fcsupltsa "Nnnnnrrgh-!{w=0.5}{nw}"
-    n 4fcsupltsa "¡Aaaaaggghh-!{w=0.5}{nw}"
+    n 4fcsupltsa "¡Ahhh!{w=0.5}{nw}"
 
 # game/scriptgreetings.rpy:664
 translate spanish greeting_tt_warning_a430b438:
@@ -2330,7 +2330,7 @@ translate spanish greeting_love_plus_world_revolves_around_you_643ab020:
 translate spanish greeting_love_plus_world_revolves_around_you_601fef32:
 
     # n 2fchsmlesm "Pffft-!"
-    n 2fchsmlesm "¡Pfff-!"
+    n 2fchsmlesm "¡Pfff!"
 
 # game/scriptgreetings.rpy:800
 translate spanish greeting_love_plus_world_revolves_around_you_888abdd1:
@@ -2576,7 +2576,7 @@ translate spanish greeting_love_plus_looking_for_me_63302a0e:
 translate spanish greeting_love_plus_looking_for_me_56b0af00:
 
     # n 2fchcsfesm "Pfffft-!"
-    n 2fchcsfesm "¡Pffff-!"
+    n 2fchcsfesm "¡Pffff!"
 
 # game/scriptgreetings.rpy:919
 translate spanish greeting_love_plus_looking_for_me_c48ca4af:

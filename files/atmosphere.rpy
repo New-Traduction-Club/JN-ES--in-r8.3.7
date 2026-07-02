@@ -160,7 +160,7 @@ translate spanish weather_change_38949ae3:
 translate spanish weather_change_b885f8d1:
 
     # n 4ullbg "Heeey!{w=0.75}{nw}"
-    n 4ullbg "¡Eeeh!{w=0.75}{nw}"
+    n 4ullbg "¡Ehhh!{w=0.75}{nw}"
 
 # game/atmosphere.rpy:743
 translate spanish weather_change_d244185e:

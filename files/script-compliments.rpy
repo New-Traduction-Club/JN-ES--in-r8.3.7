@@ -292,7 +292,7 @@ translate spanish compliment_amazing_749f9a05:
 translate spanish compliment_beautiful_528923a1:
 
     # n 1fcsanlesssbl "Uuuuuu-!"
-    n 1fcsanlesssbl "¡Joooo-!"
+    n 1fcsanlesssbl "¡Joooo!"
 
 # game/scriptcompliments.rpy:161
 translate spanish compliment_beautiful_40718352:
@@ -652,7 +652,7 @@ translate spanish compliment_beautiful_8f334b73:
 translate spanish compliment_beautiful_213cd923:
 
     # n 4fcsanfsbr "Nnnnnnnnnn-!"
-    n 4fcsanfsbr "¡Nnnnnnnnnn-!"
+    n 4fcsanfsbr "¡Ehhh!"
 
 # game/scriptcompliments.rpy:241
 translate spanish compliment_beautiful_479511e5:
@@ -700,7 +700,7 @@ translate spanish compliment_beautiful_bf856f26:
 translate spanish compliment_beautiful_0fc2828f:
 
     # n 1fcsunlesssbl "Uuuuuu...!"
-    n 1fcsunlesssbl "¡Joooo...!"
+    n 1fcsunlesssbl "¡Jooo...!"
 
 # game/scriptcompliments.rpy:249
 translate spanish compliment_beautiful_4074a656:
@@ -1186,7 +1186,7 @@ translate spanish compliment_cute_3a013017:
 translate spanish compliment_cute_44e83af3:
 
     # n 1fcsanfsbl "Nnnnnnn-!"
-    n 1fcsanfsbl "¡Nnnnnnn-!"
+    n 1fcsanfsbl "¡Ehhh!"
 
 # game/scriptcompliments.rpy:391
 translate spanish compliment_cute_007e66c7:
@@ -1786,7 +1786,7 @@ translate spanish compliment_style_ef097e98:
 translate spanish compliment_style_6a8311ee:
 
     # extend 2uchgnledz " I'll keep looking fabulous juuuust for you~!"
-    extend 2uchgnledz " ¡Seguiré estando fabulosa soloooo para ti!"
+    extend 2uchgnledz " ¡Seguiré estando fabulosa sooolo para ti!"
 
 # game/scriptcompliments.rpy:597
 translate spanish compliment_style_519bfc7f:
@@ -1876,7 +1876,7 @@ translate spanish compliment_style_305f6868:
 translate spanish compliment_style_f9c57167:
 
     # n 4fchdvlesisbr "Pfffft-!"
-    n 4fchdvlesisbr "¡Pfffft-!"
+    n 4fchdvlesisbr "¡Ehhh!"
 
 # game/scriptcompliments.rpy:618
 translate spanish compliment_style_52f3de6f:
@@ -2116,7 +2116,7 @@ translate spanish compliment_style_dfe78c2a:
 translate spanish compliment_style_22f16d8d:
 
     # n 4fchdvesi "Pfffft-!"
-    n 4fchdvesi "¡Pfffft-!"
+    n 4fchdvesi "¡Ehhh!"
 
 # game/scriptcompliments.rpy:678
 translate spanish compliment_style_6c8a503a:
